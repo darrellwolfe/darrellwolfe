@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @darrellwolfe
-- 👀 I’m interested in SQL, Python, R, Data Analytics, and the story data tells.
-- 🌱 I’m currently learning "Google Data Analytics" at Coursera
+- 👀 I’m interested in SQL, Python, R, Data Analytics, Tableau, Power BI, and the story data tells.
+- 🌱 I just completed "Google Data Analytics Certification" at Coursera
+- 🌱 I’m currently learning "Python Crash Course" at Coursera
 - 💞️ I’m looking to collaborate on anything that can tell an interesting story.
 - 📫 How to reach me LinkTree (https://linktr.ee/darrellwolfe) or at me@darrellwolfe.com
 
