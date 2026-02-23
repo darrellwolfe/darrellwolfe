@@ -166,11 +166,15 @@ li {
 .btn-primary {
   background: var(--teal-700);
   border-color: var(--teal-700);
+  color: #ffffff !important;
 }
 
-.btn-primary:hover {
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active {
   background: var(--teal-600);
   border-color: var(--teal-600);
+  color: #ffffff !important;
 }
 
 .btn-outline-primary {
@@ -194,8 +198,8 @@ li {
   border-color: var(--teal-500);
 }
 
-main.content p a,
-main.content li a {
+main.content p a:not(.btn),
+main.content li a:not(.btn) {
   color: var(--teal-700);
   text-decoration: none;
   background-image: linear-gradient(currentColor, currentColor);
@@ -205,8 +209,8 @@ main.content li a {
   transition: background-size 200ms ease;
 }
 
-main.content p a:hover,
-main.content li a:hover {
+main.content p a:not(.btn):hover,
+main.content li a:not(.btn):hover {
   background-size: 100% 1px;
 }
 
