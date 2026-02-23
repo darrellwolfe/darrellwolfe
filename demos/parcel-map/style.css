@@ -1,0 +1,35 @@
+﻿html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #1f2933;
+  background: #f4f7fb;
+}
+
+header {
+  padding: 0.75rem 1rem;
+  background: #ffffff;
+  border-bottom: 1px solid #d8dee9;
+}
+
+h1 {
+  margin: 0 0 0.2rem;
+  font-size: 1.1rem;
+}
+
+#status {
+  margin: 0;
+  font-size: 0.9rem;
+  color: #52606d;
+}
+
+#map {
+  flex: 1;
+  min-height: 420px;
+}

@@ -1,0 +1,24 @@
+﻿---
+title: "Writing"
+---
+
+This writing hub separates personal, biblical studies, and creative writing into distinct pages while keeping search unified across the whole website.
+
+::: {.card-grid}
+::: {.card}
+### [Personal](personal/index.qmd)
+Reflections, lessons learned, and progress updates.
+:::
+
+::: {.card}
+### [Biblical Studies](biblical/index.qmd)
+Study notes, interpretation work, and long-form scripture-focused writing.
+:::
+
+::: {.card}
+### [Writing / Creative Writing](writing/index.qmd)
+Drafts, short creative pieces, and writing process notes.
+:::
+:::
+
+Use the search box in the top navigation to find content across every section.

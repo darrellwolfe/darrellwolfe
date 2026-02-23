@@ -1,0 +1,31 @@
+﻿project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Darrell Wolfe"
+  search: true
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Portfolio
+        href: portfolio/index.qmd
+      - text: Writing
+        menu:
+          - text: All Writing
+            href: posts/index.qmd
+          - text: Personal
+            href: posts/personal/index.qmd
+          - text: Biblical Studies
+            href: posts/biblical/index.qmd
+          - text: Creative Writing
+            href: posts/writing/index.qmd
+      - text: Demos
+        href: demos/index.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: assets/css/site.css
+    toc: true

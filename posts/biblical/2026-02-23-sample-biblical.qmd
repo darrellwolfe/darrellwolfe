@@ -1,0 +1,10 @@
+﻿---
+title: "Sample Study Note: Reading with Context"
+date: 2026-02-23
+categories: [biblical-studies]
+tags: [scripture, context, study]
+---
+
+This sample post models how I plan to publish biblical studies notes with clear structure and references.
+
+Future posts will include passage observations, context notes, and practical application points.

@@ -1,0 +1,12 @@
+﻿---
+title: "Portfolio"
+---
+
+This section highlights data visualization and BI projects with clear writeups and reproducible steps.
+
+::: {.card-grid}
+::: {.card}
+### [Project Template](projects/project-template.qmd)
+Reusable structure for documenting a project from problem framing through results.
+:::
+:::

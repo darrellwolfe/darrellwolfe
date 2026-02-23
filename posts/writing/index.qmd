@@ -1,0 +1,10 @@
+﻿---
+title: "Writing / Creative Writing"
+listing:
+  contents: "20*.qmd"
+  sort: "date desc"
+  type: default
+  fields: [title, date, categories]
+---
+
+Creative writing samples, process notes, and experiments in style.

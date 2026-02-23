@@ -1,0 +1,10 @@
+﻿---
+title: "Biblical Studies"
+listing:
+  contents: "20*.qmd"
+  sort: "date desc"
+  type: default
+  fields: [title, date, categories]
+---
+
+Notes and essays focused on scripture study, interpretation, and context.

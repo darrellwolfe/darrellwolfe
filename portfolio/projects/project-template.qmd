@@ -1,0 +1,39 @@
+﻿---
+title: "Project Title Template"
+date: 2026-02-23
+categories: [portfolio, template]
+---
+
+## Problem
+
+Describe the decision, business need, or research question.
+
+## Data
+
+List sources, file formats, important fields, and known quality limitations.
+
+## Approach
+
+Explain cleaning, transformation, modeling, and analysis steps.
+
+## Visuals
+
+Embed or link key charts/maps/dashboards and explain how to interpret them.
+
+## Results
+
+Summarize findings, outcomes, and recommendations.
+
+## Repro Steps (How Data Was Generated)
+
+1. Place input data in `assets/data/` or a project-specific data folder.
+2. Run SQL/scripts to clean and shape the data.
+3. Export analysis-ready outputs used by visuals.
+4. Render/report and verify numbers against source totals.
+
+## Tech Used
+
+- SQL
+- Python or R
+- Quarto
+- Tableau or Power BI

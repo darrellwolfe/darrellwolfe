@@ -1,0 +1,10 @@
+﻿---
+title: "Starting a One-Stop Personal Site"
+date: 2026-02-23
+categories: [personal]
+tags: [site, reflection]
+---
+
+Today I launched the first version of this site with a simple goal: keep writing consistent and organized.
+
+This section is for short personal updates, lessons learned, and progress notes.

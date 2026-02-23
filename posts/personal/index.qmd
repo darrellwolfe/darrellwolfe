@@ -1,0 +1,10 @@
+﻿---
+title: "Personal"
+listing:
+  contents: "20*.qmd"
+  sort: "date desc"
+  type: default
+  fields: [title, date, categories]
+---
+
+Personal reflections, updates, and practical lessons.

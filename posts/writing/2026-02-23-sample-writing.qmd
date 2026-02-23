@@ -1,0 +1,10 @@
+﻿---
+title: "Sample Creative Piece"
+date: 2026-02-23
+categories: [creative-writing]
+tags: [writing, short-form]
+---
+
+A draft can be useful even when it is imperfect. This section is where I will publish writing experiments and polished pieces.
+
+Expect short fiction, narrative fragments, and reflections on craft.

@@ -1,0 +1,9 @@
+﻿---
+title: "Demos"
+---
+
+Interactive demos live here as standalone static pages.
+
+- [Parcel Map Demo](/demos/parcel-map/index.html)
+
+Note: demos using `fetch()` must run through a local server. Use `quarto preview` (or any local static server) during development.

@@ -1,0 +1,23 @@
+﻿---
+title: "Welcome"
+---
+
+This site is my one-stop home for writing, data visualization work, biblical studies notes, and interactive demos.
+
+## Author
+
+I write to think clearly, document what I am learning, and publish work that is useful to other people.
+
+## Data Visualization / BI
+
+I build practical dashboards and data stories using SQL, Python, R, Tableau, and Power BI.
+
+## Biblical Studies
+
+I publish study notes and reflections focused on careful reading, context, and application.
+
+## Explore
+
+[Portfolio](portfolio/index.qmd){.btn .btn-primary}
+[Writing](posts/index.qmd){.btn .btn-outline-primary}
+[Demos](demos/index.qmd){.btn .btn-outline-secondary}

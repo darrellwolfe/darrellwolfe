@@ -1,0 +1,65 @@
+﻿{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "P-1001",
+        "owner": "Wolfe Family",
+        "area": "0.42 acres"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-97.5204, 35.4702],
+            [-97.5193, 35.4702],
+            [-97.5193, 35.4710],
+            [-97.5204, 35.4710],
+            [-97.5204, 35.4702]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "P-1002",
+        "owner": "City Holdings",
+        "area": "0.38 acres"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-97.5192, 35.4702],
+            [-97.5181, 35.4702],
+            [-97.5181, 35.4710],
+            [-97.5192, 35.4710],
+            [-97.5192, 35.4702]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "P-1003",
+        "owner": "North Street LLC",
+        "area": "0.45 acres"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-97.5204, 35.4692],
+            [-97.5193, 35.4692],
+            [-97.5193, 35.4700],
+            [-97.5204, 35.4700],
+            [-97.5204, 35.4692]
+          ]
+        ]
+      }
+    }
+  ]
+}
