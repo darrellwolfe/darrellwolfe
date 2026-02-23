@@ -1,5 +1,9 @@
 # Darrell Wolfe Website (Quarto + GitHub Pages)
 
+URL: https://darrellwolfe.github.io/darrellwolfe/
+
+
+
 This repository is a static Quarto website for:
 
 - Professional/author homepage
