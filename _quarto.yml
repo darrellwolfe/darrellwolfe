@@ -3,12 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "Darrell Wolfe"
+  title: "Darrell Wolfe, Storyteller"
   search: true
   navbar:
     left:
       - text: Home
         href: index.qmd
+      - text: Author
+        href: author/index.qmd
       - text: Portfolio
         href: portfolio/index.qmd
       - text: Writing
@@ -28,4 +30,5 @@ format:
   html:
     theme: cosmo
     css: assets/css/site.css
-    toc: true
+    toc: false
+    smooth-scroll: true

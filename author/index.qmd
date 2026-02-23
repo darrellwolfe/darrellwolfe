@@ -1,0 +1,37 @@
+---
+title: "Author"
+---
+
+::: {.hero-shell}
+::: {.hero-kicker}
+Creative Writer
+:::
+
+## Darrell Wolfe {.hero-title}
+
+I write stories and essays about people, place, conviction, and change. This page is the central home for my creative writing identity.
+
+::: {.hero-actions}
+[Read Writing Sections](../posts/index.qmd){.btn .btn-primary}
+[View Portfolio](../portfolio/index.qmd){.btn .btn-outline-primary}
+:::
+:::
+
+::: {.section-panel}
+### About This Author Space
+
+This section will hold:
+
+- A short author bio
+- Published and in-progress writing projects
+- Select excerpts and reading links
+- Contact and speaking details
+:::
+
+::: {.section-panel}
+### Current Placeholder Bio
+
+Darrell Wolfe writes with a focus on clarity, narrative tension, and meaningful detail. His work spans personal reflection, biblical studies, and creative writing.
+
+This page will evolve into a polished author profile as new pieces are published.
+:::

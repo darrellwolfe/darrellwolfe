@@ -2,22 +2,46 @@
 title: "Welcome"
 ---
 
-This site is my one-stop home for writing, data visualization work, biblical studies notes, and interactive demos.
+::: {.hero-shell}
+::: {.hero-kicker}
+Author + Analyst
+:::
 
+## Darrell Wolfe, Storyteller {.hero-title}
+
+This site is my one-stop home for creative writing, biblical studies, and practical data storytelling.
+
+::: {.hero-actions}
+[Author Page](author/index.qmd){.btn .btn-primary}
+[Writing Hub](posts/index.qmd){.btn .btn-outline-primary}
+[Portfolio](portfolio/index.qmd){.btn .btn-outline-primary}
+:::
+:::
+
+::: {.section-panel}
 ## Author
 
 I write to think clearly, document what I am learning, and publish work that is useful to other people.
+:::
 
+::: {.section-panel}
 ## Data Visualization / BI
 
 I build practical dashboards and data stories using SQL, Python, R, Tableau, and Power BI.
+:::
 
+::: {.section-panel}
 ## Biblical Studies
 
 I publish study notes and reflections focused on careful reading, context, and application.
+:::
 
+::: {.section-panel}
 ## Explore
 
-[Portfolio](portfolio/index.qmd){.btn .btn-primary}
-[Writing](posts/index.qmd){.btn .btn-outline-primary}
-[Demos](demos/index.qmd){.btn .btn-outline-secondary}
+::: {.quick-links}
+- [Portfolio](portfolio/index.qmd)
+- [Writing](posts/index.qmd)
+- [Demos](demos/index.qmd)
+:::
+:::

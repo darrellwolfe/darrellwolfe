@@ -42,11 +42,32 @@
     "text": "Interactive demos live here as standalone static pages.\n\nParcel Map Demo\n\nNote: demos using fetch() must run through a local server. Use quarto preview (or any local static server) during development."
   },
   {
+    "objectID": "author/index.html",
+    "href": "author/index.html",
+    "title": "Author",
+    "section": "",
+    "text": "Creative Writer\n\n\n\nI write stories and essays about people, place, conviction, and change. This page is the central home for my creative writing identity.\n\nRead Writing Sections View Portfolio"
+  },
+  {
+    "objectID": "author/index.html#darrell-wolfe",
+    "href": "author/index.html#darrell-wolfe",
+    "title": "Author",
+    "section": "",
+    "text": "I write stories and essays about people, place, conviction, and change. This page is the central home for my creative writing identity.\n\nRead Writing Sections View Portfolio"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome",
     "section": "",
-    "text": "This site is my one-stop home for writing, data visualization work, biblical studies notes, and interactive demos."
+    "text": "Author + Analyst\n\n\n\nThis site is my one-stop home for creative writing, biblical studies, and practical data storytelling.\n\nAuthor Page Writing Hub Portfolio"
+  },
+  {
+    "objectID": "index.html#darrell-wolfe-storyteller",
+    "href": "index.html#darrell-wolfe-storyteller",
+    "title": "Welcome",
+    "section": "",
+    "text": "This site is my one-stop home for creative writing, biblical studies, and practical data storytelling.\n\nAuthor Page Writing Hub Portfolio"
   },
   {
     "objectID": "index.html#author",
@@ -74,7 +95,7 @@
     "href": "index.html#explore",
     "title": "Welcome",
     "section": "Explore",
-    "text": "Explore\nPortfolio Writing Demos"
+    "text": "Explore\n\n\nPortfolio\nWriting\nDemos"
   },
   {
     "objectID": "portfolio/projects/project-template.html",
