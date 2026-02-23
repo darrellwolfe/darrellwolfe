@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "posts/2026-02-23-hello.html",
+    "href": "posts/2026-02-23-hello.html",
+    "title": "Hello Listing",
+    "section": "",
+    "text": "Body."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Welcome.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHello Listing\n\n\n\n\n\n\n\n\nFeb 23, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "listing-repro",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]

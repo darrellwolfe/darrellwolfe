@@ -1,0 +1,156 @@
+[
+  {
+    "objectID": "posts/writing/index.html",
+    "href": "posts/writing/index.html",
+    "title": "Writing / Creative Writing",
+    "section": "",
+    "text": "Creative writing samples, process notes, and experiments in style.\n\n\n\n\n\n\n\n\n\nSample Creative Piece\n\n\n\ncreative-writing\n\n\n\n\n\n\nFeb 23, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/personal/index.html",
+    "href": "posts/personal/index.html",
+    "title": "Personal",
+    "section": "",
+    "text": "Personal reflections, updates, and practical lessons.\n\n\n\n\n\n\n\n\n\nStarting a One-Stop Personal Site\n\n\n\npersonal\n\n\n\n\n\n\nFeb 23, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/index.html",
+    "href": "posts/index.html",
+    "title": "Writing",
+    "section": "",
+    "text": "This writing hub separates personal, biblical studies, and creative writing into distinct pages while keeping search unified across the whole website.\n\n\nPersonal\nReflections, lessons learned, and progress updates.\n\n\nBiblical Studies\nStudy notes, interpretation work, and long-form scripture-focused writing.\n\n\nWriting / Creative Writing\nDrafts, short creative pieces, and writing process notes.\n\n\nUse the search box in the top navigation to find content across every section."
+  },
+  {
+    "objectID": "posts/biblical/2026-02-23-sample-biblical.html",
+    "href": "posts/biblical/2026-02-23-sample-biblical.html",
+    "title": "Sample Study Note: Reading with Context",
+    "section": "",
+    "text": "This sample post models how I plan to publish biblical studies notes with clear structure and references.\nFuture posts will include passage observations, context notes, and practical application points."
+  },
+  {
+    "objectID": "portfolio/index.html",
+    "href": "portfolio/index.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "This section highlights data visualization and BI projects with clear writeups and reproducible steps.\n\n\nProject Template\nReusable structure for documenting a project from problem framing through results."
+  },
+  {
+    "objectID": "demos/index.html",
+    "href": "demos/index.html",
+    "title": "Demos",
+    "section": "",
+    "text": "Interactive demos live here as standalone static pages.\n\nParcel Map Demo\n\nNote: demos using fetch() must run through a local server. Use quarto preview (or any local static server) during development."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "This site is my one-stop home for writing, data visualization work, biblical studies notes, and interactive demos."
+  },
+  {
+    "objectID": "index.html#author",
+    "href": "index.html#author",
+    "title": "Welcome",
+    "section": "Author",
+    "text": "Author\nI write to think clearly, document what I am learning, and publish work that is useful to other people."
+  },
+  {
+    "objectID": "index.html#data-visualization-bi",
+    "href": "index.html#data-visualization-bi",
+    "title": "Welcome",
+    "section": "Data Visualization / BI",
+    "text": "Data Visualization / BI\nI build practical dashboards and data stories using SQL, Python, R, Tableau, and Power BI."
+  },
+  {
+    "objectID": "index.html#biblical-studies",
+    "href": "index.html#biblical-studies",
+    "title": "Welcome",
+    "section": "Biblical Studies",
+    "text": "Biblical Studies\nI publish study notes and reflections focused on careful reading, context, and application."
+  },
+  {
+    "objectID": "index.html#explore",
+    "href": "index.html#explore",
+    "title": "Welcome",
+    "section": "Explore",
+    "text": "Explore\nPortfolio Writing Demos"
+  },
+  {
+    "objectID": "portfolio/projects/project-template.html",
+    "href": "portfolio/projects/project-template.html",
+    "title": "Project Title Template",
+    "section": "",
+    "text": "Describe the decision, business need, or research question."
+  },
+  {
+    "objectID": "portfolio/projects/project-template.html#problem",
+    "href": "portfolio/projects/project-template.html#problem",
+    "title": "Project Title Template",
+    "section": "",
+    "text": "Describe the decision, business need, or research question."
+  },
+  {
+    "objectID": "portfolio/projects/project-template.html#data",
+    "href": "portfolio/projects/project-template.html#data",
+    "title": "Project Title Template",
+    "section": "Data",
+    "text": "Data\nList sources, file formats, important fields, and known quality limitations."
+  },
+  {
+    "objectID": "portfolio/projects/project-template.html#approach",
+    "href": "portfolio/projects/project-template.html#approach",
+    "title": "Project Title Template",
+    "section": "Approach",
+    "text": "Approach\nExplain cleaning, transformation, modeling, and analysis steps."
+  },
+  {
+    "objectID": "portfolio/projects/project-template.html#visuals",
+    "href": "portfolio/projects/project-template.html#visuals",
+    "title": "Project Title Template",
+    "section": "Visuals",
+    "text": "Visuals\nEmbed or link key charts/maps/dashboards and explain how to interpret them."
+  },
+  {
+    "objectID": "portfolio/projects/project-template.html#results",
+    "href": "portfolio/projects/project-template.html#results",
+    "title": "Project Title Template",
+    "section": "Results",
+    "text": "Results\nSummarize findings, outcomes, and recommendations."
+  },
+  {
+    "objectID": "portfolio/projects/project-template.html#repro-steps-how-data-was-generated",
+    "href": "portfolio/projects/project-template.html#repro-steps-how-data-was-generated",
+    "title": "Project Title Template",
+    "section": "Repro Steps (How Data Was Generated)",
+    "text": "Repro Steps (How Data Was Generated)\n\nPlace input data in assets/data/ or a project-specific data folder.\nRun SQL/scripts to clean and shape the data.\nExport analysis-ready outputs used by visuals.\nRender/report and verify numbers against source totals."
+  },
+  {
+    "objectID": "portfolio/projects/project-template.html#tech-used",
+    "href": "portfolio/projects/project-template.html#tech-used",
+    "title": "Project Title Template",
+    "section": "Tech Used",
+    "text": "Tech Used\n\nSQL\nPython or R\nQuarto\nTableau or Power BI"
+  },
+  {
+    "objectID": "posts/biblical/index.html",
+    "href": "posts/biblical/index.html",
+    "title": "Biblical Studies",
+    "section": "",
+    "text": "Notes and essays focused on scripture study, interpretation, and context.\n\n\n\n\n\n\n\n\n\nSample Study Note: Reading with Context\n\n\n\nbiblical-studies\n\n\n\n\n\n\nFeb 23, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/personal/2026-02-23-sample-personal.html",
+    "href": "posts/personal/2026-02-23-sample-personal.html",
+    "title": "Starting a One-Stop Personal Site",
+    "section": "",
+    "text": "Today I launched the first version of this site with a simple goal: keep writing consistent and organized.\nThis section is for short personal updates, lessons learned, and progress notes."
+  },
+  {
+    "objectID": "posts/writing/2026-02-23-sample-writing.html",
+    "href": "posts/writing/2026-02-23-sample-writing.html",
+    "title": "Sample Creative Piece",
+    "section": "",
+    "text": "A draft can be useful even when it is imperfect. This section is where I will publish writing experiments and polished pieces.\nExpect short fiction, narrative fragments, and reflections on craft."
+  }
+]

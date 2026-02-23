@@ -1,0 +1,23 @@
+﻿project:
+  type: website
+
+website:
+  title: "listing-repro"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - blog.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+
+

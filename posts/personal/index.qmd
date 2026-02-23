@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Personal"
 listing:
   contents: "20*.qmd"
@@ -8,3 +8,4 @@ listing:
 ---
 
 Personal reflections, updates, and practical lessons.
+

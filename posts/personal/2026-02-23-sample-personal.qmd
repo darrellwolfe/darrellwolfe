@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Starting a One-Stop Personal Site"
 date: 2026-02-23
 categories: [personal]

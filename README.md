@@ -1,4 +1,4 @@
-﻿# Darrell Wolfe Website (Quarto + GitHub Pages)
+# Darrell Wolfe Website (Quarto + GitHub Pages)
 
 This repository is a static Quarto website for:
 

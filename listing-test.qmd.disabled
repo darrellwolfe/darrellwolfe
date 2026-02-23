@@ -1,0 +1,14 @@
+---
+title: "Listing Test"
+listing:
+  - id: my-list
+    contents:
+      - posts/personal/2026-02-23-sample-personal.qmd
+    type: default
+    fields: [title, date]
+---
+
+Test page for listing.
+
+::: {#my-list}
+:::

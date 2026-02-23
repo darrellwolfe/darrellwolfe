@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Biblical Studies"
 listing:
   contents: "20*.qmd"
@@ -8,3 +8,4 @@ listing:
 ---
 
 Notes and essays focused on scripture study, interpretation, and context.
+

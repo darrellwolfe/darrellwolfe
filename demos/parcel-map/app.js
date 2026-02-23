@@ -1,4 +1,4 @@
-﻿const statusEl = document.getElementById("status");
+const statusEl = document.getElementById("status");
 
 const map = L.map("map").setView([35.4706, -97.5195], 17);
 

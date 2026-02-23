@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Writing / Creative Writing"
 listing:
   contents: "20*.qmd"
@@ -8,3 +8,4 @@ listing:
 ---
 
 Creative writing samples, process notes, and experiments in style.
+

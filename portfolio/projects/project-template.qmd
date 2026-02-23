@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Project Title Template"
 date: 2026-02-23
 categories: [portfolio, template]
