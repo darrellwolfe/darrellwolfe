@@ -26,6 +26,16 @@ Build the static site to `docs/`:
 quarto render
 ```
 
+Run the helper script directly (PowerShell):
+
+```powershell
+./scripts/site.ps1 -Action build
+./scripts/site.ps1 -Action preview
+./scripts/site.ps1 -Action check
+```
+
+In VS Code, use `Ctrl+Shift+B` to run **Build All** (configured in `.vscode/tasks.json`).
+
 ## GitHub Pages Setup
 
 This project is configured to render into `/docs`.
