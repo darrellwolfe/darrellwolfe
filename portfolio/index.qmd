@@ -16,7 +16,7 @@ Creative and narrative projects, including live interactive experiences built wi
 :::
 
 ::: {.card}
-### [Live Project: Couples Connection Game](https://darrellwolfe.github.io/Couples_Connection_Game/)
+### [Live Project: Couples Connection Game](https://darrellwolfe.github.io/Couples_Connection_Game/){target="_blank" rel="noopener noreferrer"}
 Published with VS Code + GitHub + GitHub Pages and now included as a portfolio project.
 :::
 :::

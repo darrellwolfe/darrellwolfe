@@ -42,11 +42,11 @@
     "text": "This section highlights creative and narrative-centered projects, including interactive experiences published as static sites."
   },
   {
-    "objectID": "portfolio/author/index.html#featured-project",
-    "href": "portfolio/author/index.html#featured-project",
+    "objectID": "portfolio/author/index.html#featured-projects",
+    "href": "portfolio/author/index.html#featured-projects",
     "title": "Author Portfolio",
-    "section": "Featured Project",
-    "text": "Featured Project\n\nCouples Connection Game\n\nLive Site: darrellwolfe.github.io/Couples_Connection_Game\nSource Repo: darrellwolfe/Couples_Connection_Game\n\nBuilt with VS Code, GitHub, and GitHub Pages as a fully static deployment."
+    "section": "Featured Projects",
+    "text": "Featured Projects\nAuthor-focused featured projects will be published here as this portfolio expands."
   },
   {
     "objectID": "portfolio/author/index.html#author-track-notes",
@@ -137,7 +137,7 @@
     "href": "portfolio/data/index.html#repository-highlights",
     "title": "Data Development + Visualization Portfolio",
     "section": "Repository Highlights",
-    "text": "Repository Highlights\n\nDemo_Code_DarrellWolfe - general code samples and demonstrations.\nDemo_Skills_SampleCode - technical skill examples and implementation snippets.\nCourseNotes_Learning_R_Analysis - R learning notes and analysis practice.\nSkillsDemo_UK_RoadSafety_Agust_2023 - road safety analysis demonstration project.\nCourseNotes_Learning_Coursera_DataAnalytics_Capstone_Project - capstone notes and project artifacts."
+    "text": "Repository Highlights\n\nCouples_Connection_Game (Repo) - source repository for the published Couples Connection Game. Live version: darrellwolfe.github.io/Couples_Connection_Game.\nDemo_Code_DarrellWolfe - general code samples and demonstrations.\nDemo_Skills_SampleCode - technical skill examples and implementation snippets.\nCourseNotes_Learning_R_Analysis - R learning notes and analysis practice.\nSkillsDemo_UK_RoadSafety_Agust_2023 - road safety analysis demonstration project.\nCourseNotes_Learning_Coursera_DataAnalytics_Capstone_Project - capstone notes and project artifacts."
   },
   {
     "objectID": "portfolio/projects/project-template.html",

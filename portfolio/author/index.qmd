@@ -5,14 +5,9 @@ title: "Author Portfolio"
 This section highlights creative and narrative-centered projects, including interactive experiences published as static sites.
 
 ::: {.section-panel}
-## Featured Project
+## Featured Projects
 
-### Couples Connection Game
-
-- Live Site: [darrellwolfe.github.io/Couples_Connection_Game](https://darrellwolfe.github.io/Couples_Connection_Game/)
-- Source Repo: [darrellwolfe/Couples_Connection_Game](https://github.com/darrellwolfe/Couples_Connection_Game)
-
-Built with VS Code, GitHub, and GitHub Pages as a fully static deployment.
+Author-focused featured projects will be published here as this portfolio expands.
 :::
 
 ::: {.section-panel}

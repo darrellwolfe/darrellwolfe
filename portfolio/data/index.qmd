@@ -15,9 +15,10 @@ Use this template for full project documentation from problem to reproducible re
 ::: {.section-panel}
 ## Repository Highlights
 
-- [Demo_Code_DarrellWolfe](https://github.com/darrellwolfe/Demo_Code_DarrellWolfe) - general code samples and demonstrations.
-- [Demo_Skills_SampleCode](https://github.com/darrellwolfe/Demo_Skills_SampleCode) - technical skill examples and implementation snippets.
-- [CourseNotes_Learning_R_Analysis](https://github.com/darrellwolfe/CourseNotes_Learning_R_Analysis) - R learning notes and analysis practice.
-- [SkillsDemo_UK_RoadSafety_Agust_2023](https://github.com/darrellwolfe/SkillsDemo_UK_RoadSafety_Agust_2023) - road safety analysis demonstration project.
-- [CourseNotes_Learning_Coursera_DataAnalytics_Capstone_Project](https://github.com/darrellwolfe/CourseNotes_Learning_Coursera_DataAnalytics_Capstone_Project) - capstone notes and project artifacts.
+- [Couples_Connection_Game (Repo)](https://github.com/darrellwolfe/Couples_Connection_Game){target="_blank" rel="noopener noreferrer"} - source repository for the published Couples Connection Game. Live version: [darrellwolfe.github.io/Couples_Connection_Game](https://darrellwolfe.github.io/Couples_Connection_Game/){target="_blank" rel="noopener noreferrer"}.
+- [Demo_Code_DarrellWolfe](https://github.com/darrellwolfe/Demo_Code_DarrellWolfe){target="_blank" rel="noopener noreferrer"} - general code samples and demonstrations.
+- [Demo_Skills_SampleCode](https://github.com/darrellwolfe/Demo_Skills_SampleCode){target="_blank" rel="noopener noreferrer"} - technical skill examples and implementation snippets.
+- [CourseNotes_Learning_R_Analysis](https://github.com/darrellwolfe/CourseNotes_Learning_R_Analysis){target="_blank" rel="noopener noreferrer"} - R learning notes and analysis practice.
+- [SkillsDemo_UK_RoadSafety_Agust_2023](https://github.com/darrellwolfe/SkillsDemo_UK_RoadSafety_Agust_2023){target="_blank" rel="noopener noreferrer"} - road safety analysis demonstration project.
+- [CourseNotes_Learning_Coursera_DataAnalytics_Capstone_Project](https://github.com/darrellwolfe/CourseNotes_Learning_Coursera_DataAnalytics_Capstone_Project){target="_blank" rel="noopener noreferrer"} - capstone notes and project artifacts.
 :::
