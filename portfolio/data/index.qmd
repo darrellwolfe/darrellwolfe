@@ -1,0 +1,23 @@
+---
+title: "Data Development + Visualization Portfolio"
+---
+
+This section focuses on analytics, BI, and technical implementation work.
+
+::: {.section-panel}
+## Featured Writeup Format
+
+- [Project Template](../projects/project-template.qmd)
+
+Use this template for full project documentation from problem to reproducible results.
+:::
+
+::: {.section-panel}
+## Repository Highlights
+
+- [Demo_Code_DarrellWolfe](https://github.com/darrellwolfe/Demo_Code_DarrellWolfe) - general code samples and demonstrations.
+- [Demo_Skills_SampleCode](https://github.com/darrellwolfe/Demo_Skills_SampleCode) - technical skill examples and implementation snippets.
+- [CourseNotes_Learning_R_Analysis](https://github.com/darrellwolfe/CourseNotes_Learning_R_Analysis) - R learning notes and analysis practice.
+- [SkillsDemo_UK_RoadSafety_Agust_2023](https://github.com/darrellwolfe/SkillsDemo_UK_RoadSafety_Agust_2023) - road safety analysis demonstration project.
+- [CourseNotes_Learning_Coursera_DataAnalytics_Capstone_Project](https://github.com/darrellwolfe/CourseNotes_Learning_Coursera_DataAnalytics_Capstone_Project) - capstone notes and project artifacts.
+:::

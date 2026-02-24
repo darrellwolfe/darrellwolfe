@@ -32,7 +32,28 @@
     "href": "portfolio/index.html",
     "title": "Portfolio",
     "section": "",
-    "text": "This section highlights data visualization and BI projects with clear writeups and reproducible steps.\n\n\nProject Template\nReusable structure for documenting a project from problem framing through results."
+    "text": "This portfolio is organized into two tracks: data work and author/creative work.\n\n\nData Development + Visualization\nDashboards, analytics workflows, SQL/R/Python projects, and reproducible case-study writeups.\n\n\nAuthor Portfolio\nCreative and narrative projects, including live interactive experiences built with static deployment.\n\n\nLive Project: Couples Connection Game\nPublished with VS Code + GitHub + GitHub Pages and now included as a portfolio project."
+  },
+  {
+    "objectID": "portfolio/author/index.html",
+    "href": "portfolio/author/index.html",
+    "title": "Author Portfolio",
+    "section": "",
+    "text": "This section highlights creative and narrative-centered projects, including interactive experiences published as static sites."
+  },
+  {
+    "objectID": "portfolio/author/index.html#featured-project",
+    "href": "portfolio/author/index.html#featured-project",
+    "title": "Author Portfolio",
+    "section": "Featured Project",
+    "text": "Featured Project\n\nCouples Connection Game\n\nLive Site: darrellwolfe.github.io/Couples_Connection_Game\nSource Repo: darrellwolfe/Couples_Connection_Game\n\nBuilt with VS Code, GitHub, and GitHub Pages as a fully static deployment."
+  },
+  {
+    "objectID": "portfolio/author/index.html#author-track-notes",
+    "href": "portfolio/author/index.html#author-track-notes",
+    "title": "Author Portfolio",
+    "section": "Author Track Notes",
+    "text": "Author Track Notes\nThis portfolio track is for writing-adjacent projects: interactive story concepts, creative tools, narrative experiments, and published digital pieces."
   },
   {
     "objectID": "demos/index.html",
@@ -96,6 +117,27 @@
     "title": "Welcome",
     "section": "Explore",
     "text": "Explore\n\n\nPortfolio\nWriting\nDemos"
+  },
+  {
+    "objectID": "portfolio/data/index.html",
+    "href": "portfolio/data/index.html",
+    "title": "Data Development + Visualization Portfolio",
+    "section": "",
+    "text": "This section focuses on analytics, BI, and technical implementation work."
+  },
+  {
+    "objectID": "portfolio/data/index.html#featured-writeup-format",
+    "href": "portfolio/data/index.html#featured-writeup-format",
+    "title": "Data Development + Visualization Portfolio",
+    "section": "Featured Writeup Format",
+    "text": "Featured Writeup Format\n\nProject Template\n\nUse this template for full project documentation from problem to reproducible results."
+  },
+  {
+    "objectID": "portfolio/data/index.html#repository-highlights",
+    "href": "portfolio/data/index.html#repository-highlights",
+    "title": "Data Development + Visualization Portfolio",
+    "section": "Repository Highlights",
+    "text": "Repository Highlights\n\nDemo_Code_DarrellWolfe - general code samples and demonstrations.\nDemo_Skills_SampleCode - technical skill examples and implementation snippets.\nCourseNotes_Learning_R_Analysis - R learning notes and analysis practice.\nSkillsDemo_UK_RoadSafety_Agust_2023 - road safety analysis demonstration project.\nCourseNotes_Learning_Coursera_DataAnalytics_Capstone_Project - capstone notes and project artifacts."
   },
   {
     "objectID": "portfolio/projects/project-template.html",

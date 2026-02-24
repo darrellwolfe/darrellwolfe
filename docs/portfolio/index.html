@@ -99,10 +99,25 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="../author/index.html"> 
 <span class="menu-text">Author</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link active" href="../portfolio/index.html" aria-current="page"> 
-<span class="menu-text">Portfolio</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-portfolio" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Portfolio</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-portfolio">    
+        <li>
+    <a class="dropdown-item" href="../portfolio/index.html">
+ <span class="dropdown-text">Portfolio Home</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="../portfolio/data/index.html">
+ <span class="dropdown-text">Data Portfolio</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../portfolio/author/index.html">
+ <span class="dropdown-text">Author Portfolio</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-writing" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Writing</span>
@@ -164,11 +179,19 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>This section highlights data visualization and BI projects with clear writeups and reproducible steps.</p>
+<p>This portfolio is organized into two tracks: data work and author/creative work.</p>
 <div class="card-grid">
-<section id="project-template" class="level3 card">
-<h3 class="anchored" data-anchor-id="project-template"><a href="../portfolio/projects/project-template.html">Project Template</a></h3>
-<p>Reusable structure for documenting a project from problem framing through results.</p>
+<section id="data-development-visualization" class="level3 card">
+<h3 class="anchored" data-anchor-id="data-development-visualization"><a href="../portfolio/data/index.html">Data Development + Visualization</a></h3>
+<p>Dashboards, analytics workflows, SQL/R/Python projects, and reproducible case-study writeups.</p>
+</section>
+<section id="author-portfolio" class="level3 card">
+<h3 class="anchored" data-anchor-id="author-portfolio"><a href="../portfolio/author/index.html">Author Portfolio</a></h3>
+<p>Creative and narrative projects, including live interactive experiences built with static deployment.</p>
+</section>
+<section id="live-project-couples-connection-game" class="level3 card">
+<h3 class="anchored" data-anchor-id="live-project-couples-connection-game"><a href="https://darrellwolfe.github.io/Couples_Connection_Game/">Live Project: Couples Connection Game</a></h3>
+<p>Published with VS Code + GitHub + GitHub Pages and now included as a portfolio project.</p>
 </section>
 </div>
 

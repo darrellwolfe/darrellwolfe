@@ -12,7 +12,13 @@ website:
       - text: Author
         href: author/index.qmd
       - text: Portfolio
-        href: portfolio/index.qmd
+        menu:
+          - text: Portfolio Home
+            href: portfolio/index.qmd
+          - text: Data Portfolio
+            href: portfolio/data/index.qmd
+          - text: Author Portfolio
+            href: portfolio/author/index.qmd
       - text: Writing
         menu:
           - text: All Writing

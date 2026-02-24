@@ -1,0 +1,22 @@
+---
+title: "Author Portfolio"
+---
+
+This section highlights creative and narrative-centered projects, including interactive experiences published as static sites.
+
+::: {.section-panel}
+## Featured Project
+
+### Couples Connection Game
+
+- Live Site: [darrellwolfe.github.io/Couples_Connection_Game](https://darrellwolfe.github.io/Couples_Connection_Game/)
+- Source Repo: [darrellwolfe/Couples_Connection_Game](https://github.com/darrellwolfe/Couples_Connection_Game)
+
+Built with VS Code, GitHub, and GitHub Pages as a fully static deployment.
+:::
+
+::: {.section-panel}
+## Author Track Notes
+
+This portfolio track is for writing-adjacent projects: interactive story concepts, creative tools, narrative experiments, and published digital pieces.
+:::

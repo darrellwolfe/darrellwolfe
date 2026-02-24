@@ -2,11 +2,21 @@
 title: "Portfolio"
 ---
 
-This section highlights data visualization and BI projects with clear writeups and reproducible steps.
+This portfolio is organized into two tracks: data work and author/creative work.
 
 ::: {.card-grid}
 ::: {.card}
-### [Project Template](projects/project-template.qmd)
-Reusable structure for documenting a project from problem framing through results.
+### [Data Development + Visualization](data/index.qmd)
+Dashboards, analytics workflows, SQL/R/Python projects, and reproducible case-study writeups.
+:::
+
+::: {.card}
+### [Author Portfolio](author/index.qmd)
+Creative and narrative projects, including live interactive experiences built with static deployment.
+:::
+
+::: {.card}
+### [Live Project: Couples Connection Game](https://darrellwolfe.github.io/Couples_Connection_Game/)
+Published with VS Code + GitHub + GitHub Pages and now included as a portfolio project.
 :::
 :::
