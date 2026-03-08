@@ -9,6 +9,13 @@ project:
 
 website:
   title: "Darrell Wolfe, Storyteller"
+  site-url: "https://darrellwolfe.github.io/darrellwolfe/"
+  description: "Darrell Wolfe's central online home for creative writing, biblical studies, data storytelling, data analysis, and personal essays."
+  favicon: images/favicon-dw.svg
+  image: "https://darrellwolfe.github.io/darrellwolfe/images/DarrellWolfe_Profile.jpg"
+  open-graph: true
+  twitter-card:
+    card-style: summary_large_image
   search: true
   navbar:
     pinned: false

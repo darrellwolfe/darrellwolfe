@@ -1,5 +1,7 @@
 ---
 title: "Author Bio"
+description: "Author bio for Darrell Wolfe: speculative fiction writer, essayist, and storyteller exploring meaning, identity, and transformation."
+image: "../images/DarrellWolfe_Profile.jpg"
 ---
 
 ::: {.hero-shell}
@@ -13,7 +15,7 @@ I write stories and essays about people, place, conviction, and change. This pag
 
 ::: {.hero-actions}
 [Read Writing Sections](../posts/index.qmd){.btn .btn-primary}
-[View Portfolio](../portfolio/index.qmd){.btn .btn-outline-primary}
+[View Portfolio](../portfolio/author/index.qmd){.btn .btn-outline-primary}
 :::
 :::
 
