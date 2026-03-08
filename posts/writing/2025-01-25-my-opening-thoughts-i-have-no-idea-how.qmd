@@ -1,7 +1,7 @@
----
+﻿---
 title: 'My opening thoughts... I have no idea how I will use Buy Me A Coffee'
 date: '2025-01-25T21:54:00.0000000+00:00'
-draft: true
+draft: false
 blogger_blog: 'Darrell Wolfe, Storyteller'
 blogger_status: 'LIVE'
 blogger_post_id: '1306860934012549977'
@@ -37,3 +37,4 @@ blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrel
 <span style="font-family: &quot;tempus sans itc&quot;;"><a href="https://www.16personalities.com/infj-personality" target="_blank">16Personalities</a> (Myers-Briggs Type): INFJ</span><br />
 <span style="font-family: &quot;tempus sans itc&quot;;"><br /></span>
 <span style="font-family: &quot;tempus sans itc&quot;;"><br /></span></div>
+

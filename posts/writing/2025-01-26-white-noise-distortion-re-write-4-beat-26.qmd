@@ -1,7 +1,7 @@
----
+﻿---
 title: 'White Noise - Distortion (re-write #4) Beat Sheet - Outline - Progress Update 01/26/2025'
 date: '2025-01-26T08:44:00.0000000+00:00'
-draft: true
+draft: false
 blogger_blog: 'Darrell Wolfe, Storyteller'
 blogger_status: 'LIVE'
 blogger_post_id: '4319309102899641669'
@@ -39,35 +39,35 @@ writing plan and the background behind this new attempt.<o:p></o:p></p>
 
 <h1>Rewrite Notes<o:p></o:p></h1>
 
-<p class="MsoListParagraphCxSpFirst" style="mso-list: l0 level1 lfo21; tab-stops: list .5in; text-indent: -.25in;"><!--[if !supportLists]--><span style="font-family: Symbol; font-size: 10.0pt; line-height: 115%; mso-bidi-font-family: Symbol; mso-bidi-font-size: 12.0pt; mso-fareast-font-family: Symbol;">·<span style="font-family: &quot;Times New Roman&quot;; font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p class="MsoListParagraphCxSpFirst" style="mso-list: l0 level1 lfo21; tab-stops: list .5in; text-indent: -.25in;"><!--[if !supportLists]--><span style="font-family: Symbol; font-size: 10.0pt; line-height: 115%; mso-bidi-font-family: Symbol; mso-bidi-font-size: 12.0pt; mso-fareast-font-family: Symbol;">Â·<span style="font-family: &quot;Times New Roman&quot;; font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><!--[endif]--><span dir="LTR"></span>In the actual writing of
 this after outlining, weave in spiritual things he sees, and make them
 inconvenient for him.<o:p></o:p></p>
 
-<p class="MsoListParagraphCxSpMiddle" style="mso-list: l0 level1 lfo21; tab-stops: list .5in; text-indent: -.25in;"><!--[if !supportLists]--><span style="font-family: Symbol; font-size: 10.0pt; line-height: 115%; mso-bidi-font-family: Symbol; mso-bidi-font-size: 12.0pt; mso-fareast-font-family: Symbol;">·<span style="font-family: &quot;Times New Roman&quot;; font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p class="MsoListParagraphCxSpMiddle" style="mso-list: l0 level1 lfo21; tab-stops: list .5in; text-indent: -.25in;"><!--[if !supportLists]--><span style="font-family: Symbol; font-size: 10.0pt; line-height: 115%; mso-bidi-font-family: Symbol; mso-bidi-font-size: 12.0pt; mso-fareast-font-family: Symbol;">Â·<span style="font-family: &quot;Times New Roman&quot;; font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><!--[endif]--><span dir="LTR"></span>At core, this is an
 information plot, a romance plot, an adventure plot? <o:p></o:p></p>
 
-<p class="MsoListParagraphCxSpMiddle" style="mso-list: l0 level1 lfo21; tab-stops: list .5in; text-indent: -.25in;"><!--[if !supportLists]--><span style="font-family: Symbol; font-size: 10.0pt; line-height: 115%; mso-bidi-font-family: Symbol; mso-bidi-font-size: 12.0pt; mso-fareast-font-family: Symbol;">·<span style="font-family: &quot;Times New Roman&quot;; font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span><!--[endif]--><span dir="LTR"></span>I think we can write Briar’s
+<p class="MsoListParagraphCxSpMiddle" style="mso-list: l0 level1 lfo21; tab-stops: list .5in; text-indent: -.25in;"><!--[if !supportLists]--><span style="font-family: Symbol; font-size: 10.0pt; line-height: 115%; mso-bidi-font-family: Symbol; mso-bidi-font-size: 12.0pt; mso-fareast-font-family: Symbol;">Â·<span style="font-family: &quot;Times New Roman&quot;; font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><!--[endif]--><span dir="LTR"></span>I think we can write Briarâ€™s
 arch, but at first we only see snippets of his arch via text messages he is
-sending Thaddeaus. We don’t actually see his POV for a while until we’re fully
+sending Thaddeaus. We donâ€™t actually see his POV for a while until weâ€™re fully
 invested in Ash and Destiny. However, I want Briar to be every bit as real,
 owning his own wants, as they are. We want to almost want him to get his goals,
 or at least we can feel how he got where he is. <o:p></o:p></p>
 
-<p class="MsoListParagraphCxSpLast" style="mso-list: l0 level1 lfo21; tab-stops: list .5in; text-indent: -.25in;"><!--[if !supportLists]--><span style="font-family: Symbol; font-size: 10.0pt; line-height: 115%; mso-bidi-font-family: Symbol; mso-bidi-font-size: 12.0pt; mso-fareast-font-family: Symbol;">·<span style="font-family: &quot;Times New Roman&quot;; font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p class="MsoListParagraphCxSpLast" style="mso-list: l0 level1 lfo21; tab-stops: list .5in; text-indent: -.25in;"><!--[if !supportLists]--><span style="font-family: Symbol; font-size: 10.0pt; line-height: 115%; mso-bidi-font-family: Symbol; mso-bidi-font-size: 12.0pt; mso-fareast-font-family: Symbol;">Â·<span style="font-family: &quot;Times New Roman&quot;; font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span><!--[endif]--><span dir="LTR"></span>We seem to be settling on
 Ash not wanting to seem crazy to others. Somehow when we write the scenes, we
 need to paint both the chaos of his inner world and how little that actually escapes
-into other’s view. But it does escape, and people do see something is odd about
-him, and many give him space because of it, but also pity. They know he’s struggling
+into otherâ€™s view. But it does escape, and people do see something is odd about
+him, and many give him space because of it, but also pity. They know heâ€™s struggling
 and many rumors have spread about the extent of it. They do see the cracks in
 his sanity, but they do not see the whirlwind of chaos inside of him. They also
-don’t know specifically that he is hallucinating. If he knew they knew that, he
+donâ€™t know specifically that he is hallucinating. If he knew they knew that, he
 would be mortified. But they know he sees things, or maybe remembers things?
-They have suspicions about it. They assume it’s flash backs from the military,
-or his mom’s death. Which he was present for before leaving for the military?
+They have suspicions about it. They assume itâ€™s flash backs from the military,
+or his momâ€™s death. Which he was present for before leaving for the military?
 Maybe a car crash? Maybe a murder? Not sure. <o:p></o:p></p>
 
 <p class="MsoNormal"><o:p>&nbsp;</o:p></p>
@@ -75,13 +75,13 @@ Maybe a car crash? Maybe a murder? Not sure. <o:p></o:p></p>
 <h1>Captain (retired) Theron&nbsp;"Ash" Ashland, USAF Spec Ops<o:p></o:p></h1>
 
 <p class="MsoNormal"><a href="https://www.darrellwolfe.com/2015/12/captain-theron-ashland-usaf-spec-ops.html"><b>Captain
-Theron "Ash" Ashland, USAF Spec Ops.</b></a> – I think I later
-realized this would be Colonel or something? I’ll have to check my notes. I am
+Theron "Ash" Ashland, USAF Spec Ops.</b></a> â€“ I think I later
+realized this would be Colonel or something? Iâ€™ll have to check my notes. I am
 not sure it matters anymore. <b><o:p></o:p></b></p>
 
 <p class="MsoNormal"><o:p>&nbsp;</o:p></p>
 
-<h1>Briar Texts as epigraphs before Ash’s POVs<o:p></o:p></h1>
+<h1>Briar Texts as epigraphs before Ashâ€™s POVs<o:p></o:p></h1>
 
 <h3>01/18/2025<o:p></o:p></h3>
 
@@ -92,7 +92,7 @@ not sure it matters anymore. <b><o:p></o:p></b></p>
 <p class="MsoNormal"><b>Goal</b>: I want to show Ash in his current state, hook
 the reader, and give him a SMALL want, but one that also serves to flush out
 his current state. -- Ash wants wants to get his coffee and make it to the
-corner chair without having to interact too often or look like he’s as unstable
+corner chair without having to interact too often or look like heâ€™s as unstable
 as he feels.<o:p></o:p></p>
 
 <h2>Beat 1 - No (Coffee/Chair/Avoid people) / And (Ned finds him)<o:p></o:p></h2>
@@ -101,26 +101,26 @@ as he feels.<o:p></o:p></p>
 hallucinating, suffering from PTSD. <o:p></o:p></p>
 
 <p class="MsoNormal">His interactions with (and avoidance of) the townspeople,
-who’ve known him since he was a boy except for the years he was away in the
-military doing things he can’t talk about because they are classified, show a
-man who’s loved by the people but also pitied. His life was sad in
+whoâ€™ve known him since he was a boy except for the years he was away in the
+military doing things he canâ€™t talk about because they are classified, show a
+man whoâ€™s loved by the people but also pitied. His life was sad in
 heartbreaking ways, and nobody can do anything for him but to love him when
-possible, and give him space as needed. It’s a good town full of good people,
-but they believe in a lot of conspiracy theory nonsense, and they’re scared of anything
-they don’t understand. This scene needs some kind of an arch or goal. The
+possible, and give him space as needed. Itâ€™s a good town full of good people,
+but they believe in a lot of conspiracy theory nonsense, and theyâ€™re scared of anything
+they donâ€™t understand. This scene needs some kind of an arch or goal. The
 opening hallucination is a great hook, but what does Ash want (small wants,
 immediate wants) in this scene that can give it a start, middle, and end? He
 wants to get his coffee and make it to the corner chair without having to
-interact too often or look like he’s as unstable as he feels. Ooooo… that’s a
+interact too often or look like heâ€™s as unstable as he feels. Oooooâ€¦ thatâ€™s a
 cool scene. Okay, so? What happens. Does he get his coffee?<o:p></o:p></p>
 
-<p class="MsoNormal">No, but… <o:p></o:p></p>
+<p class="MsoNormal">No, butâ€¦ <o:p></o:p></p>
 
 <p class="MsoNormal">Scene opens: Ash is staring out the window, he sees shadows
 move across the street and reaches for his gun, but there is no gun. There is
 however a tape measure on his belt that is now in his hand. He rushes with embarrassment,
-and looks around to see if anyone noticed. A few looks but the room isn’t
-staring at him, so he is fine, everything is fine, “I’m not crazy”… <o:p></o:p></p>
+and looks around to see if anyone noticed. A few looks but the room isnâ€™t
+staring at him, so he is fine, everything is fine, â€œIâ€™m not crazyâ€â€¦ <o:p></o:p></p>
 
 <p class="MsoNormal">He practices his breathing techniques and embodiment
 practices, he starts observing the last leaves of autumn fall from the trees,
@@ -128,7 +128,7 @@ one lands in a pumpkin and burns. As he watches the people passing by, does he
 wonder anything about them? Does he try to remember what life was like before
 he was in this condition? <o:p></o:p></p>
 
-<p class="MsoNormal">A “Ned” like character sees him through the window and
+<p class="MsoNormal">A â€œNedâ€ like character sees him through the window and
 starts waving and rushing over. Ash pretends not to see him, turns and asks if
 his coffee is ready yet. The bariste chides him to wait his turn, but in a
 friendly way. Ash picks something up off the rack to read the label just to
@@ -149,39 +149,39 @@ beeline for Ash.<o:p></o:p></p>
 through his skin. But he forces a smile and turns around, then pulls his ear
 phones out, he always keeps them in, but usually nothing is playing, it simply
 keeps the intrusive noises down. But it makes a great excuse to pretend you
-didn’t hear someone.<o:p></o:p></p>
+didnâ€™t hear someone.<o:p></o:p></p>
 
 <p class="MsoNormal">Ash: (turning around and pulling one ear bud out), Hi Ned.
-Didn’t see you there. <o:p></o:p></p>
+Didnâ€™t see you there. <o:p></o:p></p>
 
 <p class="MsoNormal">Ned: You are always in your head. So listen, (Ned rushes
-before Ash can run away), we’re doing that fundraiser again and you haven’t
+before Ash can run away), weâ€™re doing that fundraiser again and you havenâ€™t
 confirmed your table yet this year.<o:p></o:p></p>
 
 <p class="MsoNormal">Ash: Is that coming up already?<o:p></o:p></p>
 
-<p class="MsoNormal">Ned: The ten emails this week weren’t enough to remind you?<o:p></o:p></p>
+<p class="MsoNormal">Ned: The ten emails this week werenâ€™t enough to remind you?<o:p></o:p></p>
 
-<p class="MsoNormal">Ash: I don’t read emails. I only have that email address for
+<p class="MsoNormal">Ash: I donâ€™t read emails. I only have that email address for
 signing into my VA benefits portal. <o:p></o:p></p>
 
-<p class="MsoNormal">Ned: You are an odd one. You’re coming right? I can put you
-down for a table? It’s tomorrow, I must know. Please come, you’re a huge hit
+<p class="MsoNormal">Ned: You are an odd one. Youâ€™re coming right? I can put you
+down for a table? Itâ€™s tomorrow, I must know. Please come, youâ€™re a huge hit
 every year.<o:p></o:p></p>
 
 <p class="MsoNormal">Ash: (takes a deep breath and sighs into accepting his
-membership in this town), “You have been a persistent one ever since you got
-your first Boy Scout popcorn tin. Sure, I’ll be there.” <o:p></o:p></p>
+membership in this town), â€œYou have been a persistent one ever since you got
+your first Boy Scout popcorn tin. Sure, Iâ€™ll be there.â€ <o:p></o:p></p>
 
 <p class="MsoNormal">Ned: Great, thanks, everyone loves your stuff.<o:p></o:p></p>
 
-<p class="MsoNormal">*Ash’s name is called by the Bariste*<o:p></o:p></p>
+<p class="MsoNormal">*Ashâ€™s name is called by the Bariste*<o:p></o:p></p>
 
-<p class="MsoNormal">Ash: Sure – I gotta go buddy. *points at the pick up
+<p class="MsoNormal">Ash: Sure â€“ I gotta go buddy. *points at the pick up
 counter*<o:p></o:p></p>
 
 <p class="MsoNormal">Ned: Awesome, See you then. *Ned rushes off to pester
-another late responder across the café*<o:p></o:p></p>
+another late responder across the cafÃ©*<o:p></o:p></p>
 
 <h2>Beat 2 - Yes (Coffee) / But No (Chair) Interrupted on the way, and he looks
 crazy or feels crazy<o:p></o:p></h2>
@@ -193,7 +193,7 @@ entity on the lady and another like it on the dog, and they both are staring at
 him with hate in their eyes, and the dog is reacting to it. The lady is
 oblivious, but simultaneously wary of Ash and embarrassed by her dogs behavior.
 Just as the lady is finally moving on, the dog leaps out of her arms and starts
-nipping at Ash’s pant leg. He shakes it off and grabs it by the scruff of the
+nipping at Ashâ€™s pant leg. He shakes it off and grabs it by the scruff of the
 neck and hands it to the lady without a word. She leaves to put the dog in a
 time-out in her car. Ash begins to make a bee-line for the chair in the corner.
 <o:p></o:p></p>
@@ -204,7 +204,7 @@ comes to sit and chat<o:p></o:p></h2>
 <p class="MsoNormal">(yes) Ash sits in the chair and breathes a sigh of relief.
 He made it to his chair, passed the interruptions, and he has his coffee. Ash
 surveys the rooms, showing that he is wary of any environment, keeping his back
-to the corner, observing all points of entry, watching people’s reactions while
+to the corner, observing all points of entry, watching peopleâ€™s reactions while
 trying to look uninterested. After practicing his embodiment exercises and
 putting aside a few observations of other spirit creatures in the room, he
 picks up the paper or book to read. <o:p></o:p></p>
@@ -212,9 +212,9 @@ picks up the paper or book to read. <o:p></o:p></p>
 <p class="MsoNormal">(but) A man sits down in the chair next to Ash, with a small
 coffee table in between for setting drinks. Ash notices from the corner of his
 eye that the man is looking directly at him but pretends not to notice. But the
-man’s stare never wavers or shifts, so Ash finally puts the book in his lap,
+manâ€™s stare never wavers or shifts, so Ash finally puts the book in his lap,
 holding the place with his thumb (but also positioning the book in such a way
-as to use it as a weapon), and matches the man’s stare eye to eye. <o:p></o:p></p>
+as to use it as a weapon), and matches the manâ€™s stare eye to eye. <o:p></o:p></p>
 
 <p class="MsoNormal">Neither speak for what seems like an eternity, and Ash
 raises an eyebrow, finally closing the book fully, and gripping it tighter,
@@ -222,29 +222,29 @@ ready for a full fight. The man nods to Ash, but more to himself, and sits back
 a little in his chair. Both men take a deep breath and relax a titch. The man
 finally speaks.<o:p></o:p></p>
 
-<p class="MsoNormal">Man: I wasn’t sure it was you, but it is you. Unbelievable. <o:p></o:p></p>
+<p class="MsoNormal">Man: I wasnâ€™t sure it was you, but it is you. Unbelievable. <o:p></o:p></p>
 
-<p class="MsoNormal">Ash: Do we know each other? My memory isn’t what it used to
-be, but I don’t believe we’ve met. <o:p></o:p></p>
+<p class="MsoNormal">Ash: Do we know each other? My memory isnâ€™t what it used to
+be, but I donâ€™t believe weâ€™ve met. <o:p></o:p></p>
 
 <p class="MsoNormal">Some conversation ensues that makes it seem the man wanted
-to tell Ash something, but not in this busy room… He will send an invitation
+to tell Ash something, but not in this busy roomâ€¦ He will send an invitation
 later. Or maybe he tells Ash where he is staying? The invitation should be vague,
 easily mistakable for a sales conversation. Maybe ask Ash some questions that
 sound salesy?<o:p></o:p></p>
 
 <p class="MsoNormal">There is a commotion outside, and Ash stands up, taking a
-few steps away to peak out the window to see what’s happening. When he turns
-back to the chairs to tell the man he’s not interested, the man is gone, but
-he’s left his card on Ash’s seat. This is unnerving because Ash should never be
-unable to know someone was near him and they just go missing. He’s slipping.
+few steps away to peak out the window to see whatâ€™s happening. When he turns
+back to the chairs to tell the man heâ€™s not interested, the man is gone, but
+heâ€™s left his card on Ashâ€™s seat. This is unnerving because Ash should never be
+unable to know someone was near him and they just go missing. Heâ€™s slipping.
 Something spooks him about the encounter but also the commotion outside, and
 Ash decides to get home before he has another episode.<o:p></o:p></p>
 
-<p class="MsoNormal">He notices someone, a girl, (he’ll later learn is Destiny)
+<p class="MsoNormal">He notices someone, a girl, (heâ€™ll later learn is Destiny)
 in the coffee shop.<o:p></o:p></p>
 
-<p class="MsoNormal">Scene breaks, Ash leaves the café. <o:p></o:p></p>
+<p class="MsoNormal">Scene breaks, Ash leaves the cafÃ©. <o:p></o:p></p>
 
 <p class="MsoNormal"><o:p>&nbsp;</o:p></p>
 
@@ -252,19 +252,19 @@ in the coffee shop.<o:p></o:p></p>
 the end<o:p></o:p></h2>
 
 <p class="MsoNormal">Ned but also the Business Card? &nbsp;Make this mostly about Ned, but the business
-card is nagging him for a reason he can’t tell. Also, there is the ghost of a
+card is nagging him for a reason he canâ€™t tell. Also, there is the ghost of a
 memory nagging him, he can feel something trying to come up. Does he know that
-guy? Maybe he’s seen him on a commercial? Hm…. <o:p></o:p></p>
+guy? Maybe heâ€™s seen him on a commercial? Hmâ€¦. <o:p></o:p></p>
 
-<p class="MsoNormal">Ash left the café a few hours ago, frustrated that the outing
+<p class="MsoNormal">Ash left the cafÃ© a few hours ago, frustrated that the outing
 had gone so poorly. He is in his workshop, drinking liquor to numb his nerves.
 He pitters around the workshop trying to see what product he has available for
 the winter market and what item he can donate to the fundraiser. Unlike other
-makers, his craft isn’t something he can throw together quickly. He can carve a
+makers, his craft isnâ€™t something he can throw together quickly. He can carve a
 few small items in an afternoon, for funsies, but it takes him weeks for a
 table or chair. <o:p></o:p></p>
 
-<p class="MsoNormal">Ned vs Card, vying for attention… All the while, the
+<p class="MsoNormal">Ned vs Card, vying for attentionâ€¦ All the while, the
 business card sits on the shelf calling to him. He keeps trying to ignore it,
 his attention drawn back repeatedly. <o:p></o:p></p>
 
@@ -305,47 +305,47 @@ his rocking chairs to read it, looking for clues or queues. <o:p></o:p></p>
 
 <p class="MsoNormal">Is this a real card? Is it coded in some way? Is there a
 hidden message? Is this just a sales gimmick to get him to buy into some new Ponzi
-scheme? But there was something about the man, wasn’t there? A hint of
-something just out of the reach of Ash’s memory, like the ghost of a memory?
+scheme? But there was something about the man, wasnâ€™t there? A hint of
+something just out of the reach of Ashâ€™s memory, like the ghost of a memory?
 Could this guy be one of his old contacts? Could he be related to an old
 contact? Could this actually be a set up to take Ash down for an old grudge?
-But would that even make sense? It’s been way too long, he’s been out of the
+But would that even make sense? Itâ€™s been way too long, heâ€™s been out of the
 game for way too long. Could anyone alive today still care what he did in his
 former occupation? Some might, especially a son or daughter, maybe. <o:p></o:p></p>
 
 <p class="MsoNormal">This could be an innocuous sales scheme, an old
 acquaintance, or there is an outside change this is a genuine threat to his
-life. While remote, the possibility exists. But that’s ridiculous. Not after
+life. While remote, the possibility exists. But thatâ€™s ridiculous. Not after
 this many years, not in his current condition. Nobody cares about Colonel Theran
-Ashland anymore. Hell, nobody remembers Colonel Theran Ashland. He’s just… Ash.
+Ashland anymore. Hell, nobody remembers Colonel Theran Ashland. Heâ€™s justâ€¦ Ash.
 <o:p></o:p></p>
 
 <p class="MsoNormal">This whole line of thinking is silly. He rips the card in
-half and tosses it in the pellet stove which is already burning hot. He’s got a
+half and tosses it in the pellet stove which is already burning hot. Heâ€™s got a
 market to prepare for.<o:p></o:p></p>
 
 <p class="MsoNormal"><o:p>&nbsp;</o:p></p>
 
-<h1>DESTINY’s POV ARCH HERE – Introduce her but only briefly, set up her story
+<h1>DESTINYâ€™s POV ARCH HERE â€“ Introduce her but only briefly, set up her story
 world, her want/need, and her reason for being in town.<o:p></o:p></h1>
 
-<h1>Briar Texts as epigraphs before Ash’s POVs<o:p></o:p></h1>
+<h1>Briar Texts as epigraphs before Ashâ€™s POVs<o:p></o:p></h1>
 
 <p class="MsoNormal"><o:p>&nbsp;</o:p></p>
 
 <h3>01/19/2025<o:p></o:p></h3>
 
-<h1>Scene – World Building – Farmer’s Market <o:p></o:p></h1>
+<h1>Scene â€“ World Building â€“ Farmerâ€™s Market <o:p></o:p></h1>
 
-<p class="MsoNormal">Ash goes to the farmer’s market. He is manipulated by the small-town
-Ned every year into going. He can’t say he hates it, it gets him out of the
-house, and it helps him build the sales for his wood craft. He doesn’t need the
+<p class="MsoNormal">Ash goes to the farmerâ€™s market. He is manipulated by the small-town
+Ned every year into going. He canâ€™t say he hates it, it gets him out of the
+house, and it helps him build the sales for his wood craft. He doesnâ€™t need the
 sales, but he needs the craft to keep him occupied, so in that sense he needs
 the sales. His pension and family home are sufficient for his needs. He
-actually donates half the sales from these markets to veteran’s causes, and
-half he sends to his dead partners’ daughter, Eta. He hasn’t spoken to Eta in
+actually donates half the sales from these markets to veteranâ€™s causes, and
+half he sends to his dead partnersâ€™ daughter, Eta. He hasnâ€™t spoken to Eta in
 few years, but she sends him a thank you text every time a random money order
-arrives at her apartment. So, what does Ash want today at THIS farmer’s market
+arrives at her apartment. So, what does Ash want today at THIS farmerâ€™s market
 on THIS day? <o:p></o:p></p>
 
 <p class="MsoNormal"><!--[if gte vml 1]><v:shapetype
@@ -7078,21 +7078,21 @@ L2RyYXdpbmcxLnhtbC5yZWxzUEsFBgAAAAAGAAYAsAEAAPXRBQAAAA==
 <h3>(Goal Conflict Disaster)<o:p></o:p></h3>
 
 <h2>Goal: Peace, generally. Hassle Free. But also, Ash wants to make some
-sales, a few connections with the season’s last tourists, and avoid looking or
+sales, a few connections with the seasonâ€™s last tourists, and avoid looking or
 feeling crazy.<o:p></o:p></h2>
 
-<h2>Beat 1 – No Peace / Hassle And now he’s got a stranger in his truck and
-it’s been damaged.<o:p></o:p></h2>
+<h2>Beat 1 â€“ No Peace / Hassle And now heâ€™s got a stranger in his truck and
+itâ€™s been damaged.<o:p></o:p></h2>
 
 <p class="MsoNormal">Ash backs his teal 1961 Ford F100 up to the garage, and
 hooks up the trailer to the hitch, all pre-loaded the night before. He checks
 the straps and tarps, ensuring a secure load. Whatever his weird pet is, runs
-off into the forest, which is usual for it, no big deal, there’s a doggy door. He
+off into the forest, which is usual for it, no big deal, thereâ€™s a doggy door. He
 turns on the AM radio, and twists the dial a bit to tune into the Glen Miller
 station, then takes off down the long driveway to the main road. <o:p></o:p></p>
 
 <p class="MsoNormal">About ten minutes later, Ash turns off of a dirt and gravel
-road, Old Button Hook road, onto Goat Herder’s Pass which is paved but
+road, Old Button Hook road, onto Goat Herderâ€™s Pass which is paved but
 infrequently maintained, and works his way down the hill. He stretches out on
 the bench seat, feeling the leather creak beneath the blanket he has draped
 over it. The smell of steal, oil, and an old gas engine make him feel grounded
@@ -7113,82 +7113,82 @@ trailer over to turn out just ahead. His heart is racing, but he has to check
 and make sure she is okay. <o:p></o:p></p>
 
 <p class="MsoNormal">As he opens the door, he glances at the damaged front
-driver’s quarter panel. He winces. That’s fixable, but gosh what a shame. Ash
+driverâ€™s quarter panel. He winces. Thatâ€™s fixable, but gosh what a shame. Ash
 jogs back up the road to find the lady now standing off the road away from her
 car, looking mostly annoyed but a little scared. <o:p></o:p></p>
 
-<p class="MsoNormal">Lady: “You almost killed me!”, She said. <o:p></o:p></p>
+<p class="MsoNormal">Lady: â€œYou almost killed me!â€, She said. <o:p></o:p></p>
 
 <p class="MsoNormal">Ash: Are you okay? *He notices her clothes, skin, hair, and
-then eyes, She’s black, purple jump suit. When he sees her eyes, he knows this
-is the girl he saw at the café yesterday. *<o:p></o:p></p>
+then eyes, Sheâ€™s black, purple jump suit. When he sees her eyes, he knows this
+is the girl he saw at the cafÃ© yesterday. *<o:p></o:p></p>
 
 <p class="MsoNormal">Lady: No thanks to you, where did you learn to drive, the
 autobahn? <o:p></o:p></p>
 
-<p class="MsoNormal">Ash: You’re fine. (trying to keep calm, calm is the goal, no
-sudden outbursts from Ash today, keep calm). What’s wrong with your car?<o:p></o:p></p>
+<p class="MsoNormal">Ash: Youâ€™re fine. (trying to keep calm, calm is the goal, no
+sudden outbursts from Ash today, keep calm). Whatâ€™s wrong with your car?<o:p></o:p></p>
 
 <p class="MsoNormal">Lady: *flushes, a little. His calm making her outburst feel
 petty, she slightly changes her tone* I think I blew a tire? I was trying to
-see when you… (catches herself, changes her tone)… When you drove by. <o:p></o:p></p>
+see when youâ€¦ (catches herself, changes her tone)â€¦ When you drove by. <o:p></o:p></p>
 
 <p class="MsoNormal">Ash: Let me check it out.<o:p></o:p></p>
 
-<p class="MsoNormal">*She motions to him that it’s all his, and she steps away
-from the car. Ash checks out the rear tire, it’s not just a blown tire, it’s a
-blown axle? Or bearing… or something big.*<o:p></o:p></p>
+<p class="MsoNormal">*She motions to him that itâ€™s all his, and she steps away
+from the car. Ash checks out the rear tire, itâ€™s not just a blown tire, itâ€™s a
+blown axle? Or bearingâ€¦ or something big.*<o:p></o:p></p>
 
-<p class="MsoNormal">Ash: This isn’t just your tire, whatever hit the tire hit
-the…. ((Brake line?))… You won’t be driving this car anywhere today. <o:p></o:p></p>
+<p class="MsoNormal">Ash: This isnâ€™t just your tire, whatever hit the tire hit
+theâ€¦. ((Brake line?))â€¦ You wonâ€™t be driving this car anywhere today. <o:p></o:p></p>
 
 <p class="MsoNormal">Lady: Great, just great, this is a rental you know?! Stuck
 in the middle of nowhere. GPS said this was the best way to go. Where even am
 I? <o:p></o:p></p>
 
-<p class="MsoNormal">Ash: You’re 10 minutes outside of town. <o:p></o:p></p>
+<p class="MsoNormal">Ash: Youâ€™re 10 minutes outside of town. <o:p></o:p></p>
 
 <p class="MsoNormal">Lady: Ah. I think I got turned around. I was told there are
 great views in these mountains, but I got lost a few times on dirt roads. Dirt,
-can you believe that? GPS said the road had a name, but it’s got me driving on
+can you believe that? GPS said the road had a name, but itâ€™s got me driving on
 dirt. Unbelievable.<o:p></o:p></p>
 
 <p class="MsoNormal">Ash: Those are roads, it takes outsiders a bit to get used
 to. Dirt and Gravel still gets us to and from, and we name them. **This
-objectively terrible dialog, but I’m leaving until I actually work on this tory
+objectively terrible dialog, but Iâ€™m leaving until I actually work on this tory
 after the outline.<o:p></o:p></p>
 
 <p class="MsoNormal">Lady: I was trying to sight-see early, there is some small-town
-market is happening today, or so I’m told. <o:p></o:p></p>
+market is happening today, or so Iâ€™m told. <o:p></o:p></p>
 
-<p class="MsoNormal">Ash: I’m on the way there now. Why don’t you get whatever
-you need out of the car and I’ll take you there. We can get a tow truck to come
+<p class="MsoNormal">Ash: Iâ€™m on the way there now. Why donâ€™t you get whatever
+you need out of the car and Iâ€™ll take you there. We can get a tow truck to come
 pick this up and bring it into town. <o:p></o:p></p>
 
 <p class="MsoNormal">Lady: (*sighs, looks longingly at the car, squints at the
-truck, and sighs again*) Thank you, um… What’s your name?<o:p></o:p></p>
+truck, and sighs again*) Thank you, umâ€¦ Whatâ€™s your name?<o:p></o:p></p>
 
 <p class="MsoNormal">Ash: They call me Ash.<o:p></o:p></p>
 
-<p class="MsoNormal">Lady: I’m Destiny, like Destiny’s child, but I’m not the
-child, I’m Destiny. I’m not your Destiny, obviously, or maybe I am. Because
-here we are in the middle of nowhere… I’m sorry. I’m rambling. I ramble. It’s
+<p class="MsoNormal">Lady: Iâ€™m Destiny, like Destinyâ€™s child, but Iâ€™m not the
+child, Iâ€™m Destiny. Iâ€™m not your Destiny, obviously, or maybe I am. Because
+here we are in the middle of nowhereâ€¦ Iâ€™m sorry. Iâ€™m rambling. I ramble. Itâ€™s
 how I process almost being killed on the road by a guy in a truck. *bites her
 lip to stop talking*<o:p></o:p></p>
 
-<p class="MsoNormal">Ash: I’ll clear out the passenger seat for you, just get
+<p class="MsoNormal">Ash: Iâ€™ll clear out the passenger seat for you, just get
 whatever you need. If you need help, I can carry stuff. <o:p></o:p></p>
 
-<p class="MsoNormal">Lady: I wasn’t planning on this being a trip, I only have one
+<p class="MsoNormal">Lady: I wasnâ€™t planning on this being a trip, I only have one
 backpack with me. <o:p></o:p></p>
 
 <p class="MsoNormal">She grabs the backpack and keys, looks again at the car, and
-sighs, then heads to Ash’s truck with him. <o:p></o:p></p>
+sighs, then heads to Ashâ€™s truck with him. <o:p></o:p></p>
 
 <p class="MsoNormal">She notices the front damage and how pristine the classic
 truck is otherwise, and winces again. <o:p></o:p></p>
 
-<p class="MsoNormal">Lady: I’m really sorry, truly. That sucks. <o:p></o:p></p>
+<p class="MsoNormal">Lady: Iâ€™m really sorry, truly. That sucks. <o:p></o:p></p>
 
 <p class="MsoNormal">Ash nods, but says nothing. <o:p></o:p></p>
 
@@ -7197,18 +7197,18 @@ and holds the door for her. <o:p></o:p></p>
 
 <p class="MsoNormal">Destiny takes a nervous look at the rifle in the back
 window, but then hops in. Ash closes the door with a clang, and walks around to
-the driver’s side.<o:p></o:p></p>
+the driverâ€™s side.<o:p></o:p></p>
 
-<p class="MsoNormal">They start driving…. <o:p></o:p></p>
+<p class="MsoNormal">They start drivingâ€¦. <o:p></o:p></p>
 
 <p class="MsoNormal"><o:p>&nbsp;</o:p></p>
 
-<h2>Beat 2 – Yes (finally gets set up at the market) / BUT constant
+<h2>Beat 2 â€“ Yes (finally gets set up at the market) / BUT constant
 interruptions and now the lady is back. <o:p></o:p></h2>
 
 <p class="MsoNormal">As they pull into town, Ash drops by the garage and
 introduces her to Sheffield, the town mechanic. Sheffield laments the damage
-Ash did to Betsy, and Ash tells him to stop calling his truck by that name. &nbsp;Ash explains what’s up with her rental car. Sheffield
+Ash did to Betsy, and Ash tells him to stop calling his truck by that name. &nbsp;Ash explains whatâ€™s up with her rental car. Sheffield
 agrees to pick it up for her in his tow truck, and assess the damage. She gives
 him her business card. Then they drive down to the end of town to the town park,
 where everyone is setting up for the market. He drops Destiny off at the
@@ -7223,27 +7223,27 @@ explanation getting shorter. <o:p></o:p></p>
 
 <p class="MsoNormal">He is finally set up, and hoping for just a few minutes to
 settle his nerves in one of the chairs before the event really kicks off. He
-closes his eyes and starts his embodiment exercises when Destiny’s voice speaks
+closes his eyes and starts his embodiment exercises when Destinyâ€™s voice speaks
 up from just in front of him. <o:p></o:p></p>
 
 <p class="MsoNormal">*He is startled, he was lost in thought, and her sudden
-appearance makes him jump scared. That’s the second time in two days he wasn’t
+appearance makes him jump scared. Thatâ€™s the second time in two days he wasnâ€™t
 aware of his surroundings enough to notice someone approach his presence.
-That’s unlike him. He must be coming down with something?*<o:p></o:p></p>
+Thatâ€™s unlike him. He must be coming down with something?*<o:p></o:p></p>
 
 <p class="MsoNormal">Destiny: You have really great stuff, do you make all this
 yourself? <o:p></o:p></p>
 
-<p class="MsoNormal">*Blood pressure rises, peace, calm, still… opens eyes* <o:p></o:p></p>
+<p class="MsoNormal">*Blood pressure rises, peace, calm, stillâ€¦ opens eyes* <o:p></o:p></p>
 
-<p class="MsoNormal">***Some dialogue, and then….*** Do you mind if I hang out
+<p class="MsoNormal">***Some dialogue, and thenâ€¦.*** Do you mind if I hang out
 with you, since I know you now, and you have these great chairs? <o:p></o:p></p>
 
 <p class="MsoNormal"><o:p>&nbsp;</o:p></p>
 
 <p class="MsoNormal"><o:p>&nbsp;</o:p></p>
 
-<h2>Beat 3 – Yes he gets the market going with positive results / BUT She won’t
+<h2>Beat 3 â€“ Yes he gets the market going with positive results / BUT She wonâ€™t
 shut the fuck up or go away for long enough for him to breath.<o:p></o:p></h2>
 
 <p class="MsoNormal">Destiny ends up leaving a few times, but keeps returning to
@@ -7251,24 +7251,24 @@ sit in his chairs. She calls out to passers by and ends up bringing quite a few
 people into his booth. While annoying to his need for peace, she made him more
 sales and more information requests than any previous market, even during busy
 season. She even manages to grab Ned and keep him distracted every time he
-drops by, showing him that she’s a news person makes Ned want to impress her,
-and Ned takes her to show her the market a few times. “Have you met…” <o:p></o:p></p>
+drops by, showing him that sheâ€™s a news person makes Ned want to impress her,
+and Ned takes her to show her the market a few times. â€œHave you metâ€¦â€ <o:p></o:p></p>
 
-<p class="MsoNormal">She’s not bad to have around… BUT…. She won’t shut the fuck
+<p class="MsoNormal">Sheâ€™s not bad to have aroundâ€¦ BUTâ€¦. She wonâ€™t shut the fuck
 up or go away for long enough for him to breath.<o:p></o:p></p>
 
 <p class="MsoNormal">This beat should be a never ending series of interruptions
 of his peace, and yet her helpfulness, making him feel overwhelmed and confused
-but grateful for the results. If he didn’t find humans so difficult, he would
+but grateful for the results. If he didnâ€™t find humans so difficult, he would
 try to hire her to help with sales. Lol <o:p></o:p></p>
 
 <p class="MsoNormal"><o:p>&nbsp;</o:p></p>
 
-<h2>Beat 4 – Yes - Ash has a successful market / BUT it was chaotic and
+<h2>Beat 4 â€“ Yes - Ash has a successful market / BUT it was chaotic and
 draining, and now a date and The Business Card?! <o:p></o:p></h2>
 
 <p class="MsoNormal">Ash has a successful market / BUT it was chaotic and
-draining, and now… The Business Card?!<o:p></o:p></p>
+draining, and nowâ€¦ The Business Card?!<o:p></o:p></p>
 
 <p class="MsoNormal">Ash is wrapping up his sales, cleaning up his table, and taking
 all the interest cards from the coffee tin and putting them into his zipper
@@ -7284,23 +7284,23 @@ the same gentleman as yesterday falls out of the pile and lands on the table
 next to the laptop. There is no note, no handwritten explanation, just a new
 copy of the card. <o:p></o:p></p>
 
-<p class="MsoNormal">Ash didn’t remember seeing this guy today, when did he stop
+<p class="MsoNormal">Ash didnâ€™t remember seeing this guy today, when did he stop
 by? How did he make it to the table without Ash knowing or seeing? Was Destiny
-so distracting that he wouldn’t have noticed? She’s definitely… distracting… in
-more ways than one… but he should have noticed an odd looking fellow like he
+so distracting that he wouldnâ€™t have noticed? Sheâ€™s definitelyâ€¦ distractingâ€¦ in
+more ways than oneâ€¦ but he should have noticed an odd looking fellow like he
 met yesterday. <o:p></o:p></p>
 
-<p class="MsoNormal">(Ash doesn’t know, but one of the kids who stopped by to
+<p class="MsoNormal">(Ash doesnâ€™t know, but one of the kids who stopped by to
 look at his figurines dropped the card in there for the man)<o:p></o:p></p>
 
 <p class="MsoNormal">Ash rips the card up, and tosses it in the trash can nearby.
-He doesn’t have any need for odd people showing up with mystery offers, he
+He doesnâ€™t have any need for odd people showing up with mystery offers, he
 wants peace and quite and to live a normal life despite his disability.<o:p></o:p></p>
 
 <p class="MsoNormal">Destiny shows up again, and asks him if she can take him to
 dinner, on her dime, for all the help he gave her getting to town, and the
-mechanic, and giving her an inside view of the market for her story… Her
-story!? Why IS she here? This sounds like trouble I don’t need…. <o:p></o:p></p>
+mechanic, and giving her an inside view of the market for her storyâ€¦ Her
+story!? Why IS she here? This sounds like trouble I donâ€™t needâ€¦. <o:p></o:p></p>
 
 <h2>Sequel (Reaction Dilemma Decision)<o:p></o:p></h2>
 
@@ -7308,25 +7308,25 @@ story!? Why IS she here? This sounds like trouble I don’t need…. <o:p></o:p>
 
 <p class="MsoNormal">Destiny insists that she needs to repay him for his time,
 and he is hungry, he had originally intended to get food before the market, and
-he only had time for snacks from vendors between things… and he’s probably
-going to the town’s only restaurant where she is going to be too, so they may
-as well go together… and she’s not so hard on the eyes, and her way with people
-was pretty impressive… against his better judgment, he said yes.<o:p></o:p></p>
+he only had time for snacks from vendors between thingsâ€¦ and heâ€™s probably
+going to the townâ€™s only restaurant where she is going to be too, so they may
+as well go togetherâ€¦ and sheâ€™s not so hard on the eyes, and her way with people
+was pretty impressiveâ€¦ against his better judgment, he said yes.<o:p></o:p></p>
 
-<p class="MsoNormal">Lady: Great, it’s a date. <o:p></o:p></p>
+<p class="MsoNormal">Lady: Great, itâ€™s a date. <o:p></o:p></p>
 
 <p class="MsoNormal">Ash: A date?<o:p></o:p></p>
 
 <p class="MsoNormal">She winks, and rushes off to speak to another vendor, and grabs
-Neds arm taking him away from Ash’s booth, winking at Ash behind Ned’s back on
+Neds arm taking him away from Ashâ€™s booth, winking at Ash behind Nedâ€™s back on
 the way.<o:p></o:p></p>
 
 <p class="MsoNormal">Ash reluctantly admits she kept Ned away, and so he resigns
-that this won’t be the most awful way to spend the rest of the evening. <o:p></o:p></p>
+that this wonâ€™t be the most awful way to spend the rest of the evening. <o:p></o:p></p>
 
 <p class="MsoNormal"><o:p>&nbsp;</o:p></p>
 
-<h1>Briar Texts as epigraphs before Ash’s POVs<o:p></o:p></h1>
+<h1>Briar Texts as epigraphs before Ashâ€™s POVs<o:p></o:p></h1>
 
 <h3>01/25/2025<o:p></o:p></h3>
 
@@ -7335,10 +7335,10 @@ that this won’t be the most awful way to spend the rest of the evening. <o:p><
 <p class="MsoNormal">(Goal Conflict Disaster)<o:p></o:p></p>
 
 <h2>Goal: Ash wants to have a dinner without issues, try to enjoy an
-interesting human’s conversation, and get home without looking or feeling
+interesting humanâ€™s conversation, and get home without looking or feeling
 crazy.<o:p></o:p></h2>
 
-<h2>Beat 1 – Yes they have dinner / But no it’s not without issues, in fact,
+<h2>Beat 1 â€“ Yes they have dinner / But no itâ€™s not without issues, in fact,
 his hallucinations are really bad tonight.<o:p></o:p></h2>
 
 <p class="MsoNormal">Ash parks his truck and trailer behind the Moose Lodge Bar
@@ -7347,8 +7347,8 @@ friendly conversation with the hostess, swapping numbers like they are lifelong
 best friends. <o:p></o:p></p>
 
 <p class="MsoNormal">They are seated by the window, near the fireplace, which
-Destiny had the hostess clean and ready for her, and Ash doesn’t need the menu
-because it’s the only restaurant in town and he has been here mostly his whole
+Destiny had the hostess clean and ready for her, and Ash doesnâ€™t need the menu
+because itâ€™s the only restaurant in town and he has been here mostly his whole
 life, but definitely nowhere else for the last ten years. But he gives her time
 to look and ask questions of the server, and look again, while he watches the
 sunset over the crest of the hill, behind the tree line. He notices the moon
@@ -7360,7 +7360,7 @@ as the sunset fades to dark blue. <o:p></o:p></p>
 <p class="MsoNormal">She orders, he orders his usual without having to say
 anything, because the server has known him for years. <o:p></o:p></p>
 
-<p class="MsoNormal">Dialogue ensues…. <o:p></o:p></p>
+<p class="MsoNormal">Dialogue ensuesâ€¦. <o:p></o:p></p>
 
 <p class="MsoNormal">***hallucination, try to look normal***<o:p></o:p></p>
 
@@ -7374,7 +7374,7 @@ assures her that it is not, and he is just uncomfortable in public something. <o
 <p class="MsoNormal">They discover something? <o:p></o:p></p>
 
 <p class="MsoNormal">Or his hallucinations worsen? Or they run into the guy with
-the business card? Or…. ??? <o:p></o:p></p>
+the business card? Orâ€¦. ??? <o:p></o:p></p>
 
 <p class="MsoNormal">Whatever it is, Ash finds it interesting but Destiny (a
 reporter) finds it fascinating, and she takes it with her to investigate. They
@@ -7382,37 +7382,37 @@ call it a night, and she returns to her hotel and he returns to his home. She
 invites him to stay at the hotel but he declines. <o:p></o:p></p>
 
 <p class="MsoNormal">*Could Briar be doing something from a distance that is
-turning off the volume on Ash’s hallucinations?*<o:p></o:p></p>
+turning off the volume on Ashâ€™s hallucinations?*<o:p></o:p></p>
 
 <h2>Sequel (Reaction Dilemma Decision)<o:p></o:p></h2>
 
 <p class="MsoNormal">Not EVERY scene needs three beats, esecpially if we weave in
-other Character’s POV and they have their own archs. This is a great moment to catch
-Ash’s reflection, pause, and jump to Destiny’s POV<o:p></o:p></p>
+other Characterâ€™s POV and they have their own archs. This is a great moment to catch
+Ashâ€™s reflection, pause, and jump to Destinyâ€™s POV<o:p></o:p></p>
 
 <p class="MsoNormal">What is the dilemma and how does it force a decision?<o:p></o:p></p>
 
-<p class="MsoListParagraph" style="mso-list: l0 level1 lfo21; tab-stops: list .5in; text-indent: -.25in;"><!--[if !supportLists]--><span style="font-family: Symbol; font-size: 10.0pt; line-height: 115%; mso-bidi-font-family: Symbol; mso-bidi-font-size: 12.0pt; mso-fareast-font-family: Symbol;">·<span style="font-family: &quot;Times New Roman&quot;; font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span><!--[endif]--><span dir="LTR"></span>What is Ashe’s reaction to
+<p class="MsoListParagraph" style="mso-list: l0 level1 lfo21; tab-stops: list .5in; text-indent: -.25in;"><!--[if !supportLists]--><span style="font-family: Symbol; font-size: 10.0pt; line-height: 115%; mso-bidi-font-family: Symbol; mso-bidi-font-size: 12.0pt; mso-fareast-font-family: Symbol;">Â·<span style="font-family: &quot;Times New Roman&quot;; font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><!--[endif]--><span dir="LTR"></span>What is Asheâ€™s reaction to
 this date?<o:p></o:p></p>
 
 <p class="MsoNormal"><o:p>&nbsp;</o:p></p>
 
-<h1>DESTINY’s POV ARCH HERE<o:p></o:p></h1>
+<h1>DESTINYâ€™s POV ARCH HERE<o:p></o:p></h1>
 
 <p class="MsoNormal"><o:p>&nbsp;</o:p></p>
 
-<h1>Briar Texts as epigraphs before Ash’s POVs<o:p></o:p></h1>
+<h1>Briar Texts as epigraphs before Ashâ€™s POVs<o:p></o:p></h1>
 
 <p class="MsoNormal"><o:p>&nbsp;</o:p></p>
 
-<h1>Scene (Goal Conflict Disaster) – Mystery – Information Plot<o:p></o:p></h1>
+<h1>Scene (Goal Conflict Disaster) â€“ Mystery â€“ Information Plot<o:p></o:p></h1>
 
 <h2>Goal: Ash wants to be left alone to sulk in his mental health crises,
 Destiny wants to enlist him in her new discovery. <o:p></o:p></h2>
 
-<h2>Beat 1 – NO (Ash isn’t left alone and can’t get her to go away) / AND
-Destiny is so convincing that now he’s considering helping her.<o:p></o:p></h2>
+<h2>Beat 1 â€“ NO (Ash isnâ€™t left alone and canâ€™t get her to go away) / AND
+Destiny is so convincing that now heâ€™s considering helping her.<o:p></o:p></h2>
 
 <p class="MsoNormal">Ash takes a lot of meds, stays in doors for days, as he
 often does, and Destiny calls a few times. He ignores the calls, but texts that
@@ -7422,30 +7422,30 @@ he is not feeling well and in no condition for a conversation. <o:p></o:p></p>
 discovered about the thing they found, and curious to see if he was just
 putting her off or if he was really not feeling well. <o:p></o:p></p>
 
-<p class="MsoNormal">She assumes he is physically ill, doesn’t realize he is
+<p class="MsoNormal">She assumes he is physically ill, doesnâ€™t realize he is
 mentally ill. The alcohol on his breath and unkept beard tell her that he is definitely
 not feeling well, whatever that means for him. <o:p></o:p></p>
 
-<p class="MsoNormal">But she’s still so insistent her learn what she learned,
-that he reluctantly let’s her inside as it is too cold to stand on the porch.<o:p></o:p></p>
+<p class="MsoNormal">But sheâ€™s still so insistent her learn what she learned,
+that he reluctantly letâ€™s her inside as it is too cold to stand on the porch.<o:p></o:p></p>
 
-<p class="MsoNormal">Enter – The Mystery – They learn about a clinic north of
+<p class="MsoNormal">Enter â€“ The Mystery â€“ They learn about a clinic north of
 town with strange reports of people gone missing and showing up dead. <o:p></o:p></p>
 
 <p class="MsoNormal" style="margin-left: .5in;"><i>*Ash will later learn that the
 people who run this clinic performed tests on him while he was in the military.
 They have former test subjects all over the nation, but found Ash especially
 promising and decided to set up shop near him to monitor his condition. The
-doctor he’s been seeing and getting prescriptions from is a plant by this
+doctor heâ€™s been seeing and getting prescriptions from is a plant by this
 clinic, and Dr Briar the man who performed these tests on Ash years ago is the
 man from the coffee shop. * <o:p></o:p></i></p>
 
 <p class="MsoNormal">Ash thinks people showing up at a medical clinic and then
-being found dead later is obvious. They were ill, the clinic couldn’t cure
-them, and they died. What’s the big deal? What’s the story? <o:p></o:p></p>
+being found dead later is obvious. They were ill, the clinic couldnâ€™t cure
+them, and they died. Whatâ€™s the big deal? Whatâ€™s the story? <o:p></o:p></p>
 
-<p class="MsoNormal">Destiny pushes back, they’re not just dead, like in their
-homes or at the hospital. They’re found dead in odd circumstances. A guy known
+<p class="MsoNormal">Destiny pushes back, theyâ€™re not just dead, like in their
+homes or at the hospital. Theyâ€™re found dead in odd circumstances. A guy known
 for being a recluse is found dead in the woods without any real hiking gear; a
 guy with a fancy home goes missing for months and then is found dead among a
 bunch of homeless people; a lady with a lifelong fear of cats is found being
@@ -7454,7 +7454,7 @@ be relatively stable before their visit to the clinic with no signs of mental
 or physical illness other than a mild depression, which is why they went to the
 clinic. <o:p></o:p></p>
 
-<p class="MsoNormal">**How does she know all this? She’s the reporter, what are
+<p class="MsoNormal">**How does she know all this? Sheâ€™s the reporter, what are
 her sources? News articles about the individuals but no reporter has tied them
 all to the clinic. And she checked into police reports, public records, court
 documents from when families sued, and kept following the trail. She searched
@@ -7462,16 +7462,16 @@ and found hundreds of random social media posts about these events from their
 family members, may of whom mentioned the clinic. However, while no reporter or
 public record mentioned the clinic, the social media posts by family members
 did. but she noticed the same clinic mentioned in the stories, and the same
-doctor (the guy’s name from the business card?!) She pulled LLC information
+doctor (the guyâ€™s name from the business card?!) She pulled LLC information
 from the secretary of state website and found the home office was just north of
-Ash’s town, but they had clinics in cities throughout the USA and maybe a few
+Ashâ€™s town, but they had clinics in cities throughout the USA and maybe a few
 internationally.***<o:p></o:p></p>
 
 <p class="MsoNormal">We can flush that all out, but, the end result is that she
-needs someone familiar with the area, who won’t get lost on the mountain roads
-where GPS is spotty, and it wouldn’t hurt that he has self defense training if anything
-weird happens. Which he thinks is a bit melodramatic, but, given what he’s seen
-so far where she will just enter random conversations with anyone, he wouldn’t
+needs someone familiar with the area, who wonâ€™t get lost on the mountain roads
+where GPS is spotty, and it wouldnâ€™t hurt that he has self defense training if anything
+weird happens. Which he thinks is a bit melodramatic, but, given what heâ€™s seen
+so far where she will just enter random conversations with anyone, he wouldnâ€™t
 be surprised if she got into trouble of some kind. God knows what. Besides her
 car is still down and she took an uber to get here. So he either has to tell
 her to uber back to her hotel (kind of rude), drive her to her hotel (better), or
@@ -7483,12 +7483,12 @@ finding her increasingly attractive despite himself?<o:p></o:p></h4>
 
 <p class="MsoNormal">&nbsp;<o:p></o:p></p>
 
-<p class="MsoNormal">NOTE: They aren’t motivated to drive north to check out the
-facility yet. That’s a jump from this meager amount of information and loose
+<p class="MsoNormal">NOTE: They arenâ€™t motivated to drive north to check out the
+facility yet. Thatâ€™s a jump from this meager amount of information and loose
 clues. But it does make her curious when he mentions the business card. Maybe
-they’ll go meet the strange guy together? Maybe that guy has been persistent
-and while Ash doesn’t want anything to do with it, Destiny is curious and the
-guy won’t leave Ash alone, so they go to meet him. <o:p></o:p></p>
+theyâ€™ll go meet the strange guy together? Maybe that guy has been persistent
+and while Ash doesnâ€™t want anything to do with it, Destiny is curious and the
+guy wonâ€™t leave Ash alone, so they go to meet him. <o:p></o:p></p>
 
 <p class="MsoNormal">Either way, he says yes. They head out. Fade to black. <o:p></o:p></p>
 
@@ -7496,21 +7496,21 @@ guy won’t leave Ash alone, so they go to meet him. <o:p></o:p></p>
 
 <h1>INCITING EVENT<o:p></o:p></h1>
 
-<h2>Beat 2 – NO (Ash isn’t left alone) / AND now he is a suspect in a murder investigation?
+<h2>Beat 2 â€“ NO (Ash isnâ€™t left alone) / AND now he is a suspect in a murder investigation?
 &nbsp;<o:p></o:p></h2>
 
 <p class="MsoNormal">Hijinks? Can we call Destiny a hijinks creator? LOL Shenanigans.
-Now he’s on the road with her, can he at least get through this day without the
+Now heâ€™s on the road with her, can he at least get through this day without the
 hallucinations making him look crazy? <o:p></o:p></p>
 
 <p class="MsoNormal">They want to meet with the business card guy. As they show
-up at the guy’s hotel room, they hear a commotion and a struggle. The business
-card guy’s room is ajar. They knock and the door opens on its own. They see a
-man lying in a pool of blood on the floor. Ash rushes to the man’s side and
+up at the guyâ€™s hotel room, they hear a commotion and a struggle. The business
+card guyâ€™s room is ajar. They knock and the door opens on its own. They see a
+man lying in a pool of blood on the floor. Ash rushes to the manâ€™s side and
 Destiny calls 911, which routes to the town Sherriff. Ash uses his emergency medical
 training from the military days to assess whatever would is causing the
-bleeding. When he turns the guy over, there is a knife sticking from the man’s
-chest, and it has Ash’s inscription on the back. Then he realizes, this is his
+bleeding. When he turns the guy over, there is a knife sticking from the manâ€™s
+chest, and it has Ashâ€™s inscription on the back. Then he realizes, this is his
 doctor, the psychiatrist he has been seeing for his medication and counseling. <o:p></o:p></p>
 
 <p class="MsoNormal">Does Ash save his life or does he die in his arms? Not sure.
@@ -7526,43 +7526,43 @@ be lying, so he has his suspicions still. <o:p></o:p></p>
 <h1 style="margin-left: .5in;">Maybe not this but something like it. Maybe his psychiatrist
 is dead not the guy with the business card? <o:p></o:p></h1>
 
-<h1 style="margin-left: .5in;">Scene (Goal Conflict Disaster) – Recon<o:p></o:p></h1>
+<h1 style="margin-left: .5in;">Scene (Goal Conflict Disaster) â€“ Recon<o:p></o:p></h1>
 
-<p class="MsoNormal" style="margin-left: .5in;"><i>Question: If he doesn’t come to
-meet the man, the man or his associates could show up when Ash isn’t looking or
+<p class="MsoNormal" style="margin-left: .5in;"><i>Question: If he doesnâ€™t come to
+meet the man, the man or his associates could show up when Ash isnâ€™t looking or
 ready. It would be better to face the issue head on. He decides to check out
-the guy’s hotel room, do some recon before agreeing to meet.<o:p></o:p></i></p>
+the guyâ€™s hotel room, do some recon before agreeing to meet.<o:p></o:p></i></p>
 
 <p class="MsoNormal" style="margin-left: .5in;"><i>Goal: He wants to figure out if
 this man is a threat or not and go back to his normal life.<o:p></o:p></i></p>
 
-<h2 style="margin-left: .5in;">Beat 1 – No/And Ash can’t find anything out about
-the man, AND…?<o:p></o:p></h2>
+<h2 style="margin-left: .5in;">Beat 1 â€“ No/And Ash canâ€™t find anything out about
+the man, ANDâ€¦?<o:p></o:p></h2>
 
 <p class="MsoNormal" style="margin-left: .5in;"><i>Ash scopes out the hotel, asks a
 few town locals about any odd visitors. <o:p></o:p></i></p>
 
-<h2 style="margin-left: .5in;">Beat 2 – No/And He goes to confront the man, he
-doesn’t get to AND the man is dead.<o:p></o:p></h2>
+<h2 style="margin-left: .5in;">Beat 2 â€“ No/And He goes to confront the man, he
+doesnâ€™t get to AND the man is dead.<o:p></o:p></h2>
 
 <p class="MsoNormal" style="margin-left: .5in;"><i>When he finally goes to the
 hotel room, he approaches to find the door kicked up and lock busted. He starts
-to pull his weapon but realizes he doesn’t have a gun. He does; however, have a
+to pull his weapon but realizes he doesnâ€™t have a gun. He does; however, have a
 utility knife he keeps on his belt, so he pulls this. <o:p></o:p></i></p>
 
 <p class="MsoNormal" style="margin-left: .5in;"><i>As Ash peaks inside the cracked
 doorway, he sees the stranger from earlier dead on the carpet, blood pouring
 over the rug. Ash rushes in, sweeps for other intruders, finds none, and checks
-the man’s pulse, there is none. Ash doesn’t carry a phone, so he starts to look
+the manâ€™s pulse, there is none. Ash doesnâ€™t carry a phone, so he starts to look
 for the hotel phone. <o:p></o:p></i></p>
 
-<h2 style="margin-left: .5in;">Beat 3 – No/And He doesn’t find out why the man is
-there AND he’s under arrest?! <o:p></o:p></h2>
+<h2 style="margin-left: .5in;">Beat 3 â€“ No/And He doesnâ€™t find out why the man is
+there AND heâ€™s under arrest?! <o:p></o:p></h2>
 
 <p class="MsoNormal" style="margin-left: .5in;"><i>As he picks it up to call the
 town Sherrif, that very Sherrif walks into the hotel room and sees the scene,
-the knife in Ash’s hand, and blood on his hand (from checking his pulse), and
-pulls his gun. “Ash, what did you do?” <o:p></o:p></i></p>
+the knife in Ashâ€™s hand, and blood on his hand (from checking his pulse), and
+pulls his gun. â€œAsh, what did you do?â€ <o:p></o:p></i></p>
 
 <h2 style="margin-left: .5in;">Sequel (Reaction Dilemma Decision)<o:p></o:p></h2>
 
@@ -7573,49 +7573,31 @@ pulls his gun. “Ash, what did you do?” <o:p></o:p></i></p>
 <p class="MsoNormal">What is the dilemma and how does it force a decision?<o:p></o:p></p>
 
 <p class="MsoNormal">Ash and Destiny find a place to debrief and regulate after
-the experience of finding someone dead. Even with Ash’s background, this is
+the experience of finding someone dead. Even with Ashâ€™s background, this is
 traumatic. What are some ways they might be processing the event? PTSD, Numb,
 Hysteria, other? Might be good to pull in some trauma informed therapy resources
 for this scene when it comes time to describe how they are feeling and acting.
-I imagine Ash is numb but panicking a little because that was the guy who’s
-keeping his meds stable. I imagine Destiny is morbidly curious, “Did you see
-how…”, intellectualizing the trauma through reporter brain. <o:p></o:p></p>
+I imagine Ash is numb but panicking a little because that was the guy whoâ€™s
+keeping his meds stable. I imagine Destiny is morbidly curious, â€œDid you see
+howâ€¦â€, intellectualizing the trauma through reporter brain. <o:p></o:p></p>
 
-<p class="MsoNormal">This death marks the Inciting Event. This is the moment Ash’s
+<p class="MsoNormal">This death marks the Inciting Event. This is the moment Ashâ€™s
 world is rocked. His Psychiatrist is dead. The world is shook up. And the
 mystery person is calling him into conflict. But Ash can still say no, find a
-new Psychiatrist, and walk away. And that’s exactly what he wants to do, and
+new Psychiatrist, and walk away. And thatâ€™s exactly what he wants to do, and
 tries to do, but Briar, Destiny, and events refuse to let him. <o:p></o:p></p>
 
 <p class="MsoNormal"><o:p>&nbsp;</o:p></p>
 
 <h1>Scene (Goal Conflict Disaster)<o:p></o:p></h1>
 
-<h2>Goal: He/She wants… <o:p></o:p></h2>
+<h2>Goal: He/She wantsâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 1 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 1 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 2 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 2 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 3 - Yes/But or No/And… <o:p></o:p></h2>
-
-<h2>Sequel (Reaction Dilemma Decision)<o:p></o:p></h2>
-
-<p class="MsoNormal">What is the dilemma and how does it force a decision?<o:p></o:p></p>
-
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
-
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
-
-<h1>Scene (Goal Conflict Disaster)<o:p></o:p></h1>
-
-<h2>Goal: He/She wants… <o:p></o:p></h2>
-
-<h2>Beat 1 - Yes/But or No/And… <o:p></o:p></h2>
-
-<h2>Beat 2 - Yes/But or No/And… <o:p></o:p></h2>
-
-<h2>Beat 3 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 3 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
 <h2>Sequel (Reaction Dilemma Decision)<o:p></o:p></h2>
 
@@ -7627,59 +7609,13 @@ tries to do, but Briar, Destiny, and events refuse to let him. <o:p></o:p></p>
 
 <h1>Scene (Goal Conflict Disaster)<o:p></o:p></h1>
 
-<h2>Goal: He/She wants… <o:p></o:p></h2>
+<h2>Goal: He/She wantsâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 1 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 1 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 2 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 2 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 3 - Yes/But or No/And… <o:p></o:p></h2>
-
-<h2>Sequel (Reaction Dilemma Decision)<o:p></o:p></h2>
-
-<p class="MsoNormal">What is the dilemma and how does it force a decision?<o:p></o:p></p>
-
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
-
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
-
-<h1>Scene (Goal Conflict Disaster)<o:p></o:p></h1>
-
-<h2>Goal: He/She wants… <o:p></o:p></h2>
-
-<h2>Beat 1 - Yes/But or No/And… <o:p></o:p></h2>
-
-<h2>Beat 2 - Yes/But or No/And… <o:p></o:p></h2>
-
-<h2>Beat 3 - Yes/But or No/And… <o:p></o:p></h2>
-
-<h2>Sequel (Reaction Dilemma Decision)<o:p></o:p></h2>
-
-<p class="MsoNormal">What is the dilemma and how does it force a decision?<o:p></o:p></p>
-
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
-
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
-
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
-
-<h1>NO TURNING BACK – 1<sup>st</sup> Plot Point – Point of No Return for Ash<o:p></o:p></h1>
-
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
-
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
-
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
-
-<h1>Scene (Goal Conflict Disaster)<o:p></o:p></h1>
-
-<h2>Goal: He/She wants… <o:p></o:p></h2>
-
-<h2>Beat 1 - Yes/But or No/And… <o:p></o:p></h2>
-
-<h2>Beat 2 - Yes/But or No/And… <o:p></o:p></h2>
-
-<h2>Beat 3 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 3 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
 <h2>Sequel (Reaction Dilemma Decision)<o:p></o:p></h2>
 
@@ -7691,13 +7627,13 @@ tries to do, but Briar, Destiny, and events refuse to let him. <o:p></o:p></p>
 
 <h1>Scene (Goal Conflict Disaster)<o:p></o:p></h1>
 
-<h2>Goal: He/She wants… <o:p></o:p></h2>
+<h2>Goal: He/She wantsâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 1 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 1 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 2 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 2 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 3 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 3 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
 <h2>Sequel (Reaction Dilemma Decision)<o:p></o:p></h2>
 
@@ -7709,13 +7645,13 @@ tries to do, but Briar, Destiny, and events refuse to let him. <o:p></o:p></p>
 
 <h1>Scene (Goal Conflict Disaster)<o:p></o:p></h1>
 
-<h2>Goal: He/She wants… <o:p></o:p></h2>
+<h2>Goal: He/She wantsâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 1 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 1 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 2 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 2 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 3 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 3 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
 <h2>Sequel (Reaction Dilemma Decision)<o:p></o:p></h2>
 
@@ -7725,38 +7661,84 @@ tries to do, but Briar, Destiny, and events refuse to let him. <o:p></o:p></p>
 
 <p class="MsoNormal"><o:p>&nbsp;</o:p></p>
 
-<h1>1<sup>st</sup> Pinch Point – Antagonist Power demo – New Clues about the
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+
+<h1>NO TURNING BACK â€“ 1<sup>st</sup> Plot Point â€“ Point of No Return for Ash<o:p></o:p></h1>
+
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+
+<h1>Scene (Goal Conflict Disaster)<o:p></o:p></h1>
+
+<h2>Goal: He/She wantsâ€¦ <o:p></o:p></h2>
+
+<h2>Beat 1 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
+
+<h2>Beat 2 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
+
+<h2>Beat 3 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
+
+<h2>Sequel (Reaction Dilemma Decision)<o:p></o:p></h2>
+
+<p class="MsoNormal">What is the dilemma and how does it force a decision?<o:p></o:p></p>
+
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+
+<h1>Scene (Goal Conflict Disaster)<o:p></o:p></h1>
+
+<h2>Goal: He/She wantsâ€¦ <o:p></o:p></h2>
+
+<h2>Beat 1 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
+
+<h2>Beat 2 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
+
+<h2>Beat 3 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
+
+<h2>Sequel (Reaction Dilemma Decision)<o:p></o:p></h2>
+
+<p class="MsoNormal">What is the dilemma and how does it force a decision?<o:p></o:p></p>
+
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+
+<h1>Scene (Goal Conflict Disaster)<o:p></o:p></h1>
+
+<h2>Goal: He/She wantsâ€¦ <o:p></o:p></h2>
+
+<h2>Beat 1 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
+
+<h2>Beat 2 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
+
+<h2>Beat 3 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
+
+<h2>Sequel (Reaction Dilemma Decision)<o:p></o:p></h2>
+
+<p class="MsoNormal">What is the dilemma and how does it force a decision?<o:p></o:p></p>
+
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+
+<h1>1<sup>st</sup> Pinch Point â€“ Antagonist Power demo â€“ New Clues about the
 nature of the conflict<o:p></o:p></h1>
 
 <p class="MsoNormal"><o:p>&nbsp;</o:p></p>
 
 <h1>Scene (Goal Conflict Disaster)<o:p></o:p></h1>
 
-<h2>Goal: He/She wants… <o:p></o:p></h2>
+<h2>Goal: He/She wantsâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 1 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 1 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 2 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 2 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 3 - Yes/But or No/And… <o:p></o:p></h2>
-
-<h2>Sequel (Reaction Dilemma Decision)<o:p></o:p></h2>
-
-<p class="MsoNormal">What is the dilemma and how does it force a decision?<o:p></o:p></p>
-
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
-
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
-
-<h1>Scene (Goal Conflict Disaster)<o:p></o:p></h1>
-
-<h2>Goal: He/She wants… <o:p></o:p></h2>
-
-<h2>Beat 1 - Yes/But or No/And… <o:p></o:p></h2>
-
-<h2>Beat 2 - Yes/But or No/And… <o:p></o:p></h2>
-
-<h2>Beat 3 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 3 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
 <h2>Sequel (Reaction Dilemma Decision)<o:p></o:p></h2>
 
@@ -7768,31 +7750,13 @@ nature of the conflict<o:p></o:p></h1>
 
 <h1>Scene (Goal Conflict Disaster)<o:p></o:p></h1>
 
-<h2>Goal: He/She wants… <o:p></o:p></h2>
+<h2>Goal: He/She wantsâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 1 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 1 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 2 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 2 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 3 - Yes/But or No/And… <o:p></o:p></h2>
-
-<h2>Sequel (Reaction Dilemma Decision)<o:p></o:p></h2>
-
-<p class="MsoNormal">What is the dilemma and how does it force a decision?<o:p></o:p></p>
-
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
-
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
-
-<h1>Scene (Goal Conflict Disaster)<o:p></o:p></h1>
-
-<h2>Goal: He/She wants… <o:p></o:p></h2>
-
-<h2>Beat 1 - Yes/But or No/And… <o:p></o:p></h2>
-
-<h2>Beat 2 - Yes/But or No/And… <o:p></o:p></h2>
-
-<h2>Beat 3 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 3 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
 <h2>Sequel (Reaction Dilemma Decision)<o:p></o:p></h2>
 
@@ -7804,31 +7768,13 @@ nature of the conflict<o:p></o:p></h1>
 
 <h1>Scene (Goal Conflict Disaster)<o:p></o:p></h1>
 
-<h2>Goal: He/She wants… <o:p></o:p></h2>
+<h2>Goal: He/She wantsâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 1 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 1 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 2 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 2 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 3 - Yes/But or No/And… <o:p></o:p></h2>
-
-<h2>Sequel (Reaction Dilemma Decision)<o:p></o:p></h2>
-
-<p class="MsoNormal">What is the dilemma and how does it force a decision?<o:p></o:p></p>
-
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
-
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
-
-<h1>Scene (Goal Conflict Disaster)<o:p></o:p></h1>
-
-<h2>Goal: He/She wants… <o:p></o:p></h2>
-
-<h2>Beat 1 - Yes/But or No/And… <o:p></o:p></h2>
-
-<h2>Beat 2 - Yes/But or No/And… <o:p></o:p></h2>
-
-<h2>Beat 3 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 3 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
 <h2>Sequel (Reaction Dilemma Decision)<o:p></o:p></h2>
 
@@ -7840,31 +7786,13 @@ nature of the conflict<o:p></o:p></h1>
 
 <h1>Scene (Goal Conflict Disaster)<o:p></o:p></h1>
 
-<h2>Goal: He/She wants… <o:p></o:p></h2>
+<h2>Goal: He/She wantsâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 1 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 1 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 2 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 2 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 3 - Yes/But or No/And… <o:p></o:p></h2>
-
-<h2>Sequel (Reaction Dilemma Decision)<o:p></o:p></h2>
-
-<p class="MsoNormal">What is the dilemma and how does it force a decision?<o:p></o:p></p>
-
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
-
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
-
-<h1>Scene (Goal Conflict Disaster)<o:p></o:p></h1>
-
-<h2>Goal: He/She wants… <o:p></o:p></h2>
-
-<h2>Beat 1 - Yes/But or No/And… <o:p></o:p></h2>
-
-<h2>Beat 2 - Yes/But or No/And… <o:p></o:p></h2>
-
-<h2>Beat 3 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 3 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
 <h2>Sequel (Reaction Dilemma Decision)<o:p></o:p></h2>
 
@@ -7876,13 +7804,13 @@ nature of the conflict<o:p></o:p></h1>
 
 <h1>Scene (Goal Conflict Disaster)<o:p></o:p></h1>
 
-<h2>Goal: He/She wants… <o:p></o:p></h2>
+<h2>Goal: He/She wantsâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 1 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 1 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 2 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 2 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 3 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 3 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
 <h2>Sequel (Reaction Dilemma Decision)<o:p></o:p></h2>
 
@@ -7892,38 +7820,92 @@ nature of the conflict<o:p></o:p></h1>
 
 <p class="MsoNormal"><o:p>&nbsp;</o:p></p>
 
-<h1>MIDPOINT – The Moment of Truth. Ash will realize the central truth and
+<h1>Scene (Goal Conflict Disaster)<o:p></o:p></h1>
+
+<h2>Goal: He/She wantsâ€¦ <o:p></o:p></h2>
+
+<h2>Beat 1 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
+
+<h2>Beat 2 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
+
+<h2>Beat 3 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
+
+<h2>Sequel (Reaction Dilemma Decision)<o:p></o:p></h2>
+
+<p class="MsoNormal">What is the dilemma and how does it force a decision?<o:p></o:p></p>
+
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+
+<h1>Scene (Goal Conflict Disaster)<o:p></o:p></h1>
+
+<h2>Goal: He/She wantsâ€¦ <o:p></o:p></h2>
+
+<h2>Beat 1 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
+
+<h2>Beat 2 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
+
+<h2>Beat 3 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
+
+<h2>Sequel (Reaction Dilemma Decision)<o:p></o:p></h2>
+
+<p class="MsoNormal">What is the dilemma and how does it force a decision?<o:p></o:p></p>
+
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+
+<h1>Scene (Goal Conflict Disaster)<o:p></o:p></h1>
+
+<h2>Goal: He/She wantsâ€¦ <o:p></o:p></h2>
+
+<h2>Beat 1 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
+
+<h2>Beat 2 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
+
+<h2>Beat 3 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
+
+<h2>Sequel (Reaction Dilemma Decision)<o:p></o:p></h2>
+
+<p class="MsoNormal">What is the dilemma and how does it force a decision?<o:p></o:p></p>
+
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+
+<h1>Scene (Goal Conflict Disaster)<o:p></o:p></h1>
+
+<h2>Goal: He/She wantsâ€¦ <o:p></o:p></h2>
+
+<h2>Beat 1 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
+
+<h2>Beat 2 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
+
+<h2>Beat 3 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
+
+<h2>Sequel (Reaction Dilemma Decision)<o:p></o:p></h2>
+
+<p class="MsoNormal">What is the dilemma and how does it force a decision?<o:p></o:p></p>
+
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+
+<h1>MIDPOINT â€“ The Moment of Truth. Ash will realize the central truth and
 nature of the conflict.<o:p></o:p></h1>
 
 <p class="MsoNormal"><o:p>&nbsp;</o:p></p>
 
 <h1>Scene (Goal Conflict Disaster)<o:p></o:p></h1>
 
-<h2>Goal: He/She wants… <o:p></o:p></h2>
+<h2>Goal: He/She wantsâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 1 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 1 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 2 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 2 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 3 - Yes/But or No/And… <o:p></o:p></h2>
-
-<h2>Sequel (Reaction Dilemma Decision)<o:p></o:p></h2>
-
-<p class="MsoNormal">What is the dilemma and how does it force a decision?<o:p></o:p></p>
-
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
-
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
-
-<h1>Scene (Goal Conflict Disaster)<o:p></o:p></h1>
-
-<h2>Goal: He/She wants… <o:p></o:p></h2>
-
-<h2>Beat 1 - Yes/But or No/And… <o:p></o:p></h2>
-
-<h2>Beat 2 - Yes/But or No/And… <o:p></o:p></h2>
-
-<h2>Beat 3 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 3 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
 <h2>Sequel (Reaction Dilemma Decision)<o:p></o:p></h2>
 
@@ -7935,13 +7917,13 @@ nature of the conflict.<o:p></o:p></h1>
 
 <h1>Scene (Goal Conflict Disaster)<o:p></o:p></h1>
 
-<h2>Goal: He/She wants… <o:p></o:p></h2>
+<h2>Goal: He/She wantsâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 1 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 1 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 2 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 2 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 3 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 3 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
 <h2>Sequel (Reaction Dilemma Decision)<o:p></o:p></h2>
 
@@ -7949,20 +7931,38 @@ nature of the conflict.<o:p></o:p></h1>
 
 <p class="MsoNormal"><o:p>&nbsp;</o:p></p>
 
-<h1>2<sup>nd</sup> Pinch Point – Foreshadows the third plot point, reminds him
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+
+<h1>Scene (Goal Conflict Disaster)<o:p></o:p></h1>
+
+<h2>Goal: He/She wantsâ€¦ <o:p></o:p></h2>
+
+<h2>Beat 1 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
+
+<h2>Beat 2 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
+
+<h2>Beat 3 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
+
+<h2>Sequel (Reaction Dilemma Decision)<o:p></o:p></h2>
+
+<p class="MsoNormal">What is the dilemma and how does it force a decision?<o:p></o:p></p>
+
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+
+<h1>2<sup>nd</sup> Pinch Point â€“ Foreshadows the third plot point, reminds him
 what is at stake<o:p></o:p></h1>
 
 <p class="MsoNormal"><o:p>&nbsp;</o:p></p>
 
 <h1>Scene (Goal Conflict Disaster)<o:p></o:p></h1>
 
-<h2>Goal: He/She wants… <o:p></o:p></h2>
+<h2>Goal: He/She wantsâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 1 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 1 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 2 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 2 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 3 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 3 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
 <h2>Sequel (Reaction Dilemma Decision)<o:p></o:p></h2>
 
@@ -7974,13 +7974,13 @@ what is at stake<o:p></o:p></h1>
 
 <h1>Scene (Goal Conflict Disaster)<o:p></o:p></h1>
 
-<h2>Goal: He/She wants… <o:p></o:p></h2>
+<h2>Goal: He/She wantsâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 1 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 1 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 2 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 2 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 3 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 3 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
 <h2>Sequel (Reaction Dilemma Decision)<o:p></o:p></h2>
 
@@ -7988,7 +7988,7 @@ what is at stake<o:p></o:p></h1>
 
 <p class="MsoNormal"><o:p>&nbsp;</o:p></p>
 
-<h1>3<sup>rd</sup> Plot Point – A dark moment for Ash. He has some kind of victory
+<h1>3<sup>rd</sup> Plot Point â€“ A dark moment for Ash. He has some kind of victory
 at the midpoint (physical or psychological) and now he sees a reversal of his
 good fortunes<o:p></o:p></h1>
 
@@ -7996,31 +7996,13 @@ good fortunes<o:p></o:p></h1>
 
 <h1>Scene (Goal Conflict Disaster)<o:p></o:p></h1>
 
-<h2>Goal: He/She wants… <o:p></o:p></h2>
+<h2>Goal: He/She wantsâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 1 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 1 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 2 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 2 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 3 - Yes/But or No/And… <o:p></o:p></h2>
-
-<h2>Sequel (Reaction Dilemma Decision)<o:p></o:p></h2>
-
-<p class="MsoNormal">What is the dilemma and how does it force a decision?<o:p></o:p></p>
-
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
-
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
-
-<h1>Scene (Goal Conflict Disaster)<o:p></o:p></h1>
-
-<h2>Goal: He/She wants… <o:p></o:p></h2>
-
-<h2>Beat 1 - Yes/But or No/And… <o:p></o:p></h2>
-
-<h2>Beat 2 - Yes/But or No/And… <o:p></o:p></h2>
-
-<h2>Beat 3 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 3 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
 <h2>Sequel (Reaction Dilemma Decision)<o:p></o:p></h2>
 
@@ -8032,31 +8014,13 @@ good fortunes<o:p></o:p></h1>
 
 <h1>Scene (Goal Conflict Disaster)<o:p></o:p></h1>
 
-<h2>Goal: He/She wants… <o:p></o:p></h2>
+<h2>Goal: He/She wantsâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 1 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 1 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 2 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 2 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 3 - Yes/But or No/And… <o:p></o:p></h2>
-
-<h2>Sequel (Reaction Dilemma Decision)<o:p></o:p></h2>
-
-<p class="MsoNormal">What is the dilemma and how does it force a decision?<o:p></o:p></p>
-
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
-
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
-
-<h1>Scene (Goal Conflict Disaster)<o:p></o:p></h1>
-
-<h2>Goal: He/She wants… <o:p></o:p></h2>
-
-<h2>Beat 1 - Yes/But or No/And… <o:p></o:p></h2>
-
-<h2>Beat 2 - Yes/But or No/And… <o:p></o:p></h2>
-
-<h2>Beat 3 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 3 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
 <h2>Sequel (Reaction Dilemma Decision)<o:p></o:p></h2>
 
@@ -8068,13 +8032,49 @@ good fortunes<o:p></o:p></h1>
 
 <h1>Scene (Goal Conflict Disaster)<o:p></o:p></h1>
 
-<h2>Goal: He/She wants… <o:p></o:p></h2>
+<h2>Goal: He/She wantsâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 1 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 1 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 2 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 2 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 3 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 3 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
+
+<h2>Sequel (Reaction Dilemma Decision)<o:p></o:p></h2>
+
+<p class="MsoNormal">What is the dilemma and how does it force a decision?<o:p></o:p></p>
+
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+
+<h1>Scene (Goal Conflict Disaster)<o:p></o:p></h1>
+
+<h2>Goal: He/She wantsâ€¦ <o:p></o:p></h2>
+
+<h2>Beat 1 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
+
+<h2>Beat 2 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
+
+<h2>Beat 3 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
+
+<h2>Sequel (Reaction Dilemma Decision)<o:p></o:p></h2>
+
+<p class="MsoNormal">What is the dilemma and how does it force a decision?<o:p></o:p></p>
+
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+
+<h1>Scene (Goal Conflict Disaster)<o:p></o:p></h1>
+
+<h2>Goal: He/She wantsâ€¦ <o:p></o:p></h2>
+
+<h2>Beat 1 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
+
+<h2>Beat 2 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
+
+<h2>Beat 3 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
 <h2>Sequel (Reaction Dilemma Decision)<o:p></o:p></h2>
 
@@ -8091,31 +8091,13 @@ and ramping up in a quicker pace<o:p></o:p></h1>
 
 <h1>Scene (Goal Conflict Disaster)<o:p></o:p></h1>
 
-<h2>Goal: He/She wants… <o:p></o:p></h2>
+<h2>Goal: He/She wantsâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 1 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 1 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 2 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 2 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 3 - Yes/But or No/And… <o:p></o:p></h2>
-
-<h2>Sequel (Reaction Dilemma Decision)<o:p></o:p></h2>
-
-<p class="MsoNormal">What is the dilemma and how does it force a decision?<o:p></o:p></p>
-
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
-
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
-
-<h1>Scene (Goal Conflict Disaster)<o:p></o:p></h1>
-
-<h2>Goal: He/She wants… <o:p></o:p></h2>
-
-<h2>Beat 1 - Yes/But or No/And… <o:p></o:p></h2>
-
-<h2>Beat 2 - Yes/But or No/And… <o:p></o:p></h2>
-
-<h2>Beat 3 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 3 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
 <h2>Sequel (Reaction Dilemma Decision)<o:p></o:p></h2>
 
@@ -8127,13 +8109,13 @@ and ramping up in a quicker pace<o:p></o:p></h1>
 
 <h1>Scene (Goal Conflict Disaster)<o:p></o:p></h1>
 
-<h2>Goal: He/She wants… <o:p></o:p></h2>
+<h2>Goal: He/She wantsâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 1 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 1 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 2 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 2 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 3 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 3 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
 <h2>Sequel (Reaction Dilemma Decision)<o:p></o:p></h2>
 
@@ -8143,26 +8125,44 @@ and ramping up in a quicker pace<o:p></o:p></h1>
 
 <p class="MsoNormal"><o:p>&nbsp;</o:p></p>
 
-<h1>CLIMACTIC MOMENT – This is the moment Ash achieves the story goal, defeats
+<h1>Scene (Goal Conflict Disaster)<o:p></o:p></h1>
+
+<h2>Goal: He/She wantsâ€¦ <o:p></o:p></h2>
+
+<h2>Beat 1 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
+
+<h2>Beat 2 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
+
+<h2>Beat 3 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
+
+<h2>Sequel (Reaction Dilemma Decision)<o:p></o:p></h2>
+
+<p class="MsoNormal">What is the dilemma and how does it force a decision?<o:p></o:p></p>
+
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+
+<h1>CLIMACTIC MOMENT â€“ This is the moment Ash achieves the story goal, defeats
 the conflict, and the story is essentially over. Except for some clean up and
 resolves. <o:p></o:p></h1>
 
 <p class="MsoNormal"><o:p>&nbsp;</o:p></p>
 
-<h1>Resolution(s) – Ease the readers out, show Ash and Destiny and Briar in
+<h1>Resolution(s) â€“ Ease the readers out, show Ash and Destiny and Briar in
 their new realities. Hint at what might come.<o:p></o:p></h1>
 
 <p class="MsoNormal"><o:p>&nbsp;</o:p></p>
 
 <h1>Scene (Goal Conflict Disaster)<o:p></o:p></h1>
 
-<h2>Goal: He/She wants… <o:p></o:p></h2>
+<h2>Goal: He/She wantsâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 1 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 1 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 2 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 2 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
-<h2>Beat 3 - Yes/But or No/And… <o:p></o:p></h2>
+<h2>Beat 3 - Yes/But or No/Andâ€¦ <o:p></o:p></h2>
 
 <h2>Sequel (Reaction Dilemma Decision)<o:p></o:p></h2>
 
@@ -8234,3 +8234,4 @@ active, and often quite intelligent pet.<o:p></o:p></p>
 <span style="font-family: &quot;tempus sans itc&quot;;"><a href="https://www.16personalities.com/infj-personality" target="_blank">16Personalities</a> (Myers-Briggs Type): INFJ</span><br />
 <span style="font-family: &quot;tempus sans itc&quot;;"><br /></span>
 <span style="font-family: &quot;tempus sans itc&quot;;"><br /></span></div>
+

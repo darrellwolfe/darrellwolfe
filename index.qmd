@@ -1,17 +1,17 @@
-﻿---
-pagetitle: "Darrell Wolfe | Creative Writing, Biblical Studies, Data Storytelling, Data Analysis, and Personal Essays"
-description: "Welcome to Darrell Wolfe's personal website: one home for creative writing, biblical studies, data storytelling, data analysis, and personal essays."
+---
+pagetitle: "Darrell Wolfe | Storyteller, Data Nerd, Biblical Studies Thinker, and Professional Collector of Too Many Interests"
+description: "Stories, systems, scripture, spreadsheets, and the strange overlap between them."
 ---
 
 ::: {.hero-shell}
 # Darrell Wolfe {.hero-title}
 
-Stories, systems, scripture, spreadsheets, and the strange overlap between them.
+Storyteller, Data Nerd, Biblical Studies Thinker, and Professional Collector of Too Many Interests
 
-I'm a storyteller who works across creative writing, biblical studies, data storytelling, data analysis, and personal essays. If that sounds like an odd mix, that is exactly the point: I care about meaning, pattern, structure, and story wherever they show up.
+Stories, systems, scripture, spreadsheets, and the strange overlap between them. This is the home for all of it: creative writing, biblical studies, data storytelling, and personal essays.
 
 ::: {.hero-actions}
-[Creative Writing](posts/writing/index.qmd){.btn .btn-primary}
+[Author](posts/writing/index.qmd){.btn .btn-primary}
 [Biblical Studies](posts/biblical/index.qmd){.btn .btn-outline-primary}
 [Data Nerd](posts/data-nerd/index.qmd){.btn .btn-outline-primary}
 [Personal](posts/personal/index.qmd){.btn .btn-outline-secondary}
@@ -21,41 +21,44 @@ I'm a storyteller who works across creative writing, biblical studies, data stor
 ::: {.section-panel}
 ## Start Here
 
-Welcome. This site is my central online home, not a side project for one topic.
+Welcome to my digital home.
 
-For a long time, different parts of my work lived in different places: one place for writing, one place for biblical studies, one place for data work, one place for personal reflection. It looked organized, but it felt disconnected. The truth is these parts were never separate for me, and I no longer wanted separate homes pretending they were.
+I built this site to hold the full range of what I do instead of splitting it into separate, disconnected brands. Because the truth is, these interests were never separate. They all come from the same fascination with meaning, pattern, structure, and story.
+
+Here you'll find fiction and worldbuilding, biblical studies and historical context, practical data work and visualization, and personal writing that doesn't fit neatly anywhere else.
 :::
 
 ## Browse by Section
 
 ::: {.card-grid}
 ::: {.card}
-### [Creative Writing](posts/writing/index.qmd)
-Short fiction, worldbuilding, strange ideas that refused to stay quiet, and experiments where voice and structure matter as much as plot.
+### [Author](posts/writing/index.qmd)
+Speculative fiction, story craft, worldbuilding, and the ongoing work of becoming a better writer.
 :::
 
 ::: {.card}
 ### [Biblical Studies](posts/biblical/index.qmd)
-Reading scripture with context, language, and careful attention, not hot takes. Notes, reflections, and long-form biblical studies that take the text seriously.
+Research, interpretation, and reflections shaped by ancient context and a deep interest in reading texts well.
 :::
 
 ::: {.card}
 ### [Data Nerd](posts/data-nerd/index.qmd)
-Data storytelling and data analysis through SQL, dashboards, visual patterns, and practical write-ups that turn messy numbers into useful decisions.
+SQL, dashboards, reporting, analytics, automation, and the craft of making information useful.
 :::
 
 ::: {.card}
 ### [Personal](posts/personal/index.qmd)
-Personal essays on growth, grief, learning, faith, and everyday life; less polished brand voice, more honest field notes from a real human.
+Essays, reflections, side quests, and the rest of the glorious mess.
 :::
 :::
 
 ::: {.section-panel}
 ## Why This Site Exists
 
-This is one home with different rooms.
+For a long time, I treated these as separate parts of my life. But they belong together.
 
-I'm not trying to maintain separate identities. I'm trying to do integrated work and live an integrated life. Creative writing sharpens how I tell a story. Biblical studies sharpens how I read meaning. Data work sharpens how I see pattern and structure. Personal writing keeps all of it honest.
+This site is one place for the full picture: the writer, the analyst, the researcher, the question-asker, and the human being trying to make sense of things.
 
-If any of that resonates, explore the room that fits you best and wander from there.
+Take a look around.
 :::
+

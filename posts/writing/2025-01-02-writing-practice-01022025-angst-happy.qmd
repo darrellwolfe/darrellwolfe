@@ -1,7 +1,7 @@
----
+﻿---
 title: 'Writing Practice 01/02/2025 | Angst the happy dragon'
 date: '2025-01-02T18:00:00.0030000+00:00'
-draft: true
+draft: false
 blogger_blog: 'Darrell Wolfe, Storyteller'
 blogger_status: 'LIVE'
 blogger_post_id: '5675057188346894772'
@@ -11,18 +11,18 @@ categories:
   - 'Writing Practice'
 ---
 
-<p>*From a conversation about a book Preston was reading… this phrase came up. Good prompt.</p>
+<p>*From a conversation about a book Preston was readingâ€¦ this phrase came up. Good prompt.</p>
 <p>How does one get ready for their appointment with God?</p>
 <hr />
 <hr />
 <hr />
 <hr />
 <hr />
-<p>“How does one get ready for their appointment with a god?” L’Ang asked. He turned to his dragon, waiting for a response.</p>
-<p>Angst, the tiny pet dragon, sat on his perch near the window, soaking the rare winter sunshine through the window. He nodded thoughtfully for a moment. “I see your predicament. It’s not an entirely uncommon experience, but it’s not exactly a daily experience either. What does one say, ‘Howdy there diety, how’s the weather?’ That would seem an odd start, indeed.” Angst the dragon smiled to himself, amused at the idea.</p>
-<p>L’Ang crossed the room to stand next to Angst, intending to look out the window, but he caught his own reflection instead. He began fussing over the grey hairs beginning to shoot up in his otherwise jet black hair. “I’m not sure what one is to say to a god… Or, for that matter, why he wants to see me… me of all people.”</p>
-<p>“You fuss too much,” Angst said, then shook his wings and stretch them before hopping onto L’Angs shoulder. “Let’s go outside and take a walk, that seems to help you regulate.”</p>
-<p>“You’re a good friend, Angst.” L’Ang replied, and then walked outside to the path leading into the forest.</p>
+<p>â€œHow does one get ready for their appointment with a god?â€ Lâ€™Ang asked. He turned to his dragon, waiting for a response.</p>
+<p>Angst, the tiny pet dragon, sat on his perch near the window, soaking the rare winter sunshine through the window. He nodded thoughtfully for a moment. â€œI see your predicament. Itâ€™s not an entirely uncommon experience, but itâ€™s not exactly a daily experience either. What does one say, â€˜Howdy there diety, howâ€™s the weather?â€™ That would seem an odd start, indeed.â€ Angst the dragon smiled to himself, amused at the idea.</p>
+<p>Lâ€™Ang crossed the room to stand next to Angst, intending to look out the window, but he caught his own reflection instead. He began fussing over the grey hairs beginning to shoot up in his otherwise jet black hair. â€œIâ€™m not sure what one is to say to a godâ€¦ Or, for that matter, why he wants to see meâ€¦ me of all people.â€</p>
+<p>â€œYou fuss too much,â€ Angst said, then shook his wings and stretch them before hopping onto Lâ€™Angs shoulder. â€œLetâ€™s go outside and take a walk, that seems to help you regulate.â€</p>
+<p>â€œYouâ€™re a good friend, Angst.â€ Lâ€™Ang replied, and then walked outside to the path leading into the forest.</p>
 <!-- notionvc: 1e11b263-fc6f-43c5-9cfa-ec3a80d2e4c2 -->
 <br />
 <br />
@@ -51,3 +51,4 @@ categories:
 <span style="font-family: &quot;tempus sans itc&quot;;"><a href="https://www.16personalities.com/infj-personality" target="_blank">16Personalities</a> (Myers-Briggs Type): INFJ</span><br />
 <span style="font-family: &quot;tempus sans itc&quot;;"><br /></span>
 <span style="font-family: &quot;tempus sans itc&quot;;"><br /></span></div>
+

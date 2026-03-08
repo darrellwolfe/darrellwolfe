@@ -1,7 +1,7 @@
----
+﻿---
 title: 'Darrell''s Writing Plan for 2025'
 date: '2025-01-20T04:44:00.0000000+00:00'
-draft: true
+draft: false
 blogger_blog: 'Darrell Wolfe, Storyteller'
 blogger_status: 'LIVE'
 blogger_post_id: '2806942849623368886'
@@ -14,7 +14,7 @@ I've written three versions of my first novel, and ran into the same issues in t
 
 <h3 style="text-align: left;">Scene (Goal Conflict Disaster)</h3>
 
-<h3 style="text-align: left;">Goal: He/She wants…<br /> Beat 1 - Yes/But or No/And…<br /> Beat 2 - Yes/But or No/And…<br /> Beat 3 - Yes/But or No/And…<br /> Sequel (Reaction Dilemma Decision)</h3>
+<h3 style="text-align: left;">Goal: He/She wantsâ€¦<br /> Beat 1 - Yes/But or No/Andâ€¦<br /> Beat 2 - Yes/But or No/Andâ€¦<br /> Beat 3 - Yes/But or No/Andâ€¦<br /> Sequel (Reaction Dilemma Decision)</h3>
 
 
 
@@ -51,3 +51,4 @@ Examples here:&nbsp;<a href="https://www.darrellwolfe.com/2025/01/yesand-yesbut-
 <span style="font-family: &quot;tempus sans itc&quot;;"><a href="https://www.16personalities.com/infj-personality" target="_blank">16Personalities</a> (Myers-Briggs Type): INFJ</span><br />
 <span style="font-family: &quot;tempus sans itc&quot;;"><br /></span>
 <span style="font-family: &quot;tempus sans itc&quot;;"><br /></span></div>
+
