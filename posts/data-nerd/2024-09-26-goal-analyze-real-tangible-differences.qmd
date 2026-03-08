@@ -2,11 +2,6 @@
 title: 'Goal: Analyze real tangible differences in quality of life for American citizens'
 date: '2024-09-26T16:22:00.0000000+00:00'
 draft: false
-blogger_blog: 'Topos Creative, LLC'
-blogger_status: 'LIVE'
-blogger_post_id: '5402639823086630118'
-blogger_filename: '/2024/09/goal-analyze-real-tangible-differences.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Topos Creative, LLC/feed.atom'
 categories:
   - 'AI_Assisted_Research'
 ---

@@ -2,15 +2,10 @@
 title: 'Class Assignment: John 2.13-15 Table Flipping Jesus in the Fourth Gospel'
 date: '2025-05-09T06:32:00.0010000+00:00'
 draft: false
-blogger_blog: 'NoHiding.Faith'
-blogger_status: 'LIVE'
-blogger_post_id: '9187782268574590166'
-blogger_filename: '/2025/05/class-assignment-john-213-15-table.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/NoHiding.Faith/feed.atom'
 categories:
   - 'Class Assignment'
 ---
-
+~~~{=html}
 <div>For a link to this paper in paper format:&nbsp;<a href="https://www.academia.edu/129202852/John_2_13_15_Table_Flipping_Jesus_in_the_Fourth_Gospel">John 2.13-15 Table Flipping Jesus in the Fourth Gospel</a></div><div><br /></div><div><p align="center" class="MsoNormal" style="line-height: normal; text-align: center;"><span style="text-align: left;">INTERPRETIVE WORKING PAPER (IWP)</span></p>
 
 <p align="center" class="MsoNormal" style="line-height: normal; text-align: center;"><span style="text-align: left;">John 2:13–25 | Table Flipping
@@ -1845,3 +1840,4 @@ Storyteller | Writer | Thinker | Consultant | Freelancer | Bible Nerd
 <br /><br /><br />
 
 </div>
+~~~

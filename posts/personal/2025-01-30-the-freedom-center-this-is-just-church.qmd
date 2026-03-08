@@ -2,11 +2,6 @@
 title: 'The Freedom Center --> This is just a church... isn''t it? Sigh....'
 date: '2025-01-30T04:00:00.0000000+00:00'
 draft: false
-blogger_blog: 'Darrell Wolfe, Storyteller'
-blogger_status: 'LIVE'
-blogger_post_id: '41378166722070611'
-blogger_filename: '/2025/01/the-freedom-center-this-is-just-church.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
 categories:
   - 'psychology'
   - 'counseling'

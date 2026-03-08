@@ -2,11 +2,6 @@
 title: 'No Hiding Manifesto: How to pursue a more authentic relationship with God, others, and yourself.'
 date: '2019-11-20T23:17:00.0000000+00:00'
 draft: false
-blogger_blog: 'Darrell Wolfe, Storyteller'
-blogger_status: 'LIVE'
-blogger_post_id: '7034641739142813383'
-blogger_filename: '/2019/11/no-hiding-manifesto-how-to-pursue-more.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
 categories:
   - 'Musings'
 ---

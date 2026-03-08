@@ -2,11 +2,6 @@
 title: 'Suicide: Can suicide send you to hell?'
 date: '2018-01-15T07:08:00.0000000+00:00'
 draft: false
-blogger_blog: 'Darrell Wolfe, Storyteller'
-blogger_status: 'LIVE'
-blogger_post_id: '5587261056865408877'
-blogger_filename: '/2018/01/suicide-can-suicide-send-you-to-hell.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
 categories:
   - 'Studies'
   - 'bible'

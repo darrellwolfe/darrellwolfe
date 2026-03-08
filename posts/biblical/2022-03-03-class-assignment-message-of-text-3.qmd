@@ -2,11 +2,6 @@
 title: 'Class Assignment: The Message of the Text: Zephaniah (Long Version was too long for assignment but I enjoyed writing it all so I''m posting it here).'
 date: '2022-03-03T07:03:00.0020000+00:00'
 draft: false
-blogger_blog: 'NoHiding.Faith'
-blogger_status: 'LIVE'
-blogger_post_id: '8431697033792704734'
-blogger_filename: '/2022/03/class-assignment-message-of-text_3.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/NoHiding.Faith/feed.atom'
 categories:
   - 'Class Assignment'
 ---

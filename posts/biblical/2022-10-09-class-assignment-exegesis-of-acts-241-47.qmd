@@ -2,11 +2,6 @@
 title: 'Class Assignment: Exegesis of Acts 2:41-47'
 date: '2022-10-09T22:21:00.0050000+00:00'
 draft: false
-blogger_blog: 'NoHiding.Faith'
-blogger_status: 'LIVE'
-blogger_post_id: '7043051630255709068'
-blogger_filename: '/2022/10/class-assignment-exegesis-of-acts-241-47.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/NoHiding.Faith/feed.atom'
 categories:
   - 'Class Assignment'
 ---

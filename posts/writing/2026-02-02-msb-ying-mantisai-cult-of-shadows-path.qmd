@@ -1,12 +1,7 @@
-﻿---
+---
 title: 'MSB: An-Ying, Mantisai, Cult of Shadows, Path of Smoke & Shadows...'
 date: '2026-02-02T06:07:00.0000000+00:00'
 draft: false
-blogger_blog: 'Darrell Wolfe, Storyteller'
-blogger_status: 'LIVE'
-blogger_post_id: '561335802210349739'
-blogger_filename: '/2026/02/msb-ying-mantisai-cult-of-shadows-path.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
 categories:
   - 'MSB'
   - 'Character Sketch'

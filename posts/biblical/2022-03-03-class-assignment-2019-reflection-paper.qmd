@@ -2,11 +2,6 @@
 title: 'Class Assignment (2019): Reflection Paper Understanding Scripture'
 date: '2022-03-03T07:07:00.0030000+00:00'
 draft: false
-blogger_blog: 'NoHiding.Faith'
-blogger_status: 'LIVE'
-blogger_post_id: '6603086156162213261'
-blogger_filename: '/2022/03/class-assignment-2019-reflection-paper.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/NoHiding.Faith/feed.atom'
 categories:
   - 'Class Assignment'
 ---

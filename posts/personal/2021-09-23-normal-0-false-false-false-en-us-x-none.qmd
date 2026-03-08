@@ -2,11 +2,6 @@
 title: 'Class Assignment: Gospel Reading: What is "The Gospel" according to Matthew, Mark, Luke, and John'
 date: '2021-09-23T03:53:00.0040000+00:00'
 draft: false
-blogger_blog: 'Darrell Wolfe, Storyteller'
-blogger_status: 'LIVE'
-blogger_post_id: '9209000576414340103'
-blogger_filename: '/2021/09/normal-0-false-false-false-en-us-x-none.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
 categories:
   - 'Class Assignment'
   - 'Biblical Studies'

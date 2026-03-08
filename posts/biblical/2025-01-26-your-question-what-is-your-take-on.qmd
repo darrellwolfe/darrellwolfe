@@ -2,11 +2,6 @@
 title: 'Your Question: What is your take on Original Sin or the state of sinfulness of human beings?'
 date: '2025-01-26T02:28:00.0070000+00:00'
 draft: false
-blogger_blog: 'NoHiding.Faith'
-blogger_status: 'LIVE'
-blogger_post_id: '255699343274571557'
-blogger_filename: '/2025/01/your-question-what-is-your-take-on.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/NoHiding.Faith/feed.atom'
 categories:
   - 'Class Discussion Posts'
   - 'Sin'

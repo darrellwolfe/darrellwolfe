@@ -1,12 +1,7 @@
-﻿---
+---
 title: 'Chapter 2 - Dinosaurs, Magic Lessons, and a Wolf Killer'
 date: '2025-02-22T09:01:00.0000000+00:00'
 draft: false
-blogger_blog: 'Darrell Wolfe, Storyteller'
-blogger_status: 'LIVE'
-blogger_post_id: '2240407711243564043'
-blogger_filename: '/2025/02/dinosaurs-magic-lessons-and-wolf-killer.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
 categories:
   - 'MSB'
 ---

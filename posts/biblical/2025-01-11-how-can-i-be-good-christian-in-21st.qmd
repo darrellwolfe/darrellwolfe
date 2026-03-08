@@ -2,11 +2,6 @@
 title: 'How can I be a "Good Christian" in the 21st century?'
 date: '2025-01-11T07:25:00.0020000+00:00'
 draft: false
-blogger_blog: 'NoHiding.Faith'
-blogger_status: 'LIVE'
-blogger_post_id: '5157566177452096702'
-blogger_filename: '/2025/01/how-can-i-be-good-christian-in-21st.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/NoHiding.Faith/feed.atom'
 categories:
   - 'Class Assignment'
   - 'Thinking Biblically'

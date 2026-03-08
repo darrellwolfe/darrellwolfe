@@ -2,10 +2,6 @@
 title: 'Untitled Post'
 date: '2022-05-24T16:21:00.0000000+00:00'
 draft: false
-blogger_blog: 'NoHiding.Faith'
-blogger_status: 'DRAFT'
-blogger_post_id: '202306741251130597'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/NoHiding.Faith/feed.atom'
 ---
 
 <p>&nbsp;</p><p><br /></p><p><br /></p><p class="p13" style="margin-left: 0rem; min-height: 16px; text-indent: 1.5rem;"><b>Darrell Wolfe,&nbsp;<a href="http://www.nohiding.faith/p/blog-page.html" target="_blank">Storyteller at NoHiding.Faith</a></b></p><p class="p13" style="margin-left: 0rem; min-height: 16px; text-indent: 1.5rem;"><br style="font-family: &quot;Sitka Text&quot;; font-size: 16px;" /></p>

@@ -2,10 +2,6 @@
 title: 'Excel: Power Query ChatSonic'
 date: '2023-09-08T04:24:00.0010000+00:00'
 draft: false
-blogger_blog: 'Topos Creative, LLC'
-blogger_status: 'DRAFT'
-blogger_post_id: '5236909387131622649'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Topos Creative, LLC/feed.atom'
 ---
 
 <br />

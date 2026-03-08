@@ -2,11 +2,6 @@
 title: 'Authoritarian Pastor, a case study in spiritual abuse and un-Christlike authority claims by Pentecostal circles.'
 date: '2025-03-31T21:02:00.0030000+00:00'
 draft: false
-blogger_blog: 'NoHiding.Faith'
-blogger_status: 'LIVE'
-blogger_post_id: '331807423502044870'
-blogger_filename: '/2025/03/authoritarian-pastor-case-study-in.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/NoHiding.Faith/feed.atom'
 categories:
   - 'Class Assignment'
   - 'Leadership'

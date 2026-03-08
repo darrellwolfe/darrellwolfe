@@ -2,11 +2,6 @@
 title: 'Eternal Life: Do you know that means? I didn''t.'
 date: '2021-06-10T16:56:00.0010000+00:00'
 draft: false
-blogger_blog: 'Darrell Wolfe, Storyteller'
-blogger_status: 'LIVE'
-blogger_post_id: '8025521436596627074'
-blogger_filename: '/2021/06/eternal-life-do-you-know-that-means-i.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
 categories:
   - 'Musings'
 ---

@@ -2,11 +2,6 @@
 title: 'Learning Coding Fundamentals with Python and SQL'
 date: '2024-03-31T06:15:00.0000000+00:00'
 draft: false
-blogger_blog: 'Topos Creative, LLC'
-blogger_status: 'LIVE'
-blogger_post_id: '1763501567906669980'
-blogger_filename: '/2024/03/learning-coding-fundamentals-with.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Topos Creative, LLC/feed.atom'
 categories:
   - 'Coding'
   - 'SQL'

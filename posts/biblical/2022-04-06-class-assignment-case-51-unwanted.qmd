@@ -2,11 +2,6 @@
 title: 'Class Assignment: Case 5.1: The Unwanted Pregnancy'
 date: '2022-04-06T05:01:00.0050000+00:00'
 draft: false
-blogger_blog: 'NoHiding.Faith'
-blogger_status: 'LIVE'
-blogger_post_id: '1805814267126771711'
-blogger_filename: '/2022/04/class-assignment-case-51-unwanted.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/NoHiding.Faith/feed.atom'
 categories:
   - 'Class Assignment'
   - 'Ethics'

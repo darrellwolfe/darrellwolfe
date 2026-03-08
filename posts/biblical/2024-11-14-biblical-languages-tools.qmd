@@ -2,11 +2,6 @@
 title: 'Biblical Languages Tools'
 date: '2024-11-14T01:09:00.0040000+00:00'
 draft: false
-blogger_blog: 'NoHiding.Faith'
-blogger_status: 'LIVE'
-blogger_post_id: '5050901518927502405'
-blogger_filename: '/2024/11/biblical-languages-tools.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/NoHiding.Faith/feed.atom'
 categories:
   - 'Language'
   - 'Hebrew'

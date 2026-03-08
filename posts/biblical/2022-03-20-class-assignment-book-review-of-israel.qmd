@@ -2,11 +2,6 @@
 title: 'Class Assignment: A BOOK REVIEW OF: ISRAEL MATTERS: WHY CHRISTIANS MUST THINK DIFFERENTLY ABOUT THE PEOPLE AND THE LAND. By MCDERMOTT, GERALD'
 date: '2022-03-20T02:52:00.0030000+00:00'
 draft: false
-blogger_blog: 'NoHiding.Faith'
-blogger_status: 'LIVE'
-blogger_post_id: '467417745418265011'
-blogger_filename: '/2022/03/class-assignment-book-review-of-israel.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/NoHiding.Faith/feed.atom'
 categories:
   - 'Class Assignment'
   - 'Israel'

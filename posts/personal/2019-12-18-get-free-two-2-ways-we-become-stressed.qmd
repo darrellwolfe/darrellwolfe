@@ -2,11 +2,6 @@
 title: 'Get Free: Two (2) ways we become stressed under pressure and one solution to both problems.'
 date: '2019-12-18T06:42:00.0030000+00:00'
 draft: false
-blogger_blog: 'Darrell Wolfe, Storyteller'
-blogger_status: 'LIVE'
-blogger_post_id: '5348233423527217204'
-blogger_filename: '/2019/12/get-free-two-2-ways-we-become-stressed.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
 categories:
   - 'Musings'
 ---

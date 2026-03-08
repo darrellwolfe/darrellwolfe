@@ -2,11 +2,6 @@
 title: 'Moon-Wolf Hollow #WhiteNoise'
 date: '2023-11-26T04:20:00.0000000+00:00'
 draft: false
-blogger_blog: 'Darrell Wolfe, Storyteller'
-blogger_status: 'LIVE'
-blogger_post_id: '6330951126536719716'
-blogger_filename: '/2023/11/moon-wolf-hollow-whitenoise_25.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
 categories:
   - 'White Noise'
 ---

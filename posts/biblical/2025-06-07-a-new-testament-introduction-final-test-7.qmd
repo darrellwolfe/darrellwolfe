@@ -2,11 +2,6 @@
 title: 'A New Testament Introduction Final Test (Student Project) Part 2 The Answer Key'
 date: '2025-06-07T07:12:00.0010000+00:00'
 draft: false
-blogger_blog: 'NoHiding.Faith'
-blogger_status: 'LIVE'
-blogger_post_id: '6047317165714444267'
-blogger_filename: '/2025/06/a-new-testament-introduction-final-test_7.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/NoHiding.Faith/feed.atom'
 categories:
   - 'Class Assignment'
   - 'Seminary Course Work'

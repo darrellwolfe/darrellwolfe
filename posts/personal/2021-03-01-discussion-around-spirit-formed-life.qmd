@@ -2,11 +2,6 @@
 title: 'Discussion around "The Spirit Formed Life" for class.'
 date: '2021-03-01T03:10:00.0000000+00:00'
 draft: false
-blogger_blog: 'Darrell Wolfe, Storyteller'
-blogger_status: 'LIVE'
-blogger_post_id: '2753768684305247877'
-blogger_filename: '/2021/02/discussion-around-spirit-formed-life.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
 categories:
   - 'Studies'
 ---

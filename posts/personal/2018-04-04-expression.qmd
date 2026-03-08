@@ -2,11 +2,6 @@
 title: 'Expression...'
 date: '2018-04-04T06:04:00.0010000+00:00'
 draft: false
-blogger_blog: 'Darrell Wolfe, Storyteller'
-blogger_status: 'LIVE'
-blogger_post_id: '6604368987555276060'
-blogger_filename: '/2018/04/expression.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
 ---
 
 <div dir="ltr">

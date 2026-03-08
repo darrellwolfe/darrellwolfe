@@ -2,11 +2,6 @@
 title: 'And thus, a new chapter begins, if you''ll pardon the pun...'
 date: '2023-12-31T08:26:00.0000000+00:00'
 draft: false
-blogger_blog: 'Darrell Wolfe, Storyteller'
-blogger_status: 'LIVE'
-blogger_post_id: '7912425579020305200'
-blogger_filename: '/2023/12/and-thus-new-chapter-begins-if-youll.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
 ---
 
 <!-- wp:paragraph -->

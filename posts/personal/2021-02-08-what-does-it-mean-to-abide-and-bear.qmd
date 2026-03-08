@@ -2,11 +2,6 @@
 title: 'What does it mean to “abide” and “bear fruit”? A look at John Chapters 13-17, and Jesus’ final instructions.'
 date: '2021-02-08T18:24:00.0030000+00:00'
 draft: false
-blogger_blog: 'Darrell Wolfe, Storyteller'
-blogger_status: 'LIVE'
-blogger_post_id: '3484842491400359689'
-blogger_filename: '/2021/02/what-does-it-mean-to-abide-and-bear.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
 categories:
   - 'Musings'
   - 'Studies'

@@ -2,11 +2,6 @@
 title: 'Why Storytelling?'
 date: '2017-09-06T16:55:00.0000000+00:00'
 draft: false
-blogger_blog: 'Darrell Wolfe, Storyteller'
-blogger_status: 'LIVE'
-blogger_post_id: '4325213164706352561'
-blogger_filename: '/2017/09/why-storytelling.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
 categories:
   - 'Stories'
 ---

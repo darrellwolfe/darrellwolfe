@@ -2,11 +2,6 @@
 title: 'We are the hands and feet of Christ.'
 date: '2020-03-02T15:12:00.0000000+00:00'
 draft: false
-blogger_blog: 'Darrell Wolfe, Storyteller'
-blogger_status: 'LIVE'
-blogger_post_id: '76875283176868085'
-blogger_filename: '/2020/03/we-are-hands-and-feet-of-christ.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
 categories:
   - 'Musings'
 ---

@@ -2,11 +2,6 @@
 title: 'Class Assignment: The Need for & Goals of Biblical Interpretation'
 date: '2022-03-03T06:56:00.0030000+00:00'
 draft: false
-blogger_blog: 'NoHiding.Faith'
-blogger_status: 'LIVE'
-blogger_post_id: '6131489824904202046'
-blogger_filename: '/2022/03/class-assignment-need-for-goals-of.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/NoHiding.Faith/feed.atom'
 categories:
   - 'Class Assignment'
 ---

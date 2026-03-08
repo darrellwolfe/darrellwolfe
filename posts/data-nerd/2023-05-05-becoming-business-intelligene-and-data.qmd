@@ -2,11 +2,6 @@
 title: 'Becoming a Business Intelligene and Data Analyst'
 date: '2023-05-05T15:43:00.0040000+00:00'
 draft: false
-blogger_blog: 'Topos Creative, LLC'
-blogger_status: 'LIVE'
-blogger_post_id: '5395221833366201000'
-blogger_filename: '/2023/05/becoming-business-intelligene-and-data.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Topos Creative, LLC/feed.atom'
 categories:
   - 'Excel'
   - 'Power BI'

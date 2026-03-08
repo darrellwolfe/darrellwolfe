@@ -2,11 +2,6 @@
 title: 'Debt Disputes: What to do with collections, charge-offs, and unknown items on your credit report.'
 date: '2018-02-11T09:03:00.0000000+00:00'
 draft: false
-blogger_blog: 'Darrell Wolfe, Storyteller'
-blogger_status: 'LIVE'
-blogger_post_id: '4258361550663524767'
-blogger_filename: '/2018/02/debt-disputes-what-to-do-with_11.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
 categories:
   - 'Money'
 ---

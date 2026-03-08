@@ -2,11 +2,6 @@
 title: 'I kissed dating, hello! Revolutionize your dating life by realizing: "dating" and "relationship" are not the same thing,'
 date: '2019-12-10T10:46:00.0010000+00:00'
 draft: false
-blogger_blog: 'Darrell Wolfe, Storyteller'
-blogger_status: 'LIVE'
-blogger_post_id: '5266576764766399597'
-blogger_filename: '/2019/12/i-kissed-dating-hello-revolutionize.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
 categories:
   - 'Musings'
   - 'Book Review Notes'

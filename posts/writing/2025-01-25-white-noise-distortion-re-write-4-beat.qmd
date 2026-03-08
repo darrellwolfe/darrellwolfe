@@ -1,12 +1,7 @@
-﻿---
+---
 title: 'White Noise - Distortion (re-write #4) Beat Sheet - Outline - Progress Update 01/25/2025'
 date: '2025-01-25T22:01:00.0000000+00:00'
 draft: false
-blogger_blog: 'Darrell Wolfe, Storyteller'
-blogger_status: 'LIVE'
-blogger_post_id: '1949858062727896279'
-blogger_filename: '/2025/01/white-noise-distortion-re-write-4-beat.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
 categories:
   - 'Writing Craft'
   - 'Writing Practice'
@@ -17,7 +12,7 @@ categories:
   - 'White Noise'
   - 'distortion'
 ---
-
+~~~{=html}
 This is an updated draft of my new re-write, which I hope will land me on a completed novel this time.<div><div><br /></div><div>See&nbsp;<a href="https://www.darrellwolfe.com/2025/01/darrells-writing-plan-for-2025.html">Darrell's Writing Plan for 2025 ~ Darrell Wolfe, Storyteller</a>&nbsp;for my current writing plan and the background behind this new attempt.</div><div><br /></div><div><br /></div><span><!--more--></span><div><br /></div><div><h3 style="text-align: left;">Distortion (Outline Level Rough Draft)<br />A White Noise Story</h3>
 
 
@@ -8351,3 +8346,4 @@ active, and often quite intelligent pet.<o:p></o:p></p>
 <span style="font-family: &quot;tempus sans itc&quot;;"><br /></span>
 <span style="font-family: &quot;tempus sans itc&quot;;"><br /></span></div>
 </div></div>
+~~~

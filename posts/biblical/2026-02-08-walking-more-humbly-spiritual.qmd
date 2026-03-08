@@ -2,11 +2,6 @@
 title: 'Walking more humbly. A spiritual discipline for Justice Warriors'
 date: '2026-02-08T00:33:00.0060000+00:00'
 draft: false
-blogger_blog: 'NoHiding.Faith'
-blogger_status: 'LIVE'
-blogger_post_id: '3070064082546120071'
-blogger_filename: '/2026/02/walking-more-humbly-spiritual.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/NoHiding.Faith/feed.atom'
 categories:
   - 'Class Assignment'
   - 'Sermon'

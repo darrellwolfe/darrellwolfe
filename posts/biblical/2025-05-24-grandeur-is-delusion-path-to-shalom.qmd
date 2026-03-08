@@ -2,11 +2,6 @@
 title: 'Grandeur is a delusion; the path to Shalom comes through suffering.'
 date: '2025-05-24T15:27:00.0030000+00:00'
 draft: false
-blogger_blog: 'NoHiding.Faith'
-blogger_status: 'LIVE'
-blogger_post_id: '312231674528678040'
-blogger_filename: '/2025/05/grandeur-is-delusion-path-to-shalom.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/NoHiding.Faith/feed.atom'
 categories:
   - 'armchair theologian'
   - 'Musings'

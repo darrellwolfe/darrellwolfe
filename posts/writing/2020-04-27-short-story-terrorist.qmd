@@ -2,11 +2,6 @@
 title: 'Short Story: The Terrorist'
 date: '2020-04-27T22:00:00.0000000+00:00'
 draft: false
-blogger_blog: 'Darrell Wolfe, Storyteller'
-blogger_status: 'LIVE'
-blogger_post_id: '7506298688807885674'
-blogger_filename: '/2020/04/short-story-terrorist.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
 categories:
   - 'Storyteller'
 ---

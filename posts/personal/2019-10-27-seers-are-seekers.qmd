@@ -2,11 +2,6 @@
 title: 'Seers are Seekers'
 date: '2019-10-27T19:10:00.0010000+00:00'
 draft: false
-blogger_blog: 'Darrell Wolfe, Storyteller'
-blogger_status: 'LIVE'
-blogger_post_id: '7638171381927358957'
-blogger_filename: '/2019/10/seers-are-seekers.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
 categories:
   - 'Musings'
 ---

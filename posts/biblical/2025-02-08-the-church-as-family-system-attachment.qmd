@@ -2,11 +2,6 @@
 title: 'The Church As Family System & Attachment Theory'
 date: '2025-02-08T04:06:00.0040000+00:00'
 draft: false
-blogger_blog: 'NoHiding.Faith'
-blogger_status: 'LIVE'
-blogger_post_id: '4333237328367421028'
-blogger_filename: '/2025/02/the-church-as-family-system-attachment.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/NoHiding.Faith/feed.atom'
 categories:
   - 'Psychology & Theology'
 ---

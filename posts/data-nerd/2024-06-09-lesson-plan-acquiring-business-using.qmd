@@ -2,11 +2,6 @@
 title: 'Lesson Plan: Acquiring a Business Using SBA 7(a) Loans - Overview'
 date: '2024-06-09T02:27:00.0000000+00:00'
 draft: false
-blogger_blog: 'Topos Creative, LLC'
-blogger_status: 'LIVE'
-blogger_post_id: '6576879897260912217'
-blogger_filename: '/2024/06/lesson-plan-acquiring-business-using.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Topos Creative, LLC/feed.atom'
 categories:
   - 'SBA'
 ---

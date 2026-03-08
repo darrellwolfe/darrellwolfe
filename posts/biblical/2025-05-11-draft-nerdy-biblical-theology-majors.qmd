@@ -2,11 +2,6 @@
 title: 'DRAFT - Nerdy Biblical Theology Majors Group Guidelines'
 date: '2025-05-11T07:11:00.0040000+00:00'
 draft: false
-blogger_blog: 'NoHiding.Faith'
-blogger_status: 'LIVE'
-blogger_post_id: '2959722282588679390'
-blogger_filename: '/2025/05/draft-nerdy-biblical-theology-majors.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/NoHiding.Faith/feed.atom'
 categories:
   - 'NoHiding Faith Studies'
 ---

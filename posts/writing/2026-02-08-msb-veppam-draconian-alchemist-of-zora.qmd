@@ -1,12 +1,7 @@
-﻿---
+---
 title: 'MSB: Veppam - Draconian Alchemist of Zora'
 date: '2026-02-08T06:23:00.0000000+00:00'
 draft: false
-blogger_blog: 'Darrell Wolfe, Storyteller'
-blogger_status: 'LIVE'
-blogger_post_id: '7032635934941804503'
-blogger_filename: '/2026/02/msb-veppam-draconian-alchemist-of-zora.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
 categories:
   - 'MSB'
   - 'Character Sketch'

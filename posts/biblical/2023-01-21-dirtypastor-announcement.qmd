@@ -2,11 +2,6 @@
 title: '#DirtyPastor - Announcement'
 date: '2023-01-21T03:15:00.0000000+00:00'
 draft: false
-blogger_blog: 'NoHiding.Faith'
-blogger_status: 'LIVE'
-blogger_post_id: '1911427675783300745'
-blogger_filename: '/2023/01/dirtypastor-announcement.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/NoHiding.Faith/feed.atom'
 categories:
   - '#DirtyPastor'
 ---

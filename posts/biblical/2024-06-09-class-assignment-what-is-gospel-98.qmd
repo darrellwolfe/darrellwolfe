@@ -2,11 +2,6 @@
 title: 'Class Assignment: What is the gospel, according to Luke-Acts?'
 date: '2024-06-09T12:48:00.0050000+00:00'
 draft: false
-blogger_blog: 'NoHiding.Faith'
-blogger_status: 'LIVE'
-blogger_post_id: '7147814742275954334'
-blogger_filename: '/2024/06/class-assignment-what-is-gospel_98.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/NoHiding.Faith/feed.atom'
 categories:
   - 'Gospel'
 ---

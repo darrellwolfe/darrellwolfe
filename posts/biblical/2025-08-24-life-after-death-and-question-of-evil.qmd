@@ -2,11 +2,6 @@
 title: 'Life after death, and the question of evil...'
 date: '2025-08-24T17:09:00.0050000+00:00'
 draft: false
-blogger_blog: 'NoHiding.Faith'
-blogger_status: 'LIVE'
-blogger_post_id: '1429149364207651413'
-blogger_filename: '/2025/08/life-after-death-and-question-of-evil.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/NoHiding.Faith/feed.atom'
 categories:
   - 'Q&R'
 ---

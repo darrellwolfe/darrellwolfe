@@ -1,12 +1,7 @@
-﻿---
+---
 title: 'Chapter 1 - Burritos, Dreams, and a Magical Tattoo'
 date: '2025-02-16T21:04:00.0000000+00:00'
 draft: false
-blogger_blog: 'Darrell Wolfe, Storyteller'
-blogger_status: 'LIVE'
-blogger_post_id: '2864642737223141202'
-blogger_filename: '/2025/02/burritos-dreams-and-sword-fights.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
 categories:
   - 'MSB'
 ---

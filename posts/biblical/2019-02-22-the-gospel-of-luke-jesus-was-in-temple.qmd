@@ -1,12 +1,7 @@
----
+﻿---
 title: 'Untitled Post'
 date: '2019-02-22T18:08:00.0000000+00:00'
 draft: false
-blogger_blog: 'Darrell Wolfe, Storyteller'
-blogger_status: 'LIVE'
-blogger_post_id: '3987507443711003909'
-blogger_filename: '/2019/02/the-gospel-of-luke-jesus-was-in-temple.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
 categories:
   - 'bible'
   - 'Daily Reading'

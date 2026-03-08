@@ -2,14 +2,10 @@
 title: 'Random Study of Psalms 103'
 date: '2024-10-18T06:50:00.0000000+00:00'
 draft: false
-blogger_blog: 'NoHiding.Faith'
-blogger_status: 'DRAFT'
-blogger_post_id: '6667847345834093473'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/NoHiding.Faith/feed.atom'
 categories:
   - 'NoHiding Faith Studies'
 ---
-
+~~~{=html}
 <div><br /></div><div><br /></div><div><div><br /></div><div><br /></div><div><br /></div></div><div><br /></div><div><a href="https://ref.ly/logosres/leb?ref=BibleLEB2.Ps103.1" target="_blank"></a></div><blockquote><h4 style="text-align: left;"><a href="https://ref.ly/logosres/leb?ref=BibleLEB2.Ps103.1" target="_blank">Psalms 103</a>&nbsp;“<span style="font-style: italic;">Of David.</span></h4><div><p class="MsoNormal"><span lang="en-US" style="font-style: italic;">Bless Yahweh, O my soul, and all within me, bless his holy name.&nbsp;</span><span style="font-style: italic;">Bless Yahweh, O my soul, and do not forget all his benefits:</span></p>
 	<p class="MsoNormal"></p><ul style="text-align: left;"><li><span style="font-style: italic;">who forgives (</span>סָלַח sālaḥ<span style="font-style: italic;">) all your </span><span style="font-style: italic;">iniquity (<span style="font-style: normal;">עָוֹן ʿāwōn</span>)</span><span style="font-style: italic;">,</span></li><li><span style="font-style: italic;">who heals (<span style="font-style: normal;">רָפָא rāpāʾ</span>) all your diseases (<span style="font-style: normal;">תַּחֲלֻאִים taḥaluʾîm</span>),</span></li><li><span style="font-style: italic;">who redeems (<span style="font-style: normal;">גְּאוּלִים geʾûlîm</span>) your life from the pit,</span>&nbsp;</li><li><i>who crowns you with loyal love and mercies,</i></li><li><span lang="en-US" style="font-style: italic;">who satisfies your life with good so that your youth is renewed like the eagle’s.</span></li></ul></div></blockquote><blockquote><p></p><p class="MsoNormal"><span lang="en-US" style="font-style: italic;">Yahweh does deeds of justice and judgments for all who are oppressed,&nbsp;</span><span style="font-style: italic;">who made known his ways to Moses, his deeds to the people of Israel.</span></p>
 	<p class="MsoNormal"><span lang="en-US" style="font-style: italic;">Yahweh is compassionate and gracious, slow to anger and abundant in loyal love. </span>
@@ -40,4 +36,4 @@ categories:
 Storyteller | Writer | Thinker | Consultant | Freelancer | Bible Nerd
 <i>*Written withs some editing and research assistance from ChatGPT-4o</i>
 <br /><br /><br />
-
+~~~

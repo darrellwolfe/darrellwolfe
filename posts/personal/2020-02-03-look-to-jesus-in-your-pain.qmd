@@ -2,11 +2,6 @@
 title: 'Look to Jesus in your pain.'
 date: '2020-02-03T15:36:00.0010000+00:00'
 draft: false
-blogger_blog: 'Darrell Wolfe, Storyteller'
-blogger_status: 'LIVE'
-blogger_post_id: '5242262899093227800'
-blogger_filename: '/2020/02/look-to-jesus-in-your-pain.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
 categories:
   - 'Musings'
 ---

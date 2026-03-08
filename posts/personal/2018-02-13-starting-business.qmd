@@ -2,11 +2,6 @@
 title: 'Starting a business'
 date: '2018-02-13T03:36:00.0000000+00:00'
 draft: false
-blogger_blog: 'Darrell Wolfe, Storyteller'
-blogger_status: 'LIVE'
-blogger_post_id: '706919822528412447'
-blogger_filename: '/2018/02/starting-business.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
 ---
 
 <div class="WordSection1">

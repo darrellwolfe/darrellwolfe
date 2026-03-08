@@ -2,11 +2,6 @@
 title: 'Who are you praying to?'
 date: '2021-04-20T16:48:00.0010000+00:00'
 draft: false
-blogger_blog: 'Darrell Wolfe, Storyteller'
-blogger_status: 'LIVE'
-blogger_post_id: '4485569286784219293'
-blogger_filename: '/2021/04/who-are-you-praying-to.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
 categories:
   - 'Studies'
   - 'Musings'

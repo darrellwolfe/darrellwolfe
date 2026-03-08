@@ -2,11 +2,6 @@
 title: 'I''m Darrell Wolfe, and this is my story...'
 date: '2024-10-11T07:39:00.0030000+00:00'
 draft: false
-blogger_blog: 'NoHiding.Faith'
-blogger_status: 'LIVE'
-blogger_post_id: '2281522528728243258'
-blogger_filename: '/2024/10/im-darrell-wolfe-and-this-is-my-story.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/NoHiding.Faith/feed.atom'
 categories:
   - 'Class Assignment'
 ---

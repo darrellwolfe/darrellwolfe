@@ -2,11 +2,6 @@
 title: 'My tongues journey...'
 date: '2021-02-12T04:49:00.0060000+00:00'
 draft: false
-blogger_blog: 'Darrell Wolfe, Storyteller'
-blogger_status: 'LIVE'
-blogger_post_id: '3915693636059815043'
-blogger_filename: '/2021/02/my-tongues-journey.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
 categories:
   - 'Musings'
   - 'Studies'

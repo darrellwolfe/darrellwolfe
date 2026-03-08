@@ -2,11 +2,6 @@
 title: 'Question & Response 1 (a list of questions)'
 date: '2023-02-13T02:23:00.0030000+00:00'
 draft: false
-blogger_blog: 'NoHiding.Faith'
-blogger_status: 'LIVE'
-blogger_post_id: '6751538468718510371'
-blogger_filename: '/2023/02/question-response-1-list-of-questions.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/NoHiding.Faith/feed.atom'
 categories:
   - 'Bible Answer'
   - 'Q&R'

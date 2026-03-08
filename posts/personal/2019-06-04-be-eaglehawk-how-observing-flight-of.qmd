@@ -2,11 +2,6 @@
 title: 'Be an Eagle/Hawk: How observing the flight of a bird correlates to fighting depression.'
 date: '2019-06-04T08:47:00.0000000+00:00'
 draft: false
-blogger_blog: 'Darrell Wolfe, Storyteller'
-blogger_status: 'LIVE'
-blogger_post_id: '9945069545273107'
-blogger_filename: '/2019/06/be-eaglehawk-how-observing-flight-of.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
 categories:
   - 'Freedom/Kairos'
 ---

@@ -2,11 +2,6 @@
 title: 'Class Discussion Posts: The Law, Torah, and Grace... Luther was clueless, but he meant well.'
 date: '2022-03-20T00:42:00.0040000+00:00'
 draft: false
-blogger_blog: 'NoHiding.Faith'
-blogger_status: 'LIVE'
-blogger_post_id: '2442740569451266000'
-blogger_filename: '/2022/03/class-discussion-posts-law-torah-and.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/NoHiding.Faith/feed.atom'
 categories:
   - 'Ancient Near East (ANE)'
   - 'Class Discussion Posts'

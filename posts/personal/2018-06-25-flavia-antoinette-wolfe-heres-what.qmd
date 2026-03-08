@@ -2,11 +2,6 @@
 title: 'Flavia Antoinette Wolfe: Here''s what happened...'
 date: '2018-06-25T22:28:00.0030000+00:00'
 draft: false
-blogger_blog: 'Darrell Wolfe, Storyteller'
-blogger_status: 'LIVE'
-blogger_post_id: '4316593898530566222'
-blogger_filename: '/2018/06/flavia-antoinette-wolfe-heres-what.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
 categories:
   - 'Flavia'
 ---

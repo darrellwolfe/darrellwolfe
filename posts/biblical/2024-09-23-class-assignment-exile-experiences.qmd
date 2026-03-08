@@ -2,11 +2,6 @@
 title: 'Class Assignment: Exile Experiences'
 date: '2024-09-23T18:46:00.0050000+00:00'
 draft: false
-blogger_blog: 'NoHiding.Faith'
-blogger_status: 'LIVE'
-blogger_post_id: '6923396919753410991'
-blogger_filename: '/2024/09/class-assignment-exile-experiences.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/NoHiding.Faith/feed.atom'
 categories:
   - 'Class Assignment'
 ---

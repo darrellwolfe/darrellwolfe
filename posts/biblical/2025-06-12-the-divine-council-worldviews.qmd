@@ -2,11 +2,6 @@
 title: 'The Divine Council Worldview’s Relationship with Inter-Religious Dialogue, The Divine Council Worldview’s Relationship with Inter-Religious Dialogue'
 date: '2025-06-12T13:58:00.0010000+00:00'
 draft: false
-blogger_blog: 'NoHiding.Faith'
-blogger_status: 'LIVE'
-blogger_post_id: '3284293361678420443'
-blogger_filename: '/2025/06/the-divine-council-worldviews.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/NoHiding.Faith/feed.atom'
 categories:
   - 'Class Assignment'
 ---

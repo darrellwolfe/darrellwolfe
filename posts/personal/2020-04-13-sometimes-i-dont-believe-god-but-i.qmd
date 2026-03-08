@@ -2,11 +2,6 @@
 title: 'Sometimes.... I don''t believe God but I still believe him.'
 date: '2020-04-13T13:29:00.0010000+00:00'
 draft: false
-blogger_blog: 'Darrell Wolfe, Storyteller'
-blogger_status: 'LIVE'
-blogger_post_id: '2187758732894853161'
-blogger_filename: '/2020/04/sometimes-i-dont-believe-god-but-i.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
 categories:
   - 'Musings'
 ---

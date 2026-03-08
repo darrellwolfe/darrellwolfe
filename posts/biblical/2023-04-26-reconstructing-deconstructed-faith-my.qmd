@@ -2,11 +2,6 @@
 title: 'Reconstructing a deconstructed faith... My story.'
 date: '2023-04-26T14:45:00.2210000+00:00'
 draft: false
-blogger_blog: 'NoHiding.Faith'
-blogger_status: 'LIVE'
-blogger_post_id: '6082907668730806826'
-blogger_filename: '/2023/04/reconstructing-deconstructed-faith-my.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/NoHiding.Faith/feed.atom'
 categories:
   - 'Musings'
 ---

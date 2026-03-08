@@ -2,11 +2,6 @@
 title: 'Is masturbation a sin?'
 date: '2020-02-29T06:54:00.0000000+00:00'
 draft: false
-blogger_blog: 'Darrell Wolfe, Storyteller'
-blogger_status: 'LIVE'
-blogger_post_id: '6141388293632486085'
-blogger_filename: '/2020/02/is-masturbation-sin.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
 categories:
   - 'Musings'
 ---

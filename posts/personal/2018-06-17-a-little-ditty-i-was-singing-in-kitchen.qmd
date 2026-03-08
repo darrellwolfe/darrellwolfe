@@ -2,11 +2,6 @@
 title: 'A little ditty I was singing in the kitchen...'
 date: '2018-06-17T04:21:00.0010000+00:00'
 draft: false
-blogger_blog: 'Darrell Wolfe, Storyteller'
-blogger_status: 'LIVE'
-blogger_post_id: '6196644397671833217'
-blogger_filename: '/2018/06/a-little-ditty-i-was-singing-in-kitchen.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
 categories:
   - 'Random'
   - 'Randomness'

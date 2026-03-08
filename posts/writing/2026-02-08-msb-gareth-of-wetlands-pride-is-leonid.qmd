@@ -1,12 +1,7 @@
-﻿---
+---
 title: 'MSB: Gareth of the Wetlands Pride is a Leonid warrior.'
 date: '2026-02-08T07:07:29.1240000+00:00'
 draft: false
-blogger_blog: 'Darrell Wolfe, Storyteller'
-blogger_status: 'LIVE'
-blogger_post_id: '3728419605398017372'
-blogger_filename: '/2026/02/msb-gareth-of-wetlands-pride-is-leonid.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
 categories:
   - 'MSB'
   - 'Character Sketch'

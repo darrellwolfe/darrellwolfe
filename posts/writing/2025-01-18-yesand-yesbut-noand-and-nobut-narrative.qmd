@@ -1,14 +1,9 @@
-﻿---
+---
 title: 'Yes/And, Yes/But, No/And, and No/But: Narrative Tools for Dynamic Storytelling'
 date: '2025-01-18T22:09:00.0000000+00:00'
 draft: false
-blogger_blog: 'Darrell Wolfe, Storyteller'
-blogger_status: 'LIVE'
-blogger_post_id: '1416159832106716972'
-blogger_filename: '/2025/01/yesand-yesbut-noand-and-nobut-narrative.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
 ---
-
+~~~{=html}
 * I have heard about these concepts in many ways, from teachers of creative writing to a local improv class for acting. I had a longer conversation with ChatGPT trying to bring it all back to memory and try to remind myself how the techniques are supposed to work, so I can start working on a story. After my back and forth, I asked ChatGPT to summarize our discussion in the form of an article. Here is the article.&nbsp;<div><br /></div><div>I'm also going to go ahead and put the start of a rough sketch for the opening of the scene to show you why I stopped to have this reminder session.&nbsp;<div><br /></div><div>This YouTube video gave me the idea to start drafting in a new way, which is akin to Brandon Sanderson's version of Outlining in his BYU lectures.<div><br /></div><span><!--more--></span><div><br /><div><b>
   Don't Give Up On Your First Draft by 
 The Second Story</b></div><div>
@@ -487,3 +482,4 @@ I hope you enjoyed that random tidbit. Darrell</b><br />
 <span style="font-family: &quot;tempus sans itc&quot;;"><br /></span>
 <span style="font-family: &quot;tempus sans itc&quot;;"><br /></span></div>
 </div></div></div></div>
+~~~

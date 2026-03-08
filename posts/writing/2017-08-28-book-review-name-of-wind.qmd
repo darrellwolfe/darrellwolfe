@@ -2,11 +2,6 @@
 title: 'Book Review: Name of the Wind'
 date: '2017-08-28T06:10:00.0000000+00:00'
 draft: false
-blogger_blog: 'Darrell Wolfe, Storyteller'
-blogger_status: 'LIVE'
-blogger_post_id: '4017612329586196846'
-blogger_filename: '/2017/08/book-review-name-of-wind.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
 categories:
   - 'Reading'
   - 'Reviews'

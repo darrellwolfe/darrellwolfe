@@ -2,11 +2,6 @@
 title: 'Where''s my tribe?'
 date: '2021-06-14T17:13:00.0010000+00:00'
 draft: false
-blogger_blog: 'Darrell Wolfe, Storyteller'
-blogger_status: 'LIVE'
-blogger_post_id: '7827402749579469358'
-blogger_filename: '/2021/06/wheres-my-tribe.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
 categories:
   - 'Musings'
 ---

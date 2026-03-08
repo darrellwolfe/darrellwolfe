@@ -1,12 +1,7 @@
-﻿---
+---
 title: 'Reflecting on my new writing process...'
 date: '2025-03-10T05:56:00.0010000+00:00'
 draft: false
-blogger_blog: 'Darrell Wolfe, Storyteller'
-blogger_status: 'LIVE'
-blogger_post_id: '8415927196011288366'
-blogger_filename: '/2025/03/reflecting-on-my-new-writing-process.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
 categories:
   - 'Storytelling'
   - 'FAAFO'

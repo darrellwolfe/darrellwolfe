@@ -2,11 +2,6 @@
 title: 'Class Assignment: Interpretive Project: John 1:1â€“18 (LEB)'
 date: '2021-11-28T23:12:00.0030000+00:00'
 draft: false
-blogger_blog: 'Darrell Wolfe, Storyteller'
-blogger_status: 'LIVE'
-blogger_post_id: '6547066572404538312'
-blogger_filename: '/2021/11/class-assignment-interpretive-project.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
 categories:
   - 'Class Assignment'
   - 'Biblical Studies'

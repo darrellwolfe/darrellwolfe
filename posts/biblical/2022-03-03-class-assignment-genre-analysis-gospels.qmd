@@ -2,11 +2,6 @@
 title: 'Class Assignment: Genre Analysis: Gospels, Epistles and Apocalyptic Literature'
 date: '2022-03-03T07:00:00.0030000+00:00'
 draft: false
-blogger_blog: 'NoHiding.Faith'
-blogger_status: 'LIVE'
-blogger_post_id: '4143951247443857463'
-blogger_filename: '/2022/03/class-assignment-genre-analysis-gospels.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/NoHiding.Faith/feed.atom'
 categories:
   - 'Class Assignment'
 ---

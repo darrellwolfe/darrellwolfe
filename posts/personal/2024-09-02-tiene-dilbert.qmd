@@ -2,11 +2,6 @@
 title: 'Tiene & Dilbert'
 date: '2024-09-02T20:44:00.0000000+00:00'
 draft: false
-blogger_blog: 'Darrell Wolfe, Storyteller'
-blogger_status: 'LIVE'
-blogger_post_id: '318073462884670693'
-blogger_filename: '/2024/09/tiene-dilbert.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
 categories:
   - 'Magic_DCW_Solar'
   - 'Story'

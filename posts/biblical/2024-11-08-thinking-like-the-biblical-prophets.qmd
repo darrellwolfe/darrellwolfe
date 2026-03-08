@@ -2,10 +2,6 @@
 title: 'Thinking like the Biblical Prophets'
 date: '2024-11-08T05:28:00.0050000+00:00'
 draft: false
-blogger_blog: 'NoHiding.Faith'
-blogger_status: 'DRAFT'
-blogger_post_id: '8570878480638115906'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/NoHiding.Faith/feed.atom'
 categories:
   - 'Thinking Biblically'
 ---

@@ -2,11 +2,6 @@
 title: 'Class Assignment: Observations: John 15:1-14'
 date: '2021-11-13T05:19:00.0060000+00:00'
 draft: false
-blogger_blog: 'Darrell Wolfe, Storyteller'
-blogger_status: 'LIVE'
-blogger_post_id: '1988295083293122523'
-blogger_filename: '/2021/11/class-assignment-observations-john-151.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
 categories:
   - 'Studies'
   - 'Class Assignment'

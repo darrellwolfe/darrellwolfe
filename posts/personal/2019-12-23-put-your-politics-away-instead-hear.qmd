@@ -2,11 +2,6 @@
 title: 'Put your politics away... INSTEAD... hear what people''s hearts are crying for and about.'
 date: '2019-12-23T09:27:00.0010000+00:00'
 draft: false
-blogger_blog: 'Darrell Wolfe, Storyteller'
-blogger_status: 'LIVE'
-blogger_post_id: '1224608955662222752'
-blogger_filename: '/2019/12/put-your-politics-away-instead-hear.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
 categories:
   - 'Musings'
   - 'News'

@@ -1,12 +1,7 @@
-﻿---
+---
 title: 'Worldbuilding: Manna, Sarcasm, and Burritos (MSB) - Mastiffarians'
 date: '2025-12-20T00:29:00.0000000+00:00'
 draft: false
-blogger_blog: 'Darrell Wolfe, Storyteller'
-blogger_status: 'LIVE'
-blogger_post_id: '2553095065879872482'
-blogger_filename: '/2025/12/worldbuilding-manna-sarcasm-and_19.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
 categories:
   - 'MSB'
 ---

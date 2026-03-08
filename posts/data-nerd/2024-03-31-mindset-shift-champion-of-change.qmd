@@ -2,11 +2,6 @@
 title: 'Mindset Shift: Champion of Change'
 date: '2024-03-31T05:29:00.0000000+00:00'
 draft: false
-blogger_blog: 'Topos Creative, LLC'
-blogger_status: 'LIVE'
-blogger_post_id: '791470732246036488'
-blogger_filename: '/2024/03/mindset-shift-champion-of-change.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Topos Creative, LLC/feed.atom'
 categories:
   - 'Leadership'
 ---

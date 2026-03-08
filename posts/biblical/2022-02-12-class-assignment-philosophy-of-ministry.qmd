@@ -2,11 +2,6 @@
 title: 'Class Assignment: PHILOSOPHY OF MINISTRY'
 date: '2022-02-12T23:58:00.0030000+00:00'
 draft: false
-blogger_blog: 'Darrell Wolfe, Storyteller'
-blogger_status: 'LIVE'
-blogger_post_id: '5314306616194938921'
-blogger_filename: '/2022/02/class-assignment-philosophy-of-ministry.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
 categories:
   - 'Class Assignment'
 ---

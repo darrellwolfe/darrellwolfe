@@ -2,11 +2,6 @@
 title: 'What can the tragedy of Jephthah teach us about living rightly before God?'
 date: '2021-01-25T06:44:00.0010000+00:00'
 draft: false
-blogger_blog: 'Darrell Wolfe, Storyteller'
-blogger_status: 'LIVE'
-blogger_post_id: '4538156478189153389'
-blogger_filename: '/2021/01/what-can-tragedy-of-jephthah-teach-us.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
 categories:
   - 'Musings'
   - 'Studies'

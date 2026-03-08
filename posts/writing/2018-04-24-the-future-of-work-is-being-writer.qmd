@@ -2,11 +2,6 @@
 title: 'The Future of Work: Is being a writer (artist, musician, creative) an impractical career?'
 date: '2018-04-24T07:35:00.0010000+00:00'
 draft: false
-blogger_blog: 'Darrell Wolfe, Storyteller'
-blogger_status: 'LIVE'
-blogger_post_id: '8727095085750900033'
-blogger_filename: '/2018/04/the-future-of-work-is-being-writer.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
 categories:
   - 'Money'
   - 'Answers'

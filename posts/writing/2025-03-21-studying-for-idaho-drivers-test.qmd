@@ -1,12 +1,7 @@
-﻿---
+---
 title: 'Studying for the Idaho Driver''s Test'
 date: '2025-03-21T05:10:00.0000000+00:00'
 draft: false
-blogger_blog: 'Darrell Wolfe, Storyteller'
-blogger_status: 'LIVE'
-blogger_post_id: '6953278307379881830'
-blogger_filename: '/2025/03/studying-for-idaho-drivers-test.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
 categories:
   - 'Randomness'
 ---

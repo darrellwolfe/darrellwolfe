@@ -2,15 +2,10 @@
 title: 'Lesson Plan: Acquiring a Business Using SBA 7(a) Loans - Week 1: Introduction and Preliminary Research'
 date: '2024-06-09T03:18:00.0000000+00:00'
 draft: false
-blogger_blog: 'Topos Creative, LLC'
-blogger_status: 'LIVE'
-blogger_post_id: '4628949169052270880'
-blogger_filename: '/2024/06/lesson-plan-acquiring-business-using_8.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Topos Creative, LLC/feed.atom'
 categories:
   - 'SBA'
 ---
-
+~~~{=html}
 <h3 style="color: #6e6e6e; font-family: Roboto, sans-serif; font-size: 16px;">Week 1: Introduction and Preliminary Research</h3><p style="color: #636363; font-family: Roboto, sans-serif; font-size: 15px;"><span style="font-weight: bolder;">Objectives:</span></p><ul style="color: #636363; font-family: Roboto, sans-serif; font-size: 15px;"><li>Understand the basics of SBA 7(a) loans.</li><li>Identify the steps involved in acquiring a business.</li></ul><p style="color: #636363; font-family: Roboto, sans-serif; font-size: 15px;"><span style="font-weight: bolder;">Activities:</span></p><ol style="color: #636363; font-family: Roboto, sans-serif; font-size: 15px;"><li><p><span style="font-weight: bolder;">Research SBA 7(a) Loans:</span></p><ul><li>Read articles and guides on the SBA website about the 7(a) loan program.</li><li>Watch educational videos on YouTube about SBA loans.</li></ul></li><li><p><span style="font-weight: bolder;">Familiarize with the Business Acquisition Process:</span></p><ul><li>Review resources on SCORE.org about buying a business.</li><li>Read case studies of successful business acquisitions.</li></ul></li></ol><p style="color: #636363; font-family: Roboto, sans-serif; font-size: 15px;"><span style="font-weight: bolder;">Resources:</span></p><ul style="color: #636363; font-family: Roboto, sans-serif; font-size: 15px;"><li>SBA.gov</li><li>SCORE.org</li><li>YouTube (search for SBA 7(a) loan tutorials)</li></ul>
 <br />
 ---------------------------------------------------------------------------------<div><p style="color: #636363; font-family: Roboto, sans-serif; font-size: 15px;"><span style="font-weight: bolder;">Research SBA 7(a) Loans:</span></p><ul style="color: #636363; font-family: Roboto, sans-serif; font-size: 15px;"></ul></div><div><p>To get started on acquiring a business using SBA 7(a) loans, you can follow these steps and use the available resources:</p><h3>Understanding SBA 7(a) Loans</h3><p><strong>SBA 7(a) Loan Overview:</strong>
@@ -25,3 +20,4 @@ Search for educational videos on SBA 7(a) loans. Channels like "SBA" and "Nav" o
 
 Storyteller | Writer | Thinker | Consultant | Freelancer
 <div><br /></div></div>
+~~~

@@ -2,11 +2,6 @@
 title: 'John-Revelation as a diptych (δίπτυχον)? An exploratory conversation with ChatGPT.'
 date: '2024-10-23T17:22:00.0030000+00:00'
 draft: false
-blogger_blog: 'NoHiding.Faith'
-blogger_status: 'LIVE'
-blogger_post_id: '2269165775299285223'
-blogger_filename: '/2024/10/john-revelation-as-diptych-exploratory.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/NoHiding.Faith/feed.atom'
 categories:
   - 'Study'
 ---

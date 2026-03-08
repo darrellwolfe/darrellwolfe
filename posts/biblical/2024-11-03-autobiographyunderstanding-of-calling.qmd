@@ -2,11 +2,6 @@
 title: 'AUTOBIOGRAPHY/UNDERSTANDING OF CALLING, Life of the mind and the gift of hardship'
 date: '2024-11-03T09:24:00.0040000+00:00'
 draft: false
-blogger_blog: 'NoHiding.Faith'
-blogger_status: 'LIVE'
-blogger_post_id: '8570057706073084733'
-blogger_filename: '/2024/11/autobiographyunderstanding-of-calling.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/NoHiding.Faith/feed.atom'
 categories:
   - 'Class Assignment'
 ---

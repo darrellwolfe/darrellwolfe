@@ -2,11 +2,6 @@
 title: 'Class Discussion Post: Analyze the Christian Ethics of a current Wall Street Journal Article, 03/30/2022'
 date: '2022-03-31T06:00:00.0000000+00:00'
 draft: false
-blogger_blog: 'NoHiding.Faith'
-blogger_status: 'LIVE'
-blogger_post_id: '6646416028557998562'
-blogger_filename: '/2022/03/class-discussion-post-analyze-christian.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/NoHiding.Faith/feed.atom'
 categories:
   - 'Class Discussion Posts'
 ---

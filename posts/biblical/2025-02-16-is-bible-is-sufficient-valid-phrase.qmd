@@ -2,11 +2,6 @@
 title: 'Is the "Bible is Sufficient" a valid phrase?'
 date: '2025-02-16T03:28:00.0010000+00:00'
 draft: false
-blogger_blog: 'NoHiding.Faith'
-blogger_status: 'LIVE'
-blogger_post_id: '8236643406471883331'
-blogger_filename: '/2025/02/is-bible-is-sufficient-valid-phrase.html'
-blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/NoHiding.Faith/feed.atom'
 categories:
   - 'Class Discussion Posts'
 ---
