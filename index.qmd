@@ -42,7 +42,7 @@ Note/disclaimer:
 
 ::: {.card-grid}
 ::: {.card}
-### [Author](posts/writing/index.qmd)
+### [Creative Writing](posts/writing/index.qmd)
 I write speculative fiction at the intersection of fantasy, science fiction, and the uncanny, with a deep interest in meaning, identity, and transformation. This page is the central home for my creative writing identity and the stories growing out of it.
 :::
 
