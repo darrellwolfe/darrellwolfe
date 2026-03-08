@@ -1,0 +1,661 @@
+---
+title: 'God with Us:  Messianic Promise and the Kingdom of God in  GENESIS'
+date: '2021-02-26T07:09:00.0000000+00:00'
+draft: false
+blogger_blog: 'Darrell Wolfe, Storyteller'
+blogger_status: 'LIVE'
+blogger_post_id: '6401334456248760840'
+blogger_filename: '/2021/02/god-with-us-messianic-promise-and.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
+---
+
+<div>   <br /><br /><h2 style="text-align: center;">God with Us: </h2><h2 style="text-align: center;"><br />Messianic Promise and the Kingdom of God in </h2><h2 style="text-align: center;"><br />GENESIS </h2><br /><br /></div><div style="text-align: center;">The King’s University, Southlake Texas <br /><br />Old Testament Survey (BIBL1305) <br /><br />Professor: Dr. Eugene Chet Saunders <br /><br />February 28, 2021 <br /><br /><br /><br />By Darrell Wolfe <br /><br /><br /><div><h3 style="text-align: left;">Outline&nbsp;</h3><div style="text-align: left;"><!--[if gte mso 9]><xml>
+ <o:OfficeDocumentSettings>
+  <o:RelyOnVML/>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:TrackMoves/>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:EnableOpenTypeKerning/>
+   <w:DontFlipMirrorIndents/>
+   <w:OverrideTableStyleHps/>
+   <w:UseFELayout/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
+  DefSemiHidden="false" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="376">
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 9"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="header"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footer"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index heading"/>
+  <w:LsdException Locked="false" Priority="35" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of figures"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope return"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="line number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="page number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of authorities"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="macro"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="toa heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 5"/>
+  <w:LsdException Locked="false" Priority="10" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Closing"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Signature"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Message Header"/>
+  <w:LsdException Locked="false" Priority="11" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Salutation"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Date"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Note Heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Block Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Hyperlink"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="FollowedHyperlink"/>
+  <w:LsdException Locked="false" Priority="22" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Document Map"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Plain Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="E-mail Signature"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Top of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Bottom of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal (Web)"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Acronym"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Cite"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Code"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Definition"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Keyboard"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Preformatted"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Sample"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Typewriter"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Variable"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Table"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation subject"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="No List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Contemporary"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Elegant"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Professional"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Balloon Text"/>
+  <w:LsdException Locked="false" Priority="39" Name="Table Grid"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Theme"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" QFormat="true"
+   Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" QFormat="true"
+   Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" QFormat="true"
+   Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" QFormat="true"
+   Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" QFormat="true"
+   Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" QFormat="true"
+   Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="TOC Heading"/>
+  <w:LsdException Locked="false" Priority="41" Name="Plain Table 1"/>
+  <w:LsdException Locked="false" Priority="42" Name="Plain Table 2"/>
+  <w:LsdException Locked="false" Priority="43" Name="Plain Table 3"/>
+  <w:LsdException Locked="false" Priority="44" Name="Plain Table 4"/>
+  <w:LsdException Locked="false" Priority="45" Name="Plain Table 5"/>
+  <w:LsdException Locked="false" Priority="40" Name="Grid Table Light"/>
+  <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Mention"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Smart Hyperlink"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Hashtag"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Unresolved Mention"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Smart Link"/>
+ </w:LatentStyles>
+</xml><![endif]--><!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin-top:0in;
+	mso-para-margin-right:0in;
+	mso-para-margin-bottom:8.0pt;
+	mso-para-margin-left:0in;
+	line-height:107%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+</style>
+<![endif]-->
+
+<p class="MsoListParagraphCxSpFirst" style="margin-bottom: 0in; mso-add-space: auto; mso-list: l0 level1 lfo1; mso-text-indent-alt: -.25in; text-indent: -0.5in;"><span style="font-size: 12pt; line-height: 107%; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;;"><span style="mso-list: Ignore;"><span style="font: 7pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I</span></span>&nbsp; <br /></p>I.&nbsp;&nbsp;&nbsp; GOD PLANTS A FAMILY IN EDEN (God with Us)<br /><ul style="text-align: left;"><li>a.&nbsp;&nbsp;&nbsp; Adam &amp; Eve are created, planted, and given freedom (Genesis 1-2).</li></ul>II.&nbsp;&nbsp;&nbsp; GOD’S FAMILY REJECTS HIM.<br /><ul style="text-align: left;"><li>a.&nbsp;&nbsp;&nbsp; Adam causes The Fall (Genesis 3).</li><li>b.&nbsp;&nbsp;&nbsp; Cain and God’s other divine beings cause havoc (Genesis 4).</li><li>c.&nbsp;&nbsp;&nbsp; The whole earth is evil, God must wipe the slate clean (Genesis 5-6). </li></ul>III.&nbsp;&nbsp;&nbsp; GOD PRESERVES A SEED, PLANTS A NEW FAMILY. (God with Us)<br /><ul style="text-align: left;"><li>a.&nbsp;&nbsp;&nbsp; Noah is preserved as a seed; God plants a new seed (Genesis 7-9:1-17).</li></ul>IV.&nbsp;&nbsp;&nbsp; GOD’S NEW FAMILY REJECTS HIM, AGAIN.<br /><ul style="text-align: left;"><li>a.&nbsp;&nbsp;&nbsp; Noah’s lineage almost immediately rejects God (Genesis 9:18-29).</li><li>b.&nbsp;&nbsp;&nbsp; Nimrod builds Babel, Babel rejects God. God must wipe the slate clean, again. </li><li>c.&nbsp;&nbsp;&nbsp; God destroys the Tower of Babel project, confuses their language, and forces them to spread out (Genesis 10-11:26).</li></ul>V.&nbsp;&nbsp;&nbsp; GOD PRESERVES A SEED, PLANTS A NEW FAMILY, AGAIN. (God with Us)<br /><ul style="text-align: left;"><li>a.&nbsp;&nbsp;&nbsp; God takes a seed from the new peoples, Abram, and plants a new family (Genesis 11:27 - 50).</li><li>b.&nbsp;&nbsp;&nbsp; God builds a covenant mindset into this new line, working with one man at a time. Although other minor characters play roles and the lives of each intertwine and overlap, the broad stories are as follows:</li><ul><li>i.&nbsp;&nbsp;&nbsp; Abraham (12 – 23)</li><li>ii.&nbsp;&nbsp;&nbsp; Isaac (24 – 26)</li><li>iii.&nbsp;&nbsp;&nbsp; Jacob/Israel (27 – 35)</li><li>iv.&nbsp;&nbsp;&nbsp; Joseph (36 – 50)</li></ul></ul>SUMMARY: Genesis is the first step in a new family for God, the rest of the biblical narrative (Exodus through Revelation) will play this story out on a cosmic scale. <br /></div><br />  <br /></div><div style="text-align: left;"><h3 style="text-align: left;">Introduction </h3><br />            The phrase “In the beginning” may be among the most quoted verses of the Bible. The book of Genesis sets the stage not just for the Pentateuch (first five books of the Bible) but for the entire biblical narrative. God created the earth, placed mankind inside, and gave them “all that they needed”.<a href="https://draft.blogger.com/#_ftn1">[1]</a> The fall of man delayed the original plan (God with Us) but could not stop it. To this day, God revives that original plan into the hearts of any who will receive Him. This paper provides a survey of the background for Genesis and its God with Us theme. <br />Authorship and Recipients <br /><br />The first five books of the Bible, known as the Pentateuch, are commonly credited to Moses (though some debate this assumption).<a href="https://draft.blogger.com/#_ftn2">[2]</a> The authorship of Moses (with some editorial updates) is established by statements made in the five books, statements made by other prophets, and the cohesion of the finished work.<a href="https://draft.blogger.com/#_ftn3">[3]</a> The format of the Genesis narrative follows a structure known as a toledoth formula (“This is the account of…”) and it is organized into sections. This indicates that at least portions of the history may have been written before Moses and he (or whoever the compiler was) acted as a divinely inspired editor splicing the story into a coherent narrative.<a href="https://draft.blogger.com/#_ftn4">[4]</a> The Pentateuch is a single narrative (“a literary whole”) broken into five parts.<a href="https://draft.blogger.com/#_ftn5">[5]</a> Therefore, to understand Genesis one must read all five books to see the whole story. The initial audience of the book of Genesis were the Israelites of the Exodus/Wilderness period under Moses. Given that Moses hoped (and had God’s promise) the nation would survive long after him, it is reasonable to assume he also knew the story would be told for generations to come.<a href="https://draft.blogger.com/#_ftn6">[6]</a> <br />Date <br /><br />The exact timing of the events of Genesis (as they relate to the modern calendar) is unclear. While some scholars attempt to use a precise dating system showing that individuals (such as Abraham) lived during specific dates; others use a relative scale to show a range of dates he might have lived.<a href="https://draft.blogger.com/#_ftn7">[7]</a> Given the quagmire of debates on chronology, the patriarchs (Abraham, Isaac, Jacob, and Joseph) would have lived sometime between 2000 to 1600 BC (BCE).<a href="https://draft.blogger.com/#_ftn8">[8]</a> The book of Genesis is typically attributed to the work of Moses (the indicated author of Exodus); therefore, the date of the initial compiling of the text would be during the Exodus/Wilderness period, between 1500 to 1200 BC, depending on whether you adhere to the early or late date theory.<a href="https://draft.blogger.com/#_ftn9">[9]</a> <br />&nbsp;</div><div style="text-align: left;"><h3>Purpose and Background </h3><i>God with Us</i>: The covenant is the basis for understanding how Israelites viewed their theology and identity and Genesis provides the background and basis for covenant concepts.<a href="https://draft.blogger.com/#_ftn10">[10]</a> Genesis begins with the story of God’s plan to create a covenant family on Earth. Eden was God’s first attempt to be “God with us”; he lived with his man (Adam) until the fall. Dr. Michael S Heiser argues that Eden was the seat of God’s divine counsel and that Gardens and Mountains served as representations of divine abodes in the minds of the Ancient Near East.<a href="https://draft.blogger.com/#_ftn11">[11]</a> Therefore, the concept of “Eden” plays recurring roles throughout the rest of scripture as a reference to God’s house, divine council chamber, and access to his presence. Whether in Eden, visiting Abraham’s tent, or in the Temple itself, the plan remains consistently: God with Us. <br /><br /><i>Cultural Context</i>: A twenty-first-century reader is wise to remember that the Bible was written for our collective benefit, but it was not written to the modern reader. The Bible was written to Israel in the Ancient Near East (Old Testament) and Second Temple (New Testament) periods.<a href="https://draft.blogger.com/#_ftn12">[12]</a> Therefore, if we are to properly understand the text, we must properly understand the context of the text. This includes understanding the culture in which the original author and audience lived and wrote. The lead character of the Genesis narrative is Abram (Abraham) who came out of ancient Mesopotamia. The story of Abraham and his family comprises most of the book, except for a few side stories and a precursor to the generations preceding him. A study of texts from Mesopotamian and Egyptian cultures contain parallels and similarities to the texts of the Hebrew Bible. The Ancient Near Eastern materials can help the modern reader understand the culture and mindsets of the characters, authors, and earliest recipients of Genesis.<a href="https://draft.blogger.com/#_ftn13">[13]</a> <br /><br /><i>Creation vs Science</i>: One common source of frustration for modern readers of Genesis is the creation account. Using other Ancient Near East texts, Dr. John Walton provides a convincing argument for understanding the creation texts, not in terms of “material origins” such as atoms and molecules; but rather, in terms of “functional origins” (the roles created things play in the function of the universe).<a href="https://draft.blogger.com/#_ftn14">[14]</a> <br /><br /><i>The Old Testament (Genesis) and Christianity</i>: Approximately 32 percent (one-third) of the New Testament is composed of quotes and allusions to the Old Testament. This makes studying the Old Testament vital to the Christian.<a href="https://draft.blogger.com/#_ftn15">[15]</a> A lack of close reading in the Old Testament results in false dichotomies (Law vs Grace).<a href="https://draft.blogger.com/#_ftn16">[16]</a> It was through God’s work in the Old Covenant that he began to make himself known to humans and helped them create Sacred Space so he could be close to them.<a href="https://draft.blogger.com/#_ftn17">[17]</a>  In Enoch, we see a glimpse of God’s intent, he loved him so much that he took him (God with Us).<a href="https://draft.blogger.com/#_ftn18">[18]</a> <br />&nbsp;</div><div style="text-align: left;"><h3>Themes in Genesis </h3><br /><i>The Kingdom of God in Genesis</i>: While the Kingdom of God is not expressly mentioned in Genesis, the seeds of the kingdom are laid here. The realm of mankind attempted to set up their own kingdom apart from God at Babel, the Earth’s first kingdom.<a href="https://draft.blogger.com/#_ftn19">[19]</a> God rejected the nations at Babel and made a direct promise to Abraham, “…kings shall go out from you.”<a href="https://draft.blogger.com/#_ftn20">[20]</a> Abraham and his line dominated their territories, and made covenant agreements (as co-equals) with kings in Canaan and Egypt.<a href="https://draft.blogger.com/#_ftn21">[21]</a> God renewed his promise to Jacob that “kings shall go out from your loins”.<a href="https://draft.blogger.com/#_ftn22">[22]</a> By the end of Joseph’s story, he was second only to Pharaoh himself.<a href="https://draft.blogger.com/#_ftn23">[23]</a> Jack Hayford observes that the founding precepts of the Kingdom of God are found in Genesis one; God is the ruler of all and he has created mankind to share that domain with him.<a href="https://draft.blogger.com/#_ftn24">[24]</a> <br /><br /><i>God's Faithfulness Despite Man’s Unfaithfulness</i>: The New Testament does not have a monopoly on the love of God for fallen people. The narratives of Genesis show the genealogy of Abraham as a descendant of Noah; however, they do not show any hint that the faith of Noah continues in an unbroken line to Abram (Abraham).<a href="https://draft.blogger.com/#_ftn25">[25]</a> He is presented as an ordinary man from the early Mesopotamian culture of Ur (a descendant of the tower builders). God would reveal himself by several names, including YHWH and El Shaddai.<a href="https://draft.blogger.com/#_ftn26">[26]</a>  In this, God shows that he is faithful when mankind is not. Abraham is an example of God loving mankind “while we were yet sinners” (Romans 5:8). <br /><br /><i>Messianic Promise / Image Bearers</i>: God created a planet especially suited for his new Image Bearers, and the rest of the Bible is his attempt to live with his Image Bearers.<a href="https://draft.blogger.com/#_ftn27">[27]</a> When the divine Image Bearers disconnect from believing loyalty to God and attempt to cover their own shame, God responds by providing them with a more sufficient covering than they could provide for themselves (skin for fig leaves). He promised a day when the Seed of the woman (Jesus) would crush the serpent.<a href="https://draft.blogger.com/#_ftn28">[28]</a> When the earth had become so corrupt that God required a reset, he preserved one Image Bearer to keep the promise of the seed of woman alive.<a href="https://draft.blogger.com/#_ftn29">[29]</a> When Noah is established on the renewed Earth, he is told about the sanctity of life and punishment for taking life. Buried in this command that lifeblood would be required of animal and man, is another whisper of the one who would shed his blood as the lamb to take the sins of the world.<a href="https://draft.blogger.com/#_ftn30">[30]</a> <br /><br />When the renewed mankind rejected God’s will, he divorced the nations and turned them over to other gods; then began fresh with a new man called Abram and built a nation from him.<a href="https://draft.blogger.com/#_ftn31">[31]</a> Abram was promised that all the seeds of the earth would be blessed through him (an indication of The Seed of Eve who would come through his line).<a href="https://draft.blogger.com/#_ftn32">[32]</a> The Apostle Paul tells us that this message “all nations will be blessed through you” was God preaching the Good News of Jesus to Abraham.<a href="https://draft.blogger.com/#_ftn33">[33]</a> Later, Abram meets Melchizedek (Malki-Tsedeq) King of Salem (later renamed Jeru-Salem), and Priest of El-Elyon, (God Most High) who would be a type of shadow of the Davidic King (Jesus) who would come as Priest and King.<a href="https://draft.blogger.com/#_ftn34">[34]</a> God leads Abram on a life-journey that culminates in the promised son, Isaac. <br /><br />The covenant God establishes with Abram requires circumcision; another example of covenant ratified in blood.<a href="https://draft.blogger.com/#_ftn35">[35]</a> By providing Abram with a son in his old age, YHWH makes Sarah laugh. Yet, after she was in her old age, king Abimelech wanted her for his wife (a sign God had done something miraculous in her). This miracle sets the stage for young Mary to believe that she will bear God’s son many centuries later, for God can do anything through a woman, why not her?<a href="https://draft.blogger.com/#_ftn36">[36]</a> <br /><br />Then Abram (Abraham) was tested to lay his son on an altar and sacrifice him to God. As of this point, there is no law of Moses yet. In Abraham’s day, human sacrifice to the gods was a standard practice of the neighboring Canaanites.<a href="https://draft.blogger.com/#_ftn37">[37]</a> Yet, God uses this practice not only to test Abraham’s loyalty (after seeing so many reject him) and teach Abraham about his covenant faithfulness; but also, to lay another foreshadowing of the blood sacrifice to come.<a href="https://draft.blogger.com/#_ftn38">[38]</a> As they walk, Isaac notices the fire and wood but that there is no lamb. Abraham replies, “God will provide himself a lamb…”.<a href="https://draft.blogger.com/#_ftn39">[39]</a> As a result of this encounter, Abraham calls the place “YHWH will see/provide” (often transliterated Jehovah Jireh; YHWH Yireh).<a href="https://draft.blogger.com/#_ftn40">[40]</a> It is one of the strongest foreshadowings of the work of the Seed of Eve to come found in all of Genesis. <br /><br />Throughout the lifetimes of Isaac and Jacob, we see YHWH continue to be “God with Us” in their lives. Then in Abraham’s great-grandson Joseph, we see another glimpse of Messianic Promise. Joseph becomes the first Israel-born prophet, predicting a famine for Pharaoh. Although his brothers sold him into slavery (a type of death) and told his father he died; God used this to deliver the entire family from near death in the famine. The evil planned by the brothers; God intended for the salvation of many people.<a href="https://draft.blogger.com/#_ftn41">[41]</a> Joseph became a type and shadow of one “murdered” by his brothers to become the savior of them.&nbsp;</div><div style="text-align: left;"><br /><h3>Conclusion </h3><br />Jesus is the ultimate divine Image Bearer, and as such, the ultimate example of having dominion, being fruitful, and multiplying.<a href="https://draft.blogger.com/#_ftn42">[42]</a> As Emanual, he is God with Us. He is the fulfillment of the veiled promises and shadows first laid down in Genesis. Through a close reading of Genesis, we can see the heart of God has not changed from day one. He is a God who ultimately wants to be “God with Us”. In Genesis, we see a picture of imperfect people pursued by a perfect God. Abraham “believed God and it was credited as righteousness”.<a href="https://draft.blogger.com/#_ftn43">[43]</a> This was before any law, and even before circumcision. The basis of faith in God has never changed. Our modes of operation, our theological perspectives, and our styles of life and worship have changed, grown, morphed, and evolved as God continues to reveal himself in new ways. However, the God of Adam, the God of Abraham, the God of Joseph, is the same God who gave us Jesus, Peter, and Paul. He is the God of Abraham, Isaac, Jacob, Jesus, and (insert your name here).&nbsp;</div><div style="text-align: left;"><br /></div><div style="text-align: left;"><br /></div><div>&nbsp;</div><div>&nbsp;</div><div><h3 style="text-align: left;">Bibliography </h3><br />Gore, Charles, Henry Leighton Goudge, and Alfred Guillaume, eds. A NEW COMMENTARY ON HOLY SCRIPTURE INCLUDING THE APOCRYPHA. Vol. 1, p. iii. New York, NY: The Macmillan Company, 1928. <br /><br />Heiser, Dr. Michael S. “The Naked Bible Podcast.” The Naked Bible Podcast. Accessed January 30, 2021. https://nakedbiblepodcast.com/episodes/. <br /><br />———. The Unseen Realm: Recovering the Supernatural Worldview of the Bible. First edition. Bellingham, WA: Lexham Press, 2015. <br /><br />Hill, Andrew E., and John H. Walton. A Survey of the Old Testament. 3rd ed. Grand Rapids, Mich: Zondervan Publishing House, 2009. <br /><br />Jamieson, Robert, A. R. Fausset, and David Brown. Commentary Critical and Explanatory on the Whole Bible (1871). Oak Harbor, WA: Logos Research Systems, Inc., 1997. <br /><br />NET Bible®New English Translation (NET). Online Notes Edition. HarperCollins Christian Publishing; Biblical Studies Press, L.L.C. Accessed January 21, 2021. https://netbible.com/copyright/. <br /><br />Saunders, Dr. Eugene. “Old Testament Survey (BIBL1305).” Coursework, The King’s University, Southlake Texas, 2021. <br /><br />The Lexham English Bible (LEB), Fourth Edition. Logo Bible Software. Harris, W. H., III, Ritzema, E., Brannan, R., Mangum, D., Dunham, J., Reimer, J. A., &amp; Wierenga, M. (Eds.). Bellingham, WA: Lexham Press, 2010. http://www.lexhampress.com. <br /><br />The NET Bible First Edition Notes. Biblical Studies Press, 2006. <br /><br />Walton, John H. The Lost World of Genesis One: Ancient Cosmology and the Origins Debate. Westmont: InterVarsity Press, 2010. https://public.ebookcentral.proquest.com/choice/publicfullrecord.aspx?p=2030851. <br /><br />  <br /><br />  <br /><h3 style="text-align: left;">Notes</h3> <br /><a href="https://draft.blogger.com/#_ftnref1">[1]</a> Dr. Eugene Saunders, “Old Testament Survey (BIBL1305)” (Coursework, The King’s University, Southlake Texas, 2021), Lecture: 1.1 In the Beginning Lecture one a; Page 3. <br /> <br /><br /><a href="https://draft.blogger.com/#_ftnref2">[2]</a> Andrew E. Hill and John H. Walton, A Survey of the Old Testament, 3rd ed (Grand Rapids, Mich: Zondervan Publishing House, 2009), 79. <br /> <br /><br /><a href="https://draft.blogger.com/#_ftnref3">[3]</a> Robert Jamieson, A. R. Fausset, and David Brown, Commentary Critical and Explanatory on the Whole Bible (1871) (Oak Harbor, WA: Logos Research Systems, Inc., 1997), INTRODUCTION-TO THE PENTATEUCH AND HISTORICAL BOOKS-by ROBERT JAMIESON. <br /> <br /><br /><a href="https://draft.blogger.com/#_ftnref4">[4]</a> Hill and Walton, A Survey of the Old Testament, 79. The Toledoth: “Toledoth of Heavens and Earth (2:4–4:26); Toledoth of Adam (5:1–6:8); Toledoth of Noah (6:9–9:29); Toledoth of Shem, Ham, and Japheth (10:1–11:9); Toledoth of Shem (11:10–26); Toledoth of Terah (11:27–25:11); Toledoth of Ishmael (25:12–18); Toledoth of Isaac (25:19–35:29); Toledoth of Esau (36:1–8); Toledoth of Esau (36:9–37:1); Toledoth of Jacob (37:2–50:26)” <br /> <br /><br /><a href="https://draft.blogger.com/#_ftnref5">[5]</a> Hill and Walton, 57. <br /> <br /><br /><a href="https://draft.blogger.com/#_ftnref6">[6]</a> The Lexham English Bible (LEB), Fourth Edition, Logo Bible Software, Harris, W. H., III, Ritzema, E., Brannan, R., Mangum, D., Dunham, J., Reimer, J. A., &amp; Wierenga, M. (Eds.) (Bellingham, WA: Lexham Press, 2010), Exodus 6:6-8, http://www.lexhampress.com. <br /> <br /><br /><a href="https://draft.blogger.com/#_ftnref7">[7]</a> Hill and Walton, A Survey of the Old Testament, 64–69. <br /> <br /><br /><a href="https://draft.blogger.com/#_ftnref8">[8]</a> Hill and Walton, 64–72, discusses ANE Chronology. <br /> <br /><br /><a href="https://draft.blogger.com/#_ftnref9">[9]</a> Hill and Walton, 105–8, see Figures 5.1a Early Dating of the Exodus and 5.1b Late Dating of the Exodus. <br /> <br /><br /><a href="https://draft.blogger.com/#_ftnref10">[10]</a> Hill and Walton, 82. <br /> <br /><br /><a href="https://draft.blogger.com/#_ftnref11">[11]</a> Dr. Michael S. Heiser, The Unseen Realm: Recovering the Supernatural Worldview of the Bible, First edition (Bellingham, WA: Lexham Press, 2015), Chapter 6: Gardens and Mountains. <br /> <br /><br /><a href="https://draft.blogger.com/#_ftnref12">[12]</a> John H Walton, The Lost World of Genesis One: Ancient Cosmology and the Origins Debate. (Westmont: InterVarsity Press, 2010), Introduction, https://public.ebookcentral.proquest.com/choice/publicfullrecord.aspx?p=2030851.” <br /> <br /><br /><a href="https://draft.blogger.com/#_ftnref13">[13]</a> Hill and Walton, A Survey of the Old Testament, 79–81. Interesting note: “Written about 2000 BC, the Atra-Hasis Epic contains an account of creation, growing population, and a destructive flood with similarities to some of the details on Genesis 2-9.” <br /> <br /><br /><a href="https://draft.blogger.com/#_ftnref14">[14]</a> Walton, The Lost World of Genesis One, Proposition 1:  Genesis 1 Is Ancient Cosmology. <br /> <br /><br /><a href="https://draft.blogger.com/#_ftnref15">[15]</a> Hill and Walton, A Survey of the Old Testament, 744. <br /> <br /><br /><a href="https://draft.blogger.com/#_ftnref16">[16]</a> Hill and Walton, 722. <br /> <br /><br /><a href="https://draft.blogger.com/#_ftnref17">[17]</a> LEB, Romans 7:7. <br /> <br /><br /><a href="https://draft.blogger.com/#_ftnref18">[18]</a> NET Bible®New English Translation (NET), Online Notes Edition (HarperCollins Christian Publishing; Biblical Studies Press, L.L.C.), Genesis 5 (Enoch); 2 Kings 2:10 (Elijah), accessed January 21, 2021, https://netbible.com/copyright/. <br /> <br /><br /><a href="https://draft.blogger.com/#_ftnref19">[19]</a> Saunders, “OTS BIBL1305,” Lecture: 1.1 In the Beginning Lecture one a; Page 5. <br /> <br /><br /><a href="https://draft.blogger.com/#_ftnref20">[20]</a> LEB, Genesis 17:6. <br /> <br /><br /><a href="https://draft.blogger.com/#_ftnref21">[21]</a> LEB, Genesis 20: 1-17; 26:1-34; <br /> <br /><br /><a href="https://draft.blogger.com/#_ftnref22">[22]</a> LEB, Genesis 35:11. <br /> <br /><br /><a href="https://draft.blogger.com/#_ftnref23">[23]</a> LEB, Genesis 41:37-44. <br /> <br /><br /><a href="https://draft.blogger.com/#_ftnref24">[24]</a> Saunders, “OTS BIBL1305,” Slide: 1. Genesis thru Lev. <br /> <br /><br /><a href="https://draft.blogger.com/#_ftnref25">[25]</a> Hill and Walton, A Survey of the Old Testament, 86. <br /> <br /><br /><a href="https://draft.blogger.com/#_ftnref26">[26]</a> Hill and Walton, 92. <br /> <br /><br /><a href="https://draft.blogger.com/#_ftnref27">[27]</a> NET Bible®, Genesis 1. <br /> <br /><br /><a href="https://draft.blogger.com/#_ftnref28">[28]</a> NET Bible®, Genesis 3:15; 21. <br /> <br /><br /><a href="https://draft.blogger.com/#_ftnref29">[29]</a> NET Bible®, Genesis 6 (Noah and his family). <br /> <br /><br /><a href="https://draft.blogger.com/#_ftnref30">[30]</a> NET Bible®, Genesis 9:5; 1 Peter 1:19. <br /> <br /><br /><a href="https://draft.blogger.com/#_ftnref31">[31]</a> NET Bible®, Genesis 11-12; Deuteronomy 32: 8-9; Heiser, The Unseen Realm, Chapter 14 Divine Allotment. Yahweh would have none of it. After the flood God had commanded humanity once again to “be fruitful and multiply, and fill the earth” (Gen 9: 1). These words reiterated the original Edenic intention. But instead of obeying and having Yahweh be their god, the people gathered to build the tower. The theological messaging of the story is clear. Humanity had shunned Yahweh and his plan to restore Eden through them, so he would shun them and start again. <br /> <br /><br /><a href="https://draft.blogger.com/#_ftnref32">[32]</a> NET Bible®, Genesis 12:2. <br /> <br /><br /><a href="https://draft.blogger.com/#_ftnref33">[33]</a> LEB, Galations 3:8. <br /> <br /><br /><a href="https://draft.blogger.com/#_ftnref34">[34]</a> NET Bible®, Genesis 14:18; Psalms 110:4; Hebrews 5:6; 5:10; 6:20; 7:1-17; Dr. Michael S. Heiser, “The Naked Bible Podcast,” The Naked Bible Podcast, Episodes 166; 167; 168; 172; 185, accessed January 30, 2021, https://nakedbiblepodcast.com/episodes/. <br /> <br /><br /><a href="https://draft.blogger.com/#_ftnref35">[35]</a> NET Bible®, Genesis 18. <br /> <br /><br /><a href="https://draft.blogger.com/#_ftnref36">[36]</a> LEB, Genesis 18:15; 20:17; 21:1. <br /> <br /><br /><a href="https://draft.blogger.com/#_ftnref37">[37]</a> Charles Gore, Henry Leighton Goudge, and Alfred Guillaume, eds., A NEW COMMENTARY ON HOLY SCRIPTURE INCLUDING THE APOCRYPHA, Vol. 1, p. iii (New York, NY: The Macmillan Company, 1928), (3) Religious Value. <br /> <br /><br /><a href="https://draft.blogger.com/#_ftnref38">[38]</a> NET Bible®, Hebrews 11:19. <br /> <br /><br /><a href="https://draft.blogger.com/#_ftnref39">[39]</a> NET Bible®, Genesis 22:8; The NET Bible First Edition Notes (Biblical Studies Press, 2006), Notes for  22:8. 20 tn Heb “will see for himself.” The construction means “to look out for; to see to it; to provide.” sn God will provide is the central theme of the passage and the turning point in the story. Note Paul’s allusion to the story in Rom 8:32 (“how shall he not freely give us all things?”) as well as H. J. Schoeps, “The Sacrifice of Isaac in Paul’s Theology,” JBL 65 (1946): 385–92. <br /> <br /><br /><a href="https://draft.blogger.com/#_ftnref40">[40]</a> The NET Bible First Edition Notes, Genesis 22:14; The NET Bible First Edition Notes, Notes for 22:14. 33 tn Heb “the Lord sees” (יְהוָה יִרְאֶה, yéhvah yir’eh, traditionally transliterated “Jehovah Jireh”. <br /> <br /><br /><a href="https://draft.blogger.com/#_ftnref41">[41]</a> LEB, Genesis 50:20. <br /> <br /><br /><a href="https://draft.blogger.com/#_ftnref42">[42]</a> NET Bible®, Genesis 1-2; 2 Corinthians 4:4; Colossians 1:15. <br /> <br /><br /><a href="https://draft.blogger.com/#_ftnref43">[43]</a> LEB, Genesis 15:6; Romans 4:3. <br /> <br /> <br /> <br /> <br /> <br /> <br /><div style="text-align: left;"> Shalom: Live Long and Prosper!<br /><br /> Darrell Wolfe (DG Wolfe) <br /> Storyteller | Writer | Thinker | Consultant @ <a href="https://draft.blogger.com/#">DarrellWolfe.com</a><br /><br /><a href="https://draft.blogger.com/#">Clifton StrengthsFinder</a>: Intellection, Learner, Ideation, Achiever, Input<br /><a href="https://draft.blogger.com/#">16Personalities</a> (Myers-Briggs Type): INFJ<br /></div>       </div><div> <br /> <br /> </div></div>

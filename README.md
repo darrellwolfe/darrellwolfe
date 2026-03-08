@@ -3,6 +3,16 @@
 URL: https://darrellwolfe.github.io/darrellwolfe/
 
 
+Tasks:
+
+Figure out how to do data projects when several are on systems I cannot access here, either screenshots, or maybe better test-data in csv for localized examples, or both. 
+
+Update all draft / moved blogs header details to point to current site. 
+
+Update all draft posts to PNG/JPG issues, or, move the remaining posts you want move and run that on those, then delete what you're not going to use. 
+
+When rendering, there are lots of div and chunk warnings, fix those in bulk. 
+
 
 This repository is a static Quarto website for:
 

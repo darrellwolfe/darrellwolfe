@@ -1,0 +1,287 @@
+---
+title: 'Seow (Inspired) Hebrew Grammar Practice Test'
+date: '2025-04-17T04:15:00.0010000+00:00'
+draft: false
+blogger_blog: 'NoHiding.Faith'
+blogger_status: 'LIVE'
+blogger_post_id: '1032785874200253548'
+blogger_filename: '/2025/04/seow-inspired-hebrew-grammar-practice.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/NoHiding.Faith/feed.atom'
+categories:
+  - 'Hebrew'
+---
+
+<p class="MsoNormal"><b>Inspired by C. L. Seow's A Grammar for Biblical Hebrew
+(Revised Edition) - Practice Test (100 Questions)</b><o:p></o:p></p>
+
+<div align="center" class="MsoNormal" style="text-align: center;">
+
+<hr align="center" size="2" width="100%" />
+
+</div>
+
+<p class="MsoNormal"><b>Section 1: Vocabulary Recognition (20 Questions)<o:p></o:p></b></p>
+
+<p class="MsoNormal"><i>Write the English meaning of each Hebrew word.</i><o:p></o:p></p>
+
+<ol start="1" style="margin-top: 0in;" type="1">
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">אֱלֹהִים</span><o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">מֶלֶךְ</span><o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">אִשָּׁה</span><o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">שָׁלוֹם</span><o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">עֶבֶד</span><o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">סֵפֶר</span><o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">דֶּרֶךְ</span><o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">אֶרֶץ</span><o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">יָד</span><o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">בַּיִת</span><o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">מִשְׁפָּט</span><o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">אֶמֶת</span><o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">נָבִיא</span><o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">דָּם</span><o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">מַיִם</span><o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">שֵׁם</span><o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">רֹאשׁ</span><o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">קוֹל</span><o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">עַיִן</span><o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">זָהָב</span><o:p></o:p></li>
+</ol>
+
+<div align="center" class="MsoNormal" style="text-align: center;">
+
+<hr align="center" size="2" width="100%" />
+
+</div>
+
+<p class="MsoNormal"><b>Section 2: Parsing Nouns &amp; Adjectives (15 Questions)<o:p></o:p></b></p>
+
+<p class="MsoNormal"><i>For each Hebrew word, identify gender, number,
+definiteness, and provide a translation.</i><o:p></o:p></p>
+
+<ol start="21" style="margin-top: 0in;" type="1">
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">הַמֶּלֶךְ</span><o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">בָּנִים</span><o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">הָאִשָּׁה</span><o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">נְבִיאִים</span><o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">עֵינַיִם</span><o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">סְפָרִים</span><o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">הַסֵּפֶר</span><o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">יָדִי</span><o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">אֲנָשִׁים</span><o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">הָעֵץ</span><o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">הַשֵּׁם</span><o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">דְּבָרִים</span><o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">אִשָּׁה
+     טוֹבָה</span><o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">מֶלֶךְ
+     רָע</span><o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">בֵּן
+     קָטָן</span><o:p></o:p></li>
+</ol>
+
+<div align="center" class="MsoNormal" style="text-align: center;">
+
+<hr align="center" size="2" width="100%" />
+
+</div>
+
+<p class="MsoNormal"><b>Section 3: Parsing Verbs (20 Questions)<o:p></o:p></b></p>
+
+<p class="MsoNormal"><i>Parse the following verbs: stem, aspect, person, number,
+gender, and root.</i><o:p></o:p></p>
+
+<ol start="36" style="margin-top: 0in;" type="1">
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">כָּתַב</span><o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">שָׁמַעְתִּי</span><o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">אָהַבְנוּ</span><o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">יָשַׁב</span><o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">לָקַחְתָּ</span><o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">עָמַד</span><o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">יֵשֵׁב</span><o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">נָתַן</span><o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">שָׁלַח</span><o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">קָרָא</span><o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">שָׁפַט</span><o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">יָדַעְתְּ</span><o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">יִכְתְּבוּ</span><o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">יִשְׁמְרוּ</span><o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">נִשְׁמַע</span><o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">נָשָׂא</span><o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">יֵרֵד</span><o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">הֵבִיא</span><o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">נָפַל</span><o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">הָלַכְתִּי</span><o:p></o:p></li>
+</ol>
+
+<div align="center" class="MsoNormal" style="text-align: center;">
+
+<hr align="center" size="2" width="100%" />
+
+</div>
+
+<p class="MsoNormal"><b>Section 4: Sentence Translation (20 Questions)<o:p></o:p></b></p>
+
+<p class="MsoNormal"><i>Translate the following Biblical Hebrew sentences into
+English.</i><o:p></o:p></p>
+
+<ol start="56" style="margin-top: 0in;" type="1">
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">הַמֶּלֶךְ
+     בַּבַּיִת</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>.<o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">דָּוִד
+     כָּתַב סֵפֶר</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>.<o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">הָאִשָּׁה
+     יָשְׁבָה בָּעִיר</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>.<o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">עֶבֶד
+     שָׁלַח דָּבָר אֶל־הַמֶּלֶךְ</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>.<o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">נָבִיא
+     שָׁפַט אֶת־הָעָם</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>.<o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">כֹּהֵן
+     בַּבֵּית־יְהוָה</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>.<o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">הַדְּבָרִים
+     אֵינָם בַּסֵּפֶר</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>.<o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">שָׁלוֹם
+     לְךָ, מֶלֶךְ</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>.<o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">אֲנַחְנוּ
+     שָׁמַעְנוּ לְקוֹל יְהוָה</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>.<o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">יָדַעְנוּ
+     אֶת־הָאֱמֶת</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>.<o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">מִי
+     יֵשֵׁב בַּשָּׁמַיִם</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>?<o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">מֹשֶׁה
+     נָתַן תּוֹרָה לְיִשְׂרָאֵל</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>.<o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">אַתָּה
+     הָלַכְתָּ אֶל־הָעִיר</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>.<o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">אֲנִי
+     כָּתַבְתִּי סֵפֶר קָטָן</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>.<o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">אֵין
+     מֶלֶךְ בָּעִיר הַזֹּאת</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>.<o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">בְּרֵאשִׁית
+     בָּרָא אֱלֹהִים</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>.<o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">נָפַל
+     הַגִּבּוֹר בַּמִּלְחָמָה</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>.<o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">מָצָאתִי
+     סֵפֶר בַּבַּיִת</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>.<o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">עֵינַיִם
+     רָאוּ דָּבָר נִפְלָא</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>.<o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">הַשֵּׁם
+     שֶׁל־הַנָּבִיא גָּדוֹל</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>.<o:p></o:p></li>
+</ol>
+
+<div align="center" class="MsoNormal" style="text-align: center;">
+
+<hr align="center" size="2" width="100%" />
+
+</div>
+
+<p class="MsoNormal"><b>Section 5: Fill-in-the-Blank Conjugations (15 Questions)<o:p></o:p></b></p>
+
+<p class="MsoNormal"><i>Conjugate the following roots in the given form.</i><o:p></o:p></p>
+
+<ol start="76" style="margin-top: 0in;" type="1">
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">כָּתַב</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>
+     — Qal Perfect 3ms<o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">כָּתַב</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>
+     — Qal Perfect 1cp<o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">שָׁמַע</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>
+     — Qal Imperfect 3mp<o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">אָכַל</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>
+     — Qal Perfect 2fs<o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">נָתַן</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>
+     — Qal Perfect 2ms<o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">יָדַע</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>
+     — Qal Imperfect 1cs<o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">לָקַח</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>
+     — Qal Perfect 3fp<o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">רָאָה</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>
+     — Qal Perfect 3ms<o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">הָיָה</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>
+     — Qal Perfect 3ms<o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">הָלַךְ</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>
+     — Qal Imperfect 2ms<o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">שָׁפַט</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>
+     — Qal Perfect 1cs<o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">נָפַל</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>
+     — Qal Perfect 3fp<o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">שָׁאַל</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>
+     — Qal Perfect 3mp<o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">בָּרַךְ</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>
+     — Qal Perfect 3ms<o:p></o:p></li>
+ <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">יָצָא</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>
+     — Qal Perfect 3fp<o:p></o:p></li>
+</ol>
+
+<div align="center" class="MsoNormal" style="text-align: center;">
+
+<hr align="center" size="2" width="100%" />
+
+</div>
+
+<p class="MsoNormal"><b>Section 6: Multiple Choice Grammar Questions (10
+Questions)<o:p></o:p></b></p>
+
+<p class="MsoNormal"><i>Choose the best answer.</i><o:p></o:p></p>
+
+<ol start="91" style="margin-top: 0in;" type="1">
+ <li class="MsoNormal">The
+     definite article in Hebrew is: A. <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">לְ</span><br />
+     B. <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">הַ</span><br />
+     C. <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">בְּ</span><br />
+     D. <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">אֵת</span><o:p></o:p></li>
+ <li class="MsoNormal">Which
+     of the following is a feminine noun? A. <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">מֶלֶךְ</span><br />
+     B. <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">סֵפֶר</span><br />
+     C. <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">אִשָּׁה</span><br />
+     D. <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">עֶבֶד</span><o:p></o:p></li>
+ <li class="MsoNormal">What
+     does the preposition <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">בְּ</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>
+     mean? A. To<br />
+     B. In/at/with<br />
+     C. Like/as<br />
+     D. From<o:p></o:p></li>
+ <li class="MsoNormal">The
+     Qal stem expresses: A. Passive action<br />
+     B. Intensive action<br />
+     C. Simple/active action<br />
+     D. Causative action<o:p></o:p></li>
+ <li class="MsoNormal">The
+     Hebrew word for “peace” is: A. <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">אֲמָנָה</span><br />
+     B. <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">שָׁלוֹם</span><br />
+     C. <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">חָסֶד</span><br />
+     D. <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">בְּרִית</span><o:p></o:p></li>
+ <li class="MsoNormal">Which
+     pronominal suffix means “my” (1cs)? A. <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">־ָם</span><br />
+     B. <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">־וֹ</span><br />
+     C. <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">־ִי</span><br />
+     D. <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">־ְךָ</span><o:p></o:p></li>
+ <li class="MsoNormal">Which
+     word is the direct object marker? A. <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">לְ</span><br />
+     B. <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">בְּ</span><br />
+     C. <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">אֵת</span><br />
+     D. <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">עַל</span><o:p></o:p></li>
+ <li class="MsoNormal">What
+     is the Hebrew word for “man”? A. <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">אִשָּׁה</span><br />
+     B. <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">אִישׁ</span><br />
+     C. <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">אָדָם</span><br />
+     D. <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">גֶּבֶר</span><o:p></o:p></li>
+ <li class="MsoNormal">A dual
+     noun often ends in: A. <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">־וֹת</span><br />
+     B. <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">־ִים</span><br />
+     C. <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">־ַיִם</span><br />
+     D. <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">־ֵי</span><o:p></o:p></li>
+ <li class="MsoNormal">The
+     imperfect tense indicates: A. Completed action<br />
+     B. Ongoing or future action<br />
+     C. Intensive action<br />
+     D. Passive voice<o:p></o:p></li>
+</ol>
+
+<div align="center" class="MsoNormal" style="text-align: center;">
+
+<hr align="center" size="2" width="100%" />
+
+</div>
+
+<p class="MsoNormal"><b>End of Test</b><o:p></o:p></p>
+
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+

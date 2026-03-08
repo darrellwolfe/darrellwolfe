@@ -1,0 +1,54 @@
+---
+title: 'Mindset Shift: Champion of Change'
+date: '2024-03-31T05:28:00.0000000+00:00'
+draft: false
+blogger_blog: 'Darrell Wolfe, Storyteller'
+blogger_status: 'DRAFT'
+blogger_post_id: '346310629863764094'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
+categories:
+  - 'Musings'
+---
+
+<p style="text-align: left;">In the past year, our entire team embarked on a transformative journey, evolving from traditional paper-based processes to embracing the power of digital solutions and data analytics. This transition, while challenging, has been a revelation, uncovering layers of historical inaccuracies that were hidden beneath the surface of our conventional methods.</p>
+<p>Our journey has been a testament to the strength and resilience inherent in embracing change, reminding me of a sentiment often attributed to Albert Einstein: "Great spirits have always encountered violent opposition." This quote, while stark, underscores a universal truth about the path of innovation and growth.</p>
+<p>It isn't about the opposition itself but about the courage and determination to move forward together, despite the hurdles. This experience has highlighted the natural human hesitation towards the unfamiliar and the remarkable courage it takes for a team to navigate through these changes. It’s through our collective efforts, understanding, and patience that we push forward, transforming challenges into opportunities for improvement and growth.</p>
+<p>There is no human on earth who hasn’t felt the deep resistance to change in one form or another. Change is painful. Modern psychology tells us that we will usually not pursue change until the pain of change is less than the pain of staying the same. When systems blow up so bad that people leave without leave abruptly, the time to change was long passed. Incremental change only works when the system is still functioning, at least a little. When the engine is blown, heroic efforts are required just to get down the road. We began the process of building a new engine as the car was being towed. It was a crazy journey, and the engine still needs a massive overhaul.</p>
+<p>Our journey has not been without its struggles. Change is difficult, and it often brings to light discrepancies that were long buried under established routines. Through meticulous analysis and the adoption of new technologies, we've begun to uncover and correct these errors, many of which trace back decades. This process, though met with resistance, is a testament to the power of innovation and the importance of looking forward with an open mind.</p>
+<p>I want to extend my gratitude to my colleagues, both new and seasoned, for their dedication during this period of transition. Change can be unsettling, and it's natural to feel protective of familiar ways. Yet, it's through embracing these new methods that we're able to grow and improve, not just as professionals but as an organization.</p>
+<p>We listened, even when the concerns were expressed in less than helpful ways. In one recent long-form report, we performed root-cause analysis of every potential issue that was highlighted. We found, without exception, it was the “old” ways and not the “new” ways that were at the root cause of each issue. We found that we can include new audits to look for those issues in the future, as some of the old ways are still in practice and those errors are bound to reoccur.</p>
+<p>It is unfortunate that there was a historical culture of blame, but we refuse to take that tact. We do not seek blame but seek understanding, and innovation. We want to perform root-cause analysis on every issue, look for a better solutions, and implement it. It is hard to push forward through change, but we are pushing forward, because we must. We are looking forward to a future in which data management best practices are the norm, and innovating new ways to use technology to assist the humans is also the norm. There should never be a 12-month period were something hasn’t been innovated. Not 100 years from now, the system will never be perfect, it will always require adaptation.</p>
+<p>As one colleague said in the past three years, “we spend all out time struggling to get the data, and don’t have enough time to analyze it.” That is a pain-point we have worked to solve and want to continue to solve. Humans should not be doing data entry if it can be automated. Those things that cannot be automated, can still be partially automated or improved.</p>
+<p>Let’s use the best tools available to the best of our ability, and never ever stop innovating.</p>
+<p>As we continue to navigate this path, I'm reminded of the importance of patience, understanding, and perseverance. Change is a journey, not a destination, and it's through collective effort and a shared vision that we can overcome challenges and shape a future that's more accurate, efficient, and transparent.</p>
+<p>To everyone embarking on similar journeys of transformation, remember that the road to innovation is often paved with obstacles. Yet, it's these challenges that lead us to improvement and progress. Let's continue to support each other, learn from our experiences, and move forward with an open heart and mind.</p>
+<p>I dedicate this post to my first mentor, Sharon, who taught me that nobody can be an asset to any organization without being a “champion of change”.</p>
+<p>#ChangeManagement #DigitalTransformation #Innovation #Teamwork #GrowthMindset</p>
+<!-- notionvc: 9bfbaaf5-b4c8-4994-aefc-2c0acfa6742b -->
+<br />
+<br />
+<br />
+<br />
+<br />
+<div id="mc_embed_signup">
+<form action="https://darrellwolfe.us3.list-manage.com/subscribe/post?u=979cb0db6ca74343e82a059ba&amp;id=14df3ba97b" class="validate" id="mc-embedded-subscribe-form" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank">
+<div id="mc_embed_signup_scroll">
+<label>Subscribe Now - Pursue a No Hiding Lifestyle</label>&nbsp;<input class="email" id="mce-EMAIL" name="EMAIL" required="" type="email" value="" /><br />
+<div aria-hidden="true" style="left: -5000px; position: absolute;">
+<input name="b_979cb0db6ca74343e82a059ba_14df3ba97b" tabindex="-1" type="text" value="" /></div>
+<div class="clear">
+<input class="button" id="mc-embedded-subscribe" name="subscribe" type="submit" value="Subscribe" /></div>
+</div>
+</form>
+</div>
+<br />
+<span style="font-family: &quot;tempus sans itc&quot;;">Shalom: Live Long and Prosper!</span><br />
+<div class="MsoNormal">
+<span style="font-family: &quot;tempus sans itc&quot;; font-size: 18pt;">Darrell Wolfe (DG Wolfe)</span></div>
+<div class="MsoNormal">
+<span style="font-family: &quot;tempus sans itc&quot;;">Storyteller | Writer | Thinker | Consultant @&nbsp;<a href="http://www.darrellwolfe.com/p/start-here-about_12.html" target="_blank">DarrellWolfe.com</a></span><br />
+<br />
+<span style="font-family: &quot;tempus sans itc&quot;;"><a href="https://www.gallupstrengthscenter.com/" target="_blank">Clifton StrengthsFinder</a>: Intellection, Learner,&nbsp;</span><span style="font-family: &quot;tempus sans itc&quot;;">Ideation,</span><span style="font-family: &quot;tempus sans itc&quot;;">&nbsp;Achiever, Input</span><br />
+<span style="font-family: &quot;tempus sans itc&quot;;"><a href="https://www.16personalities.com/infj-personality" target="_blank">16Personalities</a> (Myers-Briggs Type): INFJ</span><br />
+<span style="font-family: &quot;tempus sans itc&quot;;"><br /></span>
+<span style="font-family: &quot;tempus sans itc&quot;;"><br /></span></div>

@@ -1,0 +1,99 @@
+---
+title: 'Plot Points - White Noise'
+date: '2023-11-27T22:39:00.0000000+00:00'
+draft: false
+blogger_blog: 'Darrell Wolfe, Storyteller'
+blogger_status: 'LIVE'
+blogger_post_id: '8575680417355550757'
+blogger_filename: '/2023/11/plot-points-white-noise.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
+categories:
+  - 'Writing Practice'
+  - 'White Noise'
+---
+
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8"></meta>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport"></meta>
+    <title>Story Structure for 'White Noise'</title>
+</head>
+<body>
+    <h1>Story Structure for 'White Noise'</h1>
+
+    <h2>Act 1: The Setup</h2>
+    <ul>
+        <li><strong>Hook:</strong> Ash's hallucination in the cafe, blending reality and the supernatural.</li>
+        <li><strong>Action:</strong> Explore the town, Ash's daily life, his friends, and his workshop.</li>
+        <li><strong>Reaction:</strong> Ash at home, showing his struggles with substance abuse and isolation.</li>
+        <li><strong>Action:</strong> Confrontation between Ash and Hank.</li>
+        <li><strong>Reaction:</strong> Ash processing the confrontation.</li>
+    </ul>
+
+    <h3>Inciting Incident</h3>
+    <ul>
+        <li><strong>Action:</strong> Destiny enters, possibly in Ash's POV, introducing him to the experiments.</li>
+        <li><strong>Reaction:</strong> Ash processes this new information, struggles with the truth and lies.</li>
+        <li><strong>Action:</strong> A specific event that forces Ash to acknowledge the reality of his situation.</li>
+        <li><strong>Reaction:</strong> Ash's internal struggle with the choice he faces.</li>
+    </ul>
+
+    <h3>First Plot Point</h3>
+    <ul>
+        <li><strong>Action:</strong> Develop the conflict, forcing Ash to choose his path.</li>
+        <li><strong>Reaction:</strong> Ash's emotional and mental response to this conflict.</li>
+        <li><strong>Action:</strong> Another event that intensifies the conflict.</li>
+        <li><strong>Reaction:</strong> Ash starts to realize the gravity of the situation.</li>
+        <li><strong>Action:</strong> A turning point that thrusts Ash fully into the adventure.</li>
+        <li><strong>Reaction:</strong> Ash comes to terms with his new reality.</li>
+    </ul>
+
+    <h2>Act 2: The Confrontation</h2>
+    <h3>First Half</h3>
+    <ul>
+        <li><strong>1st Pinch Point:</strong> Showcase the antagonist's power.</li>
+        <li><strong>Reaction:</strong> Ash gathers clues about the nature of the conflict.</li>
+        <li><strong>Midpoint:</strong> A significant revelation about Ash's hallucinations.</li>
+    </ul>
+
+    <h3>Second Half</h3>
+    <ul>
+        <li><strong>2nd Pinch Point:</strong> A reminder of what's at stake, foreshadowing the third plot point.</li>
+        <li><strong>Action:</strong> Ash begins to make headway against the antagonist.</li>
+        <li><strong>Reaction:</strong> The antagonist responds, increasing the stakes.</li>
+        <li><strong>Action:</strong> A seeming victory for Ash.</li>
+        <li><strong>Reaction:</strong> The aftermath of this victory.</li>
+    </ul>
+
+    <h2>Act 3: The Resolution</h2>
+    <h3>Third Plot Point</h3>
+    <ul>
+        <li><strong>Dark Night of the Soul:</strong> Ash faces a significant setback.</li>
+        <li><strong>Reaction:</strong> Emotional turmoil and decision to push forward.</li>
+    </ul>
+
+    <h3>Climax</h3>
+    <ul>
+        <li><strong>Build-Up:</strong> Ash prepares for the final confrontation.</li>
+        <li><strong>Climactic Moment:</strong> The ultimate showdown and Ash's final victory.</li>
+        <li><strong>Reaction:</strong> The immediate aftermath of the climax.</li>
+    </ul>
+
+    <h3>Resolution</h3>
+    <ul>
+        <li><strong>Action:</strong> Gradual easing out of the story, showcasing the new status quo.</li>
+        <li><strong>Reaction:</strong> Characters' responses to the new reality.</li>
+        <li><strong>Hint at Next Story:</strong> A teaser for future adventures or challenges for Ash.</li>
+    </ul>
+
+</body>
+</html>
+
+
+
+
+
+
+  
+  <div class="separator" style="clear: both; text-align: center;"><a href="/images/imported/blogger-googleusercontent-com/1-566ac79e6377.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1200" data-original-width="800" height="640" src="/images/imported/blogger-googleusercontent-com/1-db9c6c791deb.png" width="426" /></a></div><br /><div class="separator" style="clear: both; text-align: center;"><a href="/images/imported/blogger-googleusercontent-com/2-9461f643f771.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1200" data-original-width="800" height="640" src="/images/imported/blogger-googleusercontent-com/2-4d40ee90939a.png" width="426" /></a></div><br /><div class="separator" style="clear: both; text-align: center;"><a href="/images/imported/blogger-googleusercontent-com/3-5f53b78af03a.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1200" data-original-width="800" height="640" src="/images/imported/blogger-googleusercontent-com/3-4712c0941e83.png" width="426" /></a></div><br /><div class="separator" style="clear: both; text-align: center;"><br /></div><br /><br /><p></p>

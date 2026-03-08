@@ -26,6 +26,16 @@ Welcome to my digital home.
 I built this site to hold the full range of what I do instead of splitting it into separate, disconnected brands. Because the truth is, these interests were never separate. They all come from the same fascination with meaning, pattern, structure, and story.
 
 Here you'll find fiction and worldbuilding, biblical studies and historical context, practical data work and visualization, and personal writing that doesn't fit neatly anywhere else.
+
+Note/disclaimer:
+
+
+1. My thinking has shifted on many topics over the years. Most especially, it has shifted on matters of Bible/Faith and Politics. Some of these old posts I will leave up, to show the evolution of my thinking, but please keep in mind that they may not reflect my current views. I will be updating and revising content as I go, but please keep in mind that some of it may be a work in progress.
+
+
+2. I am currently moving old content from multiple Blogger blogs to this site. I will be going through and deleting content that no longer represents my current thinking, but for now, you may find some posts that are outdated or don't reflect my current views. I will be updating and revising content as I go, but please keep in mind that some of it may be a work in progress.
+
+
 :::
 
 ## Browse by Section
@@ -33,22 +43,22 @@ Here you'll find fiction and worldbuilding, biblical studies and historical cont
 ::: {.card-grid}
 ::: {.card}
 ### [Author](posts/writing/index.qmd)
-Speculative fiction, story craft, worldbuilding, and the ongoing work of becoming a better writer.
+I write speculative fiction at the intersection of fantasy, science fiction, and the uncanny, with a deep interest in meaning, identity, and transformation. This page is the central home for my creative writing identity and the stories growing out of it.
 :::
 
 ::: {.card}
 ### [Biblical Studies](posts/biblical/index.qmd)
-Research, interpretation, and reflections shaped by ancient context and a deep interest in reading texts well.
+I am a biblical studies major and I write about the Bible by dragging it out of modern Churchianity and back into its ancient world, reading it within its Ancient Near East (ANE) and Second Temple Jewish contexts, and asking the kinds of questions that polished religion usually tries to avoid. I’m especially interested in the Bible’s worldview, its systems of meaning, and the way it shapes identity, perception, and power. I have little interest in church tradition, church fathers, or what your pastor thinks the Bible says. The biblical authors had their own worldview, their own questions, and their own answers, and I want to understand those on their own terms. This page is for biblical studies rooted in context, worldview, close reading, and the kind of questions polished religion usually tries to avoid. 
 :::
 
 ::: {.card}
 ### [Data Nerd](posts/data-nerd/index.qmd)
-SQL, dashboards, reporting, analytics, automation, and the craft of making information useful.
+By day, I wrangle data for a living. This page is where I write about SQL, dashboards, automation, reporting, and the deeply satisfying work of forcing chaotic information to sit down, behave, and tell the truth.
 :::
 
 ::: {.card}
 ### [Personal](posts/personal/index.qmd)
-Essays, reflections, side quests, and the rest of the glorious mess.
+This page is for the randomness in my head that refuses to fit neatly into the other categories: reflections, rabbit trails, rants, weird connections, and the occasional thought that showed up uninvited but made a compelling case for itself.
 :::
 :::
 

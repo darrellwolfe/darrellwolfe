@@ -1,0 +1,90 @@
+---
+title: 'The W Story Structure - 4 Sequence Story Structure'
+date: '2017-10-01T07:36:00.0020000+00:00'
+draft: false
+blogger_blog: 'Darrell Wolfe, Storyteller'
+blogger_status: 'LIVE'
+blogger_post_id: '8111122149165181945'
+blogger_filename: '/2017/10/the-w-story-structure-4-sequence-story.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
+categories:
+  - 'Writing Craft'
+  - 'Writing Practice'
+  - 'write'
+---
+
+Out of everything I've ever read on story structure for fiction writing, the W-Story Structure makes the most sense to me. If you'd rather view these as Acts (3-Act or 4-Act) you can overlay that on this W and it still works.<br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="/images/imported/blogger-googleusercontent-com/w-storystructure-9d98637af476.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="792" data-original-width="1391" height="364" src="/images/imported/blogger-googleusercontent-com/w-storystructure-b34cae9ecf22.jpg" width="640" /></a></div>
+<br />
+<br />
+Glen C. Strathy writes (in much more detail <a href="http://www.how-to-write-a-book-now.com/w-plot.html" target="_blank">here</a>) in his article, <a href="http://www.how-to-write-a-book-now.com/w-plot.html" target="_blank">The W-Plot vs. The Dramatica Model of Story Structure</a>. There are four sequences for most stories. Each of the four legs of the W is comprised of a sequence of events that lead the story along to it's natural conclusion.<br />
+<br />
+<ul>
+<li>Sequence 1: setting up the problem (creating tension)</li>
+<li>Sequence 2: recovering from the problem (new ideas, positive momentum)</li>
+<li>Sequence 3: deepening of the problem</li>
+<li>Sequence 4: the resolution of the problem (new light or understanding)</li>
+</ul>
+<div>
+<br /></div>
+<br />
+<h4>
+Sequence 1: setting up the problem (creating tension)</h4>
+<br />
+The <b>Inciting Event</b> (the event that is at the heart of the reason this story happened) may have occurred before your story begins, and often does. In <a href="http://www.imdb.com/title/tt1972591/" target="_blank">King Arthur: Legend of the Sword (2017)</a>, the events of his childhood were the "inciting event" that eventually led to his being king. But he doesn't really properly remember those events. He is gradually made aware of them throughout the story. The inciting event must be tied to the climax for a rewarding end; however, it need not be where the story itself starts for the reader.<br />
+<br />
+In fact, if the inciting event is not tied directly to the climax in some way, the reader will often feel mislead, confused, or will wonder what the heck this story was about. At each touch point, if not in every scene, the inciting event must be secretly weaving the threads of this story behind the scenes.<br />
+<br />
+The <b>Trigger Event</b>; however, is most likely something that occurs shortly after the story itself has begun. We meet our character in his/her real world, and then some event pushes this character to a point of no return. This trigger event is usually at the end of the first sequence. The tension builds throughout the sequence. Maybe things get worse and worse, but up until the trigger, he/she could go back to life as normal.<br />
+<div>
+<br /></div>
+<div>
+The trigger sets off Sequence 2.</div>
+<br />
+<h4>
+Sequence 2: recovering from the problem (new ideas, positive momentum)</h4>
+<br />
+The main character (and their crew) will regroup, come up with ideas, possibly sort out their thoughts, and eventually make a decision to press on toward some kind of resolution or at least reaction to the Trigger Event.<br />
+<br />
+The solution won't work though, it will be thwarted in some way. This effort on their part will fail, and ultimately lead to the second Trigger Event, often much worse than the first.<br />
+<br />
+<h4>
+Sequence 3: deepening of the problem</h4>
+<br />
+As a result of this new Trigger Event, the team will experience setbacks and failures, and heartbreaks. They will want to give up by the end of this sequence.<br />
+<br />
+This will lead the main character to some kind of epiphany or aide and he/she will press on with new enthusiasm and vigor. Or at least a "die trying" attitude.<br />
+<br />
+<h4>
+Sequence 4: the resolution of the problem (new light or understanding)</h4>
+<br />
+As a result of this new plan, the action builds and builds to a climax.<br />
+<br />
+Toward the end of this sequence, there will be a battle. The main character will gain a new light, understanding, or Aha! Moment. This new light will be the final straw they need to defeat the enemy. All could be lost until this very moment.<br />
+<br />
+Wrap Up/Resolve: The last moments of this sequence are spent wrapping up loose ends, laying any groundwork for unresolved items for the next story, and laying the rest to rest.<br />
+<br />
+<br />
+I never really "got" Story Structure until I saw this for the first time. I hope that helps.<br />
+<br />
+<b>PS</b>: Here's how I used that 4-Sequence Structure inside <a href="https://www.literatureandlatte.com/trial.php" target="_blank">Scrivener</a> for my up-coming White Noise novel series.<br />
+<br />
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;"><a href="/images/imported/blogger-googleusercontent-com/w-story-structure-white-noise-98fbd5add04e.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" data-original-height="494" data-original-width="1600" height="196" src="/images/imported/blogger-googleusercontent-com/w-story-structure-white-noise-fc9819289f7f.jpg" width="640" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;"><a href="https://www.literatureandlatte.com/trial.php" style="font-size: medium; text-align: start;" target="_blank">Scrivener</a></td></tr>
+</tbody></table>
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;"><a href="/images/imported/blogger-googleusercontent-com/w-story-structure-white-noise-2-e61e5e79de3a.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" data-original-height="816" data-original-width="1600" height="326" src="/images/imported/blogger-googleusercontent-com/w-story-structure-white-noise-2-9a94080942cd.jpg" width="640" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;"><a href="https://www.literatureandlatte.com/trial.php" style="font-size: medium; text-align: start;" target="_blank">Scrivener</a></td></tr>
+</tbody></table>
+<br />
+<br />
+<br />
+<div class="MsoNormal">
+<span style="font-family: &quot;tempus sans itc&quot;; font-size: 18.0pt;">Darrell G. Wolfe</span><span style="font-family: &quot;times new roman&quot; , serif; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-font-size: 12.0pt; mso-bidi-theme-font: minor-bidi;"><o:p></o:p></span></div>
+<div class="MsoNormal">
+<span style="font-family: &quot;tempus sans itc&quot;;"><br /></span> <span style="font-family: &quot;tempus sans itc&quot;;">Storyteller | Writer | Thinker | Consultant |&nbsp;</span><a href="https://www.ted.com/talks/emilie_wapnick_why_some_of_us_don_t_have_one_true_calling?language=en" style="font-family: &quot;tempus sans itc&quot;;">Multipotentialite</a></div>
+<div class="MsoNormal">
+<br /></div>
