@@ -1,47 +1,61 @@
----
-title: "Welcome"
+﻿---
+pagetitle: "Darrell Wolfe | Creative Writing, Biblical Studies, Data Storytelling, Data Analysis, and Personal Essays"
+description: "Welcome to Darrell Wolfe's personal website: one home for creative writing, biblical studies, data storytelling, data analysis, and personal essays."
 ---
 
 ::: {.hero-shell}
-::: {.hero-kicker}
-Author + Analyst
-:::
+# Darrell Wolfe {.hero-title}
 
-## Darrell Wolfe, Storyteller {.hero-title}
+Stories, systems, scripture, spreadsheets, and the strange overlap between them.
 
-This site is my one-stop home for creative writing, biblical studies, and practical data storytelling.
+I'm a storyteller who works across creative writing, biblical studies, data storytelling, data analysis, and personal essays. If that sounds like an odd mix, that is exactly the point: I care about meaning, pattern, structure, and story wherever they show up.
 
 ::: {.hero-actions}
-[Author Page](author/index.qmd){.btn .btn-primary}
-[Writing Hub](posts/index.qmd){.btn .btn-outline-primary}
-[Portfolio](portfolio/index.qmd){.btn .btn-outline-primary}
+[Creative Writing](posts/writing/index.qmd){.btn .btn-primary}
+[Biblical Studies](posts/biblical/index.qmd){.btn .btn-outline-primary}
+[Data Nerd](posts/data-nerd/index.qmd){.btn .btn-outline-primary}
+[Personal](posts/personal/index.qmd){.btn .btn-outline-secondary}
 :::
 :::
 
 ::: {.section-panel}
-## Author
+## Start Here
 
-I write to think clearly, document what I am learning, and publish work that is useful to other people.
+Welcome. This site is my central online home, not a side project for one topic.
+
+For a long time, different parts of my work lived in different places: one place for writing, one place for biblical studies, one place for data work, one place for personal reflection. It looked organized, but it felt disconnected. The truth is these parts were never separate for me, and I no longer wanted separate homes pretending they were.
+:::
+
+## Browse by Section
+
+::: {.card-grid}
+::: {.card}
+### [Creative Writing](posts/writing/index.qmd)
+Short fiction, worldbuilding, strange ideas that refused to stay quiet, and experiments where voice and structure matter as much as plot.
+:::
+
+::: {.card}
+### [Biblical Studies](posts/biblical/index.qmd)
+Reading scripture with context, language, and careful attention, not hot takes. Notes, reflections, and long-form biblical studies that take the text seriously.
+:::
+
+::: {.card}
+### [Data Nerd](posts/data-nerd/index.qmd)
+Data storytelling and data analysis through SQL, dashboards, visual patterns, and practical write-ups that turn messy numbers into useful decisions.
+:::
+
+::: {.card}
+### [Personal](posts/personal/index.qmd)
+Personal essays on growth, grief, learning, faith, and everyday life; less polished brand voice, more honest field notes from a real human.
+:::
 :::
 
 ::: {.section-panel}
-## Data Visualization / BI
+## Why This Site Exists
 
-I build practical dashboards and data stories using SQL, Python, R, Tableau, and Power BI.
-:::
+This is one home with different rooms.
 
-::: {.section-panel}
-## Biblical Studies
+I'm not trying to maintain separate identities. I'm trying to do integrated work and live an integrated life. Creative writing sharpens how I tell a story. Biblical studies sharpens how I read meaning. Data work sharpens how I see pattern and structure. Personal writing keeps all of it honest.
 
-I publish study notes and reflections focused on careful reading, context, and application.
-:::
-
-::: {.section-panel}
-## Explore
-
-::: {.quick-links}
-- [Portfolio](portfolio/index.qmd)
-- [Writing](posts/index.qmd)
-- [Demos](demos/index.qmd)
-:::
+If any of that resonates, explore the room that fits you best and wander from there.
 :::

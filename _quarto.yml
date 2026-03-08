@@ -15,7 +15,7 @@ website:
     left:
       - text: Home
         href: index.qmd
-      - text: Author
+      - text: Author Bio
         href: author/index.qmd
       - text: Portfolio
         menu:
@@ -35,6 +35,8 @@ website:
             href: posts/biblical/index.qmd
           - text: Creative Writing
             href: posts/writing/index.qmd
+          - text: Data Nerd
+            href: posts/data-nerd/index.qmd
       - text: Demos
         href: demos/index.qmd
 

@@ -1,5 +1,5 @@
 ---
-title: "Author"
+title: "Author Bio"
 ---
 
 ::: {.hero-shell}
@@ -18,20 +18,15 @@ I write stories and essays about people, place, conviction, and change. This pag
 :::
 
 ::: {.section-panel}
-### About This Author Space
+### Author Bio
 
-This section will hold:
+Darrell Wolfe writes speculative fiction shaped by wonder, strangeness, and the stubborn human search for meaning. His work lives at the intersection of fantasy, science fiction, and the uncanny, often exploring what happens when ordinary people brush up against worlds, forces, and truths larger than themselves.
 
-- A short author bio
-- Published and in-progress writing projects
-- Select excerpts and reading links
-- Contact and speaking details
-:::
+He is especially drawn to stories of transformation, layered worlds, and systems of meaning: magical, moral, cosmic, and cultural. His influences include Brandon Sanderson, Neil Gaiman, Travis Deverell, Zogarth, and J. M. Clarke, though his own work leans toward the thoughtful, the strange, and the emotionally charged rather than the merely spectacular.
 
-::: {.section-panel}
-### Current Placeholder Bio
+For Darrell, the search for the deeper meaning of life has long operated as an autistic special interest, while an ADHD mind keeps connecting the dots across religion, science, history, psychology, and story. Those instincts shape his fiction, which is interested not only in adventure and wonder, but in perception, identity, power, memory, and the cost of becoming.
 
-Darrell Wolfe writes with a focus on clarity, narrative tension, and meaningful detail. His work spans personal reflection, biblical studies, and creative writing.
+By day, Darrell works in data and analysis, which probably explains his fascination with patterns, hidden structures, and the moment disconnected details suddenly reveal a larger design.
 
-This page will evolve into a polished author profile as new pieces are published.
+He lives in the Pacific Northwest of the United States, where he writes, studies, overthinks, and occasionally follows an idea far enough to accidentally build a whole new world around it.
 :::

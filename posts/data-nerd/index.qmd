@@ -1,0 +1,10 @@
+---
+title: "Data Nerd"
+listing:
+  contents: "20*.qmd"
+  sort: "date desc"
+  type: default
+  fields: [title, date, categories]
+---
+
+Data notes, SQL deep-dives, visualization experiments, and analytics thinking.

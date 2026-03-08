@@ -19,6 +19,11 @@ Study notes, interpretation work, and long-form scripture-focused writing.
 ### [Writing / Creative Writing](writing/index.qmd)
 Drafts, short creative pieces, and writing process notes.
 :::
+
+::: {.card}
+### [Data Nerd](data-nerd/index.qmd)
+Data notes, SQL explorations, visualization ideas, and analytics write-ups.
+:::
 :::
 
 Use the search box in the top navigation to find content across every section.

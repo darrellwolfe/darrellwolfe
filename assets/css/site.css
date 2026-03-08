@@ -95,6 +95,36 @@ body.nav-fixed {
   justify-self: start;
 }
 
+#quarto-header #quarto-search .aa-DetachedSearchButton {
+  border: 1px solid color-mix(in srgb, var(--teal-700) 38%, white 62%);
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--surface) 90%, white 10%);
+  box-shadow: 0 4px 14px rgba(16, 43, 46, 0.08);
+  padding: 0.3rem 0.78rem;
+  min-height: 2.1rem;
+  transition: box-shadow 140ms ease, border-color 140ms ease, transform 140ms ease;
+}
+
+#quarto-header #quarto-search .aa-DetachedSearchButton:hover {
+  border-color: color-mix(in srgb, var(--teal-700) 58%, white 42%);
+  box-shadow: 0 8px 18px rgba(16, 43, 46, 0.13);
+  transform: translateY(-1px);
+}
+
+#quarto-header #quarto-search .aa-DetachedSearchButtonIcon {
+  color: var(--teal-700);
+}
+
+#quarto-header #quarto-search .aa-DetachedSearchButtonPlaceholder::after {
+  content: "Search Site";
+  margin-left: 0.45rem;
+  color: var(--teal-700);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
 #quarto-header .navbar-toggler {
   grid-column: 2;
   grid-row: 2;
@@ -211,7 +241,7 @@ li {
   font-weight: 700;
 }
 
-.hero-title {
+h1.hero-title {
   margin-top: 0.25rem;
   margin-bottom: 0.75rem;
   font-size: clamp(2rem, 4.8vw, 2.9rem);
