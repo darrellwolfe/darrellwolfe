@@ -1,0 +1,1703 @@
+---
+title: 'Class Assignment/Paper: INTERPRETATION OF 2 SAMUEL 7.1-17'
+date: '2024-12-02T00:13:00.0090000+00:00'
+draft: true
+blogger_blog: 'NoHiding.Faith'
+blogger_status: 'LIVE'
+blogger_post_id: '6381053318677197002'
+blogger_filename: '/2024/12/class-assignmentpaper-interpretation-of.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/NoHiding.Faith/feed.atom'
+---
+
+<p align="center" class="MsoNormal" style="text-align: center;"><b>&nbsp;*Class Paper</b><b>&nbsp;</b></p>
+
+<p class="MsoTitle" style="text-align: center;">INTERPRETATION OF 2 SAMUEL 7.1-17</p>
+
+<p class="MsoSubtitle" style="text-align: center;">Final Paper<o:p></o:p></p>
+
+<p align="center" class="MsoNormal" style="text-align: center;"><o:p>&nbsp;</o:p><b>by&nbsp;</b><b>Darrell Wolfe</b></p>
+
+<p align="center" class="MsoNormal" style="text-align: center;"><b>Submitted in
+partial fulfillment of the requirements</b></p><p align="center" class="MsoNormal" style="text-align: center;"><b>
+for the course OT500: Old Testament Introduction<o:p></o:p></b></p>
+
+<p align="center" class="MsoNormal" style="text-align: center;"><br /></p>
+
+<p align="center" class="MsoNormal" style="text-align: center;"><b>Professor Matthew
+Thomas, PhD<o:p></o:p></b></p>
+
+<p align="center" class="MsoNormal" style="text-align: center;"><b><br /></b></p><p align="center" class="MsoNormal" style="text-align: center;"><b>Sunday, December
+ 1, 2024</b></p>
+
+<p align="center" class="MsoNormal" style="text-align: center;"><o:p>&nbsp;</o:p></p>
+
+<w:sdt docparttype="Table of Contents" docpartunique="t" id="554279886" sdtdocpart="t">
+ <p class="MsoTocHeading">Table of Contents<o:p></o:p><span style="color: windowtext; font-size: 12.0pt; line-height: 107%; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-fareast-font-family: Aptos; mso-fareast-theme-font: minor-latin; mso-hansi-font-family: &quot;Times New Roman&quot;; mso-hansi-theme-font: major-bidi;"><w:sdtpr></w:sdtpr></span></p>
+ <p class="MsoToc1"><!--[if supportFields]><span
+ style='mso-element:field-begin'></span><span
+ style='mso-spacerun:yes'> </span>TOC \o &quot;1-3&quot; \h \z \u <span
+ style='mso-element:field-separator'></span><![endif]--><a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_Toc183973552">STRUCTURE OF 2 SAMUEL 7:1-17<span style="color: windowtext; display: none; text-decoration-line: none;">. </span><!--[if supportFields]><span
+ style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
+ text-decoration:none;text-underline:none'><span style='mso-element:field-begin'></span>
+ PAGEREF _Toc183973552 \h <span style='mso-element:field-separator'></span></span><![endif]--><span style="color: windowtext; display: none; text-decoration-line: none;">3<!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100380033003900370033003500350032000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
+ display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
+ none'><span style='mso-element:field-end'></span></span><![endif]--></a><span style="font-family: &quot;Aptos&quot;,sans-serif; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-theme-font: minor-fareast; mso-font-kerning: 1.0pt; mso-hansi-theme-font: minor-latin; mso-ligatures: standardcontextual; mso-no-proof: yes;"><o:p></o:p></span></p>
+ <p class="MsoToc2"><a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_Toc183973553">Outline<span style="color: windowtext; display: none; text-decoration-line: none;">. </span><!--[if supportFields]><span
+ style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
+ text-decoration:none;text-underline:none'><span style='mso-element:field-begin'></span>
+ PAGEREF _Toc183973553 \h <span style='mso-element:field-separator'></span></span><![endif]--><span style="color: windowtext; display: none; text-decoration-line: none;">3<!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100380033003900370033003500350033000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
+ display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
+ none'><span style='mso-element:field-end'></span></span><![endif]--></a><span style="font-family: &quot;Aptos&quot;,sans-serif; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-theme-font: minor-fareast; mso-font-kerning: 1.0pt; mso-hansi-theme-font: minor-latin; mso-ligatures: standardcontextual; mso-no-proof: yes;"><o:p></o:p></span></p>
+ <p class="MsoToc2"><a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_Toc183973554">Structural Analysis<span style="color: windowtext; display: none; text-decoration-line: none;">. </span><!--[if supportFields]><span
+ style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
+ text-decoration:none;text-underline:none'><span style='mso-element:field-begin'></span>
+ PAGEREF _Toc183973554 \h <span style='mso-element:field-separator'></span></span><![endif]--><span style="color: windowtext; display: none; text-decoration-line: none;">3<!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100380033003900370033003500350034000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
+ display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
+ none'><span style='mso-element:field-end'></span></span><![endif]--></a><span style="font-family: &quot;Aptos&quot;,sans-serif; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-theme-font: minor-fareast; mso-font-kerning: 1.0pt; mso-hansi-theme-font: minor-latin; mso-ligatures: standardcontextual; mso-no-proof: yes;"><o:p></o:p></span></p>
+ <p class="MsoToc1"><a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_Toc183973555">LANGUAGE<span style="color: windowtext; display: none; text-decoration-line: none;">.. </span><!--[if supportFields]><span
+ style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
+ text-decoration:none;text-underline:none'><span style='mso-element:field-begin'></span>
+ PAGEREF _Toc183973555 \h <span style='mso-element:field-separator'></span></span><![endif]--><span style="color: windowtext; display: none; text-decoration-line: none;">6<!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100380033003900370033003500350035000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
+ display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
+ none'><span style='mso-element:field-end'></span></span><![endif]--></a><span style="font-family: &quot;Aptos&quot;,sans-serif; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-theme-font: minor-fareast; mso-font-kerning: 1.0pt; mso-hansi-theme-font: minor-latin; mso-ligatures: standardcontextual; mso-no-proof: yes;"><o:p></o:p></span></p>
+ <p class="MsoToc1"><a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_Toc183973556">LITERARY CONTEXT<span style="color: windowtext; display: none; text-decoration-line: none;">. </span><!--[if supportFields]><span
+ style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
+ text-decoration:none;text-underline:none'><span style='mso-element:field-begin'></span>
+ PAGEREF _Toc183973556 \h <span style='mso-element:field-separator'></span></span><![endif]--><span style="color: windowtext; display: none; text-decoration-line: none;">9<!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100380033003900370033003500350036000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
+ display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
+ none'><span style='mso-element:field-end'></span></span><![endif]--></a><span style="font-family: &quot;Aptos&quot;,sans-serif; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-theme-font: minor-fareast; mso-font-kerning: 1.0pt; mso-hansi-theme-font: minor-latin; mso-ligatures: standardcontextual; mso-no-proof: yes;"><o:p></o:p></span></p>
+ <p class="MsoToc1"><a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_Toc183973557">INTERTEXTUAL CONNECTIONS
+ – PSALM 89<span style="color: windowtext; display: none; text-decoration-line: none;">. </span><!--[if supportFields]><span
+ style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
+ text-decoration:none;text-underline:none'><span style='mso-element:field-begin'></span>
+ PAGEREF _Toc183973557 \h <span style='mso-element:field-separator'></span></span><![endif]--><span style="color: windowtext; display: none; text-decoration-line: none;">10<!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100380033003900370033003500350037000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
+ display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
+ none'><span style='mso-element:field-end'></span></span><![endif]--></a><span style="font-family: &quot;Aptos&quot;,sans-serif; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-theme-font: minor-fareast; mso-font-kerning: 1.0pt; mso-hansi-theme-font: minor-latin; mso-ligatures: standardcontextual; mso-no-proof: yes;"><o:p></o:p></span></p>
+ <p class="MsoToc1"><a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_Toc183973558">HERMENEUTICS -
+ THEOLOGICAL THEMES &amp; WISDOM FOR TODAY<span style="color: windowtext; display: none; text-decoration-line: none;">.. </span><!--[if supportFields]><span
+ style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
+ text-decoration:none;text-underline:none'><span style='mso-element:field-begin'></span>
+ PAGEREF _Toc183973558 \h <span style='mso-element:field-separator'></span></span><![endif]--><span style="color: windowtext; display: none; text-decoration-line: none;">11<!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100380033003900370033003500350038000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
+ display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
+ none'><span style='mso-element:field-end'></span></span><![endif]--></a><span style="font-family: &quot;Aptos&quot;,sans-serif; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-theme-font: minor-fareast; mso-font-kerning: 1.0pt; mso-hansi-theme-font: minor-latin; mso-ligatures: standardcontextual; mso-no-proof: yes;"><o:p></o:p></span></p>
+ <p class="MsoToc1"><a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_Toc183973559">APPENDIX – COMPARING
+ “HOUSE” IN TRANSLATIONS<span style="color: windowtext; display: none; text-decoration-line: none;">. </span><!--[if supportFields]><span
+ style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
+ text-decoration:none;text-underline:none'><span style='mso-element:field-begin'></span>
+ PAGEREF _Toc183973559 \h <span style='mso-element:field-separator'></span></span><![endif]--><span style="color: windowtext; display: none; text-decoration-line: none;">14<!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100380033003900370033003500350039000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
+ display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
+ none'><span style='mso-element:field-end'></span></span><![endif]--></a><span style="font-family: &quot;Aptos&quot;,sans-serif; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-theme-font: minor-fareast; mso-font-kerning: 1.0pt; mso-hansi-theme-font: minor-latin; mso-ligatures: standardcontextual; mso-no-proof: yes;"><o:p></o:p></span></p>
+ <p class="MsoToc1"><a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_Toc183973560">BIBLIOGRAPHY<span style="color: windowtext; display: none; text-decoration-line: none;">.. </span><!--[if supportFields]><span
+ style='color:windowtext;display:none;mso-hide:screen;mso-no-proof:yes;
+ text-decoration:none;text-underline:none'><span style='mso-element:field-begin'></span>
+ PAGEREF _Toc183973560 \h <span style='mso-element:field-separator'></span></span><![endif]--><span style="color: windowtext; display: none; text-decoration-line: none;">15<!--[if gte mso 9]><xml>
+  <w:data>08D0C9EA79F9BACE118C8200AA004BA90B02000000080000000E0000005F0054006F0063003100380033003900370033003500360030000000</w:data>
+ </xml><![endif]--></span><!--[if supportFields]><span style='color:windowtext;
+ display:none;mso-hide:screen;mso-no-proof:yes;text-decoration:none;text-underline:
+ none'><span style='mso-element:field-end'></span></span><![endif]--></a><span style="font-family: &quot;Aptos&quot;,sans-serif; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-theme-font: minor-fareast; mso-font-kerning: 1.0pt; mso-hansi-theme-font: minor-latin; mso-ligatures: standardcontextual; mso-no-proof: yes;"><o:p></o:p></span></p>
+ <p class="MsoNormal"><!--[if supportFields]><b><span style='mso-no-proof:yes'><span
+ style='mso-element:field-end'></span></span></b><![endif]--><o:p>&nbsp;</o:p></p>
+</w:sdt>
+
+<h1><o:p>&nbsp;</o:p></h1>
+
+<br clear="all" style="page-break-before: always;" />
+
+<h1><a name="_Toc183973552">STRUCTURE OF 2 SAMUEL 7:1-17</a><o:p></o:p></h1>
+
+<h2><a name="_Toc183973553"><span style="font-family: &quot;Times New Roman&quot;,serif; mso-ascii-theme-font: major-bidi; mso-bidi-theme-font: major-bidi; mso-hansi-theme-font: major-bidi;">Outline</span></a><span style="font-family: &quot;Times New Roman&quot;,serif; mso-ascii-theme-font: major-bidi; mso-bidi-theme-font: major-bidi; mso-hansi-theme-font: major-bidi;"><o:p></o:p></span></h2>
+
+<p class="MsoListParagraphCxSpFirst" style="line-height: 115%; mso-list: l0 level1 lfo1; mso-text-indent-alt: -.25in; text-indent: -.5in;"><!--[if !supportLists]--><span style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>I.<span style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span dir="LTR"></span>David announces his desire
+(1-2)<o:p></o:p></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="line-height: 115%; margin-left: 1.0in; mso-add-space: auto; mso-list: l0 level2 lfo1; text-indent: -.25in;"><!--[if !supportLists]-->a.<span style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span dir="LTR"></span>David is settled in his
+house (1a)<o:p></o:p></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="line-height: 115%; margin-left: 1.0in; mso-add-space: auto; mso-list: l0 level2 lfo1; text-indent: -.25in;"><!--[if !supportLists]-->b.<span style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span dir="LTR"></span>David is rested from his
+enemies (1b)<o:p></o:p></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="line-height: 115%; margin-left: 1.0in; mso-add-space: auto; mso-list: l0 level2 lfo1; text-indent: -.25in;"><!--[if !supportLists]-->c.<span style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span dir="LTR"></span>David tells Nathan his
+desire (2)<o:p></o:p></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="line-height: 115%; mso-list: l0 level1 lfo1; mso-text-indent-alt: -.25in; text-indent: -.5in;"><!--[if !supportLists]--><span style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;
+</span>II.<span style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span dir="LTR"></span>Nathan responds but is
+redirected (3-4)<o:p></o:p></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="line-height: 115%; margin-left: 1.0in; mso-add-space: auto; mso-list: l0 level2 lfo1; text-indent: -.25in;"><!--[if !supportLists]-->a.<span style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span dir="LTR"></span>Nathan approves (3)<o:p></o:p></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="line-height: 115%; margin-left: 1.0in; mso-add-space: auto; mso-list: l0 level2 lfo1; text-indent: -.25in;"><!--[if !supportLists]-->b.<span style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span dir="LTR"></span>Yahweh redirects Nathan’s
+approval (4)<o:p></o:p></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="line-height: 115%; mso-list: l0 level1 lfo1; mso-text-indent-alt: -.25in; text-indent: -.5in;"><!--[if !supportLists]--><span style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp; </span>III.<span style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span dir="LTR"></span>Yahweh’s Subversive
+Reversal (5-16)<o:p></o:p></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="line-height: 115%; margin-left: 1.0in; mso-add-space: auto; mso-list: l0 level2 lfo1; text-indent: -.25in;"><!--[if !supportLists]-->a.<span style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span dir="LTR"></span>Yahweh questions David’s
+desire to subvert it (5)<o:p></o:p></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="line-height: 115%; margin-left: 1.0in; mso-add-space: auto; mso-list: l0 level2 lfo1; text-indent: -.25in;"><!--[if !supportLists]-->b.<span style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span dir="LTR"></span>Yahweh considers Isreal’s
+history (6-10)<o:p></o:p></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="line-height: 115%; margin-left: 1.5in; mso-add-space: auto; mso-list: l0 level3 lfo1; mso-text-indent-alt: -9.0pt; text-indent: -1.5in;"><!--[if !supportLists]--><span style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>i.<span style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span dir="LTR"></span>Yahweh speaks to Isreal’s
+history (6-7)<o:p></o:p></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="line-height: 115%; margin-left: 1.5in; mso-add-space: auto; mso-list: l0 level3 lfo1; mso-text-indent-alt: -9.0pt; text-indent: -1.5in;"><!--[if !supportLists]--><span style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>ii.<span style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span dir="LTR"></span>Yahweh took David from
+obscurity (8)<o:p></o:p></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="line-height: 115%; margin-left: 1.5in; mso-add-space: auto; mso-list: l0 level3 lfo1; mso-text-indent-alt: -9.0pt; text-indent: -1.5in;"><!--[if !supportLists]--><span style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>iii.<span style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span dir="LTR"></span>Yahweh made David leader over
+Isreal (9)<o:p></o:p></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="line-height: 115%; margin-left: 1.5in; mso-add-space: auto; mso-list: l0 level3 lfo1; mso-text-indent-alt: -9.0pt; text-indent: -1.5in;"><!--[if !supportLists]--><span style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>iv.<span style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span dir="LTR"></span>Yahweh made a “place” for Israel
+(10)<o:p></o:p></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="line-height: 115%; margin-left: 1.0in; mso-add-space: auto; mso-list: l0 level2 lfo1; text-indent: -.25in;"><!--[if !supportLists]-->c.<span style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span dir="LTR"></span>Yahweh subverts David’s
+request establishing The Covenant (11-16)<o:p></o:p></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="line-height: 115%; margin-left: 1.5in; mso-add-space: auto; mso-list: l0 level3 lfo1; mso-text-indent-alt: -9.0pt; text-indent: -1.5in;"><!--[if !supportLists]--><span style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>i.<span style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span dir="LTR"></span>Yahweh will build David a
+“house” (11)<o:p></o:p></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="line-height: 115%; margin-left: 1.5in; mso-add-space: auto; mso-list: l0 level3 lfo1; mso-text-indent-alt: -9.0pt; text-indent: -1.5in;"><!--[if !supportLists]--><span style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>ii.<span style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span dir="LTR"></span>Yahweh promises David a
+dynasty (12)<o:p></o:p></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="line-height: 115%; margin-left: 1.5in; mso-add-space: auto; mso-list: l0 level3 lfo1; mso-text-indent-alt: -9.0pt; text-indent: -1.5in;"><!--[if !supportLists]--><span style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>iii.<span style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span dir="LTR"></span>Yahweh confirms David’s
+kingdom in his offspring (13)<o:p></o:p></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="line-height: 115%; margin-left: 1.5in; mso-add-space: auto; mso-list: l0 level3 lfo1; mso-text-indent-alt: -9.0pt; text-indent: -1.5in;"><!--[if !supportLists]--><span style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>iv.<span style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span dir="LTR"></span>Yahweh adopts the offspring
+(14a)<o:p></o:p></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="line-height: 115%; margin-left: 1.5in; mso-add-space: auto; mso-list: l0 level3 lfo1; mso-text-indent-alt: -9.0pt; text-indent: -1.5in;"><!--[if !supportLists]--><span style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>v.<span style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span dir="LTR"></span>Yahweh warns of the
+offspring’s correction (14b)<o:p></o:p></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="line-height: 115%; margin-left: 1.5in; mso-add-space: auto; mso-list: l0 level3 lfo1; mso-text-indent-alt: -9.0pt; text-indent: -1.5in;"><!--[if !supportLists]--><span style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>vi.<span style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span dir="LTR"></span>Yahweh promises love to the
+offspring, unlike Saul (15)<o:p></o:p></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="line-height: 115%; margin-left: 1.5in; mso-add-space: auto; mso-list: l0 level3 lfo1; mso-text-indent-alt: -9.0pt; text-indent: -1.5in;"><!--[if !supportLists]--><span style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>vii.<span style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span dir="LTR"></span>Yahweh confirms David’s
+dynasty forever (16)<o:p></o:p></p>
+
+<p class="MsoListParagraphCxSpLast" style="line-height: 115%; mso-list: l0 level1 lfo1; mso-text-indent-alt: -.25in; text-indent: -.5in;"><!--[if !supportLists]--><span style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp; </span>IV.<span style="font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><!--[endif]--><span dir="LTR"></span>Nathan tells the vision to
+David (17)<o:p></o:p></p>
+
+<h2><a name="_Toc183973554"><span style="font-family: &quot;Times New Roman&quot;,serif; mso-ascii-theme-font: major-bidi; mso-bidi-theme-font: major-bidi; mso-hansi-theme-font: major-bidi;">Structural Analysis</span></a><span style="font-family: &quot;Times New Roman&quot;,serif; mso-ascii-theme-font: major-bidi; mso-bidi-theme-font: major-bidi; mso-hansi-theme-font: major-bidi;"><o:p></o:p></span></h2>
+
+<p class="MsoNormal" style="line-height: 200%; text-indent: .5in;">The pericope in 2
+Samuel 7:1-17<a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftn1" name="_ftnref1" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 12.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[1]</span></span><!--[endif]--></span></a>
+is often referred to as The Davidic Covenant. While the passage does not use
+the term “covenant” (<span dir="RTL" lang="HE">בְּרִית</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>, <i>b’riyt</i>)<a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftn2" name="_ftnref2" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 12.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[2]</span></span><!--[endif]--></span></a>,
+Grisanti acknowledged that other passages “make clear that it provides the
+initial delineation of the Davidic Covenant (Pss 89:3-4).”<a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftn3" name="_ftnref3" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 12.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[3]</span></span><!--[endif]--></span></a>
+Williamson suggests that the promise of a “great name” is indication of a
+covenant promise by Yahweh.<a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftn4" name="_ftnref4" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 12.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[4]</span></span><!--[endif]--></span></a><o:p></o:p></p>
+
+<p class="MsoNormal" style="line-height: 200%; text-indent: .5in;"><i>David announces
+his desire (1-2) -</i> After having settled in his new tree-built “house”
+(<span dir="RTL" lang="HE">בַּיִת</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>, <i>bayit</i>) and having brought the Ark
+of Yahweh into the new capital city, David acknowledges his cognitive
+dissonance. Essentially David says, “How can I get this big house, when Yahweh
+is in a tent?” In Ancient Near East (ANE) cultures, “it is at the outset of his
+reign that a king ought to show the piety of seeking divine permission for the
+construction of a temple.”<a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftn5" name="_ftnref5" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 12.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[5]</span></span><!--[endif]--></span></a>
+This permission implies that the “divine rest then often results in rest for
+the people in their land” and that it was a “common occurrence” for “a
+victorious king to show his gratitude to the patron deity.”<a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftn6" name="_ftnref6" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 12.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[6]</span></span><!--[endif]--></span></a><o:p></o:p></p>
+
+<p class="MsoNormal" style="line-height: 200%; text-indent: .5in;"><i>Nathan responds
+but is redirected (3-4) - </i>Initially, Nathan sees this as acceptable and
+reasonable therefore approves of the plan, but Yahweh redirects Nathan in a
+night-vision.<o:p></o:p></p>
+
+<p class="MsoNormal" style="line-height: 200%; text-indent: .5in;"><i>Yahweh
+questions David’s desire, subverting it (5) - </i>Yahweh opens this vision with
+a rhetorical question, “Are you the one to build for me a house for my
+dwelling?” (5). Which then sets up a series of statements in which Yahweh will
+subvert David’s desire and request. This begins the lionshare of the section,
+where Yahweh subverts cultural expectations and reverses David’s request. Instead
+of the king getting permission for the deity to build a house for the deity,
+the deity will build a “house” or “dynasty” for the king. In this instance, the
+deity rejects (or at least delays) the offer and reverses the offer. The rest
+of the speech is the substance of that subversive reversal.<o:p></o:p></p>
+
+<p class="MsoNormal" style="line-height: 200%; text-indent: .5in;"><i>Yahweh
+considers Isreal’s history (6-10) - </i>Yahweh begins by reviewing Yisrael’s
+history from the times of Moses through the Judges, which establishes a
+demarcation into the era of the Monarchy (6-7). He points out that if he wanted
+a house, he could have asked for one, but he was quite content with the
+tabernacle/tent. Brueggemann sees this as Yahweh finding a “permanent residence”
+as “unacceptable because it violates Yahweh’s freedom.”<a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftn7" name="_ftnref7" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 12.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[7]</span></span><!--[endif]--></span></a> Given
+that the pericope ends with Yahweh promising David’s son the opportunity to
+build Yahweh a house, this is unlikely the intended understanding. More likely,
+Yahweh wishes to drive home the point that David’s request is unnecessary, and
+that Yahweh can handle his own affairs. Yahweh transitions from era of
+Yisrael’s ancient history to its recent history. He transitioned David from the
+role of an obscure shepherd boy to the position of leader of a nation (8-9). This
+was not for David’s sake, but for Yisrael’s sake, and by extension Yahweh’s
+sake. In discussing the way he used David in this, he brings forward several
+word plays which we will discuss in the language section below. Yahweh ends
+this section by showing how he used David to “make a place for my people
+Yisrael” (10).<o:p></o:p></p>
+
+<p class="MsoNormal" style="line-height: 200%; text-indent: .5in;"><i>Yahweh subverts
+David’s request establishing The Covenant (11-17) - </i>Having established
+Yahweh’s historical role with Yisrael, the transition into the era of the
+monarchy, and David’s role in that transition, Yahweh now subverts David’s
+request. Instead of David building a “house” (temple) for Yahweh to match his
+“house” (palace), Yahweh will build David a “house” (dynasty) (11-12). The
+“rest” promised David in 2 Sam 7:11 may be considered a “deliberate echo”<a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftn8" name="_ftnref8" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 12.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[8]</span></span><!--[endif]--></span></a>
+of Deut 12:10-11 and will come in the same manner as the Judges of previous
+generations (2 Sam 7:7, 1 Chr 17:6).<a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftn9" name="_ftnref9" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 12.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[9]</span></span><!--[endif]--></span></a>
+Not only will David’s kingship be like the Judges of old (11) and he
+will receive a multi-generation kingship (dynasty), but he is promised an
+offspring who will get the opportunity David wanted, to build Yahweh a “house”
+(temple). As if that promise wasn’t beyond the scale of David’s imagination,
+Yahweh ups the ante by adopting David’s offspring as a divine son (a common
+trope in the ancient near east, where the king would be considered an adopted
+son of the deity) (14a).<a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftn10" name="_ftnref10" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 12.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[10]</span></span><!--[endif]--></span></a>
+However, at this point Yahweh issues a warning that while this covenant promise
+is eternal and ageless, the offspring will be disciplined when they fail (14b).
+<o:p></o:p></p>
+
+<p class="MsoNormal" style="line-height: 200%; text-indent: .5in;">George
+notes that 2 Samuel 7 in its final form is edited and preserved in the Tanakh
+because of the larger context of the Babylonian exile to address an existential
+crisis; with the destruction of the Temple and conquering of the king, “were
+the Israelites of Judeans a distinct people any longer?”<a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftn11" name="_ftnref11" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 12.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[11]</span></span><!--[endif]--></span></a>
+Yahweh promises love to the offspring, unlike Saul (15) and confirms
+David’s dynasty forever (16). This sets the stage for the age of the kings to
+come, their frequent failures, and the prophetic hope that a “son of David”
+will come. The pericope ends with Nathan telling the vision to David (17), and
+Daniel responding in gratitude (18-29).<o:p></o:p></p>
+
+<h1><a name="_Toc183973555">LANGUAGE</a><o:p></o:p></h1>
+
+<p class="MsoNormal" style="line-height: 200%; text-indent: .5in;">The author(s) of 2
+Samuel 7 uses conjugated forms of the word “house” (<span dir="RTL" lang="HE">בַּיִת</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>, <i>bayit</i> - <i>house, dwelling, habitation</i>)<a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftn12" name="_ftnref12" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 12.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[12]</span></span><!--[endif]--></span></a> with
+significant repetition, using nuanced meaning of the word throughout, while
+also supplying parallel words to flesh out the concepts. A comparison of the
+translation choices<a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftn13" name="_ftnref13" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 12.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[13]</span></span><!--[endif]--></span></a> shows
+where the dynamic range of the word is brought forward by some translators,
+which simultaneously obscures the English reader from seeing the interplay of
+meaning in the single word “house”. The pericope opens with a pairing of two
+words “house” and “tent”. <o:p></o:p></p>
+
+<p class="MsoNormal" style="line-height: 200%; text-indent: .5in;">In
+7:1-2, David’s physical “house” (<span dir="RTL" lang="HE">בַּיִת</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>,
+<i>bayit</i>), made of tree-wood is contrasted with the Ark of God being in a
+“tent” (<span dir="RTL" lang="HE">יְרִיעָה</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>,<i> y’riyah - curtain,
+tent by implication</i>).<a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftn14" name="_ftnref14" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 12.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[14]</span></span><!--[endif]--></span></a>
+David observes that he has finally settled as king in a nice house (a king’s
+house, by inference, is a palace, which is choice made by CEB and NET), but the
+Ark of God (God’s Presence) is in a tent (the wilderness tabernacle). <o:p></o:p></p>
+
+<p class="MsoNormal" style="line-height: 200%; text-indent: .5in;">In
+7:5-7, Yahweh pushes back on David’s desire with a counter perspective. Yahweh
+reminds David that the “tent” was Yahweh’s house since the times of Moses, and
+he never asked the people to build him a house. The CEB uses “Temple” in these
+verses, which is conceptually what will be built and will be the focus of the
+biblical authors afterward. However, the interplay between David’s “house” and
+Yahweh’s “house” should not be lost. <o:p></o:p></p>
+
+<p class="MsoNormal" style="line-height: 200%; text-indent: .5in;">In
+7:8, The author makes another word play here, subverting the idea of “house”. Yahweh
+took David from the “pasture” (<span dir="RTL" lang="HE">נָוֶה</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>,<i> naveh</i>) which
+is translated pasture, but literally is the “abode/house of the shepherd/flock”
+and “from behind” (<span dir="RTL" lang="HE">מֵאַחַ֖ר</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>, <i>me'achar</i>) the
+sheep to become a leader, literally “one in front” (<span dir="RTL" lang="HE">נָגִיד</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>,
+<i>nagiyd</i>)<a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftn15" name="_ftnref15" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 12.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[15]</span></span><!--[endif]--></span></a>
+“over the people” (<span dir="RTL" lang="HE">עַל־עַמִּ֖י</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>, <i>al-amiy</i>). So
+then, putting this in a wooden English for the sake of making it clear: “I
+(Yahweh) took you (David) from the abode/house of the Shepherd and from behind
+the sheep to become one in front of and over The People, over Yisrael.”<a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftn16" name="_ftnref16" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 12.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[16]</span></span><!--[endif]--></span></a><o:p></o:p></p>
+
+<p class="MsoNormal" style="line-height: 200%; text-indent: .5in;">In
+7:9-10, Yahweh carries forward the poetic references between David’s
+agricultural past and his kingly future, by saying he will “make a place” for
+Israel, and he will “plant” them so they can “dwell” in their “place”. <o:p></o:p></p>
+
+<p class="MsoNormal" style="line-height: 200%; text-indent: .5in;">In
+7:11, Yahweh pivots from the present circumstance (David’s secure kingship)
+into a forward looking at David’s dynastic future. Yahweh declares that Yahweh
+will build a “house” for David. In this instance and through the end of the
+speech, Yahweh uses the word house to mean dynasty. <o:p></o:p></p>
+
+<p class="MsoNormal" style="line-height: 200%; text-indent: .5in;">In
+7:12-15, Yahweh turns the focus to David’s offspring, who will be established
+on David’s throne forever, and Yahweh makes covenant promises to David’s
+offspring, he uses the word “house” (<span dir="RTL" lang="HE">בַּיִת</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>,
+bayit) but this time with the nuance of household or dynasty, rather than
+physical building.<o:p></o:p></p>
+
+<p class="MsoNormal" style="line-height: 200%; text-indent: .5in;">In
+7:16, Yahweh says David’s “house”, “kingdom”, and “throne” shall endure
+“forever” (<span dir="RTL" lang="HE">עַד־עוֹלָֽם</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>, <i>ad-olam, lasting
+time-long time</i>). This phrase does not always mean “forever”, it can mean
+“for a limited period of time” or “for a very long time”.<a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftn17" name="_ftnref17" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 12.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[17]</span></span><!--[endif]--></span></a>
+When “olam” (<span dir="RTL" lang="HE">עוֹלָם</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>, ʿôlām, “long time”)
+is combined with “ad” (<span dir="RTL" lang="HE">עַד</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>,<i>ʿad</i>, “lasting time”) it is often translated as “forever and ever”.<a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftn18" name="_ftnref18" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 12.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[18]</span></span><!--[endif]--></span></a>
+The context and emphasis of the section emphasis the on-going nature of the
+Davidic Promise, as though something is riding on this for Yahweh that goes
+beyond David himself.<o:p></o:p></p>
+
+<p class="MsoNormal" style="line-height: 200%; text-indent: .5in;">In
+7:17, closes Yahweh’s speech and transitions from Nathan telling David about
+Yahweh’s reply to David’s response (18-29).<o:p></o:p></p>
+
+<h1><a name="_Toc183973556">LITERARY CONTEXT</a><o:p></o:p></h1>
+
+<p class="MsoNormal" style="line-height: 200%;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The
+books of 1 Samuel and 2 Samuel are considered one work in two parts and may not
+have been split into two until the Greek translation of Tanakh into the LXX.<a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftn19" name="_ftnref19" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 12.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[19]</span></span><!--[endif]--></span></a>
+The book of 1 Samuel establishes Samuel as the prophet and last of the Judges,
+Yisrael’s rejection of Yahweh and request for a king, and the rise and fall of
+Saul as king. This first book also introduces Saul’s replacement in David. The
+book of 2 Samuel picks up at Saul’s death and the rise, fall, and redemption of
+David.<o:p></o:p></p>
+
+<p class="MsoNormal" style="line-height: 200%;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We find the David Covenant in the first portion of 2
+Samuel, followed by the various exploits and failures of David in his role as
+King. We see the importance of the king’s relationship with Yahweh, and the
+relevance of repentance and humility in failure. Burleson notes that this
+section comes on the heels of chapter 5 where David “became greater and
+greater” and that he had been established (2 Sam 5:4-5, 10-12; 1 Chron
+12:23-40).<a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftn20" name="_ftnref20" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 12.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[20]</span></span><!--[endif]--></span></a><o:p></o:p></p>
+
+<p class="MsoListParagraphCxSpFirst" style="line-height: 115%; mso-list: l1 level1 lfo2; text-indent: -.25in;"><!--[if !supportLists]--><span style="font-family: Symbol; mso-bidi-font-family: Symbol; mso-fareast-font-family: Symbol;">·<span style="font-family: &quot;Times New Roman&quot;; font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><!--[endif]--><span dir="LTR"></span>2 Samuel 1-6 establish
+David as king and end with the ark being brought into Yerushalayim but end with
+a foreshadowing of David’s chief failure (women). <o:p></o:p></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="line-height: 115%; mso-list: l1 level1 lfo2; text-indent: -.25in;"><!--[if !supportLists]--><span style="font-family: Symbol; mso-bidi-font-family: Symbol; mso-bidi-font-weight: bold; mso-fareast-font-family: Symbol;">·<span style="font-family: &quot;Times New Roman&quot;; font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><!--[endif]--><span dir="LTR"></span><b>2 Samuel 7 is the
+establishment of the Davidic Dynasty and the promise of a never-ending kingdom.
+<o:p></o:p></b></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="line-height: 115%; mso-list: l1 level1 lfo2; text-indent: -.25in;"><!--[if !supportLists]--><span style="font-family: Symbol; mso-bidi-font-family: Symbol; mso-fareast-font-family: Symbol;">·<span style="font-family: &quot;Times New Roman&quot;; font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><!--[endif]--><span dir="LTR"></span>2 Samuel 8-10 show
+David securing The Land for Yisrael.<o:p></o:p></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="line-height: 115%; mso-list: l1 level1 lfo2; text-indent: -.25in;"><!--[if !supportLists]--><span style="font-family: Symbol; mso-bidi-font-family: Symbol; mso-fareast-font-family: Symbol;">·<span style="font-family: &quot;Times New Roman&quot;; font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><!--[endif]--><span dir="LTR"></span>2 Samuel 11-12 shows
+David’s failure, confrontation, and how he responds more humbly than Saul when
+he failed.<o:p></o:p></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="line-height: 115%; mso-list: l1 level1 lfo2; text-indent: -.25in;"><!--[if !supportLists]--><span style="font-family: Symbol; mso-bidi-font-family: Symbol; mso-fareast-font-family: Symbol;">·<span style="font-family: &quot;Times New Roman&quot;; font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><!--[endif]--><span dir="LTR"></span>2 Samuel 13-21 show the
+hardship brought about by David’s failures, and Saul’s.<o:p></o:p></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="line-height: 115%; mso-list: l1 level1 lfo2; text-indent: -.25in;"><!--[if !supportLists]--><span style="font-family: Symbol; mso-bidi-font-family: Symbol; mso-fareast-font-family: Symbol;">·<span style="font-family: &quot;Times New Roman&quot;; font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><!--[endif]--><span dir="LTR"></span>2 Samuel 22-23 show David’s
+gratitude for Yahweh’s interventions.<o:p></o:p></p>
+
+<p class="MsoListParagraphCxSpLast" style="line-height: 115%; mso-list: l1 level1 lfo2; text-indent: -.25in;"><!--[if !supportLists]--><span style="font-family: Symbol; mso-bidi-font-family: Symbol; mso-fareast-font-family: Symbol;">·<span style="font-family: &quot;Times New Roman&quot;; font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><!--[endif]--><span dir="LTR"></span>2 Samuel 24 shows a
+final failure of David to trust Yahweh, again shows he responds more faithfully
+even in failure than Saul, and his repentance marks the future site for the
+temple.<o:p></o:p></p>
+
+<h1><a name="_Toc183973557">INTERTEXTUAL CONNECTIONS – PSALM 89</a><o:p></o:p></h1>
+
+<p class="MsoNormal" style="line-height: 200%; text-indent: .5in;">Psalm
+89 is one of the key Divine Council sections in the Tanakh,<a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftn21" name="_ftnref21" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 12.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[21]</span></span><!--[endif]--></span></a>
+and was attributed to Ethan the Ezrahite.<a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftn22" name="_ftnref22" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 12.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[22]</span></span><!--[endif]--></span></a>
+The psalm begins drawing on the Davidic Covenant (2 Sam 7) and the on-going
+nature of the promise “from generation to generation” (Ps 89:4). The author
+then transitions to Yahweh’s dominance over the gods and his incomparability (6-8),
+and Yahweh’s dominance over all kingdoms and nature itself (9-16). The author
+speaks of Yahweh as Yisrael’s “shield” (17-18) and then transitions back to the
+Davidic Promise that an offspring of David would always it on the throne (19-37).
+<o:p></o:p></p>
+
+<p class="MsoNormal" style="line-height: 200%; text-indent: .5in;">It
+is in verse 38 where we discover the reason for all this emphasis on Yahweh’s
+promise and greatness and power, because “you have spurned and rejected” and
+“repudiated the covenant” and “defiled his crown” and “broken down his walls”
+and “made his enemies rejoice” and “cast his throne to the ground” (38-45). The
+author is struggling with the cognitive dissonance of Yahweh’s greatness and
+undying loyalty and his promise to David, against the current circumstances of exiled
+peoples of Yisrael. This makes it clear that this Psalm is being written in
+exile looking to this Davidic Covenant in 2 Sam 7 for hope.<o:p></o:p></p>
+
+<p class="MsoNormal" style="line-height: 200%; text-indent: .5in;">Now
+we get to the real question burning in the heart of the author, “How long, O
+Yahweh? Will you hide yourself forever” (46). He pleads with Yahweh to remember
+his covenant and restore David’s throne. He makes a statement here that begins
+to pull on Messianic hopes for Yeshua followers, “What man can live and not see
+death?” (48). This is a reference to Sheol, but later Yeshua followers,
+post-resurrection, will see this as a foreshadowing. He ends with a grasping
+hope in Yahweh despite their present circumstances (52).<o:p></o:p></p>
+
+<p class="MsoNormal" style="line-height: 200%; text-indent: .5in;">Throughout
+2 Samuel 7, “house” is used to refer to David’s physical home, Yahweh’s future
+home, and David’s dynasty. The “house of the LORD” becomes a common reference
+to the later temple worship (1 Kgs 6:1; 2 Chr 3:3; Isa 56:7; Ps 122:1; Jer
+7:2). The prophets look to this Davidic promise hoping for a “root of Jesse”
+and David’s “righteous branch” (Isa 11:1; 11:10; Jer 23:5; 33:15). The Psalmist
+is calling for Yahweh to fulfill his promise to keep an offspring of David on
+the throne forever. Many centuries later, Rabbi Yeshua (Jesus) is referred to
+as the Son of David (Matt 1:1; 9:27; 15:22; 20:30-31; 21:9; 22:42; Mark
+10:47-48). Rabbi Yeshua (Jesus) referred to the temple as his Father’s <b><i>house</i></b>
+(Luke 2:49; John 2:16).<o:p></o:p></p>
+
+<h1><a name="_Toc183973558">HERMENEUTICS - THEOLOGICAL THEMES &amp; WISDOM FOR
+TODAY</a><o:p></o:p></h1>
+
+<p class="MsoNormal" style="line-height: 200%;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The
+Way of Yahweh is that of subversive reversal. In 2 Samuel 7, we see David
+following his cultural expectation to build a “house” for his patron deity.
+Yahweh subverts that expectation. The life of Rabbi Yeshua was largely a
+subversion and reversal of the mixed and muddy Messianic expectations of Second
+Temple Judaism. As we navigate The Way in the modern era, we may do well to be
+aware of moments in which Yahweh will subvert and reverse a cultural
+expectation of ours. Gilliard notes that the early Yeshua followers found a
+systemic injustice in their community (unfair distribution to widows of
+different groups), and the subversive nature of the kingdom caused them to
+address this injustice.<a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftn23" name="_ftnref23" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 12.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[23]</span></span><!--[endif]--></span></a> When
+we see voices from inside the dominant culture taking aim at the most
+vulnerable in society, we can subvert expectations by being an advocate for
+those groups. Instead of hating our enemy, we can subvert the expectations and
+love them well instead.<o:p></o:p></p>
+
+<p class="MsoNormal" style="line-height: 200%;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; By
+comparing the Davidic Covenant (a promise of blessing and punishment) to the
+downline exile experience of the author of Psalm 89, we can see what it feels
+like to suffer cognitive dissonance between what one believes and what one is
+experiencing in real current space-time.&nbsp;
+We can all find moments where we can point to “God is good” and find we
+did not experience that in a specific instance. In Psalm 89, like the book of Job,
+we wrestle with the idealist of Proverbs “God blesses his faithful” which is
+offset by the pessimism of Ecclesiastes “… but sometimes He doesn’t.” We have
+experiences in life where we “prayed and agreed as touching a matter” and it
+didn’t come to pass. In those moments, we find ourselves wondering if God is faithful
+or if his word is true. Along with the Psalmist, we can cite promises and
+stories, while lamenting our current outcomes. We can take ownership of our
+part, including our failures or the failures of our community, while hoping for
+better.<o:p></o:p></p>
+
+<p class="MsoNormal" style="line-height: 200%;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The
+Davidic Covenant of 2 Samuel 7:1-17 is a set of promises, but those promises are
+within a larger context. Often, we can get bogged down in a hyper-focus on one
+aspect of living with Yahweh as our patron deity, but when we take a step back
+to the larger vision, we can get a deeper perspective. Psalm 89 reminds us that
+Yahweh is working with rebel elohim, rebel human kingdoms, and rebel
+Yahwehists, and balancing those in view of the long-term eschatological
+kingdom. With our hindsight in the 21<sup>st</sup> century, we see that the Son
+of David came over 2,000 years ago, yet he has not returned in his final glory as
+he promised. As the psalmist lamented the current state of The People in light
+of the Davidic hope, we lament the final filling-full of the Davidic Hope. We
+still await the Son of David, the root of Jesse’, to sit upon his throne in
+Yerushalayim, where the nations of earth will serve and obey only him, King of
+kings, and God of gods. We still look forward to a day when Death is defeated
+and Sheol is empty. We live in the now and not yet Kingdom of God. <o:p></o:p></p>
+
+<p class="MsoNormal" style="line-height: 200%;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Nathan
+did not miss the mark by agreeing to David’s request too soon, but he may have
+done well to wait. Could we, too, pause and seek Yahweh’s guidance before we
+proceed with what we <i>think</i> his will might be in any given situation? <o:p></o:p></p>
+
+<p class="MsoListParagraphCxSpFirst" style="line-height: 200%; mso-list: l2 level1 lfo3; text-indent: -.25in;"><!--[if !supportLists]--><span style="font-family: Symbol; mso-bidi-font-family: Symbol; mso-fareast-font-family: Symbol;">·<span style="font-family: &quot;Times New Roman&quot;; font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><!--[endif]--><span dir="LTR"></span>Like David, we can look for
+subversion in the subtlies of Yahweh. <o:p></o:p></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="line-height: 200%; mso-list: l2 level1 lfo3; text-indent: -.25in;"><!--[if !supportLists]--><span style="font-family: Symbol; mso-bidi-font-family: Symbol; mso-fareast-font-family: Symbol;">·<span style="font-family: &quot;Times New Roman&quot;; font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><!--[endif]--><span dir="LTR"></span>Like Nathan, we can pause
+and seek before speaking too quickly. <o:p></o:p></p>
+
+<p class="MsoListParagraphCxSpLast" style="line-height: 200%; mso-list: l2 level1 lfo3; text-indent: -.25in;"><!--[if !supportLists]--><span style="font-family: Symbol; mso-bidi-font-family: Symbol; mso-fareast-font-family: Symbol;">·<span style="font-family: &quot;Times New Roman&quot;; font-feature-settings: normal; font-kerning: auto; font-optical-sizing: auto; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; font-variation-settings: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span><!--[endif]--><span dir="LTR"></span>Like the Psalmist, we can look
+to the promises even when our present circumstances fail us. <o:p></o:p></p>
+
+<p class="MsoNormal" style="line-height: 200%;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our
+work today is to live the subversive reversal kingdom ways in front of our
+neighbor and enemy alike. We live in exile in our own land. We serve empires
+and kingdoms while remaining loyal to Yahweh (Yeshua). Rabbi Yeshua was the
+example of living the subversive ways of Yahweh before our fellow human imagers.<o:p></o:p></p>
+
+<span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 12.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;"><br clear="all" style="mso-special-character: line-break; page-break-before: always;" />
+</span>
+
+<p class="MsoNormal"><a name="_APPENDIX_–_COMPARING"></a><o:p>&nbsp;</o:p></p>
+
+<h1><a name="_Toc183973559">APPENDIX – COMPARING “HOUSE” IN TRANSLATIONS</a><o:p></o:p></h1>
+
+<p class="MsoNormal" style="line-height: 115%;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In
+this chart, the translation choices of several Bible editions have been
+compared for the English choice for “house” (<span dir="RTL" lang="HE">בַּיִת</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>,
+<i>bayit</i>). Each instance where “house” is not used is <b>bolded</b> for
+emphasis.<o:p></o:p></p>
+
+<table border="1" cellpadding="0" class="MsoNormalTable" style="border: solid windowtext 1.0pt; mso-border-alt: solid windowtext .5pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext; mso-cellspacing: 1.5pt; mso-yfti-tbllook: 1184; width: 100%;">
+ <tbody><tr style="height: 17.0pt; mso-yfti-firstrow: yes; mso-yfti-irow: 0;">
+  <td style="border: solid windowtext 1.0pt; height: 17.0pt; mso-border-alt: solid windowtext .5pt; padding: .75pt .75pt .75pt .75pt; width: 24.72%;" width="24%">
+  <p class="MsoNormal" style="line-height: 200%;">2 Sam 7: Verse<o:p></o:p></p>
+  </td>
+  <td style="border: solid windowtext 1.0pt; height: 17.0pt; mso-border-alt: solid windowtext .5pt; padding: .75pt .75pt .75pt .75pt; width: 13.88%;" valign="top" width="13%">
+  <p class="MsoNormal" style="line-height: 200%;">CEB<a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftn24" name="_ftnref24" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 12.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[24]</span></span><!--[endif]--></span></a><o:p></o:p></p>
+  </td>
+  <td style="border: solid windowtext 1.0pt; height: 17.0pt; mso-border-alt: solid windowtext .5pt; padding: .75pt .75pt .75pt .75pt; width: 10.8%;" width="10%">
+  <p class="MsoNormal" style="line-height: 200%;">LEB<a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftn25" name="_ftnref25" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 12.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[25]</span></span><!--[endif]--></span></a><o:p></o:p></p>
+  </td>
+  <td style="border: solid windowtext 1.0pt; height: 17.0pt; mso-border-alt: solid windowtext .5pt; padding: .75pt .75pt .75pt .75pt; width: 25.16%;" width="25%">
+  <p class="MsoNormal" style="line-height: 200%;">NET<a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftn26" name="_ftnref26" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 12.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[26]</span></span><!--[endif]--></span></a><o:p></o:p></p>
+  </td>
+  <td style="border: solid windowtext 1.0pt; height: 17.0pt; mso-border-alt: solid windowtext .5pt; padding: .75pt .75pt .75pt .75pt; width: 10.8%;" width="10%">
+  <p class="MsoNormal" style="line-height: 200%;">ESV<a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftn27" name="_ftnref27" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 12.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[27]</span></span><!--[endif]--></span></a><o:p></o:p></p>
+  </td>
+  <td style="border: solid windowtext 1.0pt; height: 17.0pt; mso-border-alt: solid windowtext .5pt; padding: .75pt .75pt .75pt .75pt; width: 10.58%;" width="10%">
+  <p class="MsoNormal" style="line-height: 200%;">KVJ<a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftn28" name="_ftnref28" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 12.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[28]</span></span><!--[endif]--></span></a><o:p></o:p></p>
+  </td>
+ </tr>
+ <tr style="height: 31.0pt; mso-yfti-irow: 1;">
+  <td style="border: solid windowtext 1.0pt; height: 31.0pt; mso-border-alt: solid windowtext .5pt; padding: .75pt .75pt .75pt .75pt; width: 24.72%;" width="24%">
+  <p class="MsoNormal" style="line-height: 200%;">1<o:p></o:p></p>
+  </td>
+  <td style="border: solid windowtext 1.0pt; height: 31.0pt; mso-border-alt: solid windowtext .5pt; padding: .75pt .75pt .75pt .75pt; width: 13.88%;" width="13%">
+  <p class="MsoNormal" style="line-height: 200%;"><b>palace<o:p></o:p></b></p>
+  </td>
+  <td style="border: solid windowtext 1.0pt; height: 31.0pt; mso-border-alt: solid windowtext .5pt; padding: .75pt .75pt .75pt .75pt; width: 10.8%;" width="10%">
+  <p class="MsoNormal" style="line-height: 200%;">house<o:p></o:p></p>
+  </td>
+  <td style="border: solid windowtext 1.0pt; height: 31.0pt; mso-border-alt: solid windowtext .5pt; padding: .75pt .75pt .75pt .75pt; width: 25.16%;" width="25%">
+  <p class="MsoNormal" style="line-height: 200%;"><b>palace<o:p></o:p></b></p>
+  </td>
+  <td style="border: solid windowtext 1.0pt; height: 31.0pt; mso-border-alt: solid windowtext .5pt; padding: .75pt .75pt .75pt .75pt; width: 10.8%;" width="10%">
+  <p class="MsoNormal" style="line-height: 200%;">house<o:p></o:p></p>
+  </td>
+  <td style="border: solid windowtext 1.0pt; height: 31.0pt; mso-border-alt: solid windowtext .5pt; padding: .75pt .75pt .75pt .75pt; width: 10.58%;" width="10%">
+  <p class="MsoNormal" style="line-height: 200%;">house<o:p></o:p></p>
+  </td>
+ </tr>
+ <tr style="height: 31.0pt; mso-yfti-irow: 2;">
+  <td style="border: solid windowtext 1.0pt; height: 31.0pt; mso-border-alt: solid windowtext .5pt; padding: .75pt .75pt .75pt .75pt; width: 24.72%;" width="24%">
+  <p class="MsoNormal" style="line-height: 200%;">2<o:p></o:p></p>
+  </td>
+  <td style="border: solid windowtext 1.0pt; height: 31.0pt; mso-border-alt: solid windowtext .5pt; padding: .75pt .75pt .75pt .75pt; width: 13.88%;" width="13%">
+  <p class="MsoNormal" style="line-height: 200%;"><b>palace<o:p></o:p></b></p>
+  </td>
+  <td style="border: solid windowtext 1.0pt; height: 31.0pt; mso-border-alt: solid windowtext .5pt; padding: .75pt .75pt .75pt .75pt; width: 10.8%;" width="10%">
+  <p class="MsoNormal" style="line-height: 200%;">house<o:p></o:p></p>
+  </td>
+  <td style="border: solid windowtext 1.0pt; height: 31.0pt; mso-border-alt: solid windowtext .5pt; padding: .75pt .75pt .75pt .75pt; width: 25.16%;" width="25%">
+  <p class="MsoNormal" style="line-height: 200%;"><b>palace<o:p></o:p></b></p>
+  </td>
+  <td style="border: solid windowtext 1.0pt; height: 31.0pt; mso-border-alt: solid windowtext .5pt; padding: .75pt .75pt .75pt .75pt; width: 10.8%;" width="10%">
+  <p class="MsoNormal" style="line-height: 200%;">house<o:p></o:p></p>
+  </td>
+  <td style="border: solid windowtext 1.0pt; height: 31.0pt; mso-border-alt: solid windowtext .5pt; padding: .75pt .75pt .75pt .75pt; width: 10.58%;" width="10%">
+  <p class="MsoNormal" style="line-height: 200%;">house<o:p></o:p></p>
+  </td>
+ </tr>
+ <tr style="height: 31.0pt; mso-yfti-irow: 3;">
+  <td style="border: solid windowtext 1.0pt; height: 31.0pt; mso-border-alt: solid windowtext .5pt; padding: .75pt .75pt .75pt .75pt; width: 24.72%;" width="24%">
+  <p class="MsoNormal" style="line-height: 200%;">5<o:p></o:p></p>
+  </td>
+  <td style="border: solid windowtext 1.0pt; height: 31.0pt; mso-border-alt: solid windowtext .5pt; padding: .75pt .75pt .75pt .75pt; width: 13.88%;" width="13%">
+  <p class="MsoNormal" style="line-height: 200%;"><b>temple<o:p></o:p></b></p>
+  </td>
+  <td style="border: solid windowtext 1.0pt; height: 31.0pt; mso-border-alt: solid windowtext .5pt; padding: .75pt .75pt .75pt .75pt; width: 10.8%;" width="10%">
+  <p class="MsoNormal" style="line-height: 200%;">house<o:p></o:p></p>
+  </td>
+  <td style="border: solid windowtext 1.0pt; height: 31.0pt; mso-border-alt: solid windowtext .5pt; padding: .75pt .75pt .75pt .75pt; width: 25.16%;" width="25%">
+  <p class="MsoNormal" style="line-height: 200%;">house<o:p></o:p></p>
+  </td>
+  <td style="border: solid windowtext 1.0pt; height: 31.0pt; mso-border-alt: solid windowtext .5pt; padding: .75pt .75pt .75pt .75pt; width: 10.8%;" width="10%">
+  <p class="MsoNormal" style="line-height: 200%;">house<o:p></o:p></p>
+  </td>
+  <td style="border: solid windowtext 1.0pt; height: 31.0pt; mso-border-alt: solid windowtext .5pt; padding: .75pt .75pt .75pt .75pt; width: 10.58%;" width="10%">
+  <p class="MsoNormal" style="line-height: 200%;">house<o:p></o:p></p>
+  </td>
+ </tr>
+ <tr style="height: 31.0pt; mso-yfti-irow: 4;">
+  <td style="border: solid windowtext 1.0pt; height: 31.0pt; mso-border-alt: solid windowtext .5pt; padding: .75pt .75pt .75pt .75pt; width: 24.72%;" width="24%">
+  <p class="MsoNormal" style="line-height: 200%;">6<o:p></o:p></p>
+  </td>
+  <td style="border: solid windowtext 1.0pt; height: 31.0pt; mso-border-alt: solid windowtext .5pt; padding: .75pt .75pt .75pt .75pt; width: 13.88%;" width="13%">
+  <p class="MsoNormal" style="line-height: 200%;"><b>temple<o:p></o:p></b></p>
+  </td>
+  <td style="border: solid windowtext 1.0pt; height: 31.0pt; mso-border-alt: solid windowtext .5pt; padding: .75pt .75pt .75pt .75pt; width: 10.8%;" width="10%">
+  <p class="MsoNormal" style="line-height: 200%;">house<o:p></o:p></p>
+  </td>
+  <td style="border: solid windowtext 1.0pt; height: 31.0pt; mso-border-alt: solid windowtext .5pt; padding: .75pt .75pt .75pt .75pt; width: 25.16%;" width="25%">
+  <p class="MsoNormal" style="line-height: 200%;">house<o:p></o:p></p>
+  </td>
+  <td style="border: solid windowtext 1.0pt; height: 31.0pt; mso-border-alt: solid windowtext .5pt; padding: .75pt .75pt .75pt .75pt; width: 10.8%;" width="10%">
+  <p class="MsoNormal" style="line-height: 200%;">house<o:p></o:p></p>
+  </td>
+  <td style="border: solid windowtext 1.0pt; height: 31.0pt; mso-border-alt: solid windowtext .5pt; padding: .75pt .75pt .75pt .75pt; width: 10.58%;" width="10%">
+  <p class="MsoNormal" style="line-height: 200%;">house<o:p></o:p></p>
+  </td>
+ </tr>
+ <tr style="height: 31.0pt; mso-yfti-irow: 5;">
+  <td style="border: solid windowtext 1.0pt; height: 31.0pt; mso-border-alt: solid windowtext .5pt; padding: .75pt .75pt .75pt .75pt; width: 24.72%;" width="24%">
+  <p class="MsoNormal" style="line-height: 200%;">7<o:p></o:p></p>
+  </td>
+  <td style="border: solid windowtext 1.0pt; height: 31.0pt; mso-border-alt: solid windowtext .5pt; padding: .75pt .75pt .75pt .75pt; width: 13.88%;" width="13%">
+  <p class="MsoNormal" style="line-height: 200%;"><b>temple<o:p></o:p></b></p>
+  </td>
+  <td style="border: solid windowtext 1.0pt; height: 31.0pt; mso-border-alt: solid windowtext .5pt; padding: .75pt .75pt .75pt .75pt; width: 10.8%;" width="10%">
+  <p class="MsoNormal" style="line-height: 200%;">house<o:p></o:p></p>
+  </td>
+  <td style="border: solid windowtext 1.0pt; height: 31.0pt; mso-border-alt: solid windowtext .5pt; padding: .75pt .75pt .75pt .75pt; width: 25.16%;" width="25%">
+  <p class="MsoNormal" style="line-height: 200%;">house<o:p></o:p></p>
+  </td>
+  <td style="border: solid windowtext 1.0pt; height: 31.0pt; mso-border-alt: solid windowtext .5pt; padding: .75pt .75pt .75pt .75pt; width: 10.8%;" width="10%">
+  <p class="MsoNormal" style="line-height: 200%;">house<o:p></o:p></p>
+  </td>
+  <td style="border: solid windowtext 1.0pt; height: 31.0pt; mso-border-alt: solid windowtext .5pt; padding: .75pt .75pt .75pt .75pt; width: 10.58%;" width="10%">
+  <p class="MsoNormal" style="line-height: 200%;">house<o:p></o:p></p>
+  </td>
+ </tr>
+ <tr style="height: 31.0pt; mso-yfti-irow: 6;">
+  <td style="border: solid windowtext 1.0pt; height: 31.0pt; mso-border-alt: solid windowtext .5pt; padding: .75pt .75pt .75pt .75pt; width: 24.72%;" width="24%">
+  <p class="MsoNormal" style="line-height: 200%;">11<o:p></o:p></p>
+  </td>
+  <td style="border: solid windowtext 1.0pt; height: 31.0pt; mso-border-alt: solid windowtext .5pt; padding: .75pt .75pt .75pt .75pt; width: 13.88%;" width="13%">
+  <p class="MsoNormal" style="line-height: 200%;"><b>dynasty<o:p></o:p></b></p>
+  </td>
+  <td style="border: solid windowtext 1.0pt; height: 31.0pt; mso-border-alt: solid windowtext .5pt; padding: .75pt .75pt .75pt .75pt; width: 10.8%;" width="10%">
+  <p class="MsoNormal" style="line-height: 200%;">house<o:p></o:p></p>
+  </td>
+  <td style="border: solid windowtext 1.0pt; height: 31.0pt; mso-border-alt: solid windowtext .5pt; padding: .75pt .75pt .75pt .75pt; width: 25.16%;" width="25%">
+  <p class="MsoNormal" style="line-height: 200%;"><b>dynastic house<o:p></o:p></b></p>
+  </td>
+  <td style="border: solid windowtext 1.0pt; height: 31.0pt; mso-border-alt: solid windowtext .5pt; padding: .75pt .75pt .75pt .75pt; width: 10.8%;" width="10%">
+  <p class="MsoNormal" style="line-height: 200%;">house<o:p></o:p></p>
+  </td>
+  <td style="border: solid windowtext 1.0pt; height: 31.0pt; mso-border-alt: solid windowtext .5pt; padding: .75pt .75pt .75pt .75pt; width: 10.58%;" width="10%">
+  <p class="MsoNormal" style="line-height: 200%;">house<o:p></o:p></p>
+  </td>
+ </tr>
+ <tr style="height: 31.0pt; mso-yfti-irow: 7;">
+  <td style="border: solid windowtext 1.0pt; height: 31.0pt; mso-border-alt: solid windowtext .5pt; padding: .75pt .75pt .75pt .75pt; width: 24.72%;" width="24%">
+  <p class="MsoNormal" style="line-height: 200%;">13<o:p></o:p></p>
+  </td>
+  <td style="border: solid windowtext 1.0pt; height: 31.0pt; mso-border-alt: solid windowtext .5pt; padding: .75pt .75pt .75pt .75pt; width: 13.88%;" width="13%">
+  <p class="MsoNormal" style="line-height: 200%;"><b>temple<o:p></o:p></b></p>
+  </td>
+  <td style="border: solid windowtext 1.0pt; height: 31.0pt; mso-border-alt: solid windowtext .5pt; padding: .75pt .75pt .75pt .75pt; width: 10.8%;" width="10%">
+  <p class="MsoNormal" style="line-height: 200%;">house<o:p></o:p></p>
+  </td>
+  <td style="border: solid windowtext 1.0pt; height: 31.0pt; mso-border-alt: solid windowtext .5pt; padding: .75pt .75pt .75pt .75pt; width: 25.16%;" width="25%">
+  <p class="MsoNormal" style="line-height: 200%;">house<o:p></o:p></p>
+  </td>
+  <td style="border: solid windowtext 1.0pt; height: 31.0pt; mso-border-alt: solid windowtext .5pt; padding: .75pt .75pt .75pt .75pt; width: 10.8%;" width="10%">
+  <p class="MsoNormal" style="line-height: 200%;">house<o:p></o:p></p>
+  </td>
+  <td style="border: solid windowtext 1.0pt; height: 31.0pt; mso-border-alt: solid windowtext .5pt; padding: .75pt .75pt .75pt .75pt; width: 10.58%;" width="10%">
+  <p class="MsoNormal" style="line-height: 200%;">house<o:p></o:p></p>
+  </td>
+ </tr>
+ <tr style="height: 31.0pt; mso-yfti-irow: 8; mso-yfti-lastrow: yes;">
+  <td style="border: solid windowtext 1.0pt; height: 31.0pt; mso-border-alt: solid windowtext .5pt; padding: .75pt .75pt .75pt .75pt; width: 24.72%;" width="24%">
+  <p class="MsoNormal" style="line-height: 200%;">16<o:p></o:p></p>
+  </td>
+  <td style="border: solid windowtext 1.0pt; height: 31.0pt; mso-border-alt: solid windowtext .5pt; padding: .75pt .75pt .75pt .75pt; width: 13.88%;" width="13%">
+  <p class="MsoNormal" style="line-height: 200%;"><b>dynasty<o:p></o:p></b></p>
+  </td>
+  <td style="border: solid windowtext 1.0pt; height: 31.0pt; mso-border-alt: solid windowtext .5pt; padding: .75pt .75pt .75pt .75pt; width: 10.8%;" width="10%">
+  <p class="MsoNormal" style="line-height: 200%;">house<o:p></o:p></p>
+  </td>
+  <td style="border: solid windowtext 1.0pt; height: 31.0pt; mso-border-alt: solid windowtext .5pt; padding: .75pt .75pt .75pt .75pt; width: 25.16%;" width="25%">
+  <p class="MsoNormal" style="line-height: 200%;">house<o:p></o:p></p>
+  </td>
+  <td style="border: solid windowtext 1.0pt; height: 31.0pt; mso-border-alt: solid windowtext .5pt; padding: .75pt .75pt .75pt .75pt; width: 10.8%;" width="10%">
+  <p class="MsoNormal" style="line-height: 200%;">house<o:p></o:p></p>
+  </td>
+  <td style="border: solid windowtext 1.0pt; height: 31.0pt; mso-border-alt: solid windowtext .5pt; padding: .75pt .75pt .75pt .75pt; width: 10.58%;" width="10%">
+  <p class="MsoNormal" style="line-height: 200%;">house<o:p></o:p></p>
+  </td>
+ </tr>
+</tbody></table>
+
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+
+<br clear="all" style="mso-special-character: line-break; page-break-before: always;" />
+
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+
+<h1><a name="_Toc183973560">BIBLIOGRAPHY</a><o:p></o:p></h1>
+
+<p class="MsoBibliography"><!--[if supportFields]><span style='mso-element:field-begin'></span><span
+style='mso-spacerun:yes'> </span>ADDIN ZOTERO_BIBL
+{&quot;uncited&quot;:[],&quot;omitted&quot;:[],&quot;custom&quot;:[]}
+CSL_BIBLIOGRAPHY <span style='mso-element:field-separator'></span><![endif]-->Ackroyd, Peter A. <i>The Second Book of
+Samuel</i>. The Cambridge Bible Commentary. Cambridge University Press, 1977.<o:p></o:p></p>
+
+<p class="MsoBibliography">Brueggemann,
+Walter. <i>First and Second Samuel</i>. Interpretation: A Bible Commentary for
+Teaching and Preaching. Westminster John Knox Press, 1990.<o:p></o:p></p>
+
+<p class="MsoBibliography">Burleson,
+Doug. “God’s Heart Establishes (2 Sam. 7:12, 16)” (n.d.).
+https://www.academia.edu/15408955/Gods_Heart_Establishes_2_Sam_7_12_16_.<o:p></o:p></p>
+
+<p class="MsoBibliography">Douglas
+Mangum, Derek R Brown, Rachel Klippenstein, and Rebekah Hurst, eds. <i>The
+Lexham Theological Wordbook</i>. Bellingham, WA: Lexham Press, 2014.
+https://ref.ly/logosres/lxtheowrdbk?art=art336.<o:p></o:p></p>
+
+<p class="MsoBibliography">George,
+Mark K. “Fluid Stability in Second Samuel 7.” <i>Cathol. Biblic. Q.</i> 64
+(2002): 17–36.<o:p></o:p></p>
+
+<p class="MsoBibliography">Gesenius,
+Wilhelm, Charles Briggs, S.R. Driver, and Francis Brown. <i>The Abridged
+Brown-Driver-Briggs Hebrew-English Lexicon of the Old Testament: From A Hebrew
+and English Lexicon of the Old Testament.</i> Boston; New York: Houghton,
+Mifflin and Company, 1906.<o:p></o:p></p>
+
+<p class="MsoBibliography">Gilliard,
+Dominique DuBois, and Mark Labberton. <i>Subversive Witness: Scripture’s Call
+to Leverage Privilege</i>. Grand Rapids, UNITED STATES: Zondervan, 2021.
+http://ebookcentral.proquest.com/lib/fuller/detail.action?docID=6666663.<o:p></o:p></p>
+
+<p class="MsoBibliography">Grisanti,
+Michael A. “The Davidic Covenant.” <i>Masters Semin. J.</i> 10.2 (1999):
+233–50.<o:p></o:p></p>
+
+<p class="MsoBibliography">Halpern,
+Baruch. <i>David’s Secret Demons: Messiah, Murderer, Traitor, King</i>. The
+Bible in Its World. Eerdmans, 2001.<o:p></o:p></p>
+
+<p class="MsoBibliography">Heiser,
+Michael. <i>The Unseen Realm: Recovering the Supernatural Worldview of the
+Bible</i>. First edition. Bellingham, WA: Lexham Press, 2015.<o:p></o:p></p>
+
+<p class="MsoBibliography">John
+Davis, T. Desmond Alexander, and David W. Baker. <i>Dictionary of the Old
+Testament: Pentateuch (The IVP Bible Dictionary Series)</i>. The IVP Bible
+Dictionary Series. Downers Grove: IVP, 2015.<o:p></o:p></p>
+
+<p class="MsoBibliography">Mounce,
+William D., ed. <i>Mounce’s Complete Expository Dictionary of Old &amp; New
+Testament Words</i>. Grand Rapids, Mich: Zondervan, 2006.<o:p></o:p></p>
+
+<p class="MsoBibliography">Rydelnik,
+Michael. <i>The Moody Handbook of Messianic Prophecy: Studies and Expositions
+of the Messiah in the Hebrew Bible</i>. Chicago: Moody Publishers, 2019.<o:p></o:p></p>
+
+<p class="MsoBibliography">Walton,
+John H., Victor Harold Matthews, and Mark W. Chavalas. <i>The IVP Bible
+Background Commentary: Old Testament</i>. Downers Grove, Ill: InterVarsity
+Press, 2000.<o:p></o:p></p>
+
+<p class="MsoBibliography">Wolfe,
+Darrell. “Author’s Note:,” n.d.<o:p></o:p></p>
+
+<p class="MsoBibliography"><i>Common
+English Bible: A Fresh Translation to Touch the Heart and Mind</i>. Nashville, TN: Common English Bible,
+2011.<o:p></o:p></p>
+
+<p class="MsoBibliography"><i>Faithlife
+Study Bible, via Logos Software</i>. Faithlife / Logos Bible Software, 2018.<o:p></o:p></p>
+
+<p class="MsoBibliography"><i>New
+English Translation (The NET Bible)</i>. Second Edition, Full Notes. Denmark: Biblical Studies
+Press, Thomas Nelson, 2019.<o:p></o:p></p>
+
+<p class="MsoBibliography"><i>The
+Holy Bible: English Standard Version (ESV)</i>. Wheaton, Illinois: Crossway Bibles, 2016.<o:p></o:p></p>
+
+<p class="MsoBibliography"><i>The
+Holy Bible: King James Version</i>. Electronic Edition of the 1900 Authorized Version.
+Bellingham, WA: Logos Research Systems, Inc., 2009.<o:p></o:p></p>
+
+<p class="MsoBibliography"><i>The
+Lexham English Bible (LEB), Fourth Edition</i>. Logo Bible Software. Harris, W. H., III, Ritzema, E.,
+Brannan, R., Mangum, D., Dunham, J., Reimer, J. A., &amp; Wierenga, M. (Eds.).
+Bellingham, WA: Lexham Press, 2010. http://www.lexhampress.com.<o:p></o:p></p>
+
+<p class="MsoBibliography"><i>The
+NET Bible First Edition Notes</i>. Biblical Studies Press, 2006.<o:p></o:p></p>
+
+<p class="MsoNormal"><!--[if supportFields]><span style='mso-element:field-end'></span><![endif]--><o:p>&nbsp;</o:p></p>
+
+<div><!--[if !supportFootnotes]--><br clear="all" />
+
+<hr align="left" size="1" width="33%" />
+
+<!--[endif]-->
+
+<div id="ftn1">
+
+<p class="MsoFootnoteText"><a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftnref1" name="_ftn1" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[1]</span></span><!--[endif]--></span></a>
+<!--[if supportFields]><span style='mso-element:field-begin'></span><span
+style='mso-spacerun:yes'> </span>ADDIN ZOTERO_ITEM CSL_CITATION
+{&quot;citationID&quot;:&quot;A2fQrhO9&quot;,&quot;properties&quot;:{&quot;formattedCitation&quot;:&quot;{\\i{}The
+Lexham English Bible (LEB), Fourth Edition}, Logo Bible Software., Harris, W.
+H., III, Ritzema, E., Brannan, R., Mangum, D., Dunham, J., Reimer, J. A., &amp;
+Wierenga, M. (Eds.) (Bellingham, WA: Lexham Press, 2010), n. All quotes either
+LEB or my own paraphrase,
+http://www.lexhampress.com.&quot;,&quot;plainCitation&quot;:&quot;The Lexham
+English Bible (LEB), Fourth Edition, Logo Bible Software., Harris, W. H., III,
+Ritzema, E., Brannan, R., Mangum, D., Dunham, J., Reimer, J. A., &amp;
+Wierenga, M. (Eds.) (Bellingham, WA: Lexham Press, 2010), n. All quotes either
+LEB or my own paraphrase,
+http://www.lexhampress.com.&quot;,&quot;noteIndex&quot;:1},&quot;citationItems&quot;:[{&quot;id&quot;:49,&quot;uris&quot;:[&quot;http://zotero.org/users/6953150/items/2TDD6GYW&quot;],&quot;itemData&quot;:{&quot;id&quot;:49,&quot;type&quot;:&quot;book&quot;,&quot;collection-title&quot;:&quot;Harris,
+W. H., III, Ritzema, E., Brannan, R., Mangum, D., Dunham, J., Reimer, J. A.,
+&amp; Wierenga, M. (Eds.)&quot;,&quot;edition&quot;:&quot;Logo Bible
+Software&quot;,&quot;event-place&quot;:&quot;Bellingham, WA&quot;,&quot;publisher&quot;:&quot;Lexham
+Press&quot;,&quot;publisher-place&quot;:&quot;Bellingham,
+WA&quot;,&quot;source&quot;:&quot;Logo Bible
+Software&quot;,&quot;title&quot;:&quot;The Lexham English Bible (LEB), Fourth
+Edition&quot;,&quot;title-short&quot;:&quot;LEB&quot;,&quot;URL&quot;:&quot;http://www.lexhampress.com&quot;,&quot;issued&quot;:{&quot;date-parts&quot;:[[&quot;2010&quot;]],&quot;season&quot;:&quot;Copyright<span
+style='mso-spacerun:yes'>  </span>, 2012, 2013 Lexham
+Press&quot;}},&quot;locator&quot;:&quot;All quotes either LEB or my own
+paraphrase&quot;,&quot;label&quot;:&quot;note&quot;}],&quot;schema&quot;:&quot;https://github.com/citation-style-language/schema/raw/master/csl-citation.json&quot;}
+<span style='mso-element:field-separator'></span><![endif]--><i>The Lexham English Bible (LEB), Fourth
+Edition</i>,
+Logo Bible Software., Harris, W. H., III, Ritzema, E., Brannan, R., Mangum, D.,
+Dunham, J., Reimer, J. A., &amp; Wierenga, M. (Eds.) (Bellingham, WA: Lexham
+Press, 2010), n. All quotes either LEB or my own paraphrase,
+http://www.lexhampress.com.<!--[if supportFields]><span
+style='mso-element:field-end'></span><![endif]--><o:p></o:p></p>
+
+</div>
+
+<div id="ftn2">
+
+<p class="MsoFootnoteText"><a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftnref2" name="_ftn2" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[2]</span></span><!--[endif]--></span></a>
+<!--[if supportFields]><span style='mso-element:field-begin'></span><span
+style='mso-spacerun:yes'> </span>ADDIN ZOTERO_ITEM CSL_CITATION
+{&quot;citationID&quot;:&quot;4pdRDHsV&quot;,&quot;properties&quot;:{&quot;formattedCitation&quot;:&quot;William
+D. Mounce, ed., {\\i{}Mounce\\uc0\\u8217{}s Complete Expository Dictionary of
+Old &amp; New Testament Words} (Grand Rapids, Mich: Zondervan, 2006),
+\\uc0\\u167{}[1382]
+\\uc0\\u1489{}\\uc0\\u1456{}\\uc0\\u1468{}\\uc0\\u1512{}\\uc0\\u1460{}\\uc0\\u1497{}\\uc0\\u1514{}
+ber\\uc0\\u238{}t.&quot;,&quot;plainCitation&quot;:&quot;William D. Mounce,
+ed., Mounce’s Complete Expository Dictionary of Old &amp; New Testament Words
+(Grand Rapids, Mich: Zondervan, 2006), §[1382] <span lang=HE dir=RTL>בְּרִית</span><span
+dir=LTR></span><span dir=LTR></span><span dir=LTR></span><span dir=LTR></span>
+berît.&quot;,&quot;noteIndex&quot;:2},&quot;citationItems&quot;:[{&quot;id&quot;:276,&quot;uris&quot;:[&quot;http://zotero.org/users/6953150/items/WGGI4T74&quot;],&quot;itemData&quot;:{&quot;id&quot;:276,&quot;type&quot;:&quot;book&quot;,&quot;call-number&quot;:&quot;BS440
+.M63 2006&quot;,&quot;event-place&quot;:&quot;Grand Rapids,
+Mich&quot;,&quot;ISBN&quot;:&quot;978-0-310-24878-1&quot;,&quot;language&quot;:&quot;eng
+grc heb&quot;,&quot;note&quot;:&quot;OCLC:
+ocm64453290&quot;,&quot;number-of-pages&quot;:&quot;1316&quot;,&quot;publisher&quot;:&quot;Zondervan&quot;,&quot;publisher-place&quot;:&quot;Grand
+Rapids, Mich&quot;,&quot;source&quot;:&quot;Library of Congress
+ISBN&quot;,&quot;title&quot;:&quot;Mounce's complete expository dictionary of
+Old &amp; New Testament
+words&quot;,&quot;editor&quot;:[{&quot;family&quot;:&quot;Mounce&quot;,&quot;given&quot;:&quot;William
+D.&quot;}],&quot;issued&quot;:{&quot;date-parts&quot;:[[&quot;2006&quot;]]}},&quot;locator&quot;:&quot;[1382]
+<span lang=HE dir=RTL>בְּרִית</span><span dir=LTR></span><span dir=LTR></span><span
+dir=LTR></span><span dir=LTR></span>
+berît&quot;,&quot;label&quot;:&quot;section&quot;}],&quot;schema&quot;:&quot;https://github.com/citation-style-language/schema/raw/master/csl-citation.json&quot;}
+<span style='mso-element:field-separator'></span><![endif]-->William D. Mounce, ed., <i>Mounce’s
+Complete Expository Dictionary of Old &amp; New Testament Words</i> (Grand
+Rapids, Mich: Zondervan, 2006), §[1382] <span dir="RTL" lang="HE">בְּרִית</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>
+berît.<!--[if supportFields]><span style='mso-element:field-end'></span><![endif]--><o:p></o:p></p>
+
+</div>
+
+<div id="ftn3">
+
+<p class="MsoFootnoteText"><a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftnref3" name="_ftn3" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[3]</span></span><!--[endif]--></span></a>
+<!--[if supportFields]><span style='mso-element:field-begin'></span><span
+style='mso-spacerun:yes'> </span>ADDIN ZOTERO_ITEM CSL_CITATION
+{&quot;citationID&quot;:&quot;sLTKFWfZ&quot;,&quot;properties&quot;:{&quot;formattedCitation&quot;:&quot;Michael
+A. Grisanti, \\uc0\\u8220{}The Davidic Covenant,\\uc0\\u8221{} {\\i{}Masters
+Semin. J.} 10.2 (1999): 236.&quot;,&quot;plainCitation&quot;:&quot;Michael A.
+Grisanti, “The Davidic Covenant,” Masters Semin. J. 10.2 (1999):
+236.&quot;,&quot;noteIndex&quot;:3},&quot;citationItems&quot;:[{&quot;id&quot;:2315,&quot;uris&quot;:[&quot;http://zotero.org/users/6953150/items/VJTHIR74&quot;],&quot;itemData&quot;:{&quot;id&quot;:2315,&quot;type&quot;:&quot;article-journal&quot;,&quot;container-title&quot;:&quot;The
+Master's Seminary Journal&quot;,&quot;issue&quot;:&quot;2&quot;,&quot;page&quot;:&quot;233-250&quot;,&quot;title&quot;:&quot;The
+Davidic
+Covenant&quot;,&quot;volume&quot;:&quot;10&quot;,&quot;author&quot;:[{&quot;family&quot;:&quot;Grisanti&quot;,&quot;given&quot;:&quot;Michael
+A.&quot;}],&quot;issued&quot;:{&quot;date-parts&quot;:[[&quot;1999&quot;]]}},&quot;locator&quot;:&quot;236&quot;,&quot;label&quot;:&quot;page&quot;}],&quot;schema&quot;:&quot;https://github.com/citation-style-language/schema/raw/master/csl-citation.json&quot;}
+<span style='mso-element:field-separator'></span><![endif]-->Michael A. Grisanti, “The Davidic
+Covenant,” <i>Masters Semin. J.</i> 10.2 (1999): 236.<!--[if supportFields]><span
+style='mso-element:field-end'></span><![endif]--><o:p></o:p></p>
+
+</div>
+
+<div id="ftn4">
+
+<p class="MsoFootnoteText"><a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftnref4" name="_ftn4" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[4]</span></span><!--[endif]--></span></a>
+<!--[if supportFields]><span style='mso-element:field-begin'></span><span
+style='mso-spacerun:yes'> </span>ADDIN ZOTERO_ITEM CSL_CITATION
+{&quot;citationID&quot;:&quot;Y2L8OdZV&quot;,&quot;properties&quot;:{&quot;formattedCitation&quot;:&quot;John
+Davis, T. Desmond Alexander, and David W. Baker, {\\i{}Dictionary of the Old
+Testament: Pentateuch (The IVP Bible Dictionary Series)}, The IVP Bible
+Dictionary Series (Downers Grove: IVP, 2015), n. p 145 P. R. Williamson,
+\\uc0\\u8220{}Covenant,\\uc0\\u8221{}: \\uc0\\u8220{}The prospect of a
+\\uc0\\u8220{}great name\\uc0\\u8221{} likewise relates to the overarching
+promise of nationhood. This is suggested not only by the implicit contrast with
+the failed aspirations of the tower-builders of Babel (Gen 11:4), whose
+attempts at civil organization (nationhood) had been thwarted by divine
+judgment, but also by the fact that this same language is used in relation to
+David (2 Sam 7:9) in the context of national security and international
+prestige.\\uc0\\u8221{}.&quot;,&quot;plainCitation&quot;:&quot;John Davis, T.
+Desmond Alexander, and David W. Baker, Dictionary of the Old Testament:
+Pentateuch (The IVP Bible Dictionary Series), The IVP Bible Dictionary Series
+(Downers Grove: IVP, 2015), n. p 145 P. R. Williamson, “Covenant,”: “The
+prospect of a “great name” likewise relates to the overarching promise of
+nationhood. This is suggested not only by the implicit contrast with the failed
+aspirations of the tower-builders of Babel (Gen 11:4), whose attempts at civil
+organization (nationhood) had been thwarted by divine judgment, but also by the
+fact that this same language is used in relation to David (2 Sam 7:9) in the
+context of national security and international
+prestige.”.&quot;,&quot;noteIndex&quot;:4},&quot;citationItems&quot;:[{&quot;id&quot;:1728,&quot;uris&quot;:[&quot;http://zotero.org/users/6953150/items/3HFBLCIE&quot;],&quot;itemData&quot;:{&quot;id&quot;:1728,&quot;type&quot;:&quot;book&quot;,&quot;collection-title&quot;:&quot;The
+IVP Bible Dictionary Series&quot;,&quot;event-place&quot;:&quot;Downers
+Grove&quot;,&quot;publisher&quot;:&quot;IVP&quot;,&quot;publisher-place&quot;:&quot;Downers
+Grove&quot;,&quot;title&quot;:&quot;Dictionary of the Old Testament: Pentateuch
+(The IVP Bible Dictionary
+Series)&quot;,&quot;author&quot;:[{&quot;literal&quot;:&quot;John
+Davis&quot;},{&quot;literal&quot;:&quot;T. Desmond
+Alexander&quot;},{&quot;literal&quot;:&quot;David W. Baker&quot;}],&quot;issued&quot;:{&quot;date-parts&quot;:[[&quot;2015&quot;]]}},&quot;locator&quot;:&quot;p
+145 P. R. Williamson, “Covenant,”: “The prospect of a “great name” likewise
+relates to the overarching promise of nationhood. This is suggested not only by
+the implicit contrast with the failed aspirations of the tower-builders of
+Babel (Gen 11:4), whose attempts at civil organization (nationhood) had been
+thwarted by divine judgment, but also by the fact that this same language is
+used in relation to David (2 Sam 7:9) in the context of national security and
+international prestige.”&quot;,&quot;label&quot;:&quot;note&quot;}],&quot;schema&quot;:&quot;https://github.com/citation-style-language/schema/raw/master/csl-citation.json&quot;}
+<span style='mso-element:field-separator'></span><![endif]-->John Davis, T. Desmond Alexander, and
+David W. Baker, <i>Dictionary of the Old Testament: Pentateuch (The IVP Bible
+Dictionary Series)</i>, The IVP Bible Dictionary Series (Downers Grove: IVP,
+2015), n. p 145 P. R. Williamson, “Covenant,”: “The prospect of a “great name”
+likewise relates to the overarching promise of nationhood. This is suggested
+not only by the implicit contrast with the failed aspirations of the
+tower-builders of Babel (Gen 11:4), whose attempts at civil organization
+(nationhood) had been thwarted by divine judgment, but also by the fact that
+this same language is used in relation to David (2 Sam 7:9) in the context of
+national security and international prestige.”.<!--[if supportFields]><span
+style='mso-element:field-end'></span><![endif]--><o:p></o:p></p>
+
+</div>
+
+<div id="ftn5">
+
+<p class="MsoFootnoteText"><a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftnref5" name="_ftn5" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[5]</span></span><!--[endif]--></span></a>
+<!--[if supportFields]><span style='mso-element:field-begin'></span><span
+style='mso-spacerun:yes'> </span>ADDIN ZOTERO_ITEM CSL_CITATION
+{&quot;citationID&quot;:&quot;0aOCmhZm&quot;,&quot;properties&quot;:{&quot;formattedCitation&quot;:&quot;Baruch
+Halpern, {\\i{}David\\uc0\\u8217{}s Secret Demons: Messiah, Murderer, Traitor,
+King}, The Bible in Its World (Eerdmans, 2001),
+337.&quot;,&quot;plainCitation&quot;:&quot;Baruch Halpern, David’s Secret
+Demons: Messiah, Murderer, Traitor, King, The Bible in Its World (Eerdmans,
+2001), 337.&quot;,&quot;noteIndex&quot;:5},&quot;citationItems&quot;:[{&quot;id&quot;:2316,&quot;uris&quot;:[&quot;http://zotero.org/users/6953150/items/7XT62FP2&quot;],&quot;itemData&quot;:{&quot;id&quot;:2316,&quot;type&quot;:&quot;book&quot;,&quot;collection-title&quot;:&quot;The
+Bible in Its
+World&quot;,&quot;number-of-pages&quot;:&quot;333-341&quot;,&quot;publisher&quot;:&quot;Eerdmans&quot;,&quot;title&quot;:&quot;David's
+Secret Demons: Messiah, Murderer, Traitor, King&quot;,&quot;author&quot;:[{&quot;family&quot;:&quot;Halpern&quot;,&quot;given&quot;:&quot;Baruch&quot;}],&quot;issued&quot;:{&quot;date-parts&quot;:[[&quot;2001&quot;]]}},&quot;locator&quot;:&quot;337&quot;,&quot;label&quot;:&quot;page&quot;}],&quot;schema&quot;:&quot;https://github.com/citation-style-language/schema/raw/master/csl-citation.json&quot;}
+<span style='mso-element:field-separator'></span><![endif]-->Baruch Halpern, <i>David’s Secret
+Demons: Messiah, Murderer, Traitor, King</i>, The Bible in Its World (Eerdmans,
+2001), 337.<!--[if supportFields]><span style='mso-element:field-end'></span><![endif]--><o:p></o:p></p>
+
+</div>
+
+<div id="ftn6">
+
+<p class="MsoFootnoteText"><a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftnref6" name="_ftn6" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[6]</span></span><!--[endif]--></span></a>
+<!--[if supportFields]><span style='mso-element:field-begin'></span><span
+style='mso-spacerun:yes'> </span>ADDIN ZOTERO_ITEM CSL_CITATION
+{&quot;citationID&quot;:&quot;qJpXmste&quot;,&quot;properties&quot;:{&quot;formattedCitation&quot;:&quot;John
+H. Walton, Victor Harold Matthews, and Mark W. Chavalas, {\\i{}The IVP Bible
+Background Commentary: Old Testament} (Downers Grove, Ill: InterVarsity Press,
+2000), n. Notes 7:1-29 A Covenant and a Dynasty for
+David.&quot;,&quot;plainCitation&quot;:&quot;John H. Walton, Victor Harold
+Matthews, and Mark W. Chavalas, The IVP Bible Background Commentary: Old
+Testament (Downers Grove, Ill: InterVarsity Press, 2000), n. Notes 7:1-29 A Covenant
+and a Dynasty for
+David.&quot;,&quot;noteIndex&quot;:6},&quot;citationItems&quot;:[{&quot;id&quot;:1866,&quot;uris&quot;:[&quot;http://zotero.org/users/6953150/items/5GTQXVID&quot;],&quot;itemData&quot;:{&quot;id&quot;:1866,&quot;type&quot;:&quot;book&quot;,&quot;call-number&quot;:&quot;BS1151.2
+.W35 2000&quot;,&quot;event-place&quot;:&quot;Downers Grove,
+Ill&quot;,&quot;ISBN&quot;:&quot;978-0-8308-1419-0&quot;,&quot;number-of-pages&quot;:&quot;832&quot;,&quot;publisher&quot;:&quot;InterVarsity
+Press&quot;,&quot;publisher-place&quot;:&quot;Downers Grove,
+Ill&quot;,&quot;source&quot;:&quot;Library of Congress
+ISBN&quot;,&quot;title&quot;:&quot;The IVP Bible background commentary: Old
+Testament&quot;,&quot;title-short&quot;:&quot;The IVP Bible background
+commentary&quot;,&quot;author&quot;:[{&quot;family&quot;:&quot;Walton&quot;,&quot;given&quot;:&quot;John
+H.&quot;},{&quot;family&quot;:&quot;Matthews&quot;,&quot;given&quot;:&quot;Victor
+Harold&quot;},{&quot;family&quot;:&quot;Chavalas&quot;,&quot;given&quot;:&quot;Mark
+W.&quot;}],&quot;issued&quot;:{&quot;date-parts&quot;:[[&quot;2000&quot;]]}},&quot;locator&quot;:&quot;Notes
+7:1-29 A Covenant and a Dynasty for
+David&quot;,&quot;label&quot;:&quot;note&quot;}],&quot;schema&quot;:&quot;https://github.com/citation-style-language/schema/raw/master/csl-citation.json&quot;}
+<span style='mso-element:field-separator'></span><![endif]-->John H. Walton, Victor Harold Matthews,
+and Mark W. Chavalas, <i>The IVP Bible Background Commentary: Old Testament</i>
+(Downers Grove, Ill: InterVarsity Press, 2000), n. Notes 7:1-29 A Covenant and
+a Dynasty for David.<!--[if supportFields]><span style='mso-element:
+field-end'></span><![endif]--><o:p></o:p></p>
+
+</div>
+
+<div id="ftn7">
+
+<p class="MsoFootnoteText"><a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftnref7" name="_ftn7" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[7]</span></span><!--[endif]--></span></a>
+<!--[if supportFields]><span style='mso-element:field-begin'></span><span
+style='mso-spacerun:yes'> </span>ADDIN ZOTERO_ITEM CSL_CITATION
+{&quot;citationID&quot;:&quot;y7aMA6ZA&quot;,&quot;properties&quot;:{&quot;formattedCitation&quot;:&quot;Walter
+Brueggemann, {\\i{}First and Second Samuel}, Interpretation: A Bible Commentary
+for Teaching and Preaching (Westminster John Knox Press, 1990),
+253.&quot;,&quot;plainCitation&quot;:&quot;Walter Brueggemann, First and Second
+Samuel, Interpretation: A Bible Commentary for Teaching and Preaching
+(Westminster John Knox Press, 1990),
+253.&quot;,&quot;noteIndex&quot;:7},&quot;citationItems&quot;:[{&quot;id&quot;:2311,&quot;uris&quot;:[&quot;http://zotero.org/users/6953150/items/9ACTVKDW&quot;],&quot;itemData&quot;:{&quot;id&quot;:2311,&quot;type&quot;:&quot;book&quot;,&quot;collection-title&quot;:&quot;Interpretation:
+A Bible Commentary for Teaching and
+Preaching&quot;,&quot;number-of-pages&quot;:&quot;253-259&quot;,&quot;publisher&quot;:&quot;Westminster
+John Knox Press&quot;,&quot;title&quot;:&quot;First and Second
+Samuel&quot;,&quot;author&quot;:[{&quot;family&quot;:&quot;Brueggemann&quot;,&quot;given&quot;:&quot;Walter&quot;}],&quot;issued&quot;:{&quot;date-parts&quot;:[[&quot;1990&quot;]],&quot;season&quot;:&quot;2012&quot;}},&quot;locator&quot;:&quot;253&quot;,&quot;label&quot;:&quot;page&quot;}],&quot;schema&quot;:&quot;https://github.com/citation-style-language/schema/raw/master/csl-citation.json&quot;}
+<span style='mso-element:field-separator'></span><![endif]-->Walter Brueggemann, <i>First and Second
+Samuel</i>, Interpretation: A Bible Commentary for Teaching and Preaching
+(Westminster John Knox Press, 1990), 253.<!--[if supportFields]><span
+style='mso-element:field-end'></span><![endif]--><o:p></o:p></p>
+
+</div>
+
+<div id="ftn8">
+
+<p class="MsoFootnoteText"><a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftnref8" name="_ftn8" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[8]</span></span><!--[endif]--></span></a>
+<!--[if supportFields]><span style='mso-element:field-begin'></span><span
+style='mso-spacerun:yes'> </span>ADDIN ZOTERO_ITEM CSL_CITATION
+{&quot;citationID&quot;:&quot;HklA0M7q&quot;,&quot;properties&quot;:{&quot;formattedCitation&quot;:&quot;Peter
+A. Ackroyd, {\\i{}The Second Book of Samuel}, The Cambridge Bible Commentary
+(Cambridge University Press, 1977),
+74.&quot;,&quot;plainCitation&quot;:&quot;Peter A. Ackroyd, The Second Book of
+Samuel, The Cambridge Bible Commentary (Cambridge University Press, 1977),
+74.&quot;,&quot;noteIndex&quot;:8},&quot;citationItems&quot;:[{&quot;id&quot;:2309,&quot;uris&quot;:[&quot;http://zotero.org/users/6953150/items/IZEMC6XQ&quot;],&quot;itemData&quot;:{&quot;id&quot;:2309,&quot;type&quot;:&quot;book&quot;,&quot;collection-title&quot;:&quot;The
+Cambridge Bible
+Commentary&quot;,&quot;number-of-pages&quot;:&quot;72-79&quot;,&quot;publisher&quot;:&quot;Cambridge
+University Press&quot;,&quot;title&quot;:&quot;The Second Book of
+Samuel&quot;,&quot;author&quot;:[{&quot;family&quot;:&quot;Ackroyd&quot;,&quot;given&quot;:&quot;Peter
+A.&quot;}],&quot;issued&quot;:{&quot;date-parts&quot;:[[&quot;1977&quot;]]}},&quot;locator&quot;:&quot;74&quot;,&quot;label&quot;:&quot;page&quot;}],&quot;schema&quot;:&quot;https://github.com/citation-style-language/schema/raw/master/csl-citation.json&quot;}
+<span style='mso-element:field-separator'></span><![endif]-->Peter A. Ackroyd, <i>The Second Book of
+Samuel</i>, The Cambridge Bible Commentary (Cambridge University Press, 1977),
+74.<!--[if supportFields]><span style='mso-element:field-end'></span><![endif]--><o:p></o:p></p>
+
+</div>
+
+<div id="ftn9">
+
+<p class="MsoFootnoteText"><a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftnref9" name="_ftn9" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[9]</span></span><!--[endif]--></span></a>
+<!--[if supportFields]><span style='mso-element:field-begin'></span><span
+style='mso-spacerun:yes'> </span>ADDIN ZOTERO_ITEM CSL_CITATION
+{&quot;citationID&quot;:&quot;XsamWsMR&quot;,&quot;properties&quot;:{&quot;formattedCitation&quot;:&quot;{\\i{}The
+NET Bible First Edition Notes} (Biblical Studies Press, 2006), v. 2 Sam 7 Notes
+for 7:7 \&quot;9 tn Heb \\uc0\\u8220{}tribes\\uc0\\u8221{} (so KJV, NASB, NCV),
+but the parallel passage in 1 Chr 17:6 has
+\\uc0\\u8220{}judges.\\uc0\\u8221{}\&quot;.&quot;,&quot;plainCitation&quot;:&quot;The
+NET Bible First Edition Notes (Biblical Studies Press, 2006), v. 2 Sam 7 Notes
+for 7:7 \&quot;9 tn Heb “tribes” (so KJV, NASB, NCV), but the parallel passage
+in 1 Chr 17:6 has
+“judges.”\&quot;.&quot;,&quot;noteIndex&quot;:9},&quot;citationItems&quot;:[{&quot;id&quot;:44,&quot;uris&quot;:[&quot;http://zotero.org/users/6953150/items/HUU8BEMB&quot;],&quot;itemData&quot;:{&quot;id&quot;:44,&quot;type&quot;:&quot;book&quot;,&quot;publisher&quot;:&quot;Biblical
+Studies Press&quot;,&quot;title&quot;:&quot;The NET Bible First Edition
+Notes&quot;,&quot;issued&quot;:{&quot;date-parts&quot;:[[&quot;2006&quot;]]}},&quot;locator&quot;:&quot;2
+Sam 7 Notes for 7:7 \&quot;9 tn Heb “tribes” (so KJV, NASB, NCV), but the
+parallel passage in 1 Chr 17:6 has
+“judges.”\&quot;&quot;,&quot;label&quot;:&quot;verse&quot;}],&quot;schema&quot;:&quot;https://github.com/citation-style-language/schema/raw/master/csl-citation.json&quot;}
+<span style='mso-element:field-separator'></span><![endif]--><i>The NET Bible First Edition Notes</i> (Biblical Studies Press, 2006), v. 2
+Sam 7 Notes for 7:7 "9 tn Heb “tribes” (so KJV, NASB, NCV), but the
+parallel passage in 1 Chr 17:6 has “judges.”".<!--[if supportFields]><span
+style='mso-element:field-end'></span><![endif]--><o:p></o:p></p>
+
+</div>
+
+<div id="ftn10">
+
+<p class="MsoFootnoteText"><a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftnref10" name="_ftn10" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[10]</span></span><!--[endif]--></span></a>
+<!--[if supportFields]><span style='mso-element:field-begin'></span><span
+style='mso-spacerun:yes'> </span>ADDIN ZOTERO_ITEM CSL_CITATION
+{&quot;citationID&quot;:&quot;IbZohUGe&quot;,&quot;properties&quot;:{&quot;formattedCitation&quot;:&quot;{\\i{}Faithlife
+Study Bible, via Logos Software} (Faithlife / Logos Bible Software, 2018), v.
+Notes for 2 Sa 7:14.&quot;,&quot;plainCitation&quot;:&quot;Faithlife Study
+Bible, via Logos Software (Faithlife / Logos Bible Software, 2018), v. Notes
+for 2 Sa
+7:14.&quot;,&quot;noteIndex&quot;:10},&quot;citationItems&quot;:[{&quot;id&quot;:260,&quot;uris&quot;:[&quot;http://zotero.org/users/6953150/items/F6F2YTCW&quot;],&quot;itemData&quot;:{&quot;id&quot;:260,&quot;type&quot;:&quot;book&quot;,&quot;publisher&quot;:&quot;Faithlife
+/ Logos Bible Software&quot;,&quot;title&quot;:&quot;Faithlife Study Bible, via
+Logos
+Software&quot;,&quot;issued&quot;:{&quot;date-parts&quot;:[[&quot;2018&quot;]]}},&quot;locator&quot;:&quot;Notes
+for 2 Sa 7:14 &quot;,&quot;label&quot;:&quot;verse&quot;}],&quot;schema&quot;:&quot;https://github.com/citation-style-language/schema/raw/master/csl-citation.json&quot;}
+<span style='mso-element:field-separator'></span><![endif]--><i>Faithlife Study Bible, via Logos
+Software</i>
+(Faithlife / Logos Bible Software, 2018), v. Notes for 2 Sa 7:14.<!--[if supportFields]><span
+style='mso-element:field-end'></span><![endif]--><o:p></o:p></p>
+
+</div>
+
+<div id="ftn11">
+
+<p class="MsoFootnoteText"><a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftnref11" name="_ftn11" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[11]</span></span><!--[endif]--></span></a>
+<!--[if supportFields]><span style='mso-element:field-begin'></span><span
+style='mso-spacerun:yes'> </span>ADDIN ZOTERO_ITEM CSL_CITATION
+{&quot;citationID&quot;:&quot;EoUZRH5D&quot;,&quot;properties&quot;:{&quot;formattedCitation&quot;:&quot;Mark
+K. George, \\uc0\\u8220{}Fluid Stability in Second Samuel 7,\\uc0\\u8221{}
+{\\i{}Cathol. Biblic. Q.} 64 (2002):
+17.&quot;,&quot;plainCitation&quot;:&quot;Mark K. George, “Fluid Stability in
+Second Samuel 7,” Cathol. Biblic. Q. 64 (2002):
+17.&quot;,&quot;noteIndex&quot;:11},&quot;citationItems&quot;:[{&quot;id&quot;:2314,&quot;uris&quot;:[&quot;http://zotero.org/users/6953150/items/YDC7GI4N&quot;],&quot;itemData&quot;:{&quot;id&quot;:2314,&quot;type&quot;:&quot;article-journal&quot;,&quot;container-title&quot;:&quot;Catholic
+Biblical Quarterly&quot;,&quot;page&quot;:&quot;17-36&quot;,&quot;title&quot;:&quot;Fluid
+Stability in Second Samuel
+7&quot;,&quot;volume&quot;:&quot;64&quot;,&quot;author&quot;:[{&quot;family&quot;:&quot;George&quot;,&quot;given&quot;:&quot;Mark
+K.&quot;}],&quot;issued&quot;:{&quot;date-parts&quot;:[[&quot;2002&quot;]]}},&quot;locator&quot;:&quot;17&quot;,&quot;label&quot;:&quot;page&quot;}],&quot;schema&quot;:&quot;https://github.com/citation-style-language/schema/raw/master/csl-citation.json&quot;}
+<span style='mso-element:field-separator'></span><![endif]-->Mark K. George, “Fluid Stability in
+Second Samuel 7,” <i>Cathol. Biblic. Q.</i> 64 (2002): 17.<!--[if supportFields]><span
+style='mso-element:field-end'></span><![endif]--><o:p></o:p></p>
+
+</div>
+
+<div id="ftn12">
+
+<p class="MsoFootnoteText"><a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftnref12" name="_ftn12" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[12]</span></span><!--[endif]--></span></a>
+<!--[if supportFields]><span style='mso-element:field-begin'></span><span
+style='mso-spacerun:yes'> </span>ADDIN ZOTERO_ITEM CSL_CITATION
+{&quot;citationID&quot;:&quot;FUeYNJyc&quot;,&quot;properties&quot;:{&quot;formattedCitation&quot;:&quot;Wilhelm
+Gesenius et al., {\\i{}The Abridged Brown-Driver-Briggs Hebrew-English Lexicon
+of the Old Testament: From A Hebrew and English Lexicon of the Old Testament.}
+(Boston; New York: Houghton, Mifflin and Company, 1906),
+\\uc0\\u1489{}\\uc0\\u1463{}\\uc0\\u1468{}\\uc0\\u1497{}\\uc0\\u1460{}\\uc0\\u1514{}
+(bayi).&quot;,&quot;plainCitation&quot;:&quot;Wilhelm Gesenius et al., The
+Abridged Brown-Driver-Briggs Hebrew-English Lexicon of the Old Testament: From
+A Hebrew and English Lexicon of the Old Testament. (Boston; New York: Houghton,
+Mifflin and Company, 1906), <span lang=HE dir=RTL>בַּיִת</span><span dir=LTR></span><span
+dir=LTR></span><span dir=LTR></span><span dir=LTR></span>
+(bayi).&quot;,&quot;noteIndex&quot;:12},&quot;citationItems&quot;:[{&quot;id&quot;:51,&quot;uris&quot;:[&quot;http://zotero.org/users/6953150/items/AK8LUAP8&quot;],&quot;itemData&quot;:{&quot;id&quot;:51,&quot;type&quot;:&quot;book&quot;,&quot;abstract&quot;:&quot;Whitaker,
+R., Brown, F., Driver, S. R. (Samuel R., &amp; Briggs, C. A. (Charles A.
+(1906). The Abridged Brown-Driver-Briggs Hebrew-English Lexicon of the Old
+Testament: from A Hebrew and English Lexicon of the Old Testament by Francis
+Brown, S.R. Driver and Charles Briggs, based on the lexicon of Wilhelm
+Gesenius. Boston; New York: Houghton, Mifflin and
+Company.&quot;,&quot;archive&quot;:&quot;Logos Bible
+Software&quot;,&quot;event-place&quot;:&quot;Boston; New York&quot;,&quot;publisher&quot;:&quot;Houghton,
+Mifflin and Company&quot;,&quot;publisher-place&quot;:&quot;Boston; New
+York&quot;,&quot;title&quot;:&quot;The Abridged Brown-Driver-Briggs
+Hebrew-English Lexicon of the Old Testament: from A Hebrew and English Lexicon
+of the Old Testament.&quot;,&quot;title-short&quot;:&quot;Abridged
+Brown-Driver-Briggs Hebrew-English Lexicon&quot;,&quot;author&quot;:[{&quot;family&quot;:&quot;Gesenius&quot;,&quot;given&quot;:&quot;Wilhelm&quot;},{&quot;family&quot;:&quot;Briggs&quot;,&quot;given&quot;:&quot;Charles&quot;},{&quot;family&quot;:&quot;Driver&quot;,&quot;given&quot;:&quot;S.R.&quot;},{&quot;family&quot;:&quot;Brown&quot;,&quot;given&quot;:&quot;Francis&quot;}],&quot;issued&quot;:{&quot;date-parts&quot;:[[&quot;1906&quot;]]}},&quot;locator&quot;:&quot;<span
+lang=HE dir=RTL>בַּיִת</span><span dir=LTR></span><span dir=LTR></span><span
+dir=LTR></span><span dir=LTR></span>
+(bayi)&quot;,&quot;label&quot;:&quot;page&quot;}],&quot;schema&quot;:&quot;https://github.com/citation-style-language/schema/raw/master/csl-citation.json&quot;}
+<span style='mso-element:field-separator'></span><![endif]-->Wilhelm Gesenius et al., <i>The
+Abridged Brown-Driver-Briggs Hebrew-English Lexicon of the Old Testament: From
+A Hebrew and English Lexicon of the Old Testament.</i> (Boston; New York:
+Houghton, Mifflin and Company, 1906), <span dir="RTL" lang="HE">בַּיִת</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>
+(bayi).<!--[if supportFields]><span style='mso-element:field-end'></span><![endif]--><o:p></o:p></p>
+
+</div>
+
+<div id="ftn13">
+
+<p class="MsoFootnoteText"><a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftnref13" name="_ftn13" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[13]</span></span><!--[endif]--></span></a>
+<!--[if supportFields]><span style='mso-element:field-begin'></span><span
+style='mso-spacerun:yes'> </span>ADDIN ZOTERO_ITEM CSL_CITATION
+{&quot;citationID&quot;:&quot;ac2PT9iK&quot;,&quot;properties&quot;:{&quot;formattedCitation&quot;:&quot;Darrell
+Wolfe, \\uc0\\u8220{}Author\\uc0\\u8217{}s Note:,\\uc0\\u8221{} n.d., n.See
+appendix comparison.&quot;,&quot;plainCitation&quot;:&quot;Darrell Wolfe,
+“Author’s Note:,” n.d., n.See appendix
+comparison.&quot;,&quot;dontUpdate&quot;:true,&quot;noteIndex&quot;:13},&quot;citationItems&quot;:[{&quot;id&quot;:1050,&quot;uris&quot;:[&quot;http://zotero.org/users/6953150/items/U7KLYHJD&quot;],&quot;itemData&quot;:{&quot;id&quot;:1050,&quot;type&quot;:&quot;document&quot;,&quot;title&quot;:&quot;Author's
+Note:&quot;,&quot;author&quot;:[{&quot;family&quot;:&quot;Wolfe&quot;,&quot;given&quot;:&quot;Darrell&quot;}]},&quot;locator&quot;:&quot;-See
+appendix
+comparison&quot;,&quot;label&quot;:&quot;note&quot;}],&quot;schema&quot;:&quot;https://github.com/citation-style-language/schema/raw/master/csl-citation.json&quot;}
+<span style='mso-element:field-separator'></span><![endif]-->Darrell Wolfe, “Author’s Note:,” n.See <a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_APPENDIX_%E2%80%93_COMPARING">appendix</a> comparison.<!--[if supportFields]><span
+style='mso-element:field-end'></span><![endif]--><o:p></o:p></p>
+
+</div>
+
+<div id="ftn14">
+
+<p class="MsoFootnoteText"><a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftnref14" name="_ftn14" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[14]</span></span><!--[endif]--></span></a>
+<!--[if supportFields]><span style='mso-element:field-begin'></span><span
+style='mso-spacerun:yes'> </span>ADDIN ZOTERO_ITEM CSL_CITATION
+{&quot;citationID&quot;:&quot;FckPLxOJ&quot;,&quot;properties&quot;:{&quot;formattedCitation&quot;:&quot;Gesenius
+et al., {\\i{}Abridged Brown-Driver-Briggs Hebrew-English Lexicon}, \\uc0\\u1497{}\\uc0\\u1456{}\\uc0\\u1512{}\\uc0\\u1460{}\\uc0\\u1497{}\\uc0\\u1506{}\\uc0\\u1464{}\\uc0\\u1492{}
+(y\\uc0\\u8217{}riyah).&quot;,&quot;plainCitation&quot;:&quot;Gesenius et al.,
+Abridged Brown-Driver-Briggs Hebrew-English Lexicon, <span lang=HE dir=RTL>יְרִיעָה</span><span
+dir=LTR></span><span dir=LTR></span><span dir=LTR></span><span dir=LTR></span>
+(y’riyah).&quot;,&quot;noteIndex&quot;:14},&quot;citationItems&quot;:[{&quot;id&quot;:51,&quot;uris&quot;:[&quot;http://zotero.org/users/6953150/items/AK8LUAP8&quot;],&quot;itemData&quot;:{&quot;id&quot;:51,&quot;type&quot;:&quot;book&quot;,&quot;abstract&quot;:&quot;Whitaker,
+R., Brown, F., Driver, S. R. (Samuel R., &amp; Briggs, C. A. (Charles A.
+(1906). The Abridged Brown-Driver-Briggs Hebrew-English Lexicon of the Old
+Testament: from A Hebrew and English Lexicon of the Old Testament by Francis
+Brown, S.R. Driver and Charles Briggs, based on the lexicon of Wilhelm
+Gesenius. Boston; New York: Houghton, Mifflin and
+Company.&quot;,&quot;archive&quot;:&quot;Logos Bible
+Software&quot;,&quot;event-place&quot;:&quot;Boston; New
+York&quot;,&quot;publisher&quot;:&quot;Houghton, Mifflin and Company&quot;,&quot;publisher-place&quot;:&quot;Boston;
+New York&quot;,&quot;title&quot;:&quot;The Abridged Brown-Driver-Briggs
+Hebrew-English Lexicon of the Old Testament: from A Hebrew and English Lexicon
+of the Old Testament.&quot;,&quot;title-short&quot;:&quot;Abridged
+Brown-Driver-Briggs Hebrew-English
+Lexicon&quot;,&quot;author&quot;:[{&quot;family&quot;:&quot;Gesenius&quot;,&quot;given&quot;:&quot;Wilhelm&quot;},{&quot;family&quot;:&quot;Briggs&quot;,&quot;given&quot;:&quot;Charles&quot;},{&quot;family&quot;:&quot;Driver&quot;,&quot;given&quot;:&quot;S.R.&quot;},{&quot;family&quot;:&quot;Brown&quot;,&quot;given&quot;:&quot;Francis&quot;}],&quot;issued&quot;:{&quot;date-parts&quot;:[[&quot;1906&quot;]]}},&quot;locator&quot;:&quot;<span
+lang=HE dir=RTL>יְרִיעָה</span><span dir=LTR></span><span dir=LTR></span><span
+dir=LTR></span><span dir=LTR></span>
+(y’riyah)&quot;,&quot;label&quot;:&quot;page&quot;}],&quot;schema&quot;:&quot;https://github.com/citation-style-language/schema/raw/master/csl-citation.json&quot;}
+<span style='mso-element:field-separator'></span><![endif]-->Gesenius et al., <i>Abridged
+Brown-Driver-Briggs Hebrew-English Lexicon</i>, <span dir="RTL" lang="HE">יְרִיעָה</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>
+(y’riyah).<!--[if supportFields]><span style='mso-element:field-end'></span><![endif]--><o:p></o:p></p>
+
+</div>
+
+<div id="ftn15">
+
+<p class="MsoFootnoteText"><a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftnref15" name="_ftn15" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[15]</span></span><!--[endif]--></span></a>
+<!--[if supportFields]><span style='mso-element:field-begin'></span><span
+style='mso-spacerun:yes'> </span>ADDIN ZOTERO_ITEM CSL_CITATION
+{&quot;citationID&quot;:&quot;LQfx5vzl&quot;,&quot;properties&quot;:{&quot;formattedCitation&quot;:&quot;Gesenius
+et al., {\\i{}Abridged Brown-Driver-Briggs Hebrew-English Lexicon}, n.
+\\uc0\\u1504{}\\uc0\\u1464{}\\uc0\\u1490{}\\uc0\\u1460{}\\uc0\\u1497{}\\uc0\\u1491{}
+n.m. leader (lit. prob. one in
+front).&quot;,&quot;plainCitation&quot;:&quot;Gesenius et al., Abridged
+Brown-Driver-Briggs Hebrew-English Lexicon, n. <span lang=HE dir=RTL>נָגִיד</span><span
+dir=LTR></span><span dir=LTR></span><span dir=LTR></span><span dir=LTR></span>
+n.m. leader (lit. prob. one in
+front).&quot;,&quot;noteIndex&quot;:15},&quot;citationItems&quot;:[{&quot;id&quot;:51,&quot;uris&quot;:[&quot;http://zotero.org/users/6953150/items/AK8LUAP8&quot;],&quot;itemData&quot;:{&quot;id&quot;:51,&quot;type&quot;:&quot;book&quot;,&quot;abstract&quot;:&quot;Whitaker,
+R., Brown, F., Driver, S. R. (Samuel R., &amp; Briggs, C. A. (Charles A.
+(1906). The Abridged Brown-Driver-Briggs Hebrew-English Lexicon of the Old
+Testament: from A Hebrew and English Lexicon of the Old Testament by Francis
+Brown, S.R. Driver and Charles Briggs, based on the lexicon of Wilhelm
+Gesenius. Boston; New York: Houghton, Mifflin and Company.&quot;,&quot;archive&quot;:&quot;Logos
+Bible Software&quot;,&quot;event-place&quot;:&quot;Boston; New
+York&quot;,&quot;publisher&quot;:&quot;Houghton, Mifflin and
+Company&quot;,&quot;publisher-place&quot;:&quot;Boston; New
+York&quot;,&quot;title&quot;:&quot;The Abridged Brown-Driver-Briggs
+Hebrew-English Lexicon of the Old Testament: from A Hebrew and English Lexicon
+of the Old Testament.&quot;,&quot;title-short&quot;:&quot;Abridged
+Brown-Driver-Briggs Hebrew-English
+Lexicon&quot;,&quot;author&quot;:[{&quot;family&quot;:&quot;Gesenius&quot;,&quot;given&quot;:&quot;Wilhelm&quot;},{&quot;family&quot;:&quot;Briggs&quot;,&quot;given&quot;:&quot;Charles&quot;},{&quot;family&quot;:&quot;Driver&quot;,&quot;given&quot;:&quot;S.R.&quot;},{&quot;family&quot;:&quot;Brown&quot;,&quot;given&quot;:&quot;Francis&quot;}],&quot;issued&quot;:{&quot;date-parts&quot;:[[&quot;1906&quot;]]}},&quot;locator&quot;:&quot;<span
+lang=HE dir=RTL>נָגִיד</span><span dir=LTR></span><span dir=LTR></span><span
+dir=LTR></span><span dir=LTR></span> n.m. leader (lit. prob. one in
+front)&quot;,&quot;label&quot;:&quot;note&quot;}],&quot;schema&quot;:&quot;https://github.com/citation-style-language/schema/raw/master/csl-citation.json&quot;}
+<span style='mso-element:field-separator'></span><![endif]-->Gesenius et al., <i>Abridged
+Brown-Driver-Briggs Hebrew-English Lexicon</i>, n. <span dir="RTL" lang="HE">נָגִיד</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>
+n.m. leader (lit. prob. one in front).<!--[if supportFields]><span
+style='mso-element:field-end'></span><![endif]--><o:p></o:p></p>
+
+</div>
+
+<div id="ftn16">
+
+<p class="MsoFootnoteText"><a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftnref16" name="_ftn16" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[16]</span></span><!--[endif]--></span></a>
+<!--[if supportFields]><span style='mso-element:field-begin'></span><span
+style='mso-spacerun:yes'> </span>ADDIN ZOTERO_ITEM CSL_CITATION
+{&quot;citationID&quot;:&quot;17McpsKS&quot;,&quot;properties&quot;:{&quot;formattedCitation&quot;:&quot;Wolfe,
+\\uc0\\u8220{}Author\\uc0\\u8217{}s Note:,\\uc0\\u8221{} n.attempted translation
+my own.&quot;,&quot;plainCitation&quot;:&quot;Wolfe, “Author’s Note:,”
+n.attempted translation my
+own.&quot;,&quot;noteIndex&quot;:16},&quot;citationItems&quot;:[{&quot;id&quot;:1050,&quot;uris&quot;:[&quot;http://zotero.org/users/6953150/items/U7KLYHJD&quot;],&quot;itemData&quot;:{&quot;id&quot;:1050,&quot;type&quot;:&quot;document&quot;,&quot;title&quot;:&quot;Author's
+Note:&quot;,&quot;author&quot;:[{&quot;family&quot;:&quot;Wolfe&quot;,&quot;given&quot;:&quot;Darrell&quot;}]},&quot;locator&quot;:&quot;attempted
+translation my
+own.&quot;,&quot;label&quot;:&quot;note&quot;}],&quot;schema&quot;:&quot;https://github.com/citation-style-language/schema/raw/master/csl-citation.json&quot;}
+<span style='mso-element:field-separator'></span><![endif]-->Wolfe, “Author’s Note:,” n.attempted
+translation my own.<!--[if supportFields]><span style='mso-element:field-end'></span><![endif]--><o:p></o:p></p>
+
+</div>
+
+<div id="ftn17">
+
+<p class="MsoFootnoteText"><a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftnref17" name="_ftn17" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[17]</span></span><!--[endif]--></span></a>
+<!--[if supportFields]><span style='mso-element:field-begin'></span><span
+style='mso-spacerun:yes'> </span>ADDIN ZOTERO_ITEM CSL_CITATION
+{&quot;citationID&quot;:&quot;tWLJP7O0&quot;,&quot;properties&quot;:{&quot;formattedCitation&quot;:&quot;Michael
+Rydelnik, {\\i{}The Moody Handbook of Messianic Prophecy: Studies and Expositions
+of the Messiah in the Hebrew Bible} (Chicago: Moody Publishers, 2019), n. p
+901; Eva Rydelnik, \\uc0\\u8220{}Isaiah 32:1\\uc0\\u8211{}8;
+33:17\\uc0\\u8211{}24: The Righteous and Majestic
+King,\\uc0\\u8221{}.&quot;,&quot;plainCitation&quot;:&quot;Michael Rydelnik,
+The Moody Handbook of Messianic Prophecy: Studies and Expositions of the
+Messiah in the Hebrew Bible (Chicago: Moody Publishers, 2019), n. p 901; Eva
+Rydelnik, “Isaiah 32:1–8; 33:17–24: The Righteous and Majestic
+King,”.&quot;,&quot;noteIndex&quot;:17},&quot;citationItems&quot;:[{&quot;id&quot;:2406,&quot;uris&quot;:[&quot;http://zotero.org/users/6953150/items/QFZY9IH9&quot;],&quot;itemData&quot;:{&quot;id&quot;:2406,&quot;type&quot;:&quot;book&quot;,&quot;event-place&quot;:&quot;Chicago&quot;,&quot;ISBN&quot;:&quot;978-0-8024-0963-8&quot;,&quot;language&quot;:&quot;eng&quot;,&quot;number-of-pages&quot;:&quot;1&quot;,&quot;publisher&quot;:&quot;Moody
+Publishers&quot;,&quot;publisher-place&quot;:&quot;Chicago&quot;,&quot;source&quot;:&quot;K10plus
+ISBN&quot;,&quot;title&quot;:&quot;The Moody Handbook of Messianic Prophecy:
+Studies and Expositions of the Messiah in the Hebrew
+Bible&quot;,&quot;title-short&quot;:&quot;The Moody Handbook of Messianic
+Prophecy&quot;,&quot;author&quot;:[{&quot;family&quot;:&quot;Rydelnik&quot;,&quot;given&quot;:&quot;Michael&quot;}],&quot;contributor&quot;:[{&quot;family&quot;:&quot;Blum&quot;,&quot;given&quot;:&quot;Edwin&quot;}],&quot;issued&quot;:{&quot;date-parts&quot;:[[&quot;2019&quot;]]}},&quot;locator&quot;:&quot;p
+901; Eva Rydelnik, “Isaiah 32:1–8; 33:17–24: The Righteous and Majestic
+King,”&quot;,&quot;label&quot;:&quot;note&quot;}],&quot;schema&quot;:&quot;https://github.com/citation-style-language/schema/raw/master/csl-citation.json&quot;}
+<span style='mso-element:field-separator'></span><![endif]-->Michael Rydelnik, <i>The Moody Handbook
+of Messianic Prophecy: Studies and Expositions of the Messiah in the Hebrew
+Bible</i> (Chicago: Moody Publishers, 2019), n. p 901; Eva Rydelnik, “Isaiah
+32:1–8; 33:17–24: The Righteous and Majestic King,”.<!--[if supportFields]><span
+style='mso-element:field-end'></span><![endif]--><o:p></o:p></p>
+
+</div>
+
+<div id="ftn18">
+
+<p class="MsoFootnoteText"><a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftnref18" name="_ftn18" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[18]</span></span><!--[endif]--></span></a>
+<!--[if supportFields]><span style='mso-element:field-begin'></span><span
+style='mso-spacerun:yes'> </span>ADDIN ZOTERO_ITEM CSL_CITATION
+{&quot;citationID&quot;:&quot;3s9ovE7r&quot;,&quot;properties&quot;:{&quot;formattedCitation&quot;:&quot;Douglas
+Mangum et al., eds., {\\i{}The Lexham Theological Wordbook} (Bellingham, WA:
+Lexham Press, 2014), n. J. A. McGuire-Moushon and Rachel Klippenstein,
+\\uc0\\u8220{}Eternity,\\uc0\\u8221{}
+https://ref.ly/logosres/lxtheowrdbk?art=art336.&quot;,&quot;plainCitation&quot;:&quot;Douglas
+Mangum et al., eds., The Lexham Theological Wordbook (Bellingham, WA: Lexham
+Press, 2014), n. J. A. McGuire-Moushon and Rachel Klippenstein, “Eternity,”
+https://ref.ly/logosres/lxtheowrdbk?art=art336.&quot;,&quot;noteIndex&quot;:18},&quot;citationItems&quot;:[{&quot;id&quot;:2410,&quot;uris&quot;:[&quot;http://zotero.org/users/6953150/items/LA66TKST&quot;],&quot;itemData&quot;:{&quot;id&quot;:2410,&quot;type&quot;:&quot;book&quot;,&quot;abstract&quot;:&quot;Douglas
+Mangum et al., eds., in Lexham Theological Wordbook (Bellingham, WA: Lexham
+Press, 2014).&quot;,&quot;event-place&quot;:&quot;Bellingham,
+WA&quot;,&quot;publisher&quot;:&quot;Lexham Press&quot;,&quot;publisher-place&quot;:&quot;Bellingham,
+WA&quot;,&quot;title&quot;:&quot;The Lexham Theological
+Wordbook&quot;,&quot;URL&quot;:&quot;https://ref.ly/logosres/lxtheowrdbk?art=art336&quot;,&quot;editor&quot;:[{&quot;literal&quot;:&quot;Douglas
+Mangum&quot;},{&quot;literal&quot;:&quot;Derek R
+Brown&quot;},{&quot;literal&quot;:&quot;Rachel
+Klippenstein&quot;},{&quot;literal&quot;:&quot;Rebekah
+Hurst&quot;}],&quot;issued&quot;:{&quot;date-parts&quot;:[[&quot;2014&quot;]]}},&quot;locator&quot;:&quot;J.
+A. McGuire-Moushon and Rachel Klippenstein,
+“Eternity,”&quot;,&quot;label&quot;:&quot;note&quot;}],&quot;schema&quot;:&quot;https://github.com/citation-style-language/schema/raw/master/csl-citation.json&quot;}
+<span style='mso-element:field-separator'></span><![endif]-->Douglas Mangum et al., eds., <i>The
+Lexham Theological Wordbook</i> (Bellingham, WA: Lexham Press, 2014), n. J. A.
+McGuire-Moushon and Rachel Klippenstein, “Eternity,”
+https://ref.ly/logosres/lxtheowrdbk?art=art336.<!--[if supportFields]><span
+style='mso-element:field-end'></span><![endif]--><o:p></o:p></p>
+
+</div>
+
+<div id="ftn19">
+
+<p class="MsoFootnoteText"><a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftnref19" name="_ftn19" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[19]</span></span><!--[endif]--></span></a>
+<!--[if supportFields]><span style='mso-element:field-begin'></span><span
+style='mso-spacerun:yes'> </span>ADDIN ZOTERO_ITEM CSL_CITATION
+{&quot;citationID&quot;:&quot;yEUb9Kjt&quot;,&quot;properties&quot;:{&quot;formattedCitation&quot;:&quot;Ackroyd,
+{\\i{}The Second Book of Samuel}, 72\\uc0\\u8211{}79.&quot;,&quot;plainCitation&quot;:&quot;Ackroyd,
+The Second Book of Samuel,
+72–79.&quot;,&quot;noteIndex&quot;:19},&quot;citationItems&quot;:[{&quot;id&quot;:2309,&quot;uris&quot;:[&quot;http://zotero.org/users/6953150/items/IZEMC6XQ&quot;],&quot;itemData&quot;:{&quot;id&quot;:2309,&quot;type&quot;:&quot;book&quot;,&quot;collection-title&quot;:&quot;The
+Cambridge Bible
+Commentary&quot;,&quot;number-of-pages&quot;:&quot;72-79&quot;,&quot;publisher&quot;:&quot;Cambridge
+University Press&quot;,&quot;title&quot;:&quot;The Second Book of
+Samuel&quot;,&quot;author&quot;:[{&quot;family&quot;:&quot;Ackroyd&quot;,&quot;given&quot;:&quot;Peter
+A.&quot;}],&quot;issued&quot;:{&quot;date-parts&quot;:[[&quot;1977&quot;]]}},&quot;locator&quot;:&quot;72-79&quot;,&quot;label&quot;:&quot;page&quot;}],&quot;schema&quot;:&quot;https://github.com/citation-style-language/schema/raw/master/csl-citation.json&quot;}
+<span style='mso-element:field-separator'></span><![endif]-->Ackroyd, <i>The Second Book of Samuel</i>,
+72–79.<!--[if supportFields]><span style='mso-element:field-end'></span><![endif]--><o:p></o:p></p>
+
+</div>
+
+<div id="ftn20">
+
+<p class="MsoFootnoteText"><a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftnref20" name="_ftn20" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[20]</span></span><!--[endif]--></span></a>
+<!--[if supportFields]><span style='mso-element:field-begin'></span><span
+style='mso-spacerun:yes'> </span>ADDIN ZOTERO_ITEM CSL_CITATION
+{&quot;citationID&quot;:&quot;KZgWZnO5&quot;,&quot;properties&quot;:{&quot;formattedCitation&quot;:&quot;Doug
+Burleson, \\uc0\\u8220{}God\\uc0\\u8217{}s Heart Establishes (2 Sam. 7:12,
+16)\\uc0\\u8221{} (n.d.),
+https://www.academia.edu/15408955/Gods_Heart_Establishes_2_Sam_7_12_16_.&quot;,&quot;plainCitation&quot;:&quot;Doug
+Burleson, “God’s Heart Establishes (2 Sam. 7:12, 16)” (n.d.),
+https://www.academia.edu/15408955/Gods_Heart_Establishes_2_Sam_7_12_16_.&quot;,&quot;noteIndex&quot;:20},&quot;citationItems&quot;:[{&quot;id&quot;:2411,&quot;uris&quot;:[&quot;http://zotero.org/users/6953150/items/BKQ3XNFT&quot;],&quot;itemData&quot;:{&quot;id&quot;:2411,&quot;type&quot;:&quot;article-journal&quot;,&quot;abstract&quot;:&quot;As
+God through Nathan addressed David in 2 Sam. 7 the divine Father shows why he
+is the true and better King. He had already established David as king and now
+was prepared to initiate a world-changing promise. As compared to the hearts of
+the
+mortal&quot;,&quot;language&quot;:&quot;en&quot;,&quot;source&quot;:&quot;www.academia.edu&quot;,&quot;title&quot;:&quot;God's
+Heart Establishes (2 Sam. 7:12, 16)&quot;,&quot;title-short&quot;:&quot;God's
+Heart Establishes (2 Sam. 7:12,
+16)&quot;,&quot;URL&quot;:&quot;https://www.academia.edu/15408955/Gods_Heart_Establishes_2_Sam_7_12_16_&quot;,&quot;author&quot;:[{&quot;family&quot;:&quot;Burleson&quot;,&quot;given&quot;:&quot;Doug&quot;}],&quot;accessed&quot;:{&quot;date-parts&quot;:[[&quot;2024&quot;,11,17]]}}}],&quot;schema&quot;:&quot;https://github.com/citation-style-language/schema/raw/master/csl-citation.json&quot;}
+<span style='mso-element:field-separator'></span><![endif]-->Doug Burleson, “God’s Heart Establishes
+(2 Sam. 7:12, 16)” (n.d.),
+https://www.academia.edu/15408955/Gods_Heart_Establishes_2_Sam_7_12_16_.<!--[if supportFields]><span
+style='mso-element:field-end'></span><![endif]--><o:p></o:p></p>
+
+</div>
+
+<div id="ftn21">
+
+<p class="MsoFootnoteText"><a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftnref21" name="_ftn21" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[21]</span></span><!--[endif]--></span></a>
+<!--[if supportFields]><span style='mso-element:field-begin'></span><span
+style='mso-spacerun:yes'> </span>ADDIN ZOTERO_ITEM CSL_CITATION
+{&quot;citationID&quot;:&quot;PXHQHH1f&quot;,&quot;properties&quot;:{&quot;formattedCitation&quot;:&quot;Michael
+Heiser, {\\i{}The Unseen Realm: Recovering the Supernatural Worldview of the
+Bible}, First edition. (Bellingham, WA: Lexham Press, 2015), 29; \&quot;Psalm
+89:5\\uc0\\u8211{}7 (Hebrew: vv. 6\\uc0\\u8211{}8) explicitly contradicts the
+notion of a divine council in which the elohim are
+humans.\&quot;.&quot;,&quot;plainCitation&quot;:&quot;Michael Heiser, The
+Unseen Realm: Recovering the Supernatural Worldview of the Bible, First
+edition. (Bellingham, WA: Lexham Press, 2015), 29; \&quot;Psalm 89:5–7 (Hebrew:
+vv. 6–8) explicitly contradicts the notion of a divine council in which the
+elohim are
+humans.\&quot;.&quot;,&quot;noteIndex&quot;:21},&quot;citationItems&quot;:[{&quot;id&quot;:20,&quot;uris&quot;:[&quot;http://zotero.org/users/6953150/items/7SP8XMJB&quot;],&quot;itemData&quot;:{&quot;id&quot;:20,&quot;type&quot;:&quot;book&quot;,&quot;call-number&quot;:&quot;BS680.S86
+H45 2015&quot;,&quot;edition&quot;:&quot;First edition&quot;,&quot;event-place&quot;:&quot;Bellingham,
+WA&quot;,&quot;ISBN&quot;:&quot;978-1-57799-556-2&quot;,&quot;note&quot;:&quot;OCLC:
+ocn907177749&quot;,&quot;number-of-pages&quot;:&quot;413&quot;,&quot;publisher&quot;:&quot;Lexham
+Press&quot;,&quot;publisher-place&quot;:&quot;Bellingham,
+WA&quot;,&quot;source&quot;:&quot;Library of Congress
+ISBN&quot;,&quot;title&quot;:&quot;The unseen realm: recovering the
+supernatural worldview of the Bible&quot;,&quot;title-short&quot;:&quot;The
+unseen realm&quot;,&quot;author&quot;:[{&quot;family&quot;:&quot;Heiser&quot;,&quot;given&quot;:&quot;Michael&quot;}],&quot;issued&quot;:{&quot;date-parts&quot;:[[&quot;2015&quot;]]}},&quot;locator&quot;:&quot;29;
+\&quot;Psalm 89:5–7 (Hebrew: vv. 6–8) explicitly contradicts the notion of a divine
+council in which the elohim are
+humans.\&quot;&quot;,&quot;label&quot;:&quot;page&quot;}],&quot;schema&quot;:&quot;https://github.com/citation-style-language/schema/raw/master/csl-citation.json&quot;}
+<span style='mso-element:field-separator'></span><![endif]-->Michael Heiser, <i>The Unseen Realm:
+Recovering the Supernatural Worldview of the Bible</i>, First edition.
+(Bellingham, WA: Lexham Press, 2015), 29; "Psalm 89:5–7 (Hebrew: vv. 6–8)
+explicitly contradicts the notion of a divine council in which the elohim are
+humans.".<!--[if supportFields]><span style='mso-element:field-end'></span><![endif]--><o:p></o:p></p>
+
+</div>
+
+<div id="ftn22">
+
+<p class="MsoFootnoteText"><a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftnref22" name="_ftn22" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[22]</span></span><!--[endif]--></span></a>
+<!--[if supportFields]><span style='mso-element:field-begin'></span><span
+style='mso-spacerun:yes'> </span>ADDIN ZOTERO_ITEM CSL_CITATION
+{&quot;citationID&quot;:&quot;wOekw763&quot;,&quot;properties&quot;:{&quot;formattedCitation&quot;:&quot;Wolfe,
+\\uc0\\u8220{}Author\\uc0\\u8217{}s Note:,\\uc0\\u8221{} n.Ethan the Ezrahite
+who is among the wise men compared to Solmon (David\\uc0\\u8217{}s offspring
+who ended up building the \\uc0\\u8220{}house\\uc0\\u8221{} of Yahweh) (1 Kings
+4:31). LBD says that Ezrahite is a likely a title, but the meaning is unknown.<span
+style='mso-spacerun:yes'>  </span>However, both the individuals, Heman (Ps 88)
+and Ethan (Ps 89) who were given this title were sons of Zerah (the son of
+Tamar) (1 Chr. 2:4-6).<span style='mso-spacerun:yes'>  </span>It is likely that
+Ezrahite
+(\\uc0\\u1488{}\\uc0\\u1462{}\\uc0\\u1494{}\\uc0\\u1456{}\\uc0\\u1512{}\\uc0\\u1464{}\\uc0\\u1495{}\\uc0\\u1460{}\\uc0\\u1497{},
+ez\\uc0\\u8217{}rachi) is a derivative family name for those who came from of
+Zerah
+(\\uc0\\u1494{}\\uc0\\u1462{}\\uc0\\u1431{}\\uc0\\u1512{}\\uc0\\u1463{}\\uc0\\u1495{},
+zerah) for which the ABDB agrees.<span style='mso-spacerun:yes'>  </span>This
+would indicate that either these attributions are to later offspring of this
+line by the same name, or more likely that they are pseudepigraphal writings
+attempting to pull the ancient contexts of Yisrael\\uc0\\u8217{}s history into
+the current calamity.&quot;,&quot;plainCitation&quot;:&quot;Wolfe, “Author’s
+Note:,” n.Ethan the Ezrahite who is among the wise men compared to Solmon
+(David’s offspring who ended up building the “house” of Yahweh) (1 Kings 4:31).
+LBD says that Ezrahite is a likely a title, but the meaning is unknown.<span
+style='mso-spacerun:yes'>  </span>However, both the individuals, Heman (Ps 88)
+and Ethan (Ps 89) who were given this title were sons of Zerah (the son of
+Tamar) (1 Chr. 2:4-6).<span style='mso-spacerun:yes'>  </span>It is likely that
+Ezrahite (<span lang=HE dir=RTL>אֶזְרָחִי</span><span dir=LTR></span><span
+dir=LTR></span><span dir=LTR></span><span dir=LTR></span>, ez’rachi) is a
+derivative family name for those who came from of Zerah (<span lang=HE dir=RTL>זֶ֗רַח</span><span
+dir=LTR></span><span dir=LTR></span><span dir=LTR></span><span dir=LTR></span>,
+zerah) for which the ABDB agrees.<span style='mso-spacerun:yes'>  </span>This
+would indicate that either these attributions are to later offspring of this
+line by the same name, or more likely that they are pseudepigraphal writings
+attempting to pull the ancient contexts of Yisrael’s history into the current
+calamity.&quot;,&quot;noteIndex&quot;:22},&quot;citationItems&quot;:[{&quot;id&quot;:1050,&quot;uris&quot;:[&quot;http://zotero.org/users/6953150/items/U7KLYHJD&quot;],&quot;itemData&quot;:{&quot;id&quot;:1050,&quot;type&quot;:&quot;document&quot;,&quot;title&quot;:&quot;Author's
+Note:&quot;,&quot;author&quot;:[{&quot;family&quot;:&quot;Wolfe&quot;,&quot;given&quot;:&quot;Darrell&quot;}]},&quot;locator&quot;:&quot;<span
+style='mso-spacerun:yes'>  </span>Ethan the Ezrahite who is among the wise men
+compared to Solmon (David’s offspring who ended up building the “house” of
+Yahweh) (1 Kings 4:31). LBD says that Ezrahite is a likely a title, but the
+meaning is unknown.<span style='mso-spacerun:yes'>  </span>However, both the
+individuals, Heman (Ps 88) and Ethan (Ps 89) who were given this title were
+sons of Zerah (the son of Tamar) (1 Chr. 2:4-6).<span
+style='mso-spacerun:yes'>  </span>It is likely that Ezrahite (<span lang=HE
+dir=RTL>אֶזְרָחִי</span><span dir=LTR></span><span dir=LTR></span><span
+dir=LTR></span><span dir=LTR></span>, ez’rachi) is a derivative family name for
+those who came from of Zerah (<span lang=HE dir=RTL>זֶ֗רַח</span><span dir=LTR></span><span
+dir=LTR></span><span dir=LTR></span><span dir=LTR></span>, zerah) for which the
+ABDB agrees.<span style='mso-spacerun:yes'>  </span>This would indicate that
+either these attributions are to later offspring of this line by the same name,
+or more likely that they are pseudepigraphal writings attempting to pull the
+ancient contexts of Yisrael’s history into the current
+calamity.&quot;,&quot;label&quot;:&quot;note&quot;}],&quot;schema&quot;:&quot;https://github.com/citation-style-language/schema/raw/master/csl-citation.json&quot;}
+<span style='mso-element:field-separator'></span><![endif]-->Wolfe, “Author’s Note:,” n.Ethan the
+Ezrahite who is among the wise men compared to Solmon (David’s offspring who
+ended up building the “house” of Yahweh) (1 Kings 4:31). LBD says that Ezrahite
+is a likely a title, but the meaning is unknown.&nbsp; However, both the individuals, Heman (Ps 88)
+and Ethan (Ps 89) who were given this title were sons of Zerah (the son of
+Tamar) (1 Chr. 2:4-6).&nbsp; It is likely that
+Ezrahite (<span dir="RTL" lang="HE">אֶזְרָחִי</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>, ez’rachi) is a
+derivative family name for those who came from of Zerah (<span dir="RTL" lang="HE">זֶ֗רַח</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>,
+zerah) for which the ABDB agrees.&nbsp; This
+would indicate that either these attributions are to later offspring of this
+line by the same name, or more likely that they are pseudepigraphal writings
+attempting to pull the ancient contexts of Yisrael’s history into the current
+calamity.<!--[if supportFields]><span style='mso-element:field-end'></span><![endif]--><o:p></o:p></p>
+
+</div>
+
+<div id="ftn23">
+
+<p class="MsoFootnoteText"><a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftnref23" name="_ftn23" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[23]</span></span><!--[endif]--></span></a>
+<!--[if supportFields]><span style='mso-element:field-begin'></span><span
+style='mso-spacerun:yes'> </span>ADDIN ZOTERO_ITEM CSL_CITATION
+{&quot;citationID&quot;:&quot;52yZtFUz&quot;,&quot;properties&quot;:{&quot;formattedCitation&quot;:&quot;Dominique
+DuBois Gilliard and Mark Labberton, {\\i{}Subversive Witness: Scripture\\uc0\\u8217{}s
+Call to Leverage Privilege} (Grand Rapids, UNITED STATES: Zondervan, 2021),
+22\\uc0\\u8211{}23,
+http://ebookcentral.proquest.com/lib/fuller/detail.action?docID=6666663.&quot;,&quot;plainCitation&quot;:&quot;Dominique
+DuBois Gilliard and Mark Labberton, Subversive Witness: Scripture’s Call to
+Leverage Privilege (Grand Rapids, UNITED STATES: Zondervan, 2021), 22–23,
+http://ebookcentral.proquest.com/lib/fuller/detail.action?docID=6666663.&quot;,&quot;noteIndex&quot;:23},&quot;citationItems&quot;:[{&quot;id&quot;:2413,&quot;uris&quot;:[&quot;http://zotero.org/users/6953150/items/H8JJ8TLF&quot;],&quot;itemData&quot;:{&quot;id&quot;:2413,&quot;type&quot;:&quot;book&quot;,&quot;abstract&quot;:&quot;Learn
+to leverage privilege. Privilege is a social consequence of our unwillingness
+to reckon with and turn from sin. But properly stewarded, it can help us see
+and participate in God's inbreaking kingdom. Scripture repeatedly affirms that
+privilege is real and declares that, rather than exploiting it for selfish gain
+or feeling immobilized by it, Christians have a responsibility to leverage it.
+Subversive Witness asks us to grapple with privilege, indifference, and
+systemic sin in new ways by using biblical examples to reveal the complex
+nature of privilege and Christians' responsibility in stewarding it well.
+Dominique DuBois Gilliard highlights several people in the Bible who understood
+this kingdom call. Through their stories, you will discover how to leverage privilege
+to: Resist Sin Stand in Solidarity with the Oppressed Birth Liberation Create
+Systemic Change Proclaim the Good News Generate Social Transformation By
+embodying Scripture's subversive call to leverage--and at times
+forsake--privilege, readers will learn to love their neighbors sacrificially,
+enact systemic change, and grow more Christlike as citizens of God's
+kingdom.&quot;,&quot;event-place&quot;:&quot;Grand Rapids, UNITED
+STATES&quot;,&quot;ISBN&quot;:&quot;978-0-310-12404-7&quot;,&quot;publisher&quot;:&quot;Zondervan&quot;,&quot;publisher-place&quot;:&quot;Grand
+Rapids, UNITED STATES&quot;,&quot;source&quot;:&quot;ProQuest Ebook
+Central&quot;,&quot;title&quot;:&quot;Subversive Witness: Scripture's Call to
+Leverage Privilege&quot;,&quot;title-short&quot;:&quot;Subversive
+Witness&quot;,&quot;URL&quot;:&quot;http://ebookcentral.proquest.com/lib/fuller/detail.action?docID=6666663&quot;,&quot;author&quot;:[{&quot;family&quot;:&quot;Gilliard&quot;,&quot;given&quot;:&quot;Dominique
+DuBois&quot;},{&quot;family&quot;:&quot;Labberton&quot;,&quot;given&quot;:&quot;Mark&quot;}],&quot;accessed&quot;:{&quot;date-parts&quot;:[[&quot;2024&quot;,11,17]]},&quot;issued&quot;:{&quot;date-parts&quot;:[[&quot;2021&quot;]]}},&quot;locator&quot;:&quot;22-23&quot;,&quot;label&quot;:&quot;page&quot;}],&quot;schema&quot;:&quot;https://github.com/citation-style-language/schema/raw/master/csl-citation.json&quot;}
+<span style='mso-element:field-separator'></span><![endif]-->Dominique DuBois Gilliard and Mark
+Labberton, <i>Subversive Witness: Scripture’s Call to Leverage Privilege</i>
+(Grand Rapids, UNITED STATES: Zondervan, 2021), 22–23,
+http://ebookcentral.proquest.com/lib/fuller/detail.action?docID=6666663.<!--[if supportFields]><span
+style='mso-element:field-end'></span><![endif]--><o:p></o:p></p>
+
+</div>
+
+<div id="ftn24">
+
+<p class="MsoFootnoteText"><a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftnref24" name="_ftn24" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[24]</span></span><!--[endif]--></span></a>
+<!--[if supportFields]><span style='mso-element:field-begin'></span><span
+style='mso-spacerun:yes'> </span>ADDIN ZOTERO_ITEM CSL_CITATION
+{&quot;citationID&quot;:&quot;HRi9TpUU&quot;,&quot;properties&quot;:{&quot;formattedCitation&quot;:&quot;{\\i{}Common
+English Bible: A Fresh Translation to Touch the Heart and Mind} (Nashville, TN:
+Common English Bible, 2011).&quot;,&quot;plainCitation&quot;:&quot;Common
+English Bible: A Fresh Translation to Touch the Heart and Mind (Nashville, TN:
+Common English Bible,
+2011).&quot;,&quot;noteIndex&quot;:24},&quot;citationItems&quot;:[{&quot;id&quot;:2300,&quot;uris&quot;:[&quot;http://zotero.org/users/6953150/items/ZRCZP44D&quot;],&quot;itemData&quot;:{&quot;id&quot;:2300,&quot;type&quot;:&quot;book&quot;,&quot;call-number&quot;:&quot;BS195
+.C58 2011d&quot;,&quot;event-place&quot;:&quot;Nashville,
+TN&quot;,&quot;ISBN&quot;:&quot;978-1-60926-011-8&quot;,&quot;number-of-pages&quot;:&quot;906&quot;,&quot;publisher&quot;:&quot;Common
+English Bible&quot;,&quot;publisher-place&quot;:&quot;Nashville, TN&quot;,&quot;source&quot;:&quot;Library
+of Congress ISBN&quot;,&quot;title&quot;:&quot;Common English Bible: a fresh
+translation to touch the heart and
+mind&quot;,&quot;title-short&quot;:&quot;Common English Bible
+(CEB)&quot;,&quot;issued&quot;:{&quot;date-parts&quot;:[[&quot;2011&quot;]]}}}],&quot;schema&quot;:&quot;https://github.com/citation-style-language/schema/raw/master/csl-citation.json&quot;}
+<span style='mso-element:field-separator'></span><![endif]--><i>Common English Bible: A Fresh
+Translation to Touch the Heart and Mind</i> (Nashville, TN: Common English Bible, 2011).<!--[if supportFields]><span
+style='mso-element:field-end'></span><![endif]--><o:p></o:p></p>
+
+</div>
+
+<div id="ftn25">
+
+<p class="MsoFootnoteText"><a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftnref25" name="_ftn25" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[25]</span></span><!--[endif]--></span></a>
+<!--[if supportFields]><span style='mso-element:field-begin'></span><span
+style='mso-spacerun:yes'> </span>ADDIN ZOTERO_ITEM CSL_CITATION
+{&quot;citationID&quot;:&quot;z7KcxonT&quot;,&quot;properties&quot;:{&quot;formattedCitation&quot;:&quot;{\\i{}LEB}.&quot;,&quot;plainCitation&quot;:&quot;LEB.&quot;,&quot;noteIndex&quot;:25},&quot;citationItems&quot;:[{&quot;id&quot;:49,&quot;uris&quot;:[&quot;http://zotero.org/users/6953150/items/2TDD6GYW&quot;],&quot;itemData&quot;:{&quot;id&quot;:49,&quot;type&quot;:&quot;book&quot;,&quot;collection-title&quot;:&quot;Harris,
+W. H., III, Ritzema, E., Brannan, R., Mangum, D., Dunham, J., Reimer, J. A.,
+&amp; Wierenga, M. (Eds.)&quot;,&quot;edition&quot;:&quot;Logo Bible
+Software&quot;,&quot;event-place&quot;:&quot;Bellingham,
+WA&quot;,&quot;publisher&quot;:&quot;Lexham Press&quot;,&quot;publisher-place&quot;:&quot;Bellingham,
+WA&quot;,&quot;source&quot;:&quot;Logo Bible
+Software&quot;,&quot;title&quot;:&quot;The Lexham English Bible (LEB), Fourth
+Edition&quot;,&quot;title-short&quot;:&quot;LEB&quot;,&quot;URL&quot;:&quot;http://www.lexhampress.com&quot;,&quot;issued&quot;:{&quot;date-parts&quot;:[[&quot;2010&quot;]],&quot;season&quot;:&quot;Copyright<span
+style='mso-spacerun:yes'>  </span>, 2012, 2013 Lexham
+Press&quot;}}}],&quot;schema&quot;:&quot;https://github.com/citation-style-language/schema/raw/master/csl-citation.json&quot;}
+<span style='mso-element:field-separator'></span><![endif]--><i>LEB</i>.<!--[if supportFields]><span style='mso-element:
+field-end'></span><![endif]--><o:p></o:p></p>
+
+</div>
+
+<div id="ftn26">
+
+<p class="MsoFootnoteText"><a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftnref26" name="_ftn26" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[26]</span></span><!--[endif]--></span></a>
+<!--[if supportFields]><span style='mso-element:field-begin'></span><span
+style='mso-spacerun:yes'> </span>ADDIN ZOTERO_ITEM CSL_CITATION
+{&quot;citationID&quot;:&quot;VA9wS9Ex&quot;,&quot;properties&quot;:{&quot;formattedCitation&quot;:&quot;{\\i{}New
+English Translation (The NET Bible)}, Second Edition, Full Notes. (Denmark:
+Biblical Studies Press, Thomas Nelson,
+2019).&quot;,&quot;plainCitation&quot;:&quot;New English Translation (The NET
+Bible), Second Edition, Full Notes. (Denmark: Biblical Studies Press, Thomas
+Nelson, 2019).&quot;,&quot;noteIndex&quot;:26},&quot;citationItems&quot;:[{&quot;id&quot;:2304,&quot;uris&quot;:[&quot;http://zotero.org/users/6953150/items/NM7IY7KC&quot;],&quot;itemData&quot;:{&quot;id&quot;:2304,&quot;type&quot;:&quot;book&quot;,&quot;edition&quot;:&quot;Second
+Edition, Full
+Notes&quot;,&quot;event-place&quot;:&quot;Denmark&quot;,&quot;language&quot;:&quot;En&quot;,&quot;publisher&quot;:&quot;Biblical
+Studies Press, Thomas
+Nelson&quot;,&quot;publisher-place&quot;:&quot;Denmark&quot;,&quot;title&quot;:&quot;New
+English Translation (The NET Bible)&quot;,&quot;title-short&quot;:&quot;NET
+Bible&quot;,&quot;issued&quot;:{&quot;date-parts&quot;:[[&quot;2019&quot;]]}}}],&quot;schema&quot;:&quot;https://github.com/citation-style-language/schema/raw/master/csl-citation.json&quot;}
+<span style='mso-element:field-separator'></span><![endif]--><i>New English Translation (The NET Bible)</i>, Second Edition, Full Notes. (Denmark:
+Biblical Studies Press, Thomas Nelson, 2019).<!--[if supportFields]><span
+style='mso-element:field-end'></span><![endif]--><o:p></o:p></p>
+
+</div>
+
+<div id="ftn27">
+
+<p class="MsoFootnoteText"><a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftnref27" name="_ftn27" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[27]</span></span><!--[endif]--></span></a>
+<!--[if supportFields]><span style='mso-element:field-begin'></span><span
+style='mso-spacerun:yes'> </span>ADDIN ZOTERO_ITEM CSL_CITATION
+{&quot;citationID&quot;:&quot;ppmFwcEN&quot;,&quot;properties&quot;:{&quot;formattedCitation&quot;:&quot;{\\i{}The
+Holy Bible: English Standard Version (ESV)} (Wheaton, Illinois: Crossway
+Bibles, 2016).&quot;,&quot;plainCitation&quot;:&quot;The Holy Bible: English
+Standard Version (ESV) (Wheaton, Illinois: Crossway Bibles,
+2016).&quot;,&quot;noteIndex&quot;:27},&quot;citationItems&quot;:[{&quot;id&quot;:2301,&quot;uris&quot;:[&quot;http://zotero.org/users/6953150/items/TNJX2GDS&quot;],&quot;itemData&quot;:{&quot;id&quot;:2301,&quot;type&quot;:&quot;book&quot;,&quot;event-place&quot;:&quot;Wheaton,
+Illinois&quot;,&quot;publisher&quot;:&quot;Crossway
+Bibles&quot;,&quot;publisher-place&quot;:&quot;Wheaton,
+Illinois&quot;,&quot;title&quot;:&quot;The Holy Bible: English Standard Version
+(ESV)&quot;,&quot;issued&quot;:{&quot;date-parts&quot;:[[&quot;2016&quot;]]}}}],&quot;schema&quot;:&quot;https://github.com/citation-style-language/schema/raw/master/csl-citation.json&quot;}
+<span style='mso-element:field-separator'></span><![endif]--><i>The Holy Bible: English Standard
+Version (ESV)</i>
+(Wheaton, Illinois: Crossway Bibles, 2016).<!--[if supportFields]><span
+style='mso-element:field-end'></span><![endif]--><o:p></o:p></p>
+
+</div>
+
+<div id="ftn28">
+
+<p class="MsoFootnoteText"><a href="https://d.docs.live.net/6a09c1440da84011/_Education/Fuller%20Theological%20Seminary%20(FTS)/Courses/z.Old_Testament_Introduction_OT500/Final%20Paper/FinalPaper_OT500_DarrelLWolfe.docx#_ftnref28" name="_ftn28" title=""><span class="MsoFootnoteReference"><!--[if !supportFootnotes]--><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: Aptos; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: major-bidi;">[28]</span></span><!--[endif]--></span></a>
+<!--[if supportFields]><span style='mso-element:field-begin'></span><span
+style='mso-spacerun:yes'> </span>ADDIN ZOTERO_ITEM CSL_CITATION
+{&quot;citationID&quot;:&quot;ygzUfvaZ&quot;,&quot;properties&quot;:{&quot;formattedCitation&quot;:&quot;{\\i{}The
+Holy Bible: King James Version}, Electronic Edition of the 1900 Authorized
+Version. (Bellingham, WA: Logos Research Systems, Inc.,
+2009).&quot;,&quot;plainCitation&quot;:&quot;The Holy Bible: King James
+Version, Electronic Edition of the 1900 Authorized Version. (Bellingham, WA:
+Logos Research Systems, Inc., 2009).&quot;,&quot;noteIndex&quot;:28},&quot;citationItems&quot;:[{&quot;id&quot;:2302,&quot;uris&quot;:[&quot;http://zotero.org/users/6953150/items/53C7LKNB&quot;],&quot;itemData&quot;:{&quot;id&quot;:2302,&quot;type&quot;:&quot;book&quot;,&quot;edition&quot;:&quot;Electronic
+Edition of the 1900 Authorized
+Version&quot;,&quot;event-place&quot;:&quot;Bellingham,
+WA&quot;,&quot;publisher&quot;:&quot;Logos Research Systems, Inc.&quot;,&quot;publisher-place&quot;:&quot;Bellingham,
+WA&quot;,&quot;title&quot;:&quot;The Holy Bible: King James
+Version&quot;,&quot;issued&quot;:{&quot;date-parts&quot;:[[&quot;2009&quot;]]}}}],&quot;schema&quot;:&quot;https://github.com/citation-style-language/schema/raw/master/csl-citation.json&quot;}
+<span style='mso-element:field-separator'></span><![endif]--><i>The Holy Bible: King James Version</i>, Electronic Edition of the 1900
+Authorized Version. (Bellingham, WA: Logos Research Systems, Inc., 2009).<!--[if supportFields]><span
+style='mso-element:field-end'></span><![endif]--><o:p></o:p></p>
+
+</div>
+
+</div><br /><br />
+
+<span style="font-family: &quot;tempus sans itc&quot;;">Shalom&nbsp;<span face="sans-serif" style="background-color: white; color: #202122; font-size: 14px;">שָׁלוֹם</span>: Live Long and Prosper!</span>
+<br />
+
+<div class="MsoNormal"><span style="font-family: &quot;tempus sans itc&quot;; font-size: 18pt;">Darrell Wolfe</span>
+</div>
+
+Storyteller | Writer | Thinker | Consultant | Freelancer | Bible Nerd
+<i>*Written withs some editing and research assistance from ChatGPT-4o</i>
+<br /><br /><br />
+

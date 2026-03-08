@@ -1,0 +1,28 @@
+---
+title: 'Microphones'
+date: '2013-03-24T20:32:00.0000000+00:00'
+draft: true
+blogger_blog: 'Towdah: tō·dä'''
+blogger_status: 'LIVE'
+blogger_post_id: '1684936177214489853'
+blogger_filename: '/2013/03/microphones.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Towdah_ tō·dä_/feed.atom'
+categories:
+  - 'Sound'
+  - 'Software'
+  - 'Techniques'
+  - 'Equipment'
+  - 'Instruments'
+---
+
+<br />
+<div style="color: #333333; font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif; font-size: 13px; line-height: 19px;">
+All about Microphones.</div>
+<div style="color: #333333; font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif; font-size: 13px; line-height: 19px;">
+SHORT recap of the article below. Microphones DO NOT grab sound and bring it in. There is no such thing as distance or range with a microphone. It only hears what is coming to it. Therefore the more noise you don't want to hear the closer it needs to be to the source.</div>
+<div style="color: #333333; font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif; font-size: 13px; line-height: 19px;">
+HUGE difference in Omnidirectional v Unidirectional BECAUSE it's either deaf or not to the side noise.</div>
+<div style="color: #333333; font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif; font-size: 13px; line-height: 19px;">
+<br /></div>
+<div style="color: #333333; font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif; font-size: 13px; line-height: 19px;">
+http://www.proacousticsusa.com/blog/2011/12/the-myths-of-microphone-reach/#comment-9827</div>

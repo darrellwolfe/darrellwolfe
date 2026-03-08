@@ -1,0 +1,44 @@
+---
+title: 'Jewelry'
+date: '2014-03-13T04:52:00.0000000+00:00'
+draft: true
+blogger_type: 'PAGE'
+blogger_blog: 'Texas Cows and Crafts'
+blogger_status: 'LIVE'
+blogger_page_id: '4354860551929969638'
+blogger_filename: '/p/jewelry_2.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Texas Cows and Crafts/feed.atom'
+---
+
+Here are my hand crafted Jewelry pieces.<br />
+<br />
+<div style="background: #77b07d; border-radius: 20px; box-shadow: inset 0 0px 10px rgba(0, 0, 0, 0.5), 0 1px 0 #000; text-align: center;">
+<embed flashvars="host=picasaweb.google.com&amp;hl=en_US&amp;feat=flashalbum&amp;RGB=0x77b07d&amp;feed=https%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2F115276805483167457930%2Falbumid%2F5988501141835969361%3Falt%3Drss%26kind%3Dphoto%26hl%3Den_US" height="229" pluginspage="http://www.macromedia.com/go/getflashplayer" src="https://photos.gstatic.com/media/slideshow.swf" type="application/x-shockwave-flash" width="344"></embed></div>
+<br />
+<br />
+<div style="text-align: center;">
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://www.texascowsandcrafts.com/search/label/Jewelry" target="_blank"><img height="216" src="/images/imported/blogger-googleusercontent-com/shell-20necklace-c61048c3da58.jpg" width="288" /></a>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<span style="font-family: Georgia, Times New Roman, serif; font-size: xx-large; vertical-align: 200%;">&nbsp;<a href="http://www.texascowsandcrafts.com/search/label/Jewelry" target="_blank">Jewelry</a></span></div>
+</div>
+<br />
+<br />
+<div style="text-align: center;">
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://www.texascowsandcrafts.com/search/label/Button" style="font-family: Georgia, 'Times New Roman', serif; font-size: xx-large; vertical-align: 200%;" target="_blank">Button Jewelry</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a href="http://www.texascowsandcrafts.com/search/label/Button" target="_blank"><img height="216" src="/images/imported/blogger-googleusercontent-com/img-0993-29360f2924d4.jpg" width="288" /></a></div>
+</div>
+<br />
+<br />
+<div style="text-align: center;">
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://www.texascowsandcrafts.com/search/label/Beaded" target="_blank"><img height="250" src="/images/imported/blogger-googleusercontent-com/to-20be-20sort-202012-20381-42860d518420.jpg" width="216" /></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="font-family: Georgia, Times New Roman, serif; font-size: xx-large; vertical-align: 200%;">&nbsp;<a href="http://www.texascowsandcrafts.com/search/label/Beaded" target="_blank">Beaded Jewelry</a></span></div>
+</div>
+<br />
+<br />
+<div style="text-align: center;">
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://www.texascowsandcrafts.com/search/label/Christmas" style="font-family: Georgia, 'Times New Roman', serif; font-size: xx-large; vertical-align: 200%;" target="_blank">Christmas Jewelry</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="http://www.texascowsandcrafts.com/search/label/Christmas" target="_blank"><img height="216" src="/images/imported/blogger-googleusercontent-com/img-0883-snow-998f6f76cca2.gif" width="288" /></a></div>
+</div>
+<br />
+<br />
+<br />
+<br />

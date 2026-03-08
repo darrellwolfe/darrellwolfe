@@ -1,0 +1,43 @@
+---
+title: 'Privacy Policy'
+date: '2024-01-10T06:54:00.0010000+00:00'
+draft: true
+blogger_type: 'PAGE'
+blogger_blog: 'Topos Creative, LLC'
+blogger_status: 'LIVE'
+blogger_page_id: '5170671702620495363'
+blogger_filename: '/p/privacy-policy.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Topos Creative, LLC/feed.atom'
+---
+
+<p>&nbsp;<strong>Privacy Policy for Topos Creative LLC (aka <a href="http://DarrellWolfe.com">DarrellWolfe.com</a>, aka NoHiding.Faith, and other Wolfe Family Projects)</strong></p>
+<hr />
+<p>Last updated: January 9, 2024</p>
+<p><strong>Introduction</strong></p>
+<p>Welcome to <strong>Topos Creative LLC (aka <a href="http://DarrellWolfe.com">DarrellWolfe.com</a>, aka NoHiding.Faith, and other Wolfe Family Projects)</strong> ("we," "us," or "our"). At Topos Creative LLC, we are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how we collect, use, and safeguard your information when you visit our website.</p>
+<p>By accessing or using our websites, you agree to the terms and practices described in this Privacy Policy. If you do not agree with our practices, please do not use our website.</p>
+<p><strong>Information We Collect</strong></p>
+<p>We may collect the following types of information when you visit our sites:</p>
+<ol>
+<li><strong>Personal Information:</strong> We may collect personal information, such as your name and email address, if you voluntarily provide it when interacting with our website, such as subscribing to our newsletter or contacting us through forms. We use MailChimp for this service.</li>
+<li><strong>Automatically Collected Information:</strong> We may collect non-personal information, such as your IP address, browser type, and operating system, through automated tracking technologies (e.g., cookies and web beacons) for analytical and statistical purposes. However, these items are not collected by us directly, but by the services we use. Primarily, <a href="http://Blogger.com">Blogger.com</a> a free Google blogging product. See their policies for these items. We do not generally have access to this information, except via Google Analytics, which we generally don’t use because frankly, we just don’t care enough about blog traffic to bother. We do care about who chooses to contact us, which is why we ask for your email.</li>
+</ol>
+<p><strong>How We Use Your Information</strong></p>
+<p>We may use your information for the following purposes:</p>
+<ol>
+<li>To provide you with the requested services and information.</li>
+<li>To improve and optimize our sites and services for a better user experience.</li>
+<li>To send you newsletters, updates, and promotional materials (if you have opted in).</li>
+<li>To analyze and understand website usage patterns and trends.</li>
+</ol>
+<p><strong>Cookies and Tracking Technologies</strong></p>
+<p>Topos Creative LLC and/or Google or whoever collects such things may use cookies and other tracking technologies to enhance your experience on our website. You can choose to accept or decline cookies through your browser settings. Please note that disabling cookies may affect your browsing experience on our website.</p>
+<p><strong>Third-Party Links</strong></p>
+<p>Topos Creative LLC may contain links to third-party websites that are not operated or controlled by us. We are not responsible for the privacy practices or content of these third-party websites. We encourage you to review the privacy policies of these websites before providing any personal information.</p>
+<p><strong>Data Security</strong></p>
+<p>We take reasonable measures to protect your personal information from unauthorized access, disclosure, alteration, or destruction. However, please be aware that no method of data transmission over the internet is entirely secure, and we cannot guarantee the absolute security of your information.</p>
+<p><strong>Changes to this Privacy Policy</strong></p>
+<p>We may update this Privacy Policy from time to time to reflect changes in our practices or for legal or regulatory reasons. We will notify you of any significant changes by posting the updated Privacy Policy on Topos Creative LLC.</p>
+<p><strong>Contact Us</strong></p>
+<p>If you have any questions, concerns, or requests regarding this Privacy Policy or the information we hold about you, please contact us at <a href="mailto:me@darrellwolfe.com">me@darrellwolfe.com</a>.</p>
+<!-- notionvc: 4f6a199c-1718-4c43-9260-4050f312b3d4 -->

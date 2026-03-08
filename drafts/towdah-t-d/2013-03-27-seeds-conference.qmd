@@ -1,0 +1,31 @@
+---
+title: 'Seeds Conference?'
+date: '2013-03-27T17:00:00.0010000+00:00'
+draft: true
+blogger_blog: 'Towdah: tÅÂ·dÃ¤'''
+blogger_status: 'LIVE'
+blogger_post_id: '6732756528233570581'
+blogger_filename: '/2013/03/seeds-conference.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Towdah_ tÅÂ·dÃ¤_/feed.atom'
+categories:
+  - 'Sound'
+  - 'Techniques'
+  - 'Outside Material'
+  - 'Praise/Worship'
+---
+
+<br />
+Need to check this place out more. <br />
+<br />
+<a href="https://seeds.churchonthemove.com/blog">https://seeds.churchonthemove.com/blog</a><br />
+<br />
+<div class="blog">
+<h1>
+<a href="https://seeds.churchonthemove.com/blog/blog/post/265">Leave Your Mix Alone. It's Good Enough!</a></h1>
+<div class="blog_author">
+by <a class="blue_hover blog_right_light" href="https://seeds.churchonthemove.com/blog/blog/andy-chrisman">Andy Chrisman</a></div>
+<div class="blog_body">
+I travelled on the road in Christian music for 20 years and I can tell you that there are 2 types of performers: those that are constantly making an exaggerated motion to the sound engineer to change their mix and those that live with it and never let the audience know that their monitor mix wasnâ€™t absolutely pristine...</div>
+<div class="blog_footer">
+Posted 15 JAN 2013 in <a class="blog_tag_link blue_hover" href="https://seeds.churchonthemove.com/blog/blog/worship">Worship</a>, <a class="blog_tag_link blue_hover" href="https://seeds.churchonthemove.com/blog/blog/creative">Creative</a>, <a class="blog_tag_link blue_hover" href="https://seeds.churchonthemove.com/blog/blog/production-audio">Production: Audio</a><span class="nomobile"><a class="blue_hover blog_right_dark" href="https://seeds.churchonthemove.com/blog/blog/post/265"><img class="blog_footer_img" src="/images/imported/seeds-churchonthemove-com/blog-response-aeebd9d0eff5.png" /> 24 responses</a></span></div>
+</div>

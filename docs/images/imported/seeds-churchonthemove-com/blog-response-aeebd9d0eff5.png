@@ -1,0 +1,684 @@
+<!DOCTYPE html>
+<html lang="en-US" xmlns:fb="https://www.facebook.com/2008/fbml" xmlns:addthis="https://www.addthis.com/help/api-spec"  class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-KPBK5Z6');</script>
+    <!-- End Google Tag Manager -->
+
+    <!-- facebook -->
+    <meta name="facebook-domain-verification" content="96od6mgburb2xxm87gltawgpda9gtm" />
+    <!-- end of facebook -->
+
+	                    <!-- Favicon -->
+            <link rel="shortcut icon" href="https://churchonthemove.com/wp-content/uploads/2020/06/COTM_icon.png" type="image/x-icon" />
+        	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>Seeds  - Church On The Move</title>
+<meta name='robots' content='max-image-preview:large' />
+<meta name="be:wp" content="1.1.18">
+<!-- be_ixf, sdk, gho-->
+<meta name="be:sdk" content="php_sdk_1.5.16" />
+<meta name="be:timer" content="71ms" />
+<meta name="be:orig_url" content="https%3A%2F%2Fchurchonthemove.com%2Fseeds" />
+<meta name="be:norm_url" content="https%3A%2F%2Fchurchonthemove.com%2Fseeds" />
+<meta name="be:capsule_url" content="https%3A%2F%2Fixfd1-api.bc0a.com%2Fapi%2Fixf%2F1.0.0%2Fget_capsule%2Ff00000000314065%2F683548147" />
+<meta name="be:api_dt" content="Zy_2026;Zm_02;Zd_20;Zh_11;Zmh_16;p_epoch:1771586169229" />
+<meta name="be:mod_dt" content="Zy_2026;Zm_02;Zd_20;Zh_11;Zmh_16;p_epoch:1771586169229" />
+<meta name="be:diag" content="KanGwExIHSiYeXCE76WX0styivx8Fzz3Ccy9qJ6nO1PDH4FbEV0qeiGvAkD3+i2JQmSjObII9dpcDzxDeOd3JQ68enSv6xT1+qIjlBpXyYbdQX5woL6no2pZQfGprcZoUELsg6Tef0O5uUDCdZ+P394esYjxucJbymmP2nk69QvJMOlHtGzX3EHZwq0KimlGAIvCCdtuNIchPAY6kNVKxPMTHmBZbpO7rV53wzqWVu6+NgeHcBohVDXP7zSE2/4g4RWiJAoTob5enA0zGhp9il4xq7S11j556Q+wwWcnfaVW5zoeh4hTZzoocSMgaQpWQTIwSm/fdVMkH/PUvAo91i9RJHN+Pix6T4C78r3rU09+13auQWU98mnX2WjmPOkC5YAgY/0aJI5KWKEAOwJTK5QZIpYNGgbUQnN/axMuVapiin4eC0ouwkbEikWJvqKsQ7D2jcFZKOdIcOxk68z2U3xE/meaqXRElwCbJKHWBG0k7tknkcz7FFak0zguzBGFD1s5/iCGXpWx9plZ/dbwuEBdTZL1H4CRcZ8dMuLA2sOIC11x06zB9zWIfixhz/FiYdhPV1QvYvyn4/Id3g20wLJtgbXvC3B5crKnpskYBgreh6nUaBfYp/K/8QswacB3d4PnrS32VJ+cdkfaveIQIjMSIP54LcUryLHsYlhT9k2P+tVquYdqyOvDQQN1Y3xgHm3DQlFGlJL7IZ9lnI38klor58MPqKSzGa1pA6IZT8BClwTOHqG7qJVk4O5gscnnpxKgBD/kEIUHwi0eIflox90lUepH5l8pmJOWhjS82ApF4P8H8L5guQwxE1uL//MN4DP7ASNW7Tem2oP53hlW68cCzQo344q7ZwQBMxpxD9LTbSCBjG4+xJ14ZhekzS1+9W5wVOAbAd+vCq9YxcVQwpxtr7i3rQXbnNnDQspQlxvKfIoip4vGZO4YMhWO3zJJ5H6iePBc9dv8/pliRkq+tPPWzVJTGrwR1GMzgz4SqZjlMioEXiq7r63TBAJwLIakTQ15E5Gb1aTtHg/tN+eIFqnvy6Yyytd63/CVoaLIXD+3a+kIv9RaHLhUGAa4JNEvszfT3rrGKwdumZfpldQLhoUXms5xXb9p/vCSRYxegiHpBMLX8cXmhGFv2kWm8ey/FwWIUj0fE1PQfQ0H2wp1j4SWPowN0T8XHcFvWlX22ea9VG4qb71L7OnoIb+uoGii1scpmFDb9U1Z3pxp3yCczH2QtYhXQbcVwg/Y+qSDA+2Z1etuaXT8nRVYgvzNDsCP9tgkYa6Pz21U7Sn+yT+J4Km2HVBI5VTukQEkn110vxh4ZmNeaYEPVzhi6i5iE7VaPizvLYZcDDEm8MGSMM7hKMC28myW1MAHYK0a75VmKSlix9ZYVKJv8eZ2Ubqs99Z6ibbxkCO2LnWWqIpPcx+gWAN8eWZz9w/CdJTDVIvqQ74Ncv3Wt0BrYw0F8flu7m6wYBn2+SKpo5fjmbZwlgzO4TeLoCp2hmNpCe5oPgebbNEMKXIWZWaNATX56JdE7ye1mfgUlWYbbO04CmxwJP0i9gOMnHcyyaHe893dWU2LDxXdqTqLjrNUmES67eGFuogwwH4HQnoobtBg21vICjLfmwjKyrmCIl1AHCjghJclnIGWlOYoELitRkXbVTKbGKQRpS7XflTlXTDlBKBRDFN32VLQoJr6NuOivbCLPHyIrCyZvVs4b4J3eZaQ8OZTHnTGOZJII59u9FfizCKFjxSipsNZoMVHPc35vleSsuQXatD5B/VNLzgzTgJXn/nZfLFCMEDUqx33OTZT6bs0fQmaQ/Oi9328qZPfeaYGe8d2dDbWRQithWjoS+WmSs59gWDkvLpDZ8ZKuump8kE8+G0ZqbYmrqSU8UXn+IjsmC1dNRS9tJCQ6VYC85XfpLNfLzQrcsNVWUCz+7zpgBUwOZuYDT9Je9Hk4KsxvSTu3JywMYUlF535HOtl5iiRrhZxCLP31EsdCnEDQKxDlQTP8GchZWTFKBOPsnifzcknT3R8bOmmTFZ9j8YmeyZ/Iel5f7WVbgmPDxwVTtZzY94XaHDMK9U62tO/q2ljseW1rwmUqfWDN5rUwnoGBO+7/CIpjI8QxQNh3xBqEll8mE9xK9iHsP5pTKnxN4fWQ48Ai6Bhn/3ePIzDj4+BS4mIQxEDXrHqw1AAy0XvXZDKi2qrGr/kHHHqIJsh/ovnPSQ+wdP0tkUguBrq1weN8SdCmCcOX3tO267zQInareik0mUMeuCz9/gcKhVGXGkFIQv+BqNqa3hTksQnVmxvUbiYLLQFIRAF+8s5k9oEcfwoM3rcsAYKsZrmgF0v4RiuPiVmlH3yWNr9b8li9Aj5xlFQvdQWSXOd765RHPwiP5Cqq9k0BsuuftI5e2eSl5kPM4fEjzyzKuJe4FO9szUXmtDwJYbrYdjfjSObEFhFak1tQUhSczFymA==" />
+<meta name="be:messages" content="true" />
+<style>
+  .be-ix-link-block{width: 100%;float: left;color: #636363;font-size: 11px;}
+.be-ix-link-block .be-related-link-container {margin-bottom: 20px;margin-top: 30px;text-align: center;}
+.be-ix-link-block .be-related-link-container .be-label {margin: 0;    font-family: NeueHaasGroteskText W02 Bd; color: #fff;font-size: 14px;
+  font-weight: 700;}
+.be-ix-link-block .be-related-link-container .be-list { display: inline-block; list-style: none;margin: 0; padding: 0;}
+.be-ix-link-block .be-related-link-container .be-list .be-list-item {display: inline-block;margin-right: 20px;margin-bottom: 6px;}
+.be-ix-link-block .be-related-link-container .be-list .be-list-item .be-related-link {color: #fff;
+font-size: 18px;font-weight: 400;text-decoration: none;font-family: 'NeueHaasGroteskDisp W02 Lt';line-height: 20px;}
+.be-ix-link-block .be-related-link-container .be-list .be-list-item .be-related-link:hover {color: #f00;}
+.be-ix-link-block .be-related-link-container .be-list .be-list-item:last-child { margin-right: 0;}
+
+@media (max-width: 767px) {
+  .be-ix-link-block .be-related-link-container .be-label {width: 100%;margin-bottom: 10px;}
+  .be-ix-link-block .be-related-link-container .be-list { display: block;width: 100%;}
+  .be-ix-link-block .be-related-link-container .be-list .be-list-item {display: block;margin-right: 0;}
+}
+@media (min-width: 768px) {
+  .be-ix-link-block .be-related-link-container {display: flex;align-items: baseline;}
+  .be-ix-link-block .be-related-link-container .be-label {display: inline-block;margin-right: 20px;flex-grow: 0;flex-shrink: 0;}
+}
+</style>
+
+<script  id="be-app-script" data-testmode="true" data-delay='0' data-customerid="f00000000314065" src="https://app-cf.bc0a.com/corejs/be-app.js"></script>
+<link rel='dns-prefetch' href='//kit.fontawesome.com' />
+<link rel="alternate" type="application/rss+xml" title="Church On The Move &raquo; Feed" href="https://churchonthemove.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Church On The Move &raquo; Comments Feed" href="https://churchonthemove.com/comments/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://churchonthemove.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fchurchonthemove.com%2Fseeds" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://churchonthemove.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fchurchonthemove.com%2Fseeds&#038;format=xml" />
+		<style>
+			.lazyload,
+			.lazyloading {
+				max-width: 100%;
+			}
+		</style>
+		<style id='wp-img-auto-sizes-contain-inline-css' type='text/css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<link rel='stylesheet' id='sbi_styles-css' href='https://churchonthemove.com/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=6.10.0' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}.has-text-align-center{text-align:center}.has-text-align-left{text-align:left}.has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-wrap:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=wp-block-library-inline-css */
+</style>
+<style id='wp-block-button-inline-css' type='text/css'>
+.wp-block-button__link{align-content:center;box-sizing:border-box;cursor:pointer;display:inline-block;height:100%;text-align:center;word-break:break-word}.wp-block-button__link.aligncenter{text-align:center}.wp-block-button__link.alignright{text-align:right}:where(.wp-block-button__link){border-radius:9999px;box-shadow:none;padding:calc(.667em + 2px) calc(1.333em + 2px);text-decoration:none}.wp-block-button[style*=text-decoration] .wp-block-button__link{text-decoration:inherit}.wp-block-buttons>.wp-block-button.has-custom-width{max-width:none}.wp-block-buttons>.wp-block-button.has-custom-width .wp-block-button__link{width:100%}.wp-block-buttons>.wp-block-button.has-custom-font-size .wp-block-button__link{font-size:inherit}.wp-block-buttons>.wp-block-button.wp-block-button__width-25{width:calc(25% - var(--wp--style--block-gap, .5em)*.75)}.wp-block-buttons>.wp-block-button.wp-block-button__width-50{width:calc(50% - var(--wp--style--block-gap, .5em)*.5)}.wp-block-buttons>.wp-block-button.wp-block-button__width-75{width:calc(75% - var(--wp--style--block-gap, .5em)*.25)}.wp-block-buttons>.wp-block-button.wp-block-button__width-100{flex-basis:100%;width:100%}.wp-block-buttons.is-vertical>.wp-block-button.wp-block-button__width-25{width:25%}.wp-block-buttons.is-vertical>.wp-block-button.wp-block-button__width-50{width:50%}.wp-block-buttons.is-vertical>.wp-block-button.wp-block-button__width-75{width:75%}.wp-block-button.is-style-squared,.wp-block-button__link.wp-block-button.is-style-squared{border-radius:0}.wp-block-button.no-border-radius,.wp-block-button__link.no-border-radius{border-radius:0!important}:root :where(.wp-block-button .wp-block-button__link.is-style-outline),:root :where(.wp-block-button.is-style-outline>.wp-block-button__link){border:2px solid;padding:.667em 1.333em}:root :where(.wp-block-button .wp-block-button__link.is-style-outline:not(.has-text-color)),:root :where(.wp-block-button.is-style-outline>.wp-block-button__link:not(.has-text-color)){color:currentColor}:root :where(.wp-block-button .wp-block-button__link.is-style-outline:not(.has-background)),:root :where(.wp-block-button.is-style-outline>.wp-block-button__link:not(.has-background)){background-color:initial;background-image:none}
+/*# sourceURL=https://churchonthemove.com/wp-includes/blocks/button/style.min.css */
+</style>
+<style id='wp-block-heading-inline-css' type='text/css'>
+h1:where(.wp-block-heading).has-background,h2:where(.wp-block-heading).has-background,h3:where(.wp-block-heading).has-background,h4:where(.wp-block-heading).has-background,h5:where(.wp-block-heading).has-background,h6:where(.wp-block-heading).has-background{padding:1.25em 2.375em}h1.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h1.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h2.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h2.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h3.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h3.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h4.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h4.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h5.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h5.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h6.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h6.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]){rotate:180deg}
+/*# sourceURL=https://churchonthemove.com/wp-includes/blocks/heading/style.min.css */
+</style>
+<style id='wp-block-buttons-inline-css' type='text/css'>
+.wp-block-buttons{box-sizing:border-box}.wp-block-buttons.is-vertical{flex-direction:column}.wp-block-buttons.is-vertical>.wp-block-button:last-child{margin-bottom:0}.wp-block-buttons>.wp-block-button{display:inline-block;margin:0}.wp-block-buttons.is-content-justification-left{justify-content:flex-start}.wp-block-buttons.is-content-justification-left.is-vertical{align-items:flex-start}.wp-block-buttons.is-content-justification-center{justify-content:center}.wp-block-buttons.is-content-justification-center.is-vertical{align-items:center}.wp-block-buttons.is-content-justification-right{justify-content:flex-end}.wp-block-buttons.is-content-justification-right.is-vertical{align-items:flex-end}.wp-block-buttons.is-content-justification-space-between{justify-content:space-between}.wp-block-buttons.aligncenter{text-align:center}.wp-block-buttons:not(.is-content-justification-space-between,.is-content-justification-right,.is-content-justification-left,.is-content-justification-center) .wp-block-button.aligncenter{margin-left:auto;margin-right:auto;width:100%}.wp-block-buttons[style*=text-decoration] .wp-block-button,.wp-block-buttons[style*=text-decoration] .wp-block-button__link{text-decoration:inherit}.wp-block-buttons.has-custom-font-size .wp-block-button__link{font-size:inherit}.wp-block-buttons .wp-block-button__link{width:100%}.wp-block-button.aligncenter{text-align:center}
+/*# sourceURL=https://churchonthemove.com/wp-includes/blocks/buttons/style.min.css */
+</style>
+<style id='wp-block-columns-inline-css' type='text/css'>
+.wp-block-columns{box-sizing:border-box;display:flex;flex-wrap:wrap!important}@media (min-width:782px){.wp-block-columns{flex-wrap:nowrap!important}}.wp-block-columns{align-items:normal!important}.wp-block-columns.are-vertically-aligned-top{align-items:flex-start}.wp-block-columns.are-vertically-aligned-center{align-items:center}.wp-block-columns.are-vertically-aligned-bottom{align-items:flex-end}@media (max-width:781px){.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column{flex-basis:100%!important}}@media (min-width:782px){.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column{flex-basis:0;flex-grow:1}.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column[style*=flex-basis]{flex-grow:0}}.wp-block-columns.is-not-stacked-on-mobile{flex-wrap:nowrap!important}.wp-block-columns.is-not-stacked-on-mobile>.wp-block-column{flex-basis:0;flex-grow:1}.wp-block-columns.is-not-stacked-on-mobile>.wp-block-column[style*=flex-basis]{flex-grow:0}:where(.wp-block-columns){margin-bottom:1.75em}:where(.wp-block-columns.has-background){padding:1.25em 2.375em}.wp-block-column{flex-grow:1;min-width:0;overflow-wrap:break-word;word-break:break-word}.wp-block-column.is-vertically-aligned-top{align-self:flex-start}.wp-block-column.is-vertically-aligned-center{align-self:center}.wp-block-column.is-vertically-aligned-bottom{align-self:flex-end}.wp-block-column.is-vertically-aligned-stretch{align-self:stretch}.wp-block-column.is-vertically-aligned-bottom,.wp-block-column.is-vertically-aligned-center,.wp-block-column.is-vertically-aligned-top{width:100%}
+/*# sourceURL=https://churchonthemove.com/wp-includes/blocks/columns/style.min.css */
+</style>
+<style id='wp-block-paragraph-inline-css' type='text/css'>
+.is-small-text{font-size:.875em}.is-regular-text{font-size:1em}.is-large-text{font-size:2.25em}.is-larger-text{font-size:3em}.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;font-style:normal;font-weight:100;line-height:.68;margin:.05em .1em 0 0;text-transform:uppercase}body.rtl .has-drop-cap:not(:focus):first-letter{float:none;margin-left:.1em}p.has-drop-cap.has-background{overflow:hidden}:root :where(p.has-background){padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color)) a{color:inherit}p.has-text-align-left[style*="writing-mode:vertical-lr"],p.has-text-align-right[style*="writing-mode:vertical-rl"]{rotate:180deg}
+/*# sourceURL=https://churchonthemove.com/wp-includes/blocks/paragraph/style.min.css */
+</style>
+<style id='wp-block-spacer-inline-css' type='text/css'>
+.wp-block-spacer{clear:both}
+/*# sourceURL=https://churchonthemove.com/wp-includes/blocks/spacer/style.min.css */
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--blood: #de5b58;--wp--preset--color--ocean: #0070af;--wp--preset--color--sunset: #e97743;--wp--preset--color--sunset-2: #f0a42b;--wp--preset--color--gray: #d6d6d6;--wp--preset--color--emerald: #21595f;--wp--preset--color--whitebutnotquite: #f2efed;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--gradient--crimson-sunset: linear-gradient(140deg, rgba(229,53,57,1) 80%, rgba(237,157,121,1) 100%);--wp--preset--gradient--sky-seafoam: linear-gradient(140deg, rgba(24,174,203,1) 80%, rgba(96,192,175,1) 100%);--wp--preset--gradient--black: linear-gradient(140deg, rgba(21,23,22,1) 80%, rgba(101,103,103,1) 100%);--wp--preset--gradient--sky: linear-gradient(140deg, rgba(255,255,255,1) 80%, rgb(170,225,236) 100%);--wp--preset--gradient--seafoam: linear-gradient(140deg, rgba(255,255,255,1) 80%, rgba(197,233,226,1)  100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){margin-left: auto !important;margin-right: auto !important;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-blood-color{color: var(--wp--preset--color--blood) !important;}.has-ocean-color{color: var(--wp--preset--color--ocean) !important;}.has-sunset-color{color: var(--wp--preset--color--sunset) !important;}.has-sunset-2-color{color: var(--wp--preset--color--sunset-2) !important;}.has-gray-color{color: var(--wp--preset--color--gray) !important;}.has-emerald-color{color: var(--wp--preset--color--emerald) !important;}.has-whitebutnotquite-color{color: var(--wp--preset--color--whitebutnotquite) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-blood-background-color{background-color: var(--wp--preset--color--blood) !important;}.has-ocean-background-color{background-color: var(--wp--preset--color--ocean) !important;}.has-sunset-background-color{background-color: var(--wp--preset--color--sunset) !important;}.has-sunset-2-background-color{background-color: var(--wp--preset--color--sunset-2) !important;}.has-gray-background-color{background-color: var(--wp--preset--color--gray) !important;}.has-emerald-background-color{background-color: var(--wp--preset--color--emerald) !important;}.has-whitebutnotquite-background-color{background-color: var(--wp--preset--color--whitebutnotquite) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-blood-border-color{border-color: var(--wp--preset--color--blood) !important;}.has-ocean-border-color{border-color: var(--wp--preset--color--ocean) !important;}.has-sunset-border-color{border-color: var(--wp--preset--color--sunset) !important;}.has-sunset-2-border-color{border-color: var(--wp--preset--color--sunset-2) !important;}.has-gray-border-color{border-color: var(--wp--preset--color--gray) !important;}.has-emerald-border-color{border-color: var(--wp--preset--color--emerald) !important;}.has-whitebutnotquite-border-color{border-color: var(--wp--preset--color--whitebutnotquite) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-crimson-sunset-gradient-background{background: var(--wp--preset--gradient--crimson-sunset) !important;}.has-sky-seafoam-gradient-background{background: var(--wp--preset--gradient--sky-seafoam) !important;}.has-black-gradient-background{background: var(--wp--preset--gradient--black) !important;}.has-sky-gradient-background{background: var(--wp--preset--gradient--sky) !important;}.has-seafoam-gradient-background{background: var(--wp--preset--gradient--seafoam) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='wphb-1-css' href='https://churchonthemove.com/wp-content/uploads/hummingbird-assets/8b3f709170d6ffb0e94c5e9787ede3f0.css' type='text/css' media='all' />
+<link rel='stylesheet' id='church-public-style-css' href='https://churchonthemove.com/wp-content/themes/church/css/public-style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='church-main-style-css' href='https://churchonthemove.com/wp-content/themes/church/dist/main.css?ver=1772952179' type='text/css' media='all' />
+<link rel='stylesheet' id='wphb-2-css' href='https://churchonthemove.com/wp-content/uploads/hummingbird-assets/f1d5c5d1b2795342fff4030e5d9e9605.css' type='text/css' media='all' />
+<script type="text/javascript" src="https://churchonthemove.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://churchonthemove.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://churchonthemove.com/wp-content/themes/church/js/slick.min.js?ver=1772952179" id="church-slick-script-js"></script>
+<script type="text/javascript" src="https://churchonthemove.com/wp-content/themes/church/js/lazyload.js?ver=1772952179" id="church-lazyload-script-js"></script>
+<script type="text/javascript" src="https://churchonthemove.com/wp-content/themes/church/js/player.js?ver=1772952179" id="church-player-script-js"></script>
+<script type="text/javascript" src="https://churchonthemove.com/wp-content/themes/church/js/validate.js?sa&amp;ver=1772952179" id="church-validate-script-js"></script>
+<script type="text/javascript" src="https://churchonthemove.com/wp-content/themes/church/js/isotope.pkgd.js" id="church-isotope-script-js"></script>
+<script type="text/javascript" src="https://churchonthemove.com/wp-content/themes/church/js/css3-animate-it.js" id="church-animate-script-js"></script>
+<script type="text/javascript" src="https://churchonthemove.com/wp-content/themes/church/js/jquery.fancybox.min.js" id="church-fancybox-script-js"></script>
+<script type="text/javascript" src="https://kit.fontawesome.com/ff27a3d275.js" id="church-font-awesome-script-js"></script>
+<script type="text/javascript" src="https://churchonthemove.com/wp-content/themes/church/dist/main.js?ver=1772952179" id="church-main-script-js"></script>
+<link rel="https://api.w.org/" href="https://churchonthemove.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://churchonthemove.com/wp-json/wp/v2/pages/18484" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://churchonthemove.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.9.1" />
+<link rel='shortlink' href='https://churchonthemove.com/?p=18484' />
+<style>
+.som-password-error-message,
+.som-password-sent-message {
+	background-color: #2679ce;
+	border-color: #2679ce;
+}
+</style>
+			<!-- DO NOT COPY THIS SNIPPET! Start of Page Analytics Tracking for HubSpot WordPress plugin v11.3.39-->
+			<script class="hsq-set-content-id" data-content-id="standard-page">
+				var _hsq = _hsq || [];
+				_hsq.push(["setContentType", "standard-page"]);
+			</script>
+			<!-- DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin -->
+					<script>
+			document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+		</script>
+				<style>
+			.no-js img.lazyload {
+				display: none;
+			}
+
+			figure.wp-block-image img.lazyloading {
+				min-width: 150px;
+			}
+
+			.lazyload,
+			.lazyloading {
+				--smush-placeholder-width: 100px;
+				--smush-placeholder-aspect-ratio: 1/1;
+				width: var(--smush-image-width, var(--smush-placeholder-width)) !important;
+				aspect-ratio: var(--smush-image-aspect-ratio, var(--smush-placeholder-aspect-ratio)) !important;
+			}
+
+						.lazyload, .lazyloading {
+				opacity: 0;
+			}
+
+			.lazyloaded {
+				opacity: 1;
+				transition: opacity 400ms;
+				transition-delay: 0ms;
+			}
+
+					</style>
+					<link rel="preload" href="https://churchonthemove.com/wp-content/plugins/hustle/assets/hustle-ui/fonts/hustle-icons-font.woff2" as="font" type="font/woff2" crossorigin>
+		
+<!-- Meta Pixel Code -->
+<script type='text/javascript'>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+</script>
+<!-- End Meta Pixel Code -->
+<script type='text/javascript'>var url = window.location.origin + '?ob=open-bridge';
+            fbq('set', 'openbridge', '4319693174804560', url);
+fbq('init', '4319693174804560', {}, {
+    "agent": "wordpress-6.9.1-4.1.5"
+})</script><script type='text/javascript'>
+    fbq('track', 'PageView', []);
+  </script><!-- SEO meta tags powered by SmartCrawl https://wpmudev.com/project/smartcrawl-wordpress-seo/ -->
+<link rel="canonical" href="https://churchonthemove.com/seeds" />
+<meta name="description" content="We are a family of four individual churches in Oklahoma with one mission: introducing people to the real Jesus." />
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@graph":[{"@type":"Organization","@id":"https:\/\/churchonthemove.com\/#schema-publishing-organization","url":"https:\/\/churchonthemove.com","name":"Church On The Move","logo":{"@type":"ImageObject","@id":"https:\/\/churchonthemove.com\/#schema-organization-logo","url":"https:\/\/churchonthemove.com\/wp-content\/uploads\/2022\/04\/COTM-circle-white-logo.png","height":60,"width":60}},{"@type":"WebSite","@id":"https:\/\/churchonthemove.com\/#schema-website","url":"https:\/\/churchonthemove.com","name":"Church On The Move","encoding":"UTF-8","potentialAction":{"@type":"SearchAction","target":"https:\/\/churchonthemove.com\/search\/{search_term_string}\/","query-input":"required name=search_term_string"}},{"@type":"BreadcrumbList","@id":"https:\/\/churchonthemove.com\/seeds?page&pagename=seeds\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/churchonthemove.com"},{"@type":"ListItem","position":2,"name":"Seeds"}]},{"@type":"Person","@id":"https:\/\/churchonthemove.com\/author\/quinnp\/#schema-author","name":"Quinn Perdue","url":"https:\/\/churchonthemove.com\/author\/quinnp\/"}]}</script>
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://churchonthemove.com/seeds" />
+<meta property="og:title" content="Seeds - Church On The Move" />
+<meta property="og:description" content="We are a family of four individual churches in Oklahoma with one mission: introducing people to the real Jesus." />
+<meta property="article:published_time" content="2024-05-20T16:44:04" />
+<meta property="article:author" content="Quinn Perdue" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Seeds - Church On The Move" />
+<meta name="twitter:description" content="We are a family of four individual churches in Oklahoma with one mission: introducing people to the real Jesus." />
+<!-- /SEO -->
+<style id="hustle-module-24-0-styles" class="hustle-module-styles hustle-module-styles-24">.hustle-ui.module_id_24 .hustle-popup-content {max-width: 800px;} .hustle-ui.module_id_24  {padding-right: 10px;padding-left: 10px;}.hustle-ui.module_id_24  .hustle-popup-content .hustle-info,.hustle-ui.module_id_24  .hustle-popup-content .hustle-optin {padding-top: 10px;padding-bottom: 10px;} .hustle-ui.module_id_24 .hustle-layout {margin: 0px 0px 0px 0px;padding: 0px 0px 0px 0px;border-width: 0px 0px 0px 0px;border-style: solid;border-radius: 0px 0px 0px 0px;overflow: hidden;} .hustle-ui.module_id_24 .hustle-layout .hustle-layout-header {padding: 20px 20px 20px 20px;border-width: 0px 0px 1px 0px;border-style: solid;border-radius: 0px 0px 0px 0px;} .hustle-ui.module_id_24 .hustle-layout .hustle-layout-content {padding: 0px 0px 0px 0px;border-width: 0px 0px 0px 0px;border-style: solid;border-radius: 0px 0px 0px 0px;}.hustle-ui.module_id_24 .hustle-main-wrapper {position: relative;padding:32px 0 0;} .hustle-ui.module_id_24 .hustle-layout .hustle-layout-footer {padding: 1px 20px 20px 20px;border-width: 0px 0px 0px 0px;border-style: solid;border-radius: 0px 0px 0px 0px;}  .hustle-ui.module_id_24 .hustle-layout .hustle-content {margin: 0px 0px 0px 0px;padding: 20px 20px 20px 20px;border-width: 0px 0px 0px 0px;border-style: solid;border-radius: 0px 0px 0px 0px;}.hustle-ui.module_id_24 .hustle-layout .hustle-content .hustle-content-wrap {padding: 20px 0 20px 0;} .hustle-ui.module_id_24 .hustle-layout .hustle-title {display: block;margin: 0px 0px 0px 0px;padding: 0px 0px 0px 0px;border-width: 0px 0px 0px 0px;border-style: solid;border-radius: 0px 0px 0px 0px;font: 400 33px/38px Georgia,Times,serif;font-style: normal;letter-spacing: 0px;text-transform: none;text-decoration: none;text-align: left;} .hustle-ui.module_id_24 .hustle-layout .hustle-group-content {margin: 0px 0px 0px 0px;padding: 0px 0px 0px 0px;border-width: 0px 0px 0px 0px;border-style: solid;}.hustle-ui.module_id_24 .hustle-layout .hustle-group-content b,.hustle-ui.module_id_24 .hustle-layout .hustle-group-content strong {font-weight: bold;}.hustle-ui.module_id_24 .hustle-layout .hustle-group-content {font-size: 14px;line-height: 1.45em;font-family: Open Sans;}.hustle-ui.module_id_24 .hustle-layout .hustle-group-content p:not([class*="forminator-"]) {margin: 0 0 10px;font: normal 14px/1.45em Open Sans;font-style: normal;letter-spacing: 0px;text-transform: none;text-decoration: none;}.hustle-ui.module_id_24 .hustle-layout .hustle-group-content p:not([class*="forminator-"]):last-child {margin-bottom: 0;}@media screen and (min-width: 783px) {.hustle-ui:not(.hustle-size--small).module_id_24 .hustle-layout .hustle-group-content p:not([class*="forminator-"]) {margin: 0 0 10px;}.hustle-ui:not(.hustle-size--small).module_id_24 .hustle-layout .hustle-group-content p:not([class*="forminator-"]):last-child {margin-bottom: 0;}}.hustle-ui.module_id_24 .hustle-layout .hustle-group-content h1:not([class*="forminator-"]) {margin: 0 0 10px;font: 700 28px/1.4em Open Sans;font-style: normal;letter-spacing: 0px;text-transform: none;text-decoration: none;}.hustle-ui.module_id_24 .hustle-layout .hustle-group-content h1:not([class*="forminator-"]):last-child {margin-bottom: 0;}@media screen and (min-width: 783px) {.hustle-ui:not(.hustle-size--small).module_id_24 .hustle-layout .hustle-group-content h1:not([class*="forminator-"]) {margin: 0 0 10px;}.hustle-ui:not(.hustle-size--small).module_id_24 .hustle-layout .hustle-group-content h1:not([class*="forminator-"]):last-child {margin-bottom: 0;}}.hustle-ui.module_id_24 .hustle-layout .hustle-group-content h2:not([class*="forminator-"]) {margin: 0 0 10px;font-size: 22px;line-height: 1.4em;font-weight: 700;font-style: normal;letter-spacing: 0px;text-transform: none;text-decoration: none;}.hustle-ui.module_id_24 .hustle-layout .hustle-group-content h2:not([class*="forminator-"]):last-child {margin-bottom: 0;}@media screen and (min-width: 783px) {.hustle-ui:not(.hustle-size--small).module_id_24 .hustle-layout .hustle-group-content h2:not([class*="forminator-"]) {margin: 0 0 10px;}.hustle-ui:not(.hustle-size--small).module_id_24 .hustle-layout .hustle-group-content h2:not([class*="forminator-"]):last-child {margin-bottom: 0;}}.hustle-ui.module_id_24 .hustle-layout .hustle-group-content h3:not([class*="forminator-"]) {margin: 0 0 10px;font: 700 18px/1.4em Open Sans;font-style: normal;letter-spacing: 0px;text-transform: none;text-decoration: none;}.hustle-ui.module_id_24 .hustle-layout .hustle-group-content h3:not([class*="forminator-"]):last-child {margin-bottom: 0;}@media screen and (min-width: 783px) {.hustle-ui:not(.hustle-size--small).module_id_24 .hustle-layout .hustle-group-content h3:not([class*="forminator-"]) {margin: 0 0 10px;}.hustle-ui:not(.hustle-size--small).module_id_24 .hustle-layout .hustle-group-content h3:not([class*="forminator-"]):last-child {margin-bottom: 0;}}.hustle-ui.module_id_24 .hustle-layout .hustle-group-content h4:not([class*="forminator-"]) {margin: 0 0 10px;font: 700 16px/1.4em Open Sans;font-style: normal;letter-spacing: 0px;text-transform: none;text-decoration: none;}.hustle-ui.module_id_24 .hustle-layout .hustle-group-content h4:not([class*="forminator-"]):last-child {margin-bottom: 0;}@media screen and (min-width: 783px) {.hustle-ui:not(.hustle-size--small).module_id_24 .hustle-layout .hustle-group-content h4:not([class*="forminator-"]) {margin: 0 0 10px;}.hustle-ui:not(.hustle-size--small).module_id_24 .hustle-layout .hustle-group-content h4:not([class*="forminator-"]):last-child {margin-bottom: 0;}}.hustle-ui.module_id_24 .hustle-layout .hustle-group-content h5:not([class*="forminator-"]) {margin: 0 0 10px;font: 700 14px/1.4em Open Sans;font-style: normal;letter-spacing: 0px;text-transform: none;text-decoration: none;}.hustle-ui.module_id_24 .hustle-layout .hustle-group-content h5:not([class*="forminator-"]):last-child {margin-bottom: 0;}@media screen and (min-width: 783px) {.hustle-ui:not(.hustle-size--small).module_id_24 .hustle-layout .hustle-group-content h5:not([class*="forminator-"]) {margin: 0 0 10px;}.hustle-ui:not(.hustle-size--small).module_id_24 .hustle-layout .hustle-group-content h5:not([class*="forminator-"]):last-child {margin-bottom: 0;}}.hustle-ui.module_id_24 .hustle-layout .hustle-group-content h6:not([class*="forminator-"]) {margin: 0 0 10px;font: 700 12px/1.4em Open Sans;font-style: normal;letter-spacing: 0px;text-transform: uppercase;text-decoration: none;}.hustle-ui.module_id_24 .hustle-layout .hustle-group-content h6:not([class*="forminator-"]):last-child {margin-bottom: 0;}@media screen and (min-width: 783px) {.hustle-ui:not(.hustle-size--small).module_id_24 .hustle-layout .hustle-group-content h6:not([class*="forminator-"]) {margin: 0 0 10px;}.hustle-ui:not(.hustle-size--small).module_id_24 .hustle-layout .hustle-group-content h6:not([class*="forminator-"]):last-child {margin-bottom: 0;}}.hustle-ui.module_id_24 .hustle-layout .hustle-group-content ol:not([class*="forminator-"]),.hustle-ui.module_id_24 .hustle-layout .hustle-group-content ul:not([class*="forminator-"]) {margin: 0 0 10px;}.hustle-ui.module_id_24 .hustle-layout .hustle-group-content ol:not([class*="forminator-"]):last-child,.hustle-ui.module_id_24 .hustle-layout .hustle-group-content ul:not([class*="forminator-"]):last-child {margin-bottom: 0;}.hustle-ui.module_id_24 .hustle-layout .hustle-group-content li:not([class*="forminator-"]) {margin: 0 0 5px;display: flex;align-items: flex-start;font: normal 14px/1.45em Open Sans;font-style: normal;letter-spacing: 0px;text-transform: none;text-decoration: none;}.hustle-ui.module_id_24 .hustle-layout .hustle-group-content li:not([class*="forminator-"]):last-child {margin-bottom: 0;}@media screen and (min-width: 783px) {.hustle-ui.module_id_24 .hustle-layout .hustle-group-content ol:not([class*="forminator-"]),.hustle-ui.module_id_24 .hustle-layout .hustle-group-content ul:not([class*="forminator-"]) {margin: 0 0 20px;}.hustle-ui.module_id_24 .hustle-layout .hustle-group-content ol:not([class*="forminator-"]):last-child,.hustle-ui.module_id_24 .hustle-layout .hustle-group-content ul:not([class*="forminator-"]):last-child {margin: 0;}}@media screen and (min-width: 783px) {.hustle-ui:not(.hustle-size--small).module_id_24 .hustle-layout .hustle-group-content li:not([class*="forminator-"]) {margin: 0 0 5px;}.hustle-ui:not(.hustle-size--small).module_id_24 .hustle-layout .hustle-group-content li:not([class*="forminator-"]):last-child {margin-bottom: 0;}}.hustle-ui.module_id_24 .hustle-layout .hustle-group-content blockquote {margin-right: 0;margin-left: 0;}.hustle-ui.module_id_24 .hustle-popup-mask {background-color: rgba(51,51,51,0.9);} .hustle-ui.module_id_24 .hustle-layout .hustle-group-content blockquote {border-left-color: #38C5B5;}</style>		<style type="text/css" id="wp-custom-css">
+			.page-id-8341 .wp-block-button__link {
+	border-color: #E96A3D;
+}
+
+
+.page-id-8341 .orange-star {
+    left: -200px;
+    top: -186px;
+    width: 24%;
+    z-index: 2;
+}
+
+@media (max-width: 1100px) {
+	.page-id-8341 .orange-star {
+		left: -54px;
+		top: -30px;
+	}
+}
+@media (max-width: 400px) {
+	.page-id-8341 .orange-star {
+		left: -38px;
+		top: 8px;
+	}
+}
+.page-id-8341 .small-gold-star {
+
+		left: -14%;
+    top: 30%;
+    width: 21%;
+		rotate: 4deg;
+  
+	
+}
+@media (min-width: 400px) {
+  .page-id-8341 .small-gold-star {
+		left: -5%;
+    top: 30%;
+    width: 21%;
+		rotate: 4deg;
+  }
+}
+
+@media (min-width: 1200px) {
+  .page-id-8341 .small-gold-star {
+		left: 10%;
+  }
+}
+@media (min-width: 1500px) {
+  .page-id-8341 .small-gold-star {
+		left: 17%;
+  }
+}
+
+.page-id-8341 .gold-star {
+	left: 80%;
+	position: absolute;
+	top: 10%;
+	width: 24%;
+	z-index: 0;
+	rotate: -10deg;
+}
+
+@media (min-width: 500px) {
+  .page-id-8341 .gold-star {
+		left: 80%;
+			position: absolute;
+		top: 10%;
+		width: 24%;
+		z-index: 0;
+		rotate: -10deg;
+  }
+}
+@media (min-width: 1500px) {
+.page-id-8341 .gold-star {
+	left: 50%;
+	position: absolute;
+	top: 0;
+	width: 24%;
+	z-index: 0;
+	rotate: -10deg;
+}
+}
+body.page-id-8225 .cz-block--carousel .swiper-button-next, body.page-id-8225 .cz-block--carousel .swiper-button-prev  {
+	filter: invert(1);
+	
+}
+
+/* Tulsa Christmas page mods */
+@media (max-width: 768px) {
+	.page-id-3274 .mobile-adj {
+		font-size: 34px !important;
+	}
+	.hide-mobile {
+		display: none !important;
+	}
+	.show-mobile {
+		display: table !important;
+	}
+}
+@media (min-width: 769px) {
+	.hide-mobile {
+		display: table !important;
+	}
+	.show-mobile {
+		display: none !important;
+	}
+}
+.hero {
+	border-radius: 0px;
+	margin-bottom:0;
+}
+		</style>
+		<style id='block-style-variation-styles-inline-css' type='text/css'>
+:root :where(.wp-block-button.is-style-outline--1 .wp-block-button__link){background: transparent none;border-color: currentColor;border-width: 2px;border-style: solid;color: currentColor;padding-top: 0.667em;padding-right: 1.33em;padding-bottom: 0.667em;padding-left: 1.33em;}
+:root :where(.wp-block-button.is-style-outline--2 .wp-block-button__link){background: transparent none;border-color: currentColor;border-width: 2px;border-style: solid;color: currentColor;padding-top: 0.667em;padding-right: 1.33em;padding-bottom: 0.667em;padding-left: 1.33em;}
+:root :where(.wp-block-button.is-style-outline--3 .wp-block-button__link){background: transparent none;border-color: currentColor;border-width: 2px;border-style: solid;color: currentColor;padding-top: 0.667em;padding-right: 1.33em;padding-bottom: 0.667em;padding-left: 1.33em;}
+/*# sourceURL=block-style-variation-styles-inline-css */
+</style>
+<link rel='stylesheet' id='wphb-3-css' href='https://churchonthemove.com/wp-content/uploads/hummingbird-assets/f4967408829e65919fdc029431b96a0b.css' type='text/css' media='all' />
+<style id='core-block-supports-inline-css' type='text/css'>
+.wp-elements-d494debb46617a4141c84d5eb7a3bec8 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--white);}.wp-container-core-columns-is-layout-9d6595d7{flex-wrap:nowrap;}.wp-elements-cd7df33e498484f47245b1de6f0da241 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--white);}.wp-elements-3a2376a940a3f5fd922124e2534426b3 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--white);}.wp-container-core-buttons-is-layout-16018d1d{justify-content:center;}.wp-elements-13ccf5b4b6c29c9d17d121846c1a0522 a:where(:not(.wp-element-button)){color:var(--wp--preset--color--white);}.wp-elements-5f5ec0a96d5f52181d27f94f3f516d3c a:where(:not(.wp-element-button)){color:var(--wp--preset--color--white);}
+/*# sourceURL=core-block-supports-inline-css */
+</style>
+<link rel='stylesheet' id='wphb-4-css' href='https://churchonthemove.com/wp-content/uploads/hummingbird-assets/75ca5933673085dd16c0bcf0764fda07.css' type='text/css' media='all' />
+
+</head>
+
+<body class="wp-singular page-template page-template-templates page-template-block-editor-template page-template-templatesblock-editor-template-php page page-id-18484 wp-embed-responsive wp-theme-church group-blog no-sidebar">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe data-src="https://www.googletagmanager.com/ns.html?id=GTM-KPBK5Z6"
+                  height="0" width="0" style="display:none;visibility:hidden" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" class="lazyload" data-load-mode="1"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+    <div class="header__wrapper">
+      
+                <header class="header header--floating">
+    <div class="header-section">
+        <div class="nav-menu">
+            <a class="menulinks"><i></i></a>
+            <ul id="menu-primary-menu" class="mainmenu"><li id="menu-item-150" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-150"><a href="https://churchonthemove.com/vision/">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-3630" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3630"><a href="https://churchonthemove.com/vision/">Vision</a></li>
+	<li id="menu-item-13930" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13930"><a href="https://churchonthemove.com/beliefs/">Beliefs</a></li>
+	<li id="menu-item-1390" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1390"><a href="https://churchonthemove.com/about/leadership/">Leadership</a></li>
+	<li id="menu-item-8156" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8156"><a href="https://churchonthemove.com/about/following-jesus/">Following Jesus</a></li>
+</ul>
+</li>
+<li id="menu-item-152" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-152"><a href="https://churchonthemove.com/churches">Locations</a>
+<ul class="sub-menu">
+	<li id="menu-item-10905" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10905"><a href="https://churchonthemove.com/locations/tulsa/">Tulsa</a></li>
+	<li id="menu-item-10906" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10906"><a href="https://churchonthemove.com/locations/brokenarrow/">Broken Arrow</a></li>
+	<li id="menu-item-10907" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10907"><a href="https://churchonthemove.com/locations/west/">West</a></li>
+</ul>
+</li>
+<li id="menu-item-1481" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1481"><a href="https://churchonthemove.com/watch/">Watch &#038; Listen</a>
+<ul class="sub-menu">
+	<li id="menu-item-13582" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13582"><a href="https://churchonthemove.com/watchonline">Church Online</a></li>
+	<li id="menu-item-1245" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1245"><a href="https://www.youtube.com/user/COTMTulsa/playlists?view=50&#038;sort=dd&#038;shelf_id=4">Past Messages</a></li>
+	<li id="menu-item-17792" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17792"><a href="https://churchonthemove.com/blogs-and-podcasts/">Blogs &#038; Podcasts</a></li>
+</ul>
+</li>
+<li id="menu-item-3251" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-3251"><a href="https://churchonthemove.com/getinvolved">Get Involved</a>
+<ul class="sub-menu">
+	<li id="menu-item-11010" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11010"><a href="https://churchonthemove.com/nextmove">Next Move</a></li>
+	<li id="menu-item-6632" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6632"><a href="https://churchonthemove.com/smallgroups">Find Community: Join a Group!</a></li>
+	<li id="menu-item-6780" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6780"><a href="https://churchonthemove.com/getinvolved/outreach">Outreach</a></li>
+	<li id="menu-item-6634" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6634"><a href="https://churchonthemove.com/volunteer/">Volunteer</a></li>
+	<li id="menu-item-9135" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9135"><a href="https://churchonthemove.com/missiontrips">Missions</a></li>
+	<li id="menu-item-18392" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18392"><a href="https://churchonthemove.com/cotmu">COTMU</a></li>
+</ul>
+</li>
+<li id="menu-item-4267" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4267"><a href="https://churchonthemove.com/give">Give</a></li>
+<li id="menu-item-8787" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8787"><a href="http://my.churchonthemove.com/connect">Contact</a></li>
+</ul>        </div>
+                    <div class="logo">
+                <a href="https://churchonthemove.com"><img data-src="https://churchonthemove.com/wp-content/uploads/2020/06/COTM_white_logo-p-500.png" alt="" title="COTM_white_logo-p-500" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" class="lazyload" style="--smush-placeholder-width: 500px; --smush-placeholder-aspect-ratio: 500/169;" data-srcset="https://churchonthemove.com/wp-content/uploads/2020/06/COTM_white_logo-p-500.png 500w, https://churchonthemove.com/wp-content/uploads/2020/06/COTM_white_logo-p-500-300x101.png 300w" data-sizes="auto" data-original-sizes="(max-width: 500px) 85vw, 500px"></a>
+            </div>
+            </div>
+</header>            
+  </div>
+
+
+
+<div class="wrapper">
+    <div class="container blocks-container">
+        <div class="at-above-post-page addthis_tool" data-url="https://churchonthemove.com/seeds"></div>
+<div class="cz-block--section__wrapper">
+	<section
+        role="region"
+		class="cz-block cz-block--section cz-block--has-background"
+		style="
+		 --cz-section-background-color: #000000; 																				                        						 --cz-section-border-top: 0px; 		 --cz-section-border-right: 0px; 		 --cz-section-border-bottom: 0px; 		 --cz-section-border-left: 0px; 			"
+			>
+				<div class="background-overlay"></div>
+
+		<div class="cz-block--section__inner container mx-auto">
+			
+
+<div style="height:0px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-9d6595d7 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"></div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:400px">
+<div style="height:80px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<h2 class="wp-block-heading has-text-align-center has-white-color has-text-color has-link-color wp-elements-d494debb46617a4141c84d5eb7a3bec8" style="font-size:80px">Seeds</h2>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"></div>
+</div>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div
+    class="cz-block cz-block--container container"
+    style="
+     --cz-container-width: 800px; --cz-container-margin: 0 auto; "
+>
+    
+
+<p class="has-text-align-center has-white-color has-text-color has-link-color wp-elements-cd7df33e498484f47245b1de6f0da241" style="font-size:30px">Thanks for stopping by! While we no longer distribute resources, you’re welcome to use any of our teaching and kids content available on YouTube and Spotify—we’re cheering you on as you serve your church!</p>
+
+
+
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="has-text-align-center has-white-color has-text-color has-link-color has-large-font-size wp-elements-3a2376a940a3f5fd922124e2534426b3"><strong>Kids on the Move</strong></p>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-16018d1d wp-block-buttons-is-layout-flex">
+<div class="wp-block-button is-style-outline is-style-outline--1"><a class="wp-block-button__link has-white-color has-text-color has-link-color has-medium-font-size has-custom-font-size wp-element-button" href="https://www.youtube.com/@KidsontheMove" style="border-radius:100px" target="_blank" rel="noreferrer noopener">KOTM Youtube</a></div>
+
+
+
+<div class="wp-block-button is-style-outline is-style-outline--2"><a class="wp-block-button__link has-white-color has-text-color has-link-color has-medium-font-size has-custom-font-size wp-element-button" href="https://open.spotify.com/artist/1ffZ8MgqBiJHjV2Z7oUWzW?si=lA1nsSUCSWCQRkbmEIjxOw" style="border-radius:100px" target="_blank" rel="noreferrer noopener">KOTM Spotify</a></div>
+</div>
+
+
+
+<p class="has-text-align-center has-white-color has-text-color has-link-color wp-elements-13ccf5b4b6c29c9d17d121846c1a0522"></p>
+
+
+
+<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="has-text-align-center has-white-color has-text-color has-link-color has-large-font-size wp-elements-5f5ec0a96d5f52181d27f94f3f516d3c"><strong>Church on the Move</strong></p>
+
+
+
+<div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-16018d1d wp-block-buttons-is-layout-flex">
+<div class="wp-block-button is-style-outline is-style-outline--3"><a class="wp-block-button__link has-white-color has-text-color has-link-color has-medium-font-size has-custom-font-size wp-element-button" href="https://www.youtube.com/@cotm" style="border-radius:100px">COTM Youtube</a></div>
+</div>
+
+
+
+<p class="has-text-align-center has-white-color has-text-color has-link-color wp-elements-13ccf5b4b6c29c9d17d121846c1a0522"></p>
+
+
+
+<div style="height:170px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+</div>
+
+
+		</div>
+	</section>
+</div>
+
+<!-- AddThis Advanced Settings above via filter on the_content --><!-- AddThis Advanced Settings below via filter on the_content --><!-- AddThis Advanced Settings generic via filter on the_content --><!-- AddThis Share Buttons above via filter on the_content --><!-- AddThis Share Buttons below via filter on the_content --><div class="at-below-post-page addthis_tool" data-url="https://churchonthemove.com/seeds"></div><!-- AddThis Share Buttons generic via filter on the_content -->    </div>
+</div>
+
+
+
+        <div class="location-section abcdef123" style="display: none;">
+            <div class="location-wrapper">
+                                        <div class="location-box">
+                                                                <h2>Tulsa & Online</h2>
+                                                                <div class="address-wrapper">
+                                        <p><strong>Address:</strong><br />
+1-244 &amp; 129th</p>
+<p><strong>Service Times:</strong><br />
+Saturday at 5:00 PM<br />
+Sunday at 10:00 AM</p>
+                                    </div>
+                                                                                            <a class="cta_button" href="#" target="">Get Directions</a>
+                                                    </div>
+                                        <div class="location-box">
+                                                                <h2>West</h2>
+                                                                <div class="address-wrapper">
+                                        <p><strong>Address:</strong><br />
+1-244 &amp; 129th</p>
+<p><strong>Service Times:</strong><br />
+Saturday at 5:00 PM<br />
+Sunday at 10:00 AM</p>
+                                    </div>
+                                                                                            <a class="cta_button" href="#" target="">Get Directions</a>
+                                                    </div>
+                                        <div class="location-box">
+                                                                <h2>Broken Arrow</h2>
+                                                                <div class="address-wrapper">
+                                        <p><strong>Address:</strong><br />
+1-244 &amp; 129th</p>
+<p><strong>Service Times:</strong><br />
+Saturday at 5:00 PM<br />
+Sunday at 10:00 AM</p>
+                                    </div>
+                                                                                            <a class="cta_button" href="#" target="">Get Directions</a>
+                                                    </div>
+                            </div>
+        </div>
+
+<footer class="site-footer 123">
+    <div class="footer-top">
+        <div class="footer-logo">
+                                <a href="https://churchonthemove.com" >
+                        <img data-src="https://churchonthemove.com/wp-content/uploads/2020/06/COTM_white_logo_footer-p-500.png" alt="" title="COTM_white_logo_footer-p-500" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" class="lazyload" style="--smush-placeholder-width: 500px; --smush-placeholder-aspect-ratio: 500/50;" data-srcset="https://churchonthemove.com/wp-content/uploads/2020/06/COTM_white_logo_footer-p-500.png 500w, https://churchonthemove.com/wp-content/uploads/2020/06/COTM_white_logo_footer-p-500-300x30.png 300w" data-sizes="auto" data-original-sizes="(max-width: 500px) 85vw, 500px">
+                    </a>
+                    </div>
+
+        <div class="footer_nav"><div class="footer_label">About</div><div class="menu-footer-about-menu-container"><ul id="menu-footer-about-menu" class="menu"><li id="menu-item-3626" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3626"><a href="https://churchonthemove.com/vision/">Vision</a></li>
+<li id="menu-item-13928" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13928"><a href="https://churchonthemove.com/beliefs/">Beliefs</a></li>
+<li id="menu-item-1387" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1387"><a href="https://churchonthemove.com/about/leadership/">Leadership</a></li>
+<li id="menu-item-8891" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8891"><a href="https://churchonthemove.com/about/following-jesus/">Following Jesus</a></li>
+</ul></div></div><div class="footer_nav"><div class="footer_label">Ministries</div><div class="menu-footer-ministries-menu-container"><ul id="menu-footer-ministries-menu" class="menu"><li id="menu-item-4591" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4591"><a href="https://churchonthemove.com/smallgroups">Find Community: Join a Group!</a></li>
+<li id="menu-item-7407" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7407"><a href="https://my.churchonthemove.com/groupfinder">Bible Studies</a></li>
+<li id="menu-item-18474" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18474"><a href="https://churchonthemove.com/cotmu">COTMU</a></li>
+<li id="menu-item-3131" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3131"><a href="https://churchonthemove.com/outreach">Outreach</a></li>
+<li id="menu-item-7404" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7404"><a href="https://churchonthemove.com/brotherhood">Men&#8217;s</a></li>
+<li id="menu-item-7405" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7405"><a href="https://churchonthemove.com/daughters">Women&#8217;s</a></li>
+<li id="menu-item-7406" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7406"><a href="https://www.churchonthemove.com/youngadults">Young Adults</a></li>
+<li id="menu-item-5239" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5239"><a href="https://churchonthemove.com/oneighty">Youth</a></li>
+<li id="menu-item-7408" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7408"><a href="https://churchonthemove.com/kids">Kids</a></li>
+<li id="menu-item-8937" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8937"><a href="https://churchonthemove.com/compassionoffering">Compassion Offering</a></li>
+<li id="menu-item-9136" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9136"><a href="https://churchonthemove.com/missiontrips">Mission Trips</a></li>
+</ul></div></div><div class="footer_nav"><div class="menu-footer-3rd-menu-container"><ul id="menu-footer-3rd-menu" class="menu"><li id="menu-item-13502" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13502"><a href="https://churchonthemove.com/watchonline">Watch</a></li>
+<li id="menu-item-1453" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1453"><a href="https://churchonthemove.com/Give/">Give</a></li>
+<li id="menu-item-1246" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1246"><a href="https://churchonthemove.com/jobs/">Jobs &#038; Internships</a></li>
+<li id="menu-item-17832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17832"><a href="https://churchonthemove.com/blogs-and-podcasts/">Blogs &#038; Podcasts</a></li>
+<li id="menu-item-7413" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7413"><a href="https://lincolnchristianschool.com/">Lincoln Christian School</a></li>
+<li id="menu-item-1698" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1698"><a href="https://churchonthemove.com/resource/crisis-help/">Crisis Help</a></li>
+<li id="menu-item-7414" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7414"><a href="https://my.churchonthemove.com/">Manage Your Account</a></li>
+<li id="menu-item-1378" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1378"><a href="https://churchonthemove.com/contact/">Contact</a></li>
+<li id="menu-item-12861" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12861"><a href="https://churchonthemove.com/privacypolicy">Privacy Policy</a></li>
+</ul></div></div><div class="footer_nav"></div>
+    </div>
+
+    <div class="footer-bottom">
+        <div class="footer-social">
+            <ul>
+                                        <li>
+                            <a href="https://www.facebook.com/cotmtulsa" target="_blank"><img data-src="https://churchonthemove.com/wp-content/uploads/2020/06/facebook.png" alt="" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" class="lazyload" style="--smush-placeholder-width: 75px; --smush-placeholder-aspect-ratio: 75/75;"></a>
+                        </li>
+                                        <li>
+                            <a href="https://www.instagram.com/churchonthemove/" target="_blank"><img data-src="https://churchonthemove.com/wp-content/uploads/2020/06/instagram.png" alt="" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" class="lazyload" style="--smush-placeholder-width: 75px; --smush-placeholder-aspect-ratio: 75/75;"></a>
+                        </li>
+                            </ul>
+        </div>
+    </div>
+    <!-- START Bright Edge Shortcode here -->
+    
+<div class="be-ix-link-block"><div class="be-related-link-container"><div class="be-label">Also of Interest</div><ul class="be-list"><li class="be-list-item"><a class="be-related-link" href="https://churchonthemove.com/kids/baptism">Kids Baptism</a></li><li class="be-list-item"><a class="be-related-link" href="https://churchonthemove.com/daughters">Upcoming Daughters Events</a></li><li class="be-list-item"><a class="be-related-link" href="https://churchonthemove.com/joseph">Joseph - Church On The Move</a></li></ul> </div></div>
+    <!-- END Bright Edge Shortcode here -->
+
+                <div class="copyright_wrap">
+                <p>© 2026 Church on the Move All Rights Reserved</p>
+            </div>
+    </footer>
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/church/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+    <!-- Meta Pixel Event Code -->
+    <script type='text/javascript'>
+        document.addEventListener( 'wpcf7mailsent', function( event ) {
+        if( "fb_pxl_code" in event.detail.apiResponse){
+            eval(event.detail.apiResponse.fb_pxl_code);
+        }
+        }, false );
+    </script>
+    <!-- End Meta Pixel Event Code -->
+        <div id='fb-pxl-ajax-code'></div><!-- Instagram Feed JS -->
+<script type="text/javascript">
+var sbiajaxurl = "https://churchonthemove.com/wp-admin/admin-ajax.php";
+</script>
+<div
+				id="hustle-popup-id-24"
+				class="hustle-ui hustle-popup hustle-palette--gray_slate hustle_module_id_24 module_id_24  "
+				
+			data-id="24"
+			data-render-id="0"
+			data-tracking="enabled"
+			
+				role="dialog"
+				aria-modal="true"
+				data-intro="no_animation"
+				data-outro="no_animation"
+				data-overlay-close="1"
+				data-close-delay="false"
+				
+				style="opacity: 0;"
+				aria-label="Tulsa Christmas Test popup"
+			><div class="hustle-popup-mask hustle-optin-mask" aria-hidden="true"></div><div class="hustle-popup-content"><div class="hustle-info hustle-info--default"><div class="hustle-main-wrapper"><div class="hustle-layout"><button class="hustle-button-icon hustle-button-close has-background">
+			<span class="hustle-icon-close" aria-hidden="true"></span>
+			<span class="hustle-screen-reader">Close this module</span>
+		</button><div class="hustle-layout-header"><h3 class="hustle-title">Tulsa Christmas Test</h3></div><div class="hustle-layout-content"><div class="hustle-content"><div class="hustle-content-wrap"><div class="hustle-group-content"><p>test test</p>
+</div></div></div></div></div></div></div></div></div><script data-cfasync="false" type="text/javascript">if (window.addthis_product === undefined) { window.addthis_product = "wpp"; } if (window.wp_product_version === undefined) { window.wp_product_version = "wpp-6.2.7"; } if (window.addthis_share === undefined) { window.addthis_share = {}; } if (window.addthis_config === undefined) { window.addthis_config = {"data_track_clickback":true,"ignore_server_config":true,"ui_atversion":"300"}; } if (window.addthis_layers === undefined) { window.addthis_layers = {}; } if (window.addthis_layers_tools === undefined) { window.addthis_layers_tools = []; } else {  } if (window.addthis_plugin_info === undefined) { window.addthis_plugin_info = {"info_status":"enabled","cms_name":"WordPress","plugin_name":"Share Buttons by AddThis","plugin_version":"6.2.7","plugin_mode":"WordPress","anonymous_profile_id":"wp-9bf86b9a1c91f1fb1200c81142eec8a3","page_info":{"template":"pages","post_type":""},"sharing_enabled_on_post_via_metabox":false}; } 
+                    (function() {
+                      var first_load_interval_id = setInterval(function () {
+                        if (typeof window.addthis !== 'undefined') {
+                          window.clearInterval(first_load_interval_id);
+                          if (typeof window.addthis_layers !== 'undefined' && Object.getOwnPropertyNames(window.addthis_layers).length > 0) {
+                            window.addthis.layers(window.addthis_layers);
+                          }
+                          if (Array.isArray(window.addthis_layers_tools)) {
+                            for (i = 0; i < window.addthis_layers_tools.length; i++) {
+                              window.addthis.layers(window.addthis_layers_tools[i]);
+                            }
+                          }
+                        }
+                     },1000)
+                    }());
+                </script> <script data-cfasync="false" type="text/javascript" src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=wp-9bf86b9a1c91f1fb1200c81142eec8a3"></script><script type="text/javascript" src="https://churchonthemove.com/wp-content/plugins/frontend-reset-password/assets/js/password-lost.js?ver=1.0.0" id="som_reset_password_script-js"></script>
+<script type="text/javascript" id="church-public-script-js-extra">
+/* <![CDATA[ */
+var CHURCHPUBLIC = {"ajax_url":"https://churchonthemove.com/wp-admin/admin-ajax.php","blog_page_link":"https://churchonthemove.com/blog/","site_url":"https://churchonthemove.com"};
+//# sourceURL=church-public-script-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://churchonthemove.com/wp-content/themes/church/js/public-script.js?ver=1772952179" id="church-public-script-js"></script>
+<script type="text/javascript" id="hui_scripts-js-extra">
+/* <![CDATA[ */
+var hustleSettings = {"mobile_breakpoint":"782"};
+//# sourceURL=hui_scripts-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://churchonthemove.com/wp-content/plugins/hustle/assets/hustle-ui/js/hustle-ui.min.js?ver=7.8.7" id="hui_scripts-js"></script>
+<script type="text/javascript" src="https://churchonthemove.com/wp-includes/js/underscore.min.js?ver=1.13.7" id="underscore-js"></script>
+<script type="text/javascript" id="hustle_front-js-extra">
+/* <![CDATA[ */
+var Modules = [{"settings":{"auto_close_success_message":"0","triggers":{"on_time_delay":"3","on_time_unit":"seconds","on_scroll":"scrolled","on_scroll_page_percent":20,"on_scroll_css_selector":"","enable_on_click_element":"1","on_click_element":".christmas-button","enable_on_click_shortcode":"0","on_exit_intent_per_session":"1","on_exit_intent_delayed_time":"0","on_exit_intent_delayed_unit":"seconds","on_adblock_delay":"0","on_adblock_delay_unit":"seconds","trigger":["click"]},"animation_in":"no_animation","animation_out":"no_animation","after_close":"keep_show","expiration":365,"expiration_unit":"days","after_optin_expiration":365,"after_optin_expiration_unit":"days","after_cta_expiration":365,"after_cta2_expiration":365,"after_cta_expiration_unit":"days","after_cta2_expiration_unit":"days","on_submit":"nothing","on_submit_delay":"5","on_submit_delay_unit":"seconds","close_cta":"0","close_cta_time":"0","close_cta_unit":"seconds","hide_after_cta":"keep_show","hide_after_cta2":"keep_show","hide_after_subscription":"keep_show","is_schedule":"0","schedule":{"not_schedule_start":"1","start_date":"11/17/2023","start_hour":"12","start_minute":"00","start_meridiem_offset":"am","not_schedule_end":"1","end_date":"11/23/2023","end_hour":"11","end_minute":"59","end_meridiem_offset":"pm","active_days":"all","week_days":[],"is_active_all_day":"1","day_start_hour":"00","day_start_minute":"00","day_start_meridiem_offset":"am","day_end_hour":"11","day_end_minute":"59","day_end_meridiem_offset":"pm","time_to_use":"server","custom_timezone":"UTC"},"allow_scroll_page":"0","close_on_background_click":"1","auto_hide":"0","auto_hide_unit":"seconds","auto_hide_time":"5","after_close_trigger":["click_close_icon"]},"module_id":"24","blog_id":"0","module_name":"Tulsa Christmas","module_type":"popup","active":"1","module_mode":"informational"}];
+var incOpt = {"conditional_tags":{"is_single":false,"is_singular":true,"is_tag":false,"is_category":false,"is_author":false,"is_date":false,"is_post_type_archive":false,"is_404":false,"is_front_page":false,"is_search":false},"is_admin":"","real_page_id":"18484","thereferrer":"http://seedsconference.com/","actual_url":"churchonthemove.com/seeds","full_actual_url":"https://churchonthemove.com/seeds","native_share_enpoints":{"facebook":"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fchurchonthemove.com%2Fseeds","twitter":"https://twitter.com/intent/tweet?url=https%3A%2F%2Fchurchonthemove.com%2Fseeds&text=Seeds","pinterest":"https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fchurchonthemove.com%2Fseeds","reddit":"https://www.reddit.com/submit?url=https%3A%2F%2Fchurchonthemove.com%2Fseeds","linkedin":"https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fchurchonthemove.com%2Fseeds","vkontakte":"https://vk.com/share.php?url=https%3A%2F%2Fchurchonthemove.com%2Fseeds","whatsapp":"https://api.whatsapp.com/send?text=https%3A%2F%2Fchurchonthemove.com%2Fseeds","email":"mailto:?subject=Seeds&body=https%3A%2F%2Fchurchonthemove.com%2Fseeds"},"ajaxurl":"https://churchonthemove.com/wp-admin/admin-ajax.php","page_id":"18484","page_slug":"seeds","is_upfront":"","script_delay":"3000","display_check_nonce":"f456202edc","conversion_nonce":"f451c5856e"};
+//# sourceURL=hustle_front-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://churchonthemove.com/wp-content/plugins/hustle/assets/js/front.min.js?ver=7.8.7" id="hustle_front-js"></script>
+<script type="text/javascript" id="wphb-lazy-load-js-extra">
+/* <![CDATA[ */
+var wphbGlobal = {"ajaxurl":"https://churchonthemove.com/wp-admin/admin-ajax.php","commentForm":"","preloadComment":""};
+//# sourceURL=wphb-lazy-load-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://churchonthemove.com/wp-content/plugins/wp-hummingbird/admin/assets/js/wphb-lazy-load.min.js?ver=3.19.0" id="wphb-lazy-load-js"></script>
+<script type="text/javascript" id="smush-lazy-load-js-before">
+/* <![CDATA[ */
+var smushLazyLoadOptions = {"autoResizingEnabled":true,"autoResizeOptions":{"precision":5,"skipAutoWidth":true}};
+//# sourceURL=smush-lazy-load-js-before
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://churchonthemove.com/wp-content/plugins/wp-smush-pro/app/assets/js/smush-lazy-load.min.js?ver=3.23.4" id="smush-lazy-load-js"></script>
+
+<!-- be_ixf, sdk, is -->
+</body>
+</html>

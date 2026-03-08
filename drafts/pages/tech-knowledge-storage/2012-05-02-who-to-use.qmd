@@ -1,0 +1,259 @@
+---
+title: 'Blogger VS Wordpress'
+date: '2012-05-02T05:11:00.0000000+00:00'
+draft: true
+blogger_type: 'PAGE'
+blogger_blog: 'Tech Knowledge Storage'
+blogger_status: 'LIVE'
+blogger_page_id: '5115816858715481738'
+blogger_filename: '/p/who-to-use.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Tech Knowledge Storage/feed.atom'
+---
+
+<div style="text-align: justify;">
+<h2 style="text-align: center;">
+
+
+<b>Which is better, Blogger or WordPress?</b></h2>
+<br />
+Blogger (a Google product) and WordPress are the two primary free blogging platforms. Are there others? Sure. There are many others. However, I will focus on these for two reasons. These are the two everyone usually uses, because they are widely supported and offer quite a bit for their free hosted blog. Also, these are the only two I use. I've tried many others and always wished I was back using these.</div>
+<div style="text-align: center;">
+<b><span style="font-size: large;"><a href="http://www.blogger.com/" target="_blank">Blogger</a></span></b>:</div>
+<div style="text-align: center;">
+<br /></div>
+<div style="text-align: center;">
+<b>Why I like Blogger:</b></div>
+<div style="text-align: justify;">
+<b><br /></b></div>
+<div style="text-align: justify;">
+A few of my Blogger Sites:</div>
+<div style="text-align: justify;">
+<a href="http://www.bulldogpublications.com/">http://www.bulldogpublications.com/</a>
+</div>
+<div style="text-align: justify;">
+<a href="http://empoweredtooprosper.blogspot.com/">http://empoweredtooprosper.blogspot.com/</a>
+</div>
+<div style="text-align: justify;">
+<a href="http://n2gs.blogspot.com/">http://n2gs.blogspot.com/</a>
+</div>
+<div style="text-align: justify;">
+<a href="http://darrellgwolfe.blogspot.com/">http://darrellgwolfe.blogspot.com/</a>
+</div>
+<div style="text-align: justify;">
+<a href="http://authorfun.blogspot.com/">http://authorfun.blogspot.com/</a>
+</div>
+<div style="text-align: justify;">
+<br /></div>
+<a href="/images/imported/blogger-googleusercontent-com/blogger-logo-2-72ea3afdc0f5.jpg" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em; text-align: justify;"><img border="0" height="200" src="/images/imported/blogger-googleusercontent-com/blogger-logo-2-8547849f0e42.jpg" width="200" /></a><b></b><br />
+<div style="text-align: justify;">
+<b><b>Blogger is almost always my&nbsp;preferred&nbsp;provider.</b> They just make things SO user friendly. There is virtually NO technical/HTML type knowledge needed to use Blogger. It's most point and click design and typing into a box, just like an email. Their spell check isn't the best, if you have trouble spelling you can use Microsoft Word to write the blog post, then copy paste that into Blogger and use the Blogger tools to add pictures or other content.</b></div>
+<br />
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+<b>HOSTING: They will host your domain name for free!&nbsp;</b></div>
+<div style="text-align: justify;">
+Most free blogging&nbsp;platforms&nbsp;give you a free&nbsp;sub-domain: Example.Blogspot.Com. But Blogger will host your master domain for free. That means if you want to go to a domain purchasing site, my favorite is <a href="http://domain.com/">Domain.Com</a>, and pay about $10 for a year to have your own domain you can list have it hosted by Blogger for <b>FREE</b>. See&nbsp;<a href="http://www.bulldogpublications.com/">http://www.bulldogpublications.com/</a></div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+<b>Monetized</b>. Blogger not only allows, but encourages you to monetize your blog. This means adding ad's, affiliates, etc... They make it incredibly easy to do too with some Google Ads and Amazon Ads built right into the gadget options.&nbsp;
+</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+Knowing something about HTML can be helpful, but it's not&nbsp;necessary. For example. Let's say you have an awesome You Tube video you found and it goes just GREAT with the topic you were&nbsp;writing&nbsp;about. If you know how to paste a You Tube video into the post it's helpful. Knowing just a few BASIC things about HTML helps make this easier. However with Blogger, ever that isn't ABSOLUTELY necessary.</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+Blogger with allow you to paste a picture into a post and then just click and drag the picture in the post to position it where you want it to be. These auto features make it easy for the blog author to focus on content.&nbsp;Whether&nbsp;you are advanced or beginner or pre-beginner, you can&nbsp;navigate&nbsp;Blogger and create your blog easily.</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+Pages. You can create a few static pages to add some clarity and content to your site. A good static page for most people to add is an "About" page. This just tells people who you are, why this site was created, and/or your contact information.&nbsp;</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+<b>Re-Branding:</b> Blogger makes it SO easy to re-brand yourself. Let's say you started your blog site as ExampleOne.Blogspot.Com. Then you decided that didn't really fit the vision, once you have only NOW that you created the site, clarified your vision. It's a simple thing to change the domain name to ExampleTwo.Blogspot.Com. Remember than anything you saved with links to the old name will no longer work. So if you saved a link to your page, or a specific post, of you posted a link on a facebook page... ALL of that is now not going to function when you change the domain name. BUT if you are SURE you want to change it, it can be done with VERY LITTLE fuss! Just click in the edit domain box, and change the name. Used to love fish, now you like&nbsp;puppies? FISHY.Blogspot.Com can become PUPPY.Blogspot.Com in moments.&nbsp;</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: center;">
+<b>The Downsides:</b></div>
+<div style="text-align: justify;">
+Blogger does not allow&nbsp;sub-pages. In other words on a real/full website you have pages and sub pages. You often see these are drop downs as you click on a master&nbsp;category. If you want this&nbsp;feasibility&nbsp;Blogger will not do it. Even adding pages is new for Blogger.</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+Blogger templates are limited. You have a few basic master templates, and then you can mess with colors and background images. Some sites indicate that you can go in and paste your own master HTML and create your own template, but I don't know enough about HTML to mess with that. Again, Blogger is for user friendly "computer dummies". It's GREAT for ease of use, but in ease of use comes certain limitations.&nbsp;</div>
+<div style="text-align: justify;">
+<b><br /></b></div>
+<div style="text-align: justify;">
+Those are the only limitations I run into.&nbsp;</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: center;">
+<b><span style="font-size: large;"><a href="http://wordpress.com/" target="_blank">Word Press</a></span></b>:</div>
+<div style="text-align: center;">
+<br /></div>
+<div style="text-align: center;">
+<b>Why I like WordPress:</b></div>
+<div style="text-align: justify;">
+<b><br /></b></div>
+<div style="text-align: justify;">
+A few of my WordPress sites:</div>
+<div style="text-align: justify;">
+<a href="http://movingtotexasinfo.wordpress.com/">http://movingtotexasinfo.wordpress.com/</a>
+</div>
+<div style="text-align: justify;">
+<a href="http://wfconcepts.wordpress.com/">http://wfconcepts.wordpress.com/</a>
+</div>
+<div style="text-align: justify;">
+<a href="http://kogconcepts.wordpress.com/">http://kogconcepts.wordpress.com/</a>
+</div>
+<div style="text-align: justify;">
+<a href="http://yourtopos.wordpress.com/">http://yourtopos.wordpress.com/</a>
+</div>
+<div style="text-align: justify;">
+<a href="http://towdah.wordpress.com/">http://towdah.wordpress.com/</a>
+</div>
+<div style="text-align: justify;">
+<a href="http://wordchurchfinder.wordpress.com/">http://wordchurchfinder.wordpress.com/</a>
+</div>
+<div style="text-align: justify;">
+<b><br /></b></div>
+<div style="text-align: justify;">
+Word Press is more like having a<b> full website</b>, with a blogging function. You can even choose whether you want the blog posts to post onto the main page or some other section of the site, having a standard welcome page for the visitors too see first.&nbsp;</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: left;">
+<a href="/images/imported/blogger-googleusercontent-com/wordpress-logo-81e81158452c.jpg" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em; text-align: justify;"><img border="0" height="200" src="/images/imported/blogger-googleusercontent-com/wordpress-logo-6efba966376c.jpg" width="199" /></a></div>
+<div style="text-align: justify;">
+It allows for<b> more templates</b> than you can shake a stick at and more come in by the day. Since it's partially user created, by many who do have technical knowledge, new templates come in all the time and they are cooler by the day. There are even templates you can pay for already in the site, just pay for it and use it.</div>
+<br />
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+Because of it's&nbsp;sub-paging&nbsp;features I typically use WordPress as a way to <b>organize </b>my thoughts on a subject. If I'm&nbsp;writing&nbsp;a book I can paste in the pages and start to organize chapters by simply moving around the&nbsp;sub-pages. However, as many of these thoughts are things I'm not ready to take public many of my blogs are private (you can't view them unless I put you in as allowed) and seldom used, as many of these projects are decades out. However it's a GREAT place to store research for some project or dream that you are not ready to act on yet. I even created a lifebook on WordPress to act as a dream book.&nbsp;</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+<b>Hosting</b>: <b>Wordpress will ALSO host your domain name</b> that you bought from a domain source, like <a href="http://domain.com/">Domain.Com</a>, but you do have to pay for it. The fee is not much, in fact it's only about $10-20 a year. So for about $30 you can have a fully functioning website, <b>WAY CHEAPER</b> than those other places that want to charge you $5/Month indefinitely. They even make getting a domain easy. You can purchase a master domain name through their website for less than buying one&nbsp;elsewhere&nbsp;and hosting it with them.&nbsp;</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+<b>TOOLS</b>: There are LOTS of tools available with WordPress. You can post, page, use the widget feature to add other things to your site. You can customize your template, some templates allow more and some less customization, so play with different ones until you find a few you really like.</div>
+<div style="text-align: center;">
+<br /></div>
+<div style="text-align: center;">
+<b style="text-align: -webkit-auto;">The Downsides:</b>
+</div>
+<div style="text-align: justify;">
+<b><br /></b></div>
+<div style="text-align: justify;">
+<b>NO MONETIZING. </b>You can monetize with WordPress if you are using their web-building tool on another companies hosted site. But you cannot monetize your free blog. They take the monetizing for themselves. As such this feels a little aristocratic compared to the "share the love" feeling of Blogger.&nbsp;</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+<b>Limited Changes.</b> The templates that are available are Amazing! Hands down your site will likely look better with WordPress. But there are only a limited few things you can change, some templates allow practically no change. You cannot decide where content boxes will be on the page, unless the template has allowed that as an option, which is rarely does.&nbsp;</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+<b>Technical&nbsp;Know How: </b>It takes a slight bit more technical know how to work with WordPress. Not a LOT more, but more. The interface itself is more overwhelming to get used to. With more creative tools comes more stuff to learn and less time just creating great content! Pictures, for example, are not as easy to paste into a post. There is more manual tweaking, pulling up new screens, choosing options, etc... It's not the simple point, click, drag of Blogger.</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+<b>Re-Branding:&nbsp;</b>If you want to change the URL of your site ExampleOne.WordPress.Com to ExampleTwo.WordPress.Com you have to create a whole new site, export the current site to a file on your computer then import the site into the new URL. Then you have to re-set things, because many things don't transfer over. ANNOYING! So make SURE you are SURE you like the name once you pick it, or you'll have a time trying to change it. <br />
+<br />
+*<b>ReBranding Update</b>* You can now change your URL. It is not NEARLY as clear how to do it without a bunch of hunting as Blogger makes it, but it can be done now.<br />
+<br />
+<ul>
+<li>You must first visit the dashboard for any of your sites.&nbsp;</li>
+<ul>
+<li>NOT the main dashbord that says "my blogs" but any of your sites individual dashboards. This only brings up a list of your blogs but not the full dashboard for all your blogs. CONFUSING? Yes! Both say Dashboard and My Blogs. But they take you to different places.&nbsp;</li>
+</ul>
+<li>THEN AFTER you pulled up the dashboard for an individual site:</li>
+<ul>
+<li>Go to the top left&nbsp;</li>
+<li>Go to dashboard-my blogs&nbsp;</li>
+<li>and a list of all your blogs, roles in blogs, etc comes up.&nbsp;</li>
+</ul>
+<li>THEN there will be a link under each blog that says</li>
+<ul>
+<li>Change Blog Address or Transfer Blog</li>
+<li>BUT the link is invisible until you scroll your mouse over that blogs name...&nbsp;</li>
+<ul>
+<li>I'm getting the idea that they don't WANT you to fix your blog URLing mistakes?</li>
+</ul>
+</ul>
+<li>THEN you may select the new URL and whether you want to change your WordPress username (probably not so say "no") and do you want to TOTALLY erase your old URL? Probably not, unless you are sure, so leave that unchecked.&nbsp;</li>
+<li>THEN you can hit "review my changes"</li>
+<li>ONLY THEN will you find out if the new URL is even available.</li>
+<li>If it is submit</li>
+<li>If it is not, do it again with a new try...&nbsp;</li>
+<li>WHEW we did it!</li>
+</ul>
+<i>Uh... WordPress... we have a request... get a clue from Blogger and make this easier! Just a hint: when I pull up my domain on blogger I can just type in a new Sub URL and it asks if I'm sure I want to change it with a disclosure statement... It's like, ONE step instead of many. Just a thought!&nbsp;</i><br />
+<ul>
+<li><a href="http://en.support.wordpress.com/moving-a-blog/">http://en.support.wordpress.com/moving-a-blog/</a>
+</li>
+<li><a href="http://en.support.wordpress.com/changing-blog-address/">http://en.support.wordpress.com/changing-blog-address/</a>
+</li>
+<li><a href="http://en.support.wordpress.com/my-blogs/">http://en.support.wordpress.com/my-blogs/</a>
+</li>
+<li><a href="http://en.support.wordpress.com/user-roles/">http://en.support.wordpress.com/user-roles/</a>
+</li>
+</ul>
+</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+I generally feel more confined, between monetizing and personalizing with WordPress. But since much of the work has been done for me, I am also apt to get a slightly cooler looking site. Tough call.&nbsp;</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: center;">
+<b>Conclusion:</b></div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+Both Blogger and WordPress are GREAT! They both serve great needs in the blogosphere (fancy word for all the people writing, reading, and benefiting from blogs. I suggest, if you are not sure, try both. Create the same website with both tools.&nbsp;</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+MyWesbsite.Blogspot.com AND MyWebsite.WordPress.Com</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+See what you can do, what you can manipulate, change, etc. Find out everything you can about the two and how they function, how they are similar, and how they differ. Then go with the one you like best.</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+If you really want to be wild, try creating a full website with WordPress and setting up a page link to a Blogger Site as your blog for the website. Here are two similar sites, with the different providers just for a taste:</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+I even tried two WordPress designs. I still haven't fully decided on which one I like best... maybe you can vote! Comment below on which one you like best. Ignore the sub-domain name of the second one, I didn't know what I was going to call it yet when I did that one.&nbsp;</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+<a href="http://txli.blogspot.com/">http://txli.blogspot.com/</a>
+</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+<a href="http://txliving.wordpress.com/">http://txliving.wordpress.com/</a>
+</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+<a href="http://txli.wordpress.com/">http://txli.wordpress.com/</a>
+</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+<i>Thank you for visiting this site</i>, Darrell G. Wolfe</div>
+<div style="text-align: justify;">
+<br /></div>

@@ -1,0 +1,32 @@
+---
+title: 'Ministries | Ministerios'
+date: '2019-06-21T15:18:00.0010000+00:00'
+draft: true
+blogger_type: 'PAGE'
+blogger_blog: 'El Amor de Calvario'
+blogger_status: 'DRAFT'
+blogger_page_id: '4790372956093421653'
+blogger_filename: '/p/ministries.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/El Amor de Calvario/feed.atom'
+---
+
+<h3>
+Sundays</h3>
+<div>
+Services are held in English and Spanish every Sunday morning at 10:30 am PST.<br />
+<div>
+<br /></div>
+Los servicios se llevan a cabo en inglés y español todos los domingos por la mañana a las 10:30 am PST.<br />
+<br />
+TEST</div>
+<div>
+<h3>
+Children/Ninos</h3>
+</div>
+<div>
+We offer children's ministry for ages 0-10 in our children's room located inside the main sanctuary.<br />
+<br />
+Ofrecemos ministerio para niños de 0 a 10 años en nuestra habitación para niños ubicada dentro del santuario principal.<br />
+<div>
+<br /></div>
+</div>

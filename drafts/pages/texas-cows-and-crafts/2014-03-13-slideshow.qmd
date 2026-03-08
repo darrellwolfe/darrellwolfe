@@ -1,0 +1,46 @@
+---
+title: 'Slideshow'
+date: '2014-03-13T01:48:00.0000000+00:00'
+draft: true
+blogger_type: 'PAGE'
+blogger_blog: 'Texas Cows and Crafts'
+blogger_status: 'LIVE'
+blogger_page_id: '8169868033970696278'
+blogger_filename: '/p/slideshow.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Texas Cows and Crafts/feed.atom'
+---
+
+<div style="text-align: center;">
+<span style="color: #660000; font-size: large;"><b>Here are the &nbsp;sideshows&nbsp;of all the things I have created.</b></span></div>
+<div style="text-align: center;">
+<span style="color: #660000; font-size: large;"><b>Thank you for Visiting!!!!!!</b></span>
+<span style="color: #660000; font-size: large;"><b><br /></b></span>
+</div>
+<div style="text-align: center;">
+<span style="color: #660000; font-size: large;"><b><br /></b></span></div>
+<div style="background: #5e3f9d; border-radius: 20px; box-shadow: inset 0 0px 10px rgba(0, 0, 0, 0.5), 0 1px 0 #000; text-align: center;">
+<embed flashvars="host=picasaweb.google.com&amp;hl=en_US&amp;feat=flashalbum&amp;RGB=0x5e3f9d&amp;feed=https%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2F115276805483167457930%2Falbumid%2F5988507088583349361%3Falt%3Drss%26kind%3Dphoto%26hl%3Den_US" height="192" pluginspage="http://www.macromedia.com/go/getflashplayer" src="https://photos.gstatic.com/media/slideshow.swf" type="application/x-shockwave-flash" width="288"></embed></div>
+<br />
+<br />
+<div style="background: #77b07d; border-radius: 20px; box-shadow: inset 0 0px 10px rgba(0, 0, 0, 0.5), 0 1px 0 #000; text-align: center;">
+<embed flashvars="host=picasaweb.google.com&amp;hl=en_US&amp;feat=flashalbum&amp;RGB=0x77b07d&amp;feed=https%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2F115276805483167457930%2Falbumid%2F5988501141835969361%3Falt%3Drss%26kind%3Dphoto%26hl%3Den_US" height="192" pluginspage="http://www.macromedia.com/go/getflashplayer" src="https://photos.gstatic.com/media/slideshow.swf" type="application/x-shockwave-flash" width="288"></embed></div>
+<br />
+<br />
+<div style="background: #e06270; border-radius: 20px; box-shadow: inset 0 0px 10px rgba(0, 0, 0, 0.5), 0 1px 0 #000; text-align: center;">
+<embed flashvars="host=picasaweb.google.com&amp;hl=en_US&amp;feat=flashalbum&amp;RGB=0xe06270&amp;feed=https%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2F115276805483167457930%2Falbumid%2F5988483804293351713%3Falt%3Drss%26kind%3Dphoto%26hl%3Den_US" height="192" pluginspage="http://www.macromedia.com/go/getflashplayer" src="https://photos.gstatic.com/media/slideshow.swf" type="application/x-shockwave-flash" width="288"></embed></div>
+<div style="text-align: left;">
+<br /></div>
+<div style="text-align: center;">
+<span style="color: #660000; font-size: large;"><b><br /></b></span></div>
+<div style="background: #5e7a88; border-radius: 20px; box-shadow: inset 0 0px 10px rgba(0, 0, 0, 0.5), 0 1px 0 #000; text-align: center;">
+<embed flashvars="host=picasaweb.google.com&amp;hl=en_US&amp;feat=flashalbum&amp;RGB=0x5e7a88&amp;feed=https%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2F115276805483167457930%2Falbumid%2F5988242110869362465%3Falt%3Drss%26kind%3Dphoto%26hl%3Den_US" height="192" pluginspage="http://www.macromedia.com/go/getflashplayer" src="https://photos.gstatic.com/media/slideshow.swf" type="application/x-shockwave-flash" width="288"></embed></div>
+<br />
+<br />
+<div style="background: #b12d3b; border-radius: 20px; box-shadow: inset 0 0px 10px rgba(0, 0, 0, 0.5), 0 1px 0 #000; text-align: center;">
+<embed flashvars="host=picasaweb.google.com&amp;hl=en_US&amp;feat=flashalbum&amp;RGB=0xb12d3b&amp;feed=https%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2F115276805483167457930%2Falbumid%2F5990069854381562561%3Falt%3Drss%26kind%3Dphoto%26hl%3Den_US" height="192" pluginspage="http://www.macromedia.com/go/getflashplayer" src="https://photos.gstatic.com/media/slideshow.swf" type="application/x-shockwave-flash" width="288"></embed></div>
+<br />
+<br />
+<div style="background: #5e3f9d; border-radius: 20px; box-shadow: inset 0 0px 10px rgba(0, 0, 0, 0.5), 0 1px 0 #000; text-align: center;">
+<embed flashvars="host=picasaweb.google.com&amp;hl=en_US&amp;feat=flashalbum&amp;RGB=0x5e3f9d&amp;feed=https%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2F115276805483167457930%2Falbumid%2F5988505180570627025%3Falt%3Drss%26kind%3Dphoto%26hl%3Den_US" height="192" pluginspage="http://www.macromedia.com/go/getflashplayer" src="https://photos.gstatic.com/media/slideshow.swf" type="application/x-shockwave-flash" width="288"></embed></div>
+<br />
+<br />

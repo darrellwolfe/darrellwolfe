@@ -1,0 +1,12 @@
+---
+title: 'Preston''s Blog'
+date: '2010-12-07T16:51:00.0010000+00:00'
+draft: true
+blogger_blog: 'Reserved for Preston'
+blogger_status: 'LIVE'
+blogger_post_id: '1530617420869345303'
+blogger_filename: '/2010/12/prestons-blog.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Reserved for Preston/feed.atom'
+---
+
+I'm reserving this URL for you to use some day.

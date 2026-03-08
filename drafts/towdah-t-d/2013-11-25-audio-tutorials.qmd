@@ -1,0 +1,49 @@
+---
+title: 'Audio Tutorials'
+date: '2013-11-25T01:40:00.0010000+00:00'
+draft: true
+blogger_blog: 'Towdah: tÅÂ·dÃ¤'''
+blogger_status: 'LIVE'
+blogger_post_id: '1730027543350082659'
+blogger_filename: '/2013/11/audio-tutorials.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Towdah_ tÅÂ·dÃ¤_/feed.atom'
+categories:
+  - 'Audio 101'
+---
+
+<h4>
+<div style="text-align: center;">
+Audio 101</div>
+<div style="text-align: center;">
+Audio Tutorials<br />
+<br /></div>
+</h4>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://www.youtube.com/user/lyndapodcast?feature=watch" target="_blank">Lynda.Com</a> has many great Audio Tutorials.&nbsp;</div>
+<div class="separator" style="clear: both; text-align: center;">
+<br /></div>
+<div class="separator" style="clear: both; text-align: center;">
+Phase Cancellation</div>
+<div class="separator" style="clear: both; text-align: center;">
+<object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="/images/imported/ytimg-googleusercontent-com/0-58fbe38fcec3.jpg" height="266" width="320"><param name="movie" value="https://youtube.googleapis.com/v/_N0ER4A73QE&source=uds" /><param name="bgcolor" value="#FFFFFF" /><param name="allowFullScreen" value="true" /><embed width="320" height="266"  src="https://youtube.googleapis.com/v/_N0ER4A73QE&source=uds" type="application/x-shockwave-flash" allowfullscreen="true"></embed></object></div>
+<div class="separator" style="clear: both; text-align: center;">
+<br /></div>
+<div class="separator" style="clear: both; text-align: center;">
+<br /></div>
+<div style="text-align: center;">
+Microphone Types<br />
+<div class="separator" style="clear: both; text-align: center;">
+<object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="/images/imported/ytimg-googleusercontent-com/0-d9d917c6254e.jpg" height="266" width="320"><param name="movie" value="https://youtube.googleapis.com/v/2edewYkE_f0&source=uds" /><param name="bgcolor" value="#FFFFFF" /><param name="allowFullScreen" value="true" /><embed width="320" height="266"  src="https://youtube.googleapis.com/v/2edewYkE_f0&source=uds" type="application/x-shockwave-flash" allowfullscreen="true"></embed></object></div>
+<br />
+Electromagnets are the basis for microphones and loudspeakers and many other devices we use in audio. Excess electrons also escape power chords and end up in mic cables which is why you should try to run your power chords separate from mic cables and not side by side. Here is an interesting study of electromagnets.<br />
+<div class="separator" style="clear: both; text-align: center;">
+<object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="/images/imported/ytimg-googleusercontent-com/0-5ff910585773.jpg" height="266" width="320"><param name="movie" value="https://youtube.googleapis.com/v/LdGKpjfo1_k&source=uds" /><param name="bgcolor" value="#FFFFFF" /><param name="allowFullScreen" value="true" /><embed width="320" height="266"  src="https://youtube.googleapis.com/v/LdGKpjfo1_k&source=uds" type="application/x-shockwave-flash" allowfullscreen="true"></embed></object></div>
+<div class="separator" style="clear: both; text-align: center;">
+<br /></div>
+<div class="separator" style="clear: both; text-align: center;">
+Pro Tools Building Your Mix</div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<object width="320" height="266" class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="https://ytimg.googleusercontent.com/vi/hb2sZkcke4U/0.jpg"><param name="movie" value="https://youtube.googleapis.com/v/hb2sZkcke4U&source=uds" /><param name="bgcolor" value="#FFFFFF" /><param name="allowFullScreen" value="true" /><embed width="320" height="266"  src="https://youtube.googleapis.com/v/hb2sZkcke4U&source=uds" type="application/x-shockwave-flash" allowfullscreen="true"></embed></object></div>
+<br />
+Darrell G. Wolfe, Towdah!</div>

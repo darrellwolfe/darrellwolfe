@@ -1,0 +1,614 @@
+---
+title: 'No Hiding - Shelley'
+date: '2019-05-27T06:53:00.0000000+00:00'
+draft: true
+blogger_blog: '(My Journal) Fed By Faith'
+blogger_status: 'LIVE'
+blogger_post_id: '6227281345575592460'
+blogger_filename: '/2019/05/no-hiding-shelley.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/(My Journal) Fed By Faith/feed.atom'
+---
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<div style="-webkit-text-stroke-width: 0px; color: #1c1e21; font-family: &quot;Helvetica Neue&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; font-size: 12px; font-style: normal; font-variant-caps: normal; font-variant-ligatures: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-decoration-color: initial; text-decoration-style: initial; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;">
+</div>
+<br />
+<div class="_li" id="u_0_k" style="-webkit-text-stroke-width: 0px; color: #1c1e21; font-family: &quot;Helvetica Neue&quot;, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif; font-size: 12px; font-style: normal; font-variant-caps: normal; font-variant-ligatures: normal; font-weight: 400; letter-spacing: normal; orphans: 2; overflow: initial; text-align: start; text-decoration-color: initial; text-decoration-style: initial; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px;">
+<div class="uiContextualLayerParent" id="globalContainer" style="font-family: inherit; margin: 0px auto; min-width: 500px; padding: 0px; position: relative; width: initial; zoom: 1;">
+<div class="fb_content clearfix " id="content" role="" style="font-family: inherit; margin: 0px; min-height: unset; outline: none; padding: 0px; width: auto; zoom: 1;">
+<div class="_2sdm" id="u_0_t" style="-webkit-font-smoothing: antialiased; background-color: rgba(0, 0, 0, 0.05); font-family: inherit;">
+<div class="_li" style="font-family: inherit; overflow: initial;">
+<div class="_4sp8" style="background-color: white; display: flex; font-family: inherit; font-size: 14px; min-width: 500px;">
+<div aria-labelledby="js_3 js_6" class="_1t2u" role="main" style="border-left: 1px solid rgba(0, 0, 0, 0.2); display: flex; flex-direction: column; flex: 3 1 0%; font-family: inherit; min-width: 0px;">
+<span class="_mh6 _wsc" id="cch_f1b632c6d7ad248" style="display: flex; flex-direction: column; flex: 3 1 0%; font-family: inherit; min-width: 0px;"><div class="_20bp" style="display: flex; flex-direction: row-reverse; flex: 1 1 0%; font-family: inherit;">
+<div class="_4_j4" role="presentation" style="display: flex; flex-direction: column; flex: 2 0 0%; font-family: inherit; overflow: hidden; position: relative;">
+<div class="_4u-c _1wfr _9hq" style="font-family: inherit; height: 507px; padding: 0px 0px 0px 12px; position: relative;">
+<div class="_5f0v uiScrollableArea native" height="100%" style="direction: ltr; font-family: inherit; height: 507px; outline: none !important; overflow: hidden; position: relative;" tabindex="0">
+<div class="uiScrollableAreaWrap scrollable" style="font-family: inherit; height: 507px; outline: none; overflow: hidden scroll; overscroll-behavior: contain contain; position: relative;">
+<div class="uiScrollableAreaBody" style="direction: ltr; font-family: inherit; position: relative; width: auto !important;">
+<div class="uiScrollableAreaContent" style="font-family: inherit;">
+<div aria-label="Messages" class="__i_" role="region" style="font-family: inherit; font-size: 14px; margin: 0px 10px 0px 0px; padding: 0px 20px 0px 0px; position: relative;">
+<div id="js_2" style="font-family: inherit;">
+<div style="font-family: inherit;">
+<div class="_1t_p clearfix" style="font-family: inherit; margin-bottom: 15px; position: relative; zoom: 1;">
+<div class="_41ud" style="font-family: inherit; margin-left: 36px;">
+<div class="clearfix _o46 _3erg _3i_m _nd_ direction_ltr text_align_ltr" style="direction: ltr; font-family: inherit; position: relative; text-align: left; white-space: pre-wrap; zoom: 1;">
+<div class="_5z-5 _3058 _ui9 _hh7 _6ybn _s1- _52mr _43by _3oh-" data-hover="tooltip" data-tooltip-content="2:46 PM" data-tooltip-position="right" id="js_hx" style="background-color: #0099ff; border-radius: 1.3em 1.3em 4px; box-sizing: content-box; clear: right; color: white; float: right; font-family: inherit; margin: 1px 0px 18px; max-width: 55%; outline: none; overflow-wrap: break-word; padding: 6px 12px 7px; position: relative; user-select: text;">
+<div aria-label="Just please let me know ahead of time so I'm not waiting... :)" class="_aok" style="font-family: inherit; outline: none;" tabindex="0">
+<span class="_3oh- _58nk" style="font-family: inherit; user-select: text;"><span style="font-family: inherit;">Just please let me know ahead of time so I'm not waiting... <img alt="" class="_1ift _2560 img" src="/images/imported/static-xx-fbcdn-net/1f642-95ee8d2831d9.png" style="border: 0px; display: inline-block; height: 16px; margin: 0px 1px; pointer-events: none; vertical-align: middle; width: 16px;" /></span></span></div>
+<div class="_4kf7 preview" style="bottom: -13px; cursor: pointer; font-family: inherit; padding: 0px 2px; position: absolute; right: 0px; text-align: right; z-index: 1;">
+<div class="_7ef9" data-hover="tooltip" data-tooltip-content="Shelley Hunter" style="display: inline-flex; font-family: inherit; margin-left: 5px;">
+<div class="_aou" role="button" style="align-items: center; background: rgb(255, 255, 255); border-radius: 10px; bottom: -15px; box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 4px; color: #626262; display: flex; font-family: inherit; justify-content: center;" tabindex="0">
+<span class="_4kf5" style="align-items: center; background: rgb(255, 255, 255); border-radius: 50%; display: flex; font-family: inherit; font-size: 14px; height: 20px; justify-content: center; line-height: 0; margin-left: 0px; min-width: 20px; z-index: 1;"><span style="font-family: inherit;"><img alt="" class="_1ift _5m3a img" src="/images/imported/static-xx-fbcdn-net/1f622-9da7550c9ce1.png" style="border: 0px; display: inline-block; height: 1em; margin: 0px 1px; pointer-events: none; vertical-align: middle;" /></span></span><span class="_4kf5 _4kf6" style="align-items: center; background: rgb(255, 255, 255); border-radius: 50%; box-sizing: border-box; display: flex; font-family: inherit; font-size: 12px; font-weight: 600; height: 20px; justify-content: center; line-height: 0; margin-left: -5px; margin-right: -3px; min-width: 20px; padding: 4px;">1</span></div>
+</div>
+</div>
+</div>
+</div>
+<div class="clearfix _o46 _3erg _3i_m _nd_ direction_ltr text_align_ltr" style="direction: ltr; font-family: inherit; position: relative; text-align: left; white-space: pre-wrap; zoom: 1;">
+<div class="_5z-5 _3058 _ui9 _hh7 _6ybn _s1- _52mr _43by _3oh-" data-hover="tooltip" data-tooltip-content="2:47 PM" data-tooltip-position="right" id="js_ik" style="background-color: #0099ff; border-radius: 1.3em 4px 1.3em 1.3em; box-sizing: content-box; clear: right; color: white; float: right; font-family: inherit; margin: 1px 0px 10px; max-width: 55%; outline: none; overflow-wrap: break-word; padding: 6px 12px 7px; position: relative; user-select: text;">
+<span class="_40fu" data-hover="none" style="direction: ltr; float: right; font-family: inherit;"><span class="_1z_2 _2u_d" style="align-items: center; display: flex; flex-direction: row-reverse; font-family: inherit; position: absolute; right: 351.398px; top: 32.6818px; transform: translate(-10%, -50%); width: 100px;"><div style="font-family: inherit; margin: 0px;">
+</div>
+<div style="font-family: inherit; margin: 0px 5px;">
+</div>
+<div style="font-family: inherit;">
+</div>
+</span></span><div aria-label="Planning to be working on the Letter anyway if you're too busy, but I'm feeling a little fragile so a heads up would help. Thanks." class="_aok" style="font-family: inherit; outline: none;" tabindex="0">
+<span class="_3oh- _58nk" style="font-family: inherit; user-select: text;">Planning to be working on the Letter anyway if you're too busy, but I'm feeling a little fragile so a heads up would help. Thanks.</span></div>
+<div class="_4kf7 preview" style="bottom: -13px; cursor: pointer; font-family: inherit; padding: 0px 2px; position: absolute; right: 0px; text-align: right; z-index: 1;">
+<div class="_7ef9" data-hover="tooltip" data-tooltip-content="Shelley Hunter" style="display: inline-flex; font-family: inherit; margin-left: 5px;">
+<div class="_aou" role="button" style="align-items: center; background: rgb(255, 255, 255); border-radius: 10px; bottom: -15px; box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 4px; color: #626262; display: flex; font-family: inherit; justify-content: center;" tabindex="0">
+<span class="_4kf5" style="align-items: center; background: rgb(255, 255, 255); border-radius: 50%; display: flex; font-family: inherit; font-size: 14px; height: 20px; justify-content: center; line-height: 0; margin-left: 0px; min-width: 20px; z-index: 1;"><span style="font-family: inherit;"><img alt="" class="_1ift _5m3a img" src="/images/imported/static-xx-fbcdn-net/1f622-9da7550c9ce1.png" style="border: 0px; display: inline-block; height: 1em; margin: 0px 1px; pointer-events: none; vertical-align: middle;" /></span></span><span class="_4kf5 _4kf6" style="align-items: center; background: rgb(255, 255, 255); border-radius: 50%; box-sizing: border-box; display: flex; font-family: inherit; font-size: 12px; font-weight: 600; height: 20px; justify-content: center; line-height: 0; margin-left: -5px; margin-right: -3px; min-width: 20px; padding: 4px;">1</span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<h4 class="_497p _2lpt" style="color: rgba(0, 0, 0, 0.4); display: block; font-family: inherit; font-size: 12px; font-weight: 500; margin: 12px 0px 12px 20px; padding: 0px; text-align: center; text-transform: uppercase;">
+<time class="_3oh-" style="user-select: text;">7:31 PM</time></h4>
+<div style="font-family: inherit;">
+<div class="_1t_p clearfix" style="font-family: inherit; margin-bottom: 15px; position: relative; zoom: 1;">
+<div class="_41ud" style="font-family: inherit; margin-left: 36px;">
+<h5 aria-label="Darrell" class="_ih3 accessible_elem _-ne" style="clip: rect(1px, 1px, 1px, 1px); color: rgba(0, 0, 0, 0.4); font-family: inherit; font-size: 12px; font-weight: normal; height: 1px; line-height: 1.28; margin: 0px 0px 1px; opacity: 0; overflow: hidden; padding: 0px 0px 0px 12px; position: absolute; text-overflow: ellipsis; white-space: nowrap; width: 1px;">
+Darrell</h5>
+<div class="clearfix _o46 _3erg _3i_m _nd_ direction_ltr text_align_ltr" style="direction: ltr; font-family: inherit; position: relative; text-align: left; white-space: pre-wrap; zoom: 1;">
+<div class="_3058 _ui9 _hh7 _6ybn _s1- _52mr _43by _3oh-" data-hover="tooltip" data-tooltip-content="7:31 PM" data-tooltip-position="right" id="js_jc" style="background-color: #0099ff; border-radius: 1.3em; box-sizing: content-box; clear: right; color: white; float: right; font-family: inherit; margin: 1px 0px; max-width: 55%; outline: none; overflow-wrap: break-word; padding: 6px 12px 7px; position: relative; user-select: text;">
+<span class="_40fu" data-hover="none" style="direction: ltr; float: right; font-family: inherit;"><span class="_1z_2 _2u_d" style="align-items: center; display: flex; flex-direction: row-reverse; font-family: inherit; position: absolute; right: 351.398px; top: 146.136px; transform: translate(-10%, -50%); width: 100px;"><div style="font-family: inherit; margin: 0px;">
+</div>
+<div style="font-family: inherit; margin: 0px 5px;">
+</div>
+<div style="font-family: inherit;">
+</div>
+</span></span><div aria-label="You gave Scott our night without any notice... Huh... I will have to go journal my way through this one instead of putting my thoughts here. I'm feeling a little cast aside now to be honest. I'm just going to delete this calendar event so I don't get my hopes up.
+
+I really do want you to live and enjoy life and embrace this season. I just took that calendar event a little more seriously than you did I guess. 
+
+I'm sorry... I think I'm struggling with the friends thing.
+
+I'll go work my way through it, I'll be fine. I just need to process." class="_aok" style="font-family: inherit; outline: none;" tabindex="0">
+<span class="_3oh- _58nk" style="font-family: inherit; user-select: text;">You gave Scott our night without any notice... Huh... I will have to go journal my way through this one instead of putting my thoughts here. I'm feeling a little cast aside now to be honest. I'm just going to delete this calendar event so I don't get my hopes up.
+
+I really do want you to live and enjoy life and embrace this season. I just took that calendar event a little more seriously than you did I guess. 
+
+I'm sorry... I think I'm struggling with the friends thing.
+
+I'll go work my way through it, I'll be fine. I just need to process.</span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<h4 class="_497p _2lpt" style="color: rgba(0, 0, 0, 0.4); display: block; font-family: inherit; font-size: 12px; font-weight: 500; margin: 12px 0px 12px 20px; padding: 0px; text-align: center; text-transform: uppercase;">
+<time class="_3oh-" style="user-select: text;">9:02 PM</time></h4>
+<div style="font-family: inherit;">
+<div class="_1t_p clearfix" style="font-family: inherit; margin-bottom: 15px; position: relative; zoom: 1;">
+<div class="_1t_q" style="font-family: inherit;">
+<div class="_4ldz _1t_r" data-hover="tooltip" data-tooltip-content="Shelley Hunter" data-tooltip-position="left" style="bottom: 2px; font-family: inherit; height: 32px; max-height: 28px; max-width: 28px; position: absolute; width: 32px;">
+<div class="_4ld-" style="align-items: center; background-color: rgba(0, 0, 0, 0.05); border-radius: 50%; display: flex; font-family: inherit; height: 32px; justify-content: center; max-height: 28px; max-width: 28px; overflow: hidden; width: 32px;">
+<img alt="Shelley Hunter" class="img" height="32" src="https://scontent.fhhr1-2.fna.fbcdn.net/v/t1.0-1/p80x80/60337502_2394622840761363_1340972915335626752_n.jpg?_nc_cat=110&amp;_nc_eui2=AeHmbXE7L0lgFFYDODVHx8NF3J8UUhTTx9rPdxkYN5yiPsVz7kkXHckOta2pxM2bgfXc_L_PqmmNX-B2-WpJ0wHYvnjNtfGD_h-ypvUeTAzM2Q&amp;_nc_oc=AQkQXNEcqRlhSupXmIEqMLZhbPA2UDCR5NOJc7U6jeGFmV9f20n8mYd16cv_MopArmXX909LCvH1xz59fjO8wahQ&amp;_nc_ht=scontent.fhhr1-2.fna&amp;oh=78ca9f95bc9177a4d46c134ddf7c4e54&amp;oe=5D65436A" style="border: 0px; max-height: 28px; max-width: 28px; object-fit: cover;" width="32" /></div>
+</div>
+</div>
+<div class="_41ud" style="font-family: inherit; margin-left: 36px;">
+<div class="clearfix _o46 _3erg _29_7 direction_ltr text_align_ltr" style="direction: ltr; font-family: inherit; position: relative; text-align: left; white-space: pre-wrap; zoom: 1;">
+<div style="font-family: inherit;">
+</div>
+<div class="_3058 _ui9 _hh7 _6ybn _s1- _52mr _3oh- _6uum" data-hover="tooltip" data-tooltip-content="9:02 PM" data-tooltip-position="left" style="background-color: #f1f0f0; border-radius: 1.3em; box-sizing: content-box; clear: left; color: black; float: left; font-family: inherit; margin: 1px 0px; max-width: 55%; outline: none; overflow-wrap: break-word; padding: 6px 12px 7px; position: relative; user-select: text;">
+<span class="_40fu" data-hover="none" style="direction: ltr; float: left; font-family: inherit;"><span class="_1z_2 _2u_d" style="display: flex; font-family: inherit; left: 351.398px; position: absolute; top: 37.2273px; transform: translate(10%, -50%); width: 110px;"><div style="font-family: inherit; margin: 0px;">
+</div>
+<div style="font-family: inherit; margin: 0px 5px;">
+</div>
+<div style="font-family: inherit;">
+</div>
+</span></span><a class="_6e6n" href="https://www.facebook.com/messages/t/100006410115712#" style="color: black; cursor: pointer; font-family: inherit; text-decoration: none;"><blockquote class="_pye" style="color: #828282; display: inline-block; font-size: 12px; margin: 6px 0px; max-width: 93%; overflow-wrap: break-word; padding-left: 10px; position: relative; white-space: pre-wrap;">
+<div class="_pyf" style="background-color: rgba(0, 0, 0, 0.3); border-radius: 1px; display: inline-block; font-family: inherit; height: 32px; margin-left: -10px; position: absolute; width: 2px;">
+</div>
+<div class="_4k7e _4ik4 _4ik5" style="-webkit-box-orient: vertical; -webkit-line-clamp: 2; display: -webkit-box; float: none; font-family: inherit; line-height: 16px; max-height: 32px; overflow: hidden; white-space: normal;">
+<span style="font-family: inherit;"><span style="font-family: inherit;">Planning to be working on the Letter anyway if you're too busy, but I'm feeling a little fragile so a heads up would help. Thanks.</span></span></div>
+</blockquote>
+</a><div aria-label="I could tell you were." class="_aok" style="font-family: inherit; outline: none;" tabindex="0">
+<span class="_3oh- _58nk" style="font-family: inherit; user-select: text;">I could tell you were.</span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div style="font-family: inherit;">
+<div class="_1t_p clearfix" style="font-family: inherit; margin-bottom: 15px; position: relative; zoom: 1;">
+<div class="_41ud" style="font-family: inherit; margin-left: 36px;">
+<h5 aria-label="Darrell" class="_ih3 accessible_elem _-ne" style="clip: rect(1px, 1px, 1px, 1px); color: rgba(0, 0, 0, 0.4); font-family: inherit; font-size: 12px; font-weight: normal; height: 1px; line-height: 1.28; margin: 0px 0px 1px; opacity: 0; overflow: hidden; padding: 0px 0px 0px 12px; position: absolute; text-overflow: ellipsis; white-space: nowrap; width: 1px;">
+Darrell</h5>
+<div class="clearfix _o46 _3erg _3i_m _nd_ direction_ltr text_align_ltr" style="direction: ltr; font-family: inherit; position: relative; text-align: left; white-space: pre-wrap; zoom: 1;">
+<div class="_3058 _ui9 _hh7 _6ybn _s1- _52mr _43by _3oh-" data-hover="tooltip" data-tooltip-content="9:07 PM" data-tooltip-position="right" style="background-color: #0099ff; border-radius: 1.3em; box-sizing: content-box; clear: right; color: white; float: right; font-family: inherit; margin: 1px 0px; max-width: 55%; outline: none; overflow-wrap: break-word; padding: 6px 12px 7px; position: relative; user-select: text;">
+<span class="_40fu" data-hover="none" style="direction: ltr; float: right; font-family: inherit;"><span class="_1z_2 _2u_d" style="align-items: center; display: flex; flex-direction: row-reverse; font-family: inherit; position: absolute; right: 351.398px; top: 67.5909px; transform: translate(-10%, -50%); width: 100px;"><div style="font-family: inherit; margin: 0px;">
+</div>
+<div style="font-family: inherit; margin: 0px 5px;">
+</div>
+<div style="font-family: inherit;">
+</div>
+</span></span><div aria-label="I'm hurting right now. It's not your fault. I'm aware I'm not seeing things accurately. But I'm really hurt. I don't know what to do with it, and the lies are louder than the truth tonight. I took a walk and prayed and it helped... But... Well... It doesn't matter. I can tell you more later if you want to hear it. I won't bother you right now." class="_aok" style="font-family: inherit; outline: none;" tabindex="0">
+<span class="_3oh- _58nk" style="font-family: inherit; user-select: text;">I'm hurting right now. It's not your fault. I'm aware I'm not seeing things accurately. But I'm really hurt. I don't know what to do with it, and the lies are louder than the truth tonight. I took a walk and prayed and it helped... But... Well... It doesn't matter. I can tell you more later if you want to hear it. I won't bother you right now.</span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div style="font-family: inherit;">
+<div class="_1t_p clearfix" style="font-family: inherit; margin-bottom: 15px; position: relative; zoom: 1;">
+<div class="_1t_q" style="font-family: inherit;">
+<div class="_4ldz _1t_r" data-hover="tooltip" data-tooltip-content="Shelley Hunter" data-tooltip-position="left" style="bottom: 2px; font-family: inherit; height: 32px; max-height: 28px; max-width: 28px; position: absolute; width: 32px;">
+<div class="_4ld-" style="align-items: center; background-color: rgba(0, 0, 0, 0.05); border-radius: 50%; display: flex; font-family: inherit; height: 32px; justify-content: center; max-height: 28px; max-width: 28px; overflow: hidden; width: 32px;">
+<img alt="Shelley Hunter" class="img" height="32" src="https://scontent.fhhr1-2.fna.fbcdn.net/v/t1.0-1/p80x80/60337502_2394622840761363_1340972915335626752_n.jpg?_nc_cat=110&amp;_nc_eui2=AeHmbXE7L0lgFFYDODVHx8NF3J8UUhTTx9rPdxkYN5yiPsVz7kkXHckOta2pxM2bgfXc_L_PqmmNX-B2-WpJ0wHYvnjNtfGD_h-ypvUeTAzM2Q&amp;_nc_oc=AQkQXNEcqRlhSupXmIEqMLZhbPA2UDCR5NOJc7U6jeGFmV9f20n8mYd16cv_MopArmXX909LCvH1xz59fjO8wahQ&amp;_nc_ht=scontent.fhhr1-2.fna&amp;oh=78ca9f95bc9177a4d46c134ddf7c4e54&amp;oe=5D65436A" style="border: 0px; max-height: 28px; max-width: 28px; object-fit: cover;" width="32" /></div>
+</div>
+</div>
+<div class="_41ud" style="font-family: inherit; margin-left: 36px;">
+<h5 aria-label="***Shelley Renea Fox***" class="_ih3 _-ne" style="color: rgba(0, 0, 0, 0.4); font-family: inherit; font-size: 12px; font-weight: normal; height: 0px; line-height: 1.28; margin: 0px 0px 1px; opacity: 0; overflow: hidden; padding: 0px 0px 0px 12px; text-overflow: ellipsis; white-space: nowrap;">
+<span style="font-family: inherit;"></span></h5>
+<div class="clearfix _o46 _3erg _29_7 direction_ltr text_align_ltr" style="direction: ltr; font-family: inherit; position: relative; text-align: left; white-space: pre-wrap; zoom: 1;">
+<div class="_5z-5 _3058 _ui9 _hh7 _6ybn _s1- _52mr _3oh-" data-hover="tooltip" data-tooltip-content="9:16 PM" data-tooltip-position="left" id="js_3t" style="background-color: #f1f0f0; border-radius: 1.3em; box-sizing: content-box; clear: left; color: black; float: left; font-family: inherit; margin: 1px 0px 10px; max-width: 55%; outline: none; overflow-wrap: break-word; padding: 6px 12px 7px; position: relative; user-select: text;">
+<span class="_40fu" data-hover="none" style="direction: ltr; float: left; font-family: inherit;"><span class="_1z_2 _2u_d" style="display: flex; font-family: inherit; left: 351.398px; position: absolute; top: 102.5px; transform: translate(10%, -50%); width: 110px;"><div style="font-family: inherit; margin: 0px;">
+</div>
+<div style="font-family: inherit; margin: 0px 5px;">
+</div>
+<div style="font-family: inherit;">
+</div>
+</span></span><div aria-label="This dude just bring up a good conversation for me to message Scott about it cuz I wanted to know you're my benchmark and some things like that. So I already sent him two messages about it and spoke to him about it but I didn't mean to give you a heads-up in more of a warning! The fact I thought about it three or four different times today and then the day got away from me with the different ministry things I was volunteering for or the newness of kind of the relationship or how to incorporate certain things" class="_aok" style="font-family: inherit; outline: none;" tabindex="0">
+<span class="_3oh- _58nk" style="font-family: inherit; user-select: text;">This dude just bring up a good conversation for me to message Scott about it cuz I wanted to know you're my benchmark and some things like that. So I already sent him two messages about it and spoke to him about it but I didn't mean to give you a heads-up in more of a warning! The fact I thought about it three or four different times today and then the day got away from me with the different ministry things I was volunteering for or the newness of kind of the relationship or how to incorporate certain things</span></div>
+<div class="_4kf7 preview" style="bottom: -13px; cursor: pointer; font-family: inherit; left: 0px; padding: 0px 2px; position: absolute; right: 0px; text-align: right; z-index: 1;">
+<div class="_7ef9" data-hover="tooltip" data-tooltip-content="Darrell G Wolfe" style="display: inline-flex; font-family: inherit; margin-left: 5px;">
+<div class="_aou" role="button" style="align-items: center; background: rgb(255, 255, 255); border-radius: 10px; bottom: -15px; box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 4px; color: #626262; display: flex; font-family: inherit; justify-content: center;" tabindex="0">
+<span class="_4kf5" style="align-items: center; background: rgb(255, 255, 255); border-radius: 50%; display: flex; font-family: inherit; font-size: 14px; height: 20px; justify-content: center; line-height: 0; margin-left: 0px; min-width: 20px; z-index: 1;"><span style="font-family: inherit;"><img alt="" class="_1ift _5m3a img" src="/images/imported/static-xx-fbcdn-net/1f44d-ce7935d3053d.png" style="border: 0px; display: inline-block; height: 1em; margin: 0px 1px; pointer-events: none; vertical-align: middle;" /></span></span><span class="_4kf5 _4kf6 _fy2" style="align-items: center; background: rgb(255, 255, 255); border-radius: 50%; box-sizing: border-box; color: #0084ff; display: flex; font-family: inherit; font-size: 12px; font-weight: 600; height: 20px; justify-content: center; line-height: 0; margin-left: -5px; margin-right: -3px; min-width: 20px; padding: 4px;">1</span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div style="font-family: inherit;">
+<div class="_1t_p clearfix" style="font-family: inherit; margin-bottom: 15px; position: relative; zoom: 1;">
+<div class="_1t_q" style="font-family: inherit;">
+<div class="_4ldz _1t_r" data-hover="tooltip" data-tooltip-content="Shelley Hunter" data-tooltip-position="left" style="bottom: 2px; font-family: inherit; height: 32px; max-height: 28px; max-width: 28px; position: absolute; width: 32px;">
+<div class="_4ld-" style="align-items: center; background-color: rgba(0, 0, 0, 0.05); border-radius: 50%; display: flex; font-family: inherit; height: 32px; justify-content: center; max-height: 28px; max-width: 28px; overflow: hidden; width: 32px;">
+<img alt="Shelley Hunter" class="img" height="32" src="https://scontent.fhhr1-2.fna.fbcdn.net/v/t1.0-1/p80x80/60337502_2394622840761363_1340972915335626752_n.jpg?_nc_cat=110&amp;_nc_eui2=AeHmbXE7L0lgFFYDODVHx8NF3J8UUhTTx9rPdxkYN5yiPsVz7kkXHckOta2pxM2bgfXc_L_PqmmNX-B2-WpJ0wHYvnjNtfGD_h-ypvUeTAzM2Q&amp;_nc_oc=AQkQXNEcqRlhSupXmIEqMLZhbPA2UDCR5NOJc7U6jeGFmV9f20n8mYd16cv_MopArmXX909LCvH1xz59fjO8wahQ&amp;_nc_ht=scontent.fhhr1-2.fna&amp;oh=78ca9f95bc9177a4d46c134ddf7c4e54&amp;oe=5D65436A" style="border: 0px; max-height: 28px; max-width: 28px; object-fit: cover;" width="32" /></div>
+</div>
+</div>
+<div class="_41ud" style="font-family: inherit; margin-left: 36px;">
+<h5 aria-label="***Shelley Renea Fox***" class="_ih3 _-ne" style="color: rgba(0, 0, 0, 0.4); font-family: inherit; font-size: 12px; font-weight: normal; height: 0px; line-height: 1.28; margin: 0px 0px 1px; opacity: 0; overflow: hidden; padding: 0px 0px 0px 12px; text-overflow: ellipsis; white-space: nowrap;">
+<span style="font-family: inherit;"></span></h5>
+<div class="clearfix _o46 _3erg _29_7 direction_ltr text_align_ltr" style="direction: ltr; font-family: inherit; position: relative; text-align: left; white-space: pre-wrap; zoom: 1;">
+<div class="_5z-5 _3058 _ui9 _hh7 _6ybn _s1- _52mr _3oh-" data-hover="tooltip" data-tooltip-content="9:17 PM" data-tooltip-position="left" style="background-color: #f1f0f0; border-radius: 1.3em 1.3em 1.3em 4px; box-sizing: content-box; clear: left; color: black; float: left; font-family: inherit; margin: 1px 0px 18px; max-width: 55%; outline: none; overflow-wrap: break-word; padding: 6px 12px 7px; position: relative; user-select: text;">
+<span class="_40fu" data-hover="none" style="direction: ltr; float: left; font-family: inherit;"><span class="_1z_2 _2u_d" style="display: flex; font-family: inherit; left: 351.398px; position: absolute; top: 23.9545px; transform: translate(10%, -50%); width: 110px;"><div style="font-family: inherit; margin: 0px;">
+</div>
+<div style="font-family: inherit; margin: 0px 5px;">
+</div>
+<div style="font-family: inherit;">
+</div>
+</span></span><div aria-label="But I do not want it to be a pain but also know it is not just about me." class="_aok" style="font-family: inherit; outline: none;" tabindex="0">
+<span class="_3oh- _58nk" style="font-family: inherit; user-select: text;">But I do not want it to be a pain but also know it is not just about me.</span></div>
+<div class="_4kf7 preview" style="bottom: -13px; cursor: pointer; font-family: inherit; left: 0px; padding: 0px 2px; position: absolute; right: 0px; text-align: right; z-index: 1;">
+<div class="_7ef9" data-hover="tooltip" data-tooltip-content="Darrell G Wolfe" style="display: inline-flex; font-family: inherit; margin-left: 5px;">
+<div class="_aou" role="button" style="align-items: center; background: rgb(255, 255, 255); border-radius: 10px; bottom: -15px; box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 4px; color: #626262; display: flex; font-family: inherit; justify-content: center;" tabindex="0">
+<span class="_4kf5" style="align-items: center; background: rgb(255, 255, 255); border-radius: 50%; display: flex; font-family: inherit; font-size: 14px; height: 20px; justify-content: center; line-height: 0; margin-left: 0px; min-width: 20px; z-index: 1;"><span style="font-family: inherit;"><img alt="" class="_1ift _5m3a img" src="/images/imported/static-xx-fbcdn-net/1f44d-ce7935d3053d.png" style="border: 0px; display: inline-block; height: 1em; margin: 0px 1px; pointer-events: none; vertical-align: middle;" /></span></span><span class="_4kf5 _4kf6 _fy2" style="align-items: center; background: rgb(255, 255, 255); border-radius: 50%; box-sizing: border-box; color: #0084ff; display: flex; font-family: inherit; font-size: 12px; font-weight: 600; height: 20px; justify-content: center; line-height: 0; margin-left: -5px; margin-right: -3px; min-width: 20px; padding: 4px;">1</span></div>
+</div>
+</div>
+</div>
+</div>
+<div class="clearfix _o46 _3erg _29_7 direction_ltr text_align_ltr" style="direction: ltr; font-family: inherit; position: relative; text-align: left; white-space: pre-wrap; zoom: 1;">
+<div class="_5z-5 _3058 _ui9 _hh7 _6ybn _s1- _52mr _3oh-" data-hover="tooltip" data-tooltip-content="9:17 PM" data-tooltip-position="left" style="background-color: #f1f0f0; border-radius: 4px 1.3em 1.3em 4px; box-sizing: content-box; clear: left; color: black; float: left; font-family: inherit; margin: 1px 0px 18px; max-width: 55%; outline: none; overflow-wrap: break-word; padding: 6px 12px 7px; position: relative; user-select: text;">
+<span class="_40fu" data-hover="none" style="direction: ltr; float: left; font-family: inherit;"><span class="_1z_2 _2u_d" style="display: flex; font-family: inherit; left: 351.398px; position: absolute; top: 23.9545px; transform: translate(10%, -50%); width: 110px;"><div style="font-family: inherit; margin: 0px;">
+</div>
+<div style="font-family: inherit; margin: 0px 5px;">
+</div>
+<div style="font-family: inherit;">
+</div>
+</span></span><div aria-label="Maybe do not have the planned day but just freely keep up....on whatever days...etc." class="_aok" style="font-family: inherit; outline: none;" tabindex="0">
+<span class="_3oh- _58nk" style="font-family: inherit; user-select: text;">Maybe do not have the planned day but just freely keep up....on whatever days...etc.</span></div>
+<div class="_4kf7 preview" style="bottom: -13px; cursor: pointer; font-family: inherit; left: 0px; padding: 0px 2px; position: absolute; right: 0px; text-align: right; z-index: 1;">
+<div class="_7ef9" data-hover="tooltip" data-tooltip-content="Darrell G Wolfe" style="display: inline-flex; font-family: inherit; margin-left: 5px;">
+<div class="_aou" role="button" style="align-items: center; background: rgb(255, 255, 255); border-radius: 10px; bottom: -15px; box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 4px; color: #626262; display: flex; font-family: inherit; justify-content: center;" tabindex="0">
+<span class="_4kf5" style="align-items: center; background: rgb(255, 255, 255); border-radius: 50%; display: flex; font-family: inherit; font-size: 14px; height: 20px; justify-content: center; line-height: 0; margin-left: 0px; min-width: 20px; z-index: 1;"><span style="font-family: inherit;"><img alt="" class="_1ift _5m3a img" src="/images/imported/static-xx-fbcdn-net/1f44d-ce7935d3053d.png" style="border: 0px; display: inline-block; height: 1em; margin: 0px 1px; pointer-events: none; vertical-align: middle;" /></span></span><span class="_4kf5 _4kf6 _fy2" style="align-items: center; background: rgb(255, 255, 255); border-radius: 50%; box-sizing: border-box; color: #0084ff; display: flex; font-family: inherit; font-size: 12px; font-weight: 600; height: 20px; justify-content: center; line-height: 0; margin-left: -5px; margin-right: -3px; min-width: 20px; padding: 4px;">1</span></div>
+</div>
+</div>
+</div>
+</div>
+<div class="clearfix _o46 _3erg _29_7 direction_ltr text_align_ltr" style="direction: ltr; font-family: inherit; position: relative; text-align: left; white-space: pre-wrap; zoom: 1;">
+<div class="_5z-5 _3058 _ui9 _hh7 _6ybn _s1- _52mr _3oh-" data-hover="tooltip" data-tooltip-content="9:19 PM" data-tooltip-position="left" id="js_4b" style="background-color: #f1f0f0; border-radius: 4px 1.3em 1.3em; box-sizing: content-box; clear: left; color: black; float: left; font-family: inherit; margin: 1px 0px 10px; max-width: 55%; outline: none; overflow-wrap: break-word; padding: 6px 12px 7px; position: relative; user-select: text;">
+<span class="_40fu" data-hover="none" style="direction: ltr; float: left; font-family: inherit;"><span class="_1z_2 _2u_d" style="display: flex; font-family: inherit; left: 351.398px; position: absolute; top: 67.5909px; transform: translate(10%, -50%); width: 110px;"><div style="font-family: inherit; margin: 0px;">
+</div>
+<div style="font-family: inherit; margin: 0px 5px;">
+</div>
+<div style="font-family: inherit;">
+</div>
+</span></span><div aria-label="Go be with Daddy and know that you have a place in my heart even if it is not the one understood or wanted fully.
+But daddy told you friend was this season and I know there are several reasons why.
+
+I think you know that also." class="_aok" style="font-family: inherit; outline: none;" tabindex="0">
+<span class="_3oh- _58nk" style="font-family: inherit; user-select: text;">Go be with Daddy and know that you have a place in my heart even if it is not the one understood or wanted fully.
+But daddy told you friend was this season and I know there are several reasons why.
+
+I think you know that also.</span></div>
+<div class="_4kf7 preview" style="bottom: -13px; cursor: pointer; font-family: inherit; left: 0px; padding: 0px 2px; position: absolute; right: 0px; text-align: right; z-index: 1;">
+<div class="_7ef9" data-hover="tooltip" data-tooltip-content="Darrell G Wolfe" style="display: inline-flex; font-family: inherit; margin-left: 5px;">
+<div class="_aou" role="button" style="align-items: center; background: rgb(255, 255, 255); border-radius: 10px; bottom: -15px; box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 4px; color: #626262; display: flex; font-family: inherit; justify-content: center;" tabindex="0">
+<span class="_4kf5" style="align-items: center; background: rgb(255, 255, 255); border-radius: 50%; display: flex; font-family: inherit; font-size: 14px; height: 20px; justify-content: center; line-height: 0; margin-left: 0px; min-width: 20px; z-index: 1;"><span style="font-family: inherit;"><img alt="" class="_1ift _5m3a img" src="/images/imported/static-xx-fbcdn-net/1f44d-ce7935d3053d.png" style="border: 0px; display: inline-block; height: 1em; margin: 0px 1px; pointer-events: none; vertical-align: middle;" /></span></span><span class="_4kf5 _4kf6 _fy2" style="align-items: center; background: rgb(255, 255, 255); border-radius: 50%; box-sizing: border-box; color: #0084ff; display: flex; font-family: inherit; font-size: 12px; font-weight: 600; height: 20px; justify-content: center; line-height: 0; margin-left: -5px; margin-right: -3px; min-width: 20px; padding: 4px;">1</span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div style="font-family: inherit;">
+<div class="_1t_p clearfix" style="font-family: inherit; margin-bottom: 15px; position: relative; zoom: 1;">
+<div class="_41ud" style="font-family: inherit; margin-left: 36px;">
+<h5 aria-label="Darrell" class="_ih3 accessible_elem _-ne" style="clip: rect(1px, 1px, 1px, 1px); color: rgba(0, 0, 0, 0.4); font-family: inherit; font-size: 12px; font-weight: normal; height: 1px; line-height: 1.28; margin: 0px 0px 1px; opacity: 0; overflow: hidden; padding: 0px 0px 0px 12px; position: absolute; text-overflow: ellipsis; white-space: nowrap; width: 1px;">
+Darrell</h5>
+<div class="clearfix _o46 _3erg _3i_m _nd_ direction_ltr text_align_ltr" style="direction: ltr; font-family: inherit; position: relative; text-align: left; white-space: pre-wrap; zoom: 1;">
+<div class="_3058 _ui9 _hh7 _6ybn _s1- _52mr _43by _3oh-" data-hover="tooltip" data-tooltip-content="9:19 PM" data-tooltip-position="right" style="background-color: #0099ff; border-radius: 1.3em; box-sizing: content-box; clear: right; color: white; float: right; font-family: inherit; margin: 1px 0px; max-width: 55%; outline: none; overflow-wrap: break-word; padding: 6px 12px 7px; position: relative; user-select: text;">
+<span class="_40fu" data-hover="none" style="direction: ltr; float: right; font-family: inherit;"><span class="_1z_2 _2u_d" style="align-items: center; display: flex; flex-direction: row-reverse; font-family: inherit; position: absolute; right: 351.398px; top: 41.4091px; transform: translate(-10%, -50%); width: 100px;"><div style="font-family: inherit; margin: 0px;">
+</div>
+<div style="font-family: inherit; margin: 0px 5px;">
+</div>
+<div style="font-family: inherit;">
+</div>
+</span></span><div aria-label="Today was kind of a final straw for me, emotionally.
+
+I can tell you about it now by text if you want, but you're probably still busy." class="_aok" style="font-family: inherit; outline: none;" tabindex="0">
+<span class="_3oh- _58nk" style="font-family: inherit; user-select: text;">Today was kind of a final straw for me, emotionally.
+
+I can tell you about it now by text if you want, but you're probably still busy.</span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div style="font-family: inherit;">
+<div class="_1t_p clearfix" style="font-family: inherit; margin-bottom: 15px; position: relative; zoom: 1;">
+<div class="_1t_q" style="font-family: inherit;">
+<div class="_4ldz _1t_r" data-hover="tooltip" data-tooltip-content="Shelley Hunter" data-tooltip-position="left" style="bottom: 2px; font-family: inherit; height: 32px; max-height: 28px; max-width: 28px; position: absolute; width: 32px;">
+<div class="_4ld-" style="align-items: center; background-color: rgba(0, 0, 0, 0.05); border-radius: 50%; display: flex; font-family: inherit; height: 32px; justify-content: center; max-height: 28px; max-width: 28px; overflow: hidden; width: 32px;">
+<img alt="Shelley Hunter" class="img" height="32" src="https://scontent.fhhr1-2.fna.fbcdn.net/v/t1.0-1/p80x80/60337502_2394622840761363_1340972915335626752_n.jpg?_nc_cat=110&amp;_nc_eui2=AeHmbXE7L0lgFFYDODVHx8NF3J8UUhTTx9rPdxkYN5yiPsVz7kkXHckOta2pxM2bgfXc_L_PqmmNX-B2-WpJ0wHYvnjNtfGD_h-ypvUeTAzM2Q&amp;_nc_oc=AQkQXNEcqRlhSupXmIEqMLZhbPA2UDCR5NOJc7U6jeGFmV9f20n8mYd16cv_MopArmXX909LCvH1xz59fjO8wahQ&amp;_nc_ht=scontent.fhhr1-2.fna&amp;oh=78ca9f95bc9177a4d46c134ddf7c4e54&amp;oe=5D65436A" style="border: 0px; max-height: 28px; max-width: 28px; object-fit: cover;" width="32" /></div>
+</div>
+</div>
+<div class="_41ud" style="font-family: inherit; margin-left: 36px;">
+<h5 aria-label="***Shelley Renea Fox***" class="_ih3 _-ne" style="color: rgba(0, 0, 0, 0.4); font-family: inherit; font-size: 12px; font-weight: normal; height: 0px; line-height: 1.28; margin: 0px 0px 1px; opacity: 0; overflow: hidden; padding: 0px 0px 0px 12px; text-overflow: ellipsis; white-space: nowrap;">
+<span style="font-family: inherit;"></span></h5>
+<div class="clearfix _o46 _3erg _29_7 direction_ltr text_align_ltr" style="direction: ltr; font-family: inherit; position: relative; text-align: left; white-space: pre-wrap; zoom: 1;">
+<div class="_5z-5 _3058 _ui9 _hh7 _6ybn _s1- _52mr _3oh-" data-hover="tooltip" data-tooltip-content="9:19 PM" data-tooltip-position="left" style="background-color: #f1f0f0; border-radius: 1.3em; box-sizing: content-box; clear: left; color: black; float: left; font-family: inherit; margin: 1px 0px 10px; max-width: 55%; outline: none; overflow-wrap: break-word; padding: 6px 12px 7px; position: relative; user-select: text;">
+<span class="_40fu" data-hover="none" style="direction: ltr; float: left; font-family: inherit;"><span class="_1z_2 _2u_d" style="display: flex; font-family: inherit; left: 180.17px; position: absolute; top: 15.2273px; transform: translate(10%, -50%); width: 110px;"><div style="font-family: inherit; margin: 0px;">
+</div>
+<div style="font-family: inherit; margin: 0px 5px;">
+</div>
+<div style="font-family: inherit;">
+</div>
+</span></span><div aria-label="Go ahead. I can hear you." class="_aok" style="font-family: inherit; outline: none;" tabindex="0">
+<span class="_3oh- _58nk" style="font-family: inherit; user-select: text;">Go ahead. I can hear you.</span></div>
+<div class="_4kf7 preview" style="bottom: -13px; cursor: pointer; font-family: inherit; left: 0px; padding: 0px 2px; position: absolute; right: 0px; text-align: right; z-index: 1;">
+<div class="_7ef9" data-hover="tooltip" data-tooltip-content="Darrell G Wolfe" style="display: inline-flex; font-family: inherit; margin-left: 5px;">
+<div class="_aou" role="button" style="align-items: center; background: rgb(255, 255, 255); border-radius: 10px; bottom: -15px; box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 4px; color: #626262; display: flex; font-family: inherit; justify-content: center;" tabindex="0">
+<span class="_4kf5" style="align-items: center; background: rgb(255, 255, 255); border-radius: 50%; display: flex; font-family: inherit; font-size: 14px; height: 20px; justify-content: center; line-height: 0; margin-left: 0px; min-width: 20px; z-index: 1;"><span style="font-family: inherit;"><img alt="" class="_1ift _5m3a img" src="/images/imported/static-xx-fbcdn-net/1f44d-ce7935d3053d.png" style="border: 0px; display: inline-block; height: 1em; margin: 0px 1px; pointer-events: none; vertical-align: middle;" /></span></span><span class="_4kf5 _4kf6 _fy2" style="align-items: center; background: rgb(255, 255, 255); border-radius: 50%; box-sizing: border-box; color: #0084ff; display: flex; font-family: inherit; font-size: 12px; font-weight: 600; height: 20px; justify-content: center; line-height: 0; margin-left: -5px; margin-right: -3px; min-width: 20px; padding: 4px;">1</span></div>
+</div>
+</div>
+</div>
+<span class="_4jzq _jf4 _jf5" style="bottom: 0px; clear: both; float: right; font-family: inherit; margin: 0px; position: absolute; right: -18px;"><img alt="Seen by Shelley Hunter at 9:19 PM" class="_jf2 img" src="https://scontent.fhhr1-2.fna.fbcdn.net/v/t1.0-1/p80x80/60337502_2394622840761363_1340972915335626752_n.jpg?_nc_cat=110&amp;_nc_eui2=AeHmbXE7L0lgFFYDODVHx8NF3J8UUhTTx9rPdxkYN5yiPsVz7kkXHckOta2pxM2bgfXc_L_PqmmNX-B2-WpJ0wHYvnjNtfGD_h-ypvUeTAzM2Q&amp;_nc_oc=AQkQXNEcqRlhSupXmIEqMLZhbPA2UDCR5NOJc7U6jeGFmV9f20n8mYd16cv_MopArmXX909LCvH1xz59fjO8wahQ&amp;_nc_ht=scontent.fhhr1-2.fna&amp;oh=78ca9f95bc9177a4d46c134ddf7c4e54&amp;oe=5D65436A" style="border-radius: 50%; border: 0px; display: inline-block; height: 15px; margin-left: 3px; vertical-align: middle; width: 15px;" title="Seen by Shelley Hunter at 9:19 PM" /></span></div>
+</div>
+</div>
+</div>
+<div style="font-family: inherit;">
+<div class="_1t_p clearfix" style="font-family: inherit; margin-bottom: 15px; position: relative; zoom: 1;">
+<div class="_41ud" style="font-family: inherit; margin-left: 36px;">
+<h5 aria-label="Darrell" class="_ih3 accessible_elem _-ne" style="clip: rect(1px, 1px, 1px, 1px); color: rgba(0, 0, 0, 0.4); font-family: inherit; font-size: 12px; font-weight: normal; height: 1px; line-height: 1.28; margin: 0px 0px 1px; opacity: 0; overflow: hidden; padding: 0px 0px 0px 12px; position: absolute; text-overflow: ellipsis; white-space: nowrap; width: 1px;">
+Darrell</h5>
+<div class="clearfix _o46 _3erg _3i_m _nd_ direction_ltr text_align_ltr" style="direction: ltr; font-family: inherit; position: relative; text-align: left; white-space: pre-wrap; zoom: 1;">
+<div class="_3058 _ui9 _hh7 _6ybn _s1- _52mr _43by _3oh-" data-hover="tooltip" data-tooltip-content="9:35 PM" data-tooltip-position="right" id="js_9j" style="background-color: #0099ff; border-radius: 1.3em; box-sizing: content-box; clear: right; color: white; float: right; font-family: inherit; margin: 1px 0px; max-width: 55%; outline: none; overflow-wrap: break-word; padding: 6px 12px 7px; position: relative; user-select: text;">
+<span class="_40fu" data-hover="none" style="direction: ltr; float: right; font-family: inherit;"><span class="_1z_2 _2u_d" style="align-items: center; display: flex; flex-direction: row-reverse; font-family: inherit; position: absolute; right: 351.398px; top: 818.136px; transform: translate(-10%, -50%); width: 100px;"><div style="font-family: inherit; margin: 0px;">
+</div>
+<div style="font-family: inherit; margin: 0px 5px;">
+</div>
+<div style="font-family: inherit;">
+</div>
+</span></span><div aria-label="We were friends and that worked.
+
+In February we crossed a line into something more. You sent pictures, I felt kind of pursued me a little (from my perspective) and practically blew up my phone non stop. Everytime I tried to back off a little, you said &quot;Go ahead, you ain't gonna find nothing better than this&quot;... And you worked your way into the place I'd been keeping protected. 
+
+I actually became convinced there was more happening. I started drafting a courtship plan, I even crafted a plan to propose. 
+
+You kept telling me how you wanted to attack my face.
+
+From my perspective, you took a sharp 180* after the divorce. You needed space and needed to not be peed on. I got that. You even said I was 8 months ahead of you. You wanted to be &quot;just friends&quot;... I agreed for your sake but my heart never lined up with that decision.
+
+Then you were talking apps and making out just for fun... And I understood, I did that too when I got single. In my own way.
+
+Then you just straight dissappeared for a while and I lost my friend. I went to the dark place and all that comes with it.
+
+We found a new place and I started to feel like I had you back.
+
+Then Scott came into the picture.
+
+Then he was over all the time.
+
+Then you dissappeared again. All the texts and daily semi daily talk stopped.
+
+Then you needed me, I thought, but turned around and went on a date when you'd just said he was causing you problems.
+
+Now you gave away our night. You've generally only missed that because you fell asleep.
+
+I've never once not sat here waiting on Sunday evenings. Not once. Except for the one time I told you ahead of time I had a conflicting schedule item.
+
+.......
+
+
+I'm feeling cast aside. Second best. Like the back-up friend... 
+
+I fell for you... And then you backed off... Slowly, then abruptly.
+
+.....
+
+I am going to be okay, but frankly, I feel more like an ex boyfriend than a best friend.
+
+I'll get over it.
+
+I'll heal.
+
+I'll be here for you.
+
+I just don't know what any of that means right now, practically.
+
+The hurt side says I'd rather you didn't come to visit because I don't think I could handle it.
+
+So I'm going to be okay, but I'm not okay right now. I actually feel a little led on.
+
+I will be here when you need me, but, I need to figure out what this new thing is supposed to look like. 
+
+I can't be having &quot;date night&quot; on my schedule for &quot;just friends&quot;.
+
+Please give careful prayer to what lines or boundaries you need too, and let me know.
+
+I just need time to reset. I guess." class="_aok" style="font-family: inherit; outline: none;" tabindex="0">
+<span class="_3oh- _58nk" style="font-family: inherit; user-select: text;">We were friends and that worked.
+
+In February we crossed a line into something more. You sent pictures, I felt kind of pursued me a little (from my perspective) and practically blew up my phone non stop. Everytime I tried to back off a little, you said "Go ahead, you ain't gonna find nothing better than this"... And you worked your way into the place I'd been keeping protected. 
+
+I actually became convinced there was more happening. I started drafting a courtship plan, I even crafted a plan to propose. 
+
+You kept telling me how you wanted to attack my face.
+
+From my perspective, you took a sharp 180* after the divorce. You needed space and needed to not be peed on. I got that. You even said I was 8 months ahead of you. You wanted to be "just friends"... I agreed for your sake but my heart never lined up with that decision.
+
+Then you were talking apps and making out just for fun... And I understood, I did that too when I got single. In my own way.
+
+Then you just straight dissappeared for a while and I lost my friend. I went to the dark place and all that comes with it.
+
+We found a new place and I started to feel like I had you back.
+
+Then Scott came into the picture.
+
+Then he was over all the time.
+
+Then you dissappeared again. All the texts and daily semi daily talk stopped.
+
+Then you needed me, I thought, but turned around and went on a date when you'd just said he was causing you problems.
+
+Now you gave away our night. You've generally only missed that because you fell asleep.
+
+I've never once not sat here waiting on Sunday evenings. Not once. Except for the one time I told you ahead of time I had a conflicting schedule item.
+
+.......
+
+
+I'm feeling cast aside. Second best. Like the back-up friend... 
+
+I fell for you... And then you backed off... Slowly, then abruptly.
+
+.....
+
+I am going to be okay, but frankly, I feel more like an ex boyfriend than a best friend.
+
+I'll get over it.
+
+I'll heal.
+
+I'll be here for you.
+
+I just don't know what any of that means right now, practically.
+
+The hurt side says I'd rather you didn't come to visit because I don't think I could handle it.
+
+So I'm going to be okay, but I'm not okay right now. I actually feel a little led on.
+
+I will be here when you need me, but, I need to figure out what this new thing is supposed to look like. 
+
+I can't be having "date night" on my schedule for "just friends".
+
+Please give careful prayer to what lines or boundaries you need too, and let me know.
+
+I just need time to reset. I guess.</span></div>
+</div>
+<span class="_2her _9ah" style="background: none currentcolor; border-radius: 50%; border: 1px solid currentcolor; bottom: 1px; box-sizing: border-box; color: #0084ff; display: inline-block; font-family: inherit; height: 10px; position: absolute; right: -15px; vertical-align: middle; width: 10px;" title="Delivered"><i aria-label="Delivered" aria-roledescription="Status icon" class="_57e_" role="img" style="border-color: currentcolor; border-image: initial; border-style: solid; border-width: 0px 0px 1px 1px; color: white; display: block; height: 1px; margin-left: 3px; margin-top: 4px; transform-origin: 0% 100%; transform: rotate(-45deg); width: 4px;"></i></span></div>
+</div>
+</div>
+</div>
+<div style="font-family: inherit;">
+<div class="_1t_p clearfix" style="font-family: inherit; margin-bottom: 15px; position: relative; zoom: 1;">
+<div class="_41ud" style="font-family: inherit; margin-left: 36px;">
+<h5 aria-label="Darrell" class="_ih3 accessible_elem _-ne" style="clip: rect(1px, 1px, 1px, 1px); color: rgba(0, 0, 0, 0.4); font-family: inherit; font-size: 12px; font-weight: normal; height: 1px; line-height: 1.28; margin: 0px 0px 1px; opacity: 0; overflow: hidden; padding: 0px 0px 0px 12px; position: absolute; text-overflow: ellipsis; white-space: nowrap; width: 1px;">
+Darrell</h5>
+<div class="clearfix _o46 _3erg _3i_m _nd_ direction_ltr text_align_ltr" style="direction: ltr; font-family: inherit; position: relative; text-align: left; white-space: pre-wrap; zoom: 1;">
+<div class="_3058 _ui9 _hh7 _6ybn _s1- _52mr _43by _3oh-" data-hover="tooltip" data-tooltip-content="9:38 PM" data-tooltip-position="right" style="background-color: #0099ff; border-radius: 1.3em 1.3em 4px; box-sizing: content-box; clear: right; color: white; float: right; font-family: inherit; margin: 1px 0px; max-width: 55%; outline: none; overflow-wrap: break-word; padding: 6px 12px 7px; position: relative; user-select: text;">
+<span class="_40fu" data-hover="none" style="direction: ltr; float: right; font-family: inherit;"><span class="_1z_2 _2u_d" style="align-items: center; display: flex; flex-direction: row-reverse; font-family: inherit; position: absolute; right: 174.966px; top: 15.2273px; transform: translate(-10%, -50%); width: 100px;"><div style="font-family: inherit; margin: 0px;">
+</div>
+<div style="font-family: inherit; margin: 0px 5px;">
+</div>
+<div style="font-family: inherit;">
+</div>
+</span></span><div aria-label="I'm going to go cry now." class="_aok" style="font-family: inherit; outline: none;" tabindex="0">
+<span class="_3oh- _58nk" style="font-family: inherit; user-select: text;">I'm going to go cry now.</span></div>
+</div>
+<span class="_2her _9ah" style="background: none currentcolor; border-radius: 50%; border: 1px solid currentcolor; bottom: 1px; box-sizing: border-box; color: #0084ff; display: inline-block; font-family: inherit; height: 10px; position: absolute; right: -15px; vertical-align: middle; width: 10px;" title="Delivered"><i aria-label="Delivered" aria-roledescription="Status icon" class="_57e_" role="img" style="border-color: currentcolor; border-image: initial; border-style: solid; border-width: 0px 0px 1px 1px; color: white; display: block; height: 1px; margin-left: 3px; margin-top: 4px; transform-origin: 0% 100%; transform: rotate(-45deg); width: 4px;"></i></span></div>
+<div class="clearfix _o46 _3erg _3i_m _nd_ direction_ltr text_align_ltr" style="direction: ltr; font-family: inherit; position: relative; text-align: left; white-space: pre-wrap; zoom: 1;">
+<div class="_3058 _ui9 _hh7 _6ybn _s1- _52mr _43by _3oh-" data-hover="tooltip" data-tooltip-content="9:39 PM" data-tooltip-position="right" id="js_8u" style="background-color: #0099ff; border-radius: 1.3em 4px 4px 1.3em; box-sizing: content-box; clear: right; color: white; float: right; font-family: inherit; margin: 1px 0px; max-width: 55%; outline: none; overflow-wrap: break-word; padding: 6px 12px 7px; position: relative; user-select: text;">
+<span class="_40fu" data-hover="none" style="direction: ltr; float: right; font-family: inherit;"><span class="_1z_2 _2u_d" style="align-items: center; display: flex; flex-direction: row-reverse; font-family: inherit; position: absolute; right: 351.398px; top: 41.4091px; transform: translate(-10%, -50%); width: 100px;"><div style="font-family: inherit; margin: 0px;">
+</div>
+<div style="font-family: inherit; margin: 0px 5px;">
+</div>
+<div style="font-family: inherit;">
+</div>
+</span></span><div aria-label="I never wanted to be burden to you, to be just another guy who wanted something. I don't think I am. I do think I'm a guy you pursued a little and then stopped... At least, from my side that's how it felt." class="_aok" style="font-family: inherit; outline: none;" tabindex="0">
+<span class="_3oh- _58nk" style="font-family: inherit; user-select: text;">I never wanted to be burden to you, to be just another guy who wanted something. I don't think I am. I do think I'm a guy you pursued a little and then stopped... At least, from my side that's how it felt.</span></div>
+</div>
+<span class="_2her _9ah" style="background: none currentcolor; border-radius: 50%; border: 1px solid currentcolor; bottom: 1px; box-sizing: border-box; color: #0084ff; display: inline-block; font-family: inherit; height: 10px; position: absolute; right: -15px; vertical-align: middle; width: 10px;" title="Delivered"><i aria-label="Delivered" aria-roledescription="Status icon" class="_57e_" role="img" style="border-color: currentcolor; border-image: initial; border-style: solid; border-width: 0px 0px 1px 1px; color: white; display: block; height: 1px; margin-left: 3px; margin-top: 4px; transform-origin: 0% 100%; transform: rotate(-45deg); width: 4px;"></i></span></div>
+<div class="clearfix _o46 _3erg _3i_m _nd_ direction_ltr text_align_ltr" style="direction: ltr; font-family: inherit; position: relative; text-align: left; white-space: pre-wrap; zoom: 1;">
+<div class="_3058 _ui9 _hh7 _6ybn _s1- _52mr _43by _3oh-" data-hover="tooltip" data-tooltip-content="9:39 PM" data-tooltip-position="right" style="background-color: #0099ff; border-radius: 1.3em 4px 4px 1.3em; box-sizing: content-box; clear: right; color: white; float: right; font-family: inherit; margin: 1px 0px; max-width: 55%; outline: none; overflow-wrap: break-word; padding: 6px 12px 7px; position: relative; user-select: text;">
+<span class="_40fu" data-hover="none" style="direction: ltr; float: right; font-family: inherit;"><span class="_1z_2 _2u_d" style="align-items: center; display: flex; flex-direction: row-reverse; font-family: inherit; position: absolute; right: 137.386px; top: 15.2273px; transform: translate(-10%, -50%); width: 100px;"><div style="font-family: inherit; margin: 0px;">
+</div>
+<div style="font-family: inherit; margin: 0px 5px;">
+</div>
+<div style="font-family: inherit;">
+</div>
+</span></span><div aria-label="I love you, Shelley." class="_aok" style="font-family: inherit; outline: none;" tabindex="0">
+<span class="_3oh- _58nk" style="font-family: inherit; user-select: text;">I love you, Shelley.</span></div>
+</div>
+<span class="_2her _9ah" style="background: none currentcolor; border-radius: 50%; border: 1px solid currentcolor; bottom: 1px; box-sizing: border-box; color: #0084ff; display: inline-block; font-family: inherit; height: 10px; position: absolute; right: -15px; vertical-align: middle; width: 10px;" title="Delivered"><i aria-label="Delivered" aria-roledescription="Status icon" class="_57e_" role="img" style="border-color: currentcolor; border-image: initial; border-style: solid; border-width: 0px 0px 1px 1px; color: white; display: block; height: 1px; margin-left: 3px; margin-top: 4px; transform-origin: 0% 100%; transform: rotate(-45deg); width: 4px;"></i></span></div>
+<div class="clearfix _o46 _3erg _3i_m _nd_ direction_ltr text_align_ltr" style="direction: ltr; font-family: inherit; position: relative; text-align: left; white-space: pre-wrap; zoom: 1;">
+<div class="_3058 _ui9 _hh7 _6ybn _s1- _52mr _43by _3oh-" data-hover="tooltip" data-tooltip-content="9:40 PM" data-tooltip-position="right" id="js_7u" style="background-color: #0099ff; border-radius: 1.3em 4px 4px 1.3em; box-sizing: content-box; clear: right; color: white; float: right; font-family: inherit; margin: 1px 0px; max-width: 55%; outline: none; overflow-wrap: break-word; padding: 6px 12px 7px; position: relative; user-select: text;">
+<span class="_40fu" data-hover="none" style="direction: ltr; float: right; font-family: inherit;"><span class="_1z_2 _2u_d" style="align-items: center; display: flex; flex-direction: row-reverse; font-family: inherit; position: absolute; right: 351.398px; top: 50.1364px; transform: translate(-10%, -50%); width: 100px;"><div style="font-family: inherit; margin: 0px;">
+</div>
+<div style="font-family: inherit; margin: 0px 5px;">
+</div>
+<div style="font-family: inherit;">
+</div>
+</span></span><div aria-label="I said those words and meant them. I still do. If I'm not who God has for you then I will pray for that guy. My emotions will get in line later, but I choose to will what's best for you and not just what makes me feel better." class="_aok" style="font-family: inherit; outline: none;" tabindex="0">
+<span class="_3oh- _58nk" style="font-family: inherit; user-select: text;">I said those words and meant them. I still do. If I'm not who God has for you then I will pray for that guy. My emotions will get in line later, but I choose to will what's best for you and not just what makes me feel better.</span></div>
+</div>
+<span class="_2her _9ah" style="background: none currentcolor; border-radius: 50%; border: 1px solid currentcolor; bottom: 1px; box-sizing: border-box; color: #0084ff; display: inline-block; font-family: inherit; height: 10px; position: absolute; right: -15px; vertical-align: middle; width: 10px;" title="Delivered"><i aria-label="Delivered" aria-roledescription="Status icon" class="_57e_" role="img" style="border-color: currentcolor; border-image: initial; border-style: solid; border-width: 0px 0px 1px 1px; color: white; display: block; height: 1px; margin-left: 3px; margin-top: 4px; transform-origin: 0% 100%; transform: rotate(-45deg); width: 4px;"></i></span></div>
+<div class="clearfix _o46 _3erg _3i_m _nd_ direction_ltr text_align_ltr" style="direction: ltr; font-family: inherit; position: relative; text-align: left; white-space: pre-wrap; zoom: 1;">
+<div class="_3058 _ui9 _hh7 _6ybn _s1- _52mr _43by _3oh-" data-hover="tooltip" data-tooltip-content="9:40 PM" data-tooltip-position="right" id="js_7d" style="background-color: #0099ff; border-radius: 1.3em 4px 4px 1.3em; box-sizing: content-box; clear: right; color: white; float: right; font-family: inherit; margin: 1px 0px; max-width: 55%; outline: none; overflow-wrap: break-word; padding: 6px 12px 7px; position: relative; user-select: text;">
+<span class="_40fu" data-hover="none" style="direction: ltr; float: right; font-family: inherit;"><span class="_1z_2 _2u_d" style="align-items: center; display: flex; flex-direction: row-reverse; font-family: inherit; position: absolute; right: 178.193px; top: 15.2273px; transform: translate(-10%, -50%); width: 100px;"><div style="font-family: inherit; margin: 0px;">
+</div>
+<div style="font-family: inherit; margin: 0px 5px;">
+</div>
+<div style="font-family: inherit;">
+</div>
+</span></span><div aria-label="I think that's everything..." class="_aok" style="font-family: inherit; outline: none;" tabindex="0">
+<span class="_3oh- _58nk" style="font-family: inherit; user-select: text;">I think that's everything...</span></div>
+</div>
+<span class="_2her _9ah" style="background: none currentcolor; border-radius: 50%; border: 1px solid currentcolor; bottom: 1px; box-sizing: border-box; color: #0084ff; display: inline-block; font-family: inherit; height: 10px; position: absolute; right: -15px; vertical-align: middle; width: 10px;" title="Delivered"><i aria-label="Delivered" aria-roledescription="Status icon" class="_57e_" role="img" style="border-color: currentcolor; border-image: initial; border-style: solid; border-width: 0px 0px 1px 1px; color: white; display: block; height: 1px; margin-left: 3px; margin-top: 4px; transform-origin: 0% 100%; transform: rotate(-45deg); width: 4px;"></i></span></div>
+<div class="clearfix _o46 _3erg _3i_m _nd_ direction_ltr text_align_ltr" style="direction: ltr; font-family: inherit; position: relative; text-align: left; white-space: pre-wrap; zoom: 1;">
+<div class="_3058 _ui9 _hh7 _6ybn _s1- _52mr _43by _3oh-" data-hover="tooltip" data-tooltip-content="9:41 PM" data-tooltip-position="right" id="js_5x" style="background-color: #0099ff; border-radius: 1.3em 4px 1.3em 1.3em; box-sizing: content-box; clear: right; color: white; float: right; font-family: inherit; margin: 1px 0px; max-width: 55%; outline: none; overflow-wrap: break-word; padding: 6px 12px 7px; position: relative; user-select: text;">
+<span class="_40fu" data-hover="none" style="direction: ltr; float: right; font-family: inherit;"><span class="_1z_2 _2u_d" style="align-items: center; display: flex; flex-direction: row-reverse; font-family: inherit; position: absolute; right: 351.398px; top: 32.6818px; transform: translate(-10%, -50%); width: 100px;"><div style="font-family: inherit; margin: 0px;">
+</div>
+<div style="font-family: inherit; margin: 0px 5px;">
+</div>
+<div style="font-family: inherit;">
+</div>
+</span></span><div aria-label="I'm not going anywhere, but, I'm not going to be trying so hard to get your attention like I have been. I'm still a text or call away if you need me." class="_aok" style="font-family: inherit; outline: none;" tabindex="0">
+<span class="_3oh- _58nk" style="font-family: inherit; user-select: text;">I'm not going anywhere, but, I'm not going to be trying so hard to get your attention like I have been. I'm still a text or call away if you need me.</span></div>
+</div>
+<span class="_2her _9ah" style="background: none currentcolor; border-radius: 50%; border: 1px solid currentcolor; bottom: 1px; box-sizing: border-box; color: #0084ff; display: inline-block; font-family: inherit; height: 10px; position: absolute; right: -15px; vertical-align: middle; width: 10px;" title="Delivered"><i aria-label="Delivered" aria-roledescription="Status icon" class="_57e_" role="img" style="border-color: currentcolor; border-image: initial; border-style: solid; border-width: 0px 0px 1px 1px; color: white; display: block; height: 1px; margin-left: 3px; margin-top: 4px; transform-origin: 0% 100%; transform: rotate(-45deg); width: 4px;"></i></span></div>
+</div>
+</div>
+</div>
+</div>
+<div class="_4gd0" style="background: white; font-family: inherit;">
+<div class="clearfix _17pz" style="font-family: inherit; margin: 0px; zoom: 1;">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="_4u-f" style="background: transparent; bottom: 0px; font-family: inherit; left: 0px; position: absolute; right: 0px; top: 0px; z-index: -1;">
+</div>
+</div>
+<div style="font-family: inherit;">
+<div aria-label="New message" class="_4rv3" role="region" style="border-top: 1px solid rgba(0, 0, 0, 0.1); font-family: inherit; z-index: 201;">
+<div class="_5irm" style="display: flex; flex-direction: row; font-family: inherit; margin: 0px 8px 0px 12px; overflow: hidden; position: relative;">
+<div class="_kmc navigationFocus" role="presentation" style="flex: 1 1 0%; font-family: inherit; max-height: 144px; min-height: 18px; overflow-y: auto; padding: 9px 0px; vertical-align: middle;">
+<div class="_3-8x _3oh-" style="font-family: inherit; margin-top: 8px; user-select: text;">
+<div style="font-family: inherit;" tabindex="-1">
+<div class="_5rp7 _5rp8" style="font-family: inherit; height: inherit; position: relative; text-align: initial;">
+<div class="_1p1t" style="-webkit-text-fill-color: rgb(204, 204, 204); color: #cccccc; font-family: inherit; left: 0px; position: absolute; text-align: left; z-index: 1;">
+<div class="_1p1v" id="placeholder-4f858" style="font-family: inherit; white-space: pre-wrap;">
+Type a message...</div>
+</div>
+<div class="_5rpb" style="background-color: rgba(255, 255, 255, 0); border-left: 0.1px solid transparent; font-family: inherit; height: inherit; position: relative; text-align: initial; z-index: 1;">
+<div aria-autocomplete="list" aria-controls="js_2n" aria-describedby="js_1" aria-expanded="false" aria-label="Type a message..." class="notranslate _5rpu" contenteditable="true" role="combobox" spellcheck="false" style="-webkit-user-modify: read-write-plaintext-only; font-family: inherit; height: inherit; outline: none; overflow-wrap: break-word; text-align: initial; user-select: text; white-space: pre-wrap;" tabindex="0">
+<div data-contents="true" style="font-family: inherit;">
+<div class="" data-block="true" data-editor="4f858" data-offset-key="7vbqg-0-0" style="font-family: inherit;">
+<div class="_1mf _1mj" data-offset-key="7vbqg-0-0" style="direction: ltr; font-family: inherit; position: relative; text-align: left; white-space: pre-wrap;">
+<span data-offset-key="7vbqg-0-0" style="font-family: inherit;"><br data-text="true" /></span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="_4rv4" style="align-items: flex-end; display: flex; font-family: inherit; justify-content: space-between; line-height: 0; padding: 8px 0px;">
+<ul class="_39bj" style="display: flex; list-style-type: none; margin: 0px; padding: 0px;">
+<li class="_39bk" style="display: inline-block; margin-right: 5px; vertical-align: top;"><form action="https://upload.facebook.com/ajax/mercury/upload.php" class="_vzk _4uld" method="post" style="cursor: pointer; margin: 0px; padding: 0px;" title="Add files">
+<div class="_m _4q60 _3rzn _6a" data-testid="photo_upload_button" style="display: inline-block; font-family: inherit; overflow: hidden; position: relative;">
+<span class="_4q61 _5f0v _509v _30yy _7hi7 _260u" style="color: inherit; cursor: pointer; display: inline-block; font-family: inherit; height: 32px; outline: none; padding: 0px; transition: opacity 0.2s ease 0s; vertical-align: top; width: 32px;"><i alt="Camera" class="_5vn8" style="background-image: url(&quot;/rsrc.php/v3/yJ/r/Z4Zi9BgTxU9.png&quot;); background-position: 0px -272px; background-repeat: no-repeat; background-size: 34px 2420px; display: block; height: 32px; width: 32px;"></i><input accept="*" class="_260t _n _2__f _4e5e" data-testid="photo_input" multiple="" name="attachment[]" style="background-color: white; bottom: 0px; color: #1c1e21; cursor: inherit; font-family: inherit; font-size: 1000px !important; height: 300px; margin: 0px; opacity: 0; padding: 0px; position: absolute; right: 0px;" title="Add files" type="file" /></span></div>
+</form>
+</li>
+<li style="display: inline-block; vertical-align: top;"><a class="_30yy _4rv6 _39bk" href="https://www.facebook.com/messages/t/100006410115712#" role="button" style="background-image: url(&quot;/rsrc.php/v3/yJ/r/Z4Zi9BgTxU9.png&quot;); background-position: 0px -340px; background-repeat: no-repeat; background-size: 34px 2420px; color: #385898; cursor: pointer; display: inline-block; font-family: inherit; height: 32px; margin-right: 5px; opacity: 0.3; outline: none; padding: 0px; text-decoration: none; transition: opacity 0.2s ease 0s; vertical-align: top; width: 32px;"></a></li>
+<li style="display: inline-block; vertical-align: top;"><span style="font-family: inherit;"><a class="_30yy _yht _39bk" href="https://www.facebook.com/messages/t/100006410115712#" role="button" style="background-image: url(&quot;/rsrc.php/v3/yJ/r/Z4Zi9BgTxU9.png&quot;); background-position: 0px -102px; background-repeat: no-repeat; background-size: 34px 2420px; color: #385898; cursor: pointer; display: inline-block; font-family: inherit; height: 32px; margin-right: 5px; outline: none; padding: 0px; text-decoration: none; transition: opacity 0.2s ease 0s; vertical-align: top; width: 32px;" title="Choose a gif"></a></span></li>
+<li style="display: inline-block; vertical-align: top;"><a class="_30yy _5s2p _39bk" href="https://www.facebook.com/messages/t/100006410115712#" role="button" style="background-image: url(&quot;/rsrc.php/v3/yJ/r/Z4Zi9BgTxU9.png&quot;); background-position: 0px -306px; background-repeat: no-repeat; background-size: 34px 2420px; color: #385898; cursor: pointer; display: inline-block; font-family: inherit; height: 32px; margin-right: 5px; outline: none; padding: 0px; text-decoration: none; transition: opacity 0.2s ease 0s; vertical-align: top; width: 32px;"></a></li>
+<li style="display: inline-block; vertical-align: top;"><a class="_4rv7 _39bk _30yy" href="https://www.facebook.com/messages/t/100006410115712#" role="button" style="background-image: url(&quot;/rsrc.php/v3/yJ/r/Z4Zi9BgTxU9.png&quot;); background-position: 0px 0px; background-repeat: no-repeat; background-size: 34px 2420px; color: #385898; cursor: pointer; display: inline-block; font-family: inherit; height: 32px; margin-left: -3px; margin-right: 2px; outline: none; padding: 0px; text-decoration: none; transition: opacity 0.2s ease 0s; vertical-align: top; width: 32px;"></a></li>
+<li style="display: inline-block; vertical-align: top;"><a class="_30yy _25pc _39bk" href="https://www.facebook.com/messages/t/100006410115712#" role="button" style="background-image: url(&quot;/rsrc.php/v3/yJ/r/Z4Zi9BgTxU9.png&quot;); background-position: 0px -238px; background-repeat: no-repeat; background-size: 34px 2420px; color: #385898; cursor: pointer; display: inline-block; font-family: inherit; height: 32px; margin-right: 5px; outline: none; padding: 0px; text-decoration: none; transition: opacity 0.2s ease 0s; vertical-align: top; width: 32px;"></a></li>
+<li style="display: inline-block; vertical-align: top;"><a class="_39bk _30yy _4ce_" href="https://www.facebook.com/messages/t/100006410115712#" role="button" style="background-image: url(&quot;/rsrc.php/v3/yJ/r/Z4Zi9BgTxU9.png&quot;); background-position: 0px -408px; background-repeat: no-repeat; background-size: 34px 2420px; color: #385898; cursor: pointer; display: inline-block; font-family: inherit; height: 32px; margin-right: 5px; opacity: 0.3; outline: none; padding: 0px; text-decoration: none; transition: opacity 0.2s ease 0s; vertical-align: top; width: 32px;"></a></li>
+<a class="_4rv5 _39bk" href="https://www.facebook.com/messages/t/100006410115712#" role="button" style="background-image: url(&quot;/rsrc.php/v3/yJ/r/Z4Zi9BgTxU9.png&quot;); background-position: 0px -34px; background-repeat: no-repeat; background-size: 34px 2420px; color: #385898; cursor: pointer; display: inline-block; font-family: inherit; height: 32px; margin-right: 5px; outline: none; padding: 0px; text-decoration: none; vertical-align: top; width: 32px;"></a></ul>
+<a aria-label="Send a Like" class="_4rv9 _30yy" href="https://www.facebook.com/messages/t/100006410115712#" role="button" style="background-image: url(&quot;/rsrc.php/v3/yJ/r/Z4Zi9BgTxU9.png&quot;); background-position: 0px -170px; background-repeat: no-repeat; background-size: 34px 2420px; color: #385898; cursor: pointer; display: inline-block; font-family: inherit; height: 32px; outline: none; padding: 0px; text-decoration: none; transition: opacity 0.2s ease 0s; vertical-align: top; width: 33px;" title="Send a Like"></a></div>
+</div>
+</div>
+<div style="bottom: 0px; font-family: inherit; left: 0px; overflow: hidden; position: absolute; right: 0px; top: 0px; visibility: hidden; z-index: -1;">
+<div style="font-family: inherit; height: 10000px; left: 0px; position: absolute; top: 0px; transition: all 0s ease 0s; width: 10000px;">
+</div>
+</div>
+<div style="bottom: 0px; font-family: inherit; left: 0px; overflow: hidden; position: absolute; right: 0px; top: 0px; visibility: hidden; z-index: -1;">
+<div style="font-family: inherit; height: 1112px; left: 0px; position: absolute; top: 0px; transition: all 0s ease 0s; width: 1377.11px;">
+</div>
+</div>
+</div>
+<div style="font-family: inherit;">
+</div>
+</div>
+</div>
+</span></div>
+</div>
+</div>
+</div>
+</div>
+<div style="font-family: inherit;">
+</div>
+</div>
+<div style="font-family: inherit;">
+</div>
+</div>

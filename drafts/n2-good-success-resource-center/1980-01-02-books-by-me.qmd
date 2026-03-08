@@ -1,0 +1,19 @@
+---
+title: 'Books By Me'
+date: '1980-01-02T05:20:00.0000000+00:00'
+draft: true
+blogger_blog: 'N2 Good Success Resource Center'
+blogger_status: 'LIVE'
+blogger_post_id: '4036671461246510572'
+blogger_filename: '/1980/01/books-by-me.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/N2 Good Success Resource Center/feed.atom'
+---
+
+These are are the books I have published right now. I will update this page as more become available.<br />
+<br />
+<ul>
+<li><a href="http://n2goodsuccess.blogspot.com/1980/01/banking-basics-for-believers.html" target="">Banking Basics for Believers</a></li>
+</ul>
+<div class="separator" style="clear: both; text-align: left;">
+<a href="/images/imported/blogger-googleusercontent-com/banking-basics-cover-image-2-8d0b1b879d2e.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/imported/blogger-googleusercontent-com/banking-basics-cover-image-2-8d0b1b879d2e.jpg" /></a></div>
+<br />

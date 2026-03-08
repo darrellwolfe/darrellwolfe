@@ -1,0 +1,39 @@
+---
+title: 'Texas Hill Country'
+date: '2014-01-06T19:25:00.0010000+00:00'
+draft: true
+blogger_blog: 'The Life In Fort Worth Blog'
+blogger_status: 'LIVE'
+blogger_post_id: '4380833028180874892'
+blogger_filename: '/2014/01/texas-hill-country.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/The Life In Fort Worth Blog/feed.atom'
+categories:
+  - 'Discover'
+---
+
+<h4>
+<br />Texas Hill Country <a href="https://www.facebook.com/TexasHillCountry" target="_blank">Facebook Page</a></h4>
+<a href="http://www.texashillcountry.com/" target="_blank">Texas Hill Country</a>&nbsp;has produced one of my favorite Facebook Pages. They show the most interesting photos from the Hill Country, as well as many other fun things about Texas, and to do and see in Texas.<br />
+<br />
+I put this here to share their fun and laughter with you too! I also put this here because I WANT TO GO! They are a great resource for understanding what Texas has to offer.<br />
+<br />
+<h4>
+Links:</h4>
+<br />
+<ul>
+<li><a href="http://www.texashillcountry.com/" target="_blank">Their Website</a></li>
+<li><a href="https://www.facebook.com/TexasHillCountry" target="_blank">Their Facebook Page</a></li>
+</ul>
+<br />
+<br />
+<div style="text-align: center;">
+<iframe allowtransparency="true" frameborder="0" scrolling="no" src="https://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FTexasHillCountry&amp;width&amp;height=427&amp;colorscheme=light&amp;show_faces=false&amp;header=true&amp;stream=true&amp;show_border=true&amp;appId=272647732784155" style="border-style: none; height: 427px; overflow: hidden;"></iframe><br />
+<br />
+<a href="http://www.texashillcountry.com/" style="text-align: start;" target="_blank">Texas Hill Country</a><span style="text-align: start;">&nbsp;is the region located just above San Antonio and below Austin.&nbsp;</span><br />
+<span style="text-align: start;"><br /></span>
+<br />
+<div class="separator" style="clear: both;">
+<a href="http://www.texashillcountry.com/TXHillCountry.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://www.texashillcountry.com/TXHillCountry.jpg" height="640" width="536" /></a></div>
+<div>
+<br /></div>
+</div>

@@ -1,0 +1,94 @@
+---
+title: 'About You'
+date: '2012-05-23T14:13:00.0000000+00:00'
+draft: true
+blogger_type: 'PAGE'
+blogger_blog: 'Reserved for Preston'
+blogger_status: 'LIVE'
+blogger_page_id: '1051589125749497886'
+blogger_filename: '/p/about-you.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Reserved for Preston/feed.atom'
+---
+
+<b>Preston Markus Wolfe</b><br />
+<b><br /></b><br />
+<b>Born 09/18/2007</b><br />
+<b><br /></b><br />
+<b>Favorite Color:&nbsp;</b><br />
+<b>All the Colors - "My most favorite color is: Orange</b><br />
+<br />
+Favorite Things:<br />
+Whatever Connor Likes<br />
+<br />
+<ul>
+<li>Lego</li>
+<li>Thomas Train</li>
+<li>Iron Man and War Machine</li>
+<li><b>Atlantis Lego - The Favorite</b></li>
+</ul>
+<br />
+<br />
+<br />
+<div style="text-align: center;">
+<b>Family:</b></div>
+<div style="text-align: center;">
+<b><br /></b></div>
+<div style="text-align: center;">
+<b>Parents:</b></div>
+<br />
+<ul>
+<li>Darrell Glen Wolfe</li>
+<ul>
+<li>Born 07/15/1980</li>
+<li>Graduated from: LOL, Went to College of the Desert</li>
+</ul>
+</ul>
+<ul>
+<li>Flavia Antoinette Wolfe (Miller)</li>
+<ul>
+<li>Born 10/24/1981</li>
+<li>Graduated from: Westmont College, Santa Barbara, CA</li>
+</ul>
+</ul>
+<br />
+<br />
+<br />
+<br />
+<div style="text-align: center;">
+<b>Siblings:</b></div>
+Connor David Wolfe<br />
+Kaylee Debra Wolfe<br />
+<br />
+<br />
+<div style="text-align: center;">
+<b>Grandparents</b>:</div>
+By Darrell:<br />
+<br />
+<ul>
+<li>Debra Yvonne Tweedy (Previous Last Names: Wolfe/Ford) - Born 07/10/1956</li>
+<ul>
+<li><a href="https://www.facebook.com/debbie.tweedy/timeline/story?ut=32&amp;wstart=-2649600&amp;wend=1170316799&amp;hash=1809052794663&amp;pagefilter=3" style="background-color: white; color: #3b5998; cursor: pointer; font-family: 'lucida grande', tahoma, verdana, arial, sans-serif; font-size: 11px; line-height: 15px; text-align: left; text-decoration: none;">Graduated from CSUSB</a>&nbsp;2007</li>
+<li><span style="background-color: white; color: #3b5998; font-family: 'lucida grande', tahoma, verdana, arial, sans-serif; font-size: 11px; line-height: 15px; text-align: left;">Graduated from Arcadia High School</span>&nbsp;1974</li>
+<li>Hometown Arcadia, CA</li>
+</ul>
+</ul>
+<ul>
+<li>Michael Craig Wolfe - Born 05/14/1954</li>
+<ul>
+<li>Hometown West Covina, CA</li>
+<li>Graduated From: Azusa University, Claremont School of Heresy (Theology), Cal State Fullerton</li>
+</ul>
+</ul>
+<div>
+By Flavia</div>
+<ul>
+<li>JoAnn Southerland (Miller - ?) - Born 12/30/19??</li>
+<ul>
+<li>Hometown Aurora Colorado</li>
+</ul>
+</ul>
+<ul>
+<li>David Miller &nbsp;???</li>
+</ul>
+<div>
+<br class="Apple-interchange-newline" /></div>

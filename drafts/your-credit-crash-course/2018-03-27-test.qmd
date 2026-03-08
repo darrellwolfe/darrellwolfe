@@ -1,0 +1,16 @@
+---
+title: 'Test'
+date: '2018-03-27T08:41:00.0010000+00:00'
+draft: true
+blogger_blog: 'your Credit Crash Course'
+blogger_status: 'LIVE'
+blogger_post_id: '2545997734774551509'
+blogger_filename: '/2018/03/test.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/your Credit Crash Course/feed.atom'
+---
+
+Testing<br />
+<br />
+Power Point: Credit Crash Course<br />
+<br />
+<br />

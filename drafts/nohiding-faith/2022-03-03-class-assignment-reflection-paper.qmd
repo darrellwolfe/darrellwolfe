@@ -1,0 +1,841 @@
+---
+title: 'Class Assignment: Reflection Paper: Levine, "The Good Samaritan"'
+date: '2022-03-03T07:06:00.0020000+00:00'
+draft: true
+blogger_blog: 'NoHiding.Faith'
+blogger_status: 'LIVE'
+blogger_post_id: '5692336652750075171'
+blogger_filename: '/2022/03/class-assignment-reflection-paper.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/NoHiding.Faith/feed.atom'
+categories:
+  - 'Class Assignment'
+---
+
+<p>&nbsp;<!--[if gte mso 9]><xml>
+ <o:OfficeDocumentSettings>
+  <o:RelyOnVML/>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:TrackMoves/>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>HE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:EnableOpenTypeKerning/>
+   <w:DontFlipMirrorIndents/>
+   <w:OverrideTableStyleHps/>
+   <w:UseFELayout/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
+  DefSemiHidden="false" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="376">
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 9"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="header"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footer"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index heading"/>
+  <w:LsdException Locked="false" Priority="35" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of figures"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope return"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="line number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="page number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of authorities"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="macro"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="toa heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 5"/>
+  <w:LsdException Locked="false" Priority="10" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Closing"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Signature"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Message Header"/>
+  <w:LsdException Locked="false" Priority="11" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Salutation"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Date"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Note Heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Block Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Hyperlink"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="FollowedHyperlink"/>
+  <w:LsdException Locked="false" Priority="22" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Document Map"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Plain Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="E-mail Signature"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Top of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Bottom of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal (Web)"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Acronym"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Cite"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Code"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Definition"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Keyboard"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Preformatted"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Sample"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Typewriter"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Variable"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Table"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation subject"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="No List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Contemporary"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Elegant"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Professional"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Balloon Text"/>
+  <w:LsdException Locked="false" Priority="39" Name="Table Grid"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Theme"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" QFormat="true"
+   Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" QFormat="true"
+   Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" QFormat="true"
+   Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" QFormat="true"
+   Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" QFormat="true"
+   Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" QFormat="true"
+   Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="TOC Heading"/>
+  <w:LsdException Locked="false" Priority="41" Name="Plain Table 1"/>
+  <w:LsdException Locked="false" Priority="42" Name="Plain Table 2"/>
+  <w:LsdException Locked="false" Priority="43" Name="Plain Table 3"/>
+  <w:LsdException Locked="false" Priority="44" Name="Plain Table 4"/>
+  <w:LsdException Locked="false" Priority="45" Name="Plain Table 5"/>
+  <w:LsdException Locked="false" Priority="40" Name="Grid Table Light"/>
+  <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Mention"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Smart Hyperlink"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Hashtag"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Unresolved Mention"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Smart Link"/>
+ </w:LatentStyles>
+</xml><![endif]--><!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin-top:0in;
+	mso-para-margin-right:0in;
+	mso-para-margin-bottom:8.0pt;
+	mso-para-margin-left:0in;
+	line-height:107%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	mso-bidi-font-family:Arial;
+	mso-bidi-theme-font:minor-bidi;
+	mso-bidi-language:AR-SA;}
+</style>
+<![endif]-->
+
+</p><p align="center" class="MsoNormal" style="text-align: center;"><span style="font-size: 12.0pt; line-height: 107%; mso-bidi-font-family: &quot;Times New Roman&quot;;">&nbsp;</span></p>
+
+<p align="center" class="MsoNormal" style="text-align: center;"><span style="font-size: 12.0pt; line-height: 107%; mso-bidi-font-family: &quot;Times New Roman&quot;;">&nbsp;</span></p>
+
+<p align="center" class="MsoNormal" style="text-align: center;"><span style="font-size: 12.0pt; line-height: 107%; mso-bidi-font-family: &quot;Times New Roman&quot;;">&nbsp;</span></p>
+
+<p align="center" class="MsoNormal" style="text-align: center;"><span style="font-size: 12.0pt; line-height: 107%; mso-bidi-font-family: &quot;Times New Roman&quot;;">&nbsp;</span></p>
+
+<p align="center" class="MsoNormal" style="text-align: center;"><span style="font-size: 12.0pt; line-height: 107%; mso-bidi-font-family: &quot;Times New Roman&quot;;">&nbsp;</span></p>
+
+<p align="center" class="MsoNormal" style="text-align: center;"><span style="font-size: 12.0pt; line-height: 107%; mso-bidi-font-family: &quot;Times New Roman&quot;;">&nbsp;</span></p>
+
+<p align="center" class="MsoNormal" style="text-align: center;"><span style="font-size: 12.0pt; line-height: 107%; mso-bidi-font-family: &quot;Times New Roman&quot;;">&nbsp;</span></p>
+
+<p align="center" class="MsoNormal" style="text-align: center;"><span style="font-size: 12.0pt; line-height: 107%; mso-bidi-font-family: &quot;Times New Roman&quot;;">&nbsp;</span></p>
+
+<p align="center" class="MsoNormal" style="text-align: center;"><span class="MsoBookTitle"><span style="font-size: 16.0pt; line-height: 107%;">Reflection
+Paper: Levine, "The Good Samaritan"</span></span></p>
+
+<p align="center" class="MsoNormal" style="text-align: center;"><span style="font-size: 16.0pt; line-height: 107%; mso-bidi-font-family: &quot;Times New Roman&quot;;">&nbsp;</span></p>
+
+<p align="center" class="MsoNormal" style="text-align: center;"><span style="font-size: 12.0pt; line-height: 107%; mso-bidi-font-family: &quot;Times New Roman&quot;;">&nbsp;</span></p>
+
+<p align="center" class="MsoNormal" style="text-align: center;"><span style="font-size: 12.0pt; line-height: 107%; mso-bidi-font-family: &quot;Times New Roman&quot;;">&nbsp;</span></p>
+
+<p align="center" class="MsoNormal" style="text-align: center;"><span style="font-size: 12.0pt; line-height: 107%; mso-bidi-font-family: &quot;Times New Roman&quot;;">&nbsp;</span></p>
+
+<p align="center" class="MsoNormal" style="text-align: center;"><span style="font-size: 12.0pt; line-height: 107%; mso-bidi-font-family: &quot;Times New Roman&quot;;">&nbsp;</span></p>
+
+<p align="center" class="MsoNormal" style="text-align: center;"><span style="font-size: 12.0pt; line-height: 107%; mso-bidi-font-family: &quot;Times New Roman&quot;;">The
+King’s University, Southlake, Texas</span></p>
+
+<p align="center" class="MsoNormal" style="text-align: center;"><span style="font-size: 12.0pt; line-height: 107%; mso-bidi-font-family: &quot;Times New Roman&quot;;">The
+New Testament and Second Temple Judaism (BIBL2325ONL1)</span></p>
+
+<p align="center" class="MsoNormal" style="text-align: center;"><span style="font-size: 12.0pt; line-height: 107%; mso-bidi-font-family: &quot;Times New Roman&quot;;">Professor:
+Dr. Vered Hillel</span></p>
+
+<p align="center" class="MsoNormal" style="text-align: center;"><span style="font-size: 12.0pt; line-height: 107%; mso-bidi-font-family: &quot;Times New Roman&quot;;">01/23/2022</span></p>
+
+<p align="center" class="MsoNormal" style="text-align: center;"><span style="font-size: 12.0pt; line-height: 107%; mso-bidi-font-family: &quot;Times New Roman&quot;;">&nbsp;</span></p>
+
+<p align="center" class="MsoNormal" style="line-height: 200%; text-align: center;"><span style="font-size: 12.0pt; line-height: 200%; mso-bidi-font-family: &quot;Times New Roman&quot;;">By
+Darrell Wolfe</span></p>
+
+<span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 11.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;"><br clear="all" style="mso-special-character: line-break; page-break-before: always;" />
+</span>
+
+<p class="MsoNormal"><b><span style="font-size: 12.0pt; line-height: 107%; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-theme-font: major-fareast;">&nbsp;</span></b></p>
+
+<h1>The Good Samaritan</h1>
+
+<p class="MsoNormal" style="line-height: 200%;"><span style="font-size: 12.0pt; line-height: 200%; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-ascii-theme-font: major-bidi; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-theme-font: major-bidi; mso-hansi-font-family: &quot;Times New Roman&quot;; mso-hansi-theme-font: major-bidi;">This is
+a reflection on “The Good Samaritan”, a reinterpretation by Levine.<a href="#_ftn1" name="_ftnref1" style="mso-footnote-id: ftn1;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 12.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: AR-SA; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: major-bidi;">[1]</span></span></span></span></a> The
+following are my observations:</span></p>
+
+<p class="MsoNormal" style="line-height: 200%;"><i><span style="font-size: 12.0pt; line-height: 200%; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-ascii-theme-font: major-bidi; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-theme-font: major-bidi; mso-hansi-font-family: &quot;Times New Roman&quot;; mso-hansi-theme-font: major-bidi;">Identification</span></i><span style="font-size: 12.0pt; line-height: 200%; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-ascii-theme-font: major-bidi; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-theme-font: major-bidi; mso-hansi-font-family: &quot;Times New Roman&quot;; mso-hansi-theme-font: major-bidi;">: The character with whom we identify changes
+our understanding of what the story means for “here and now” (hermeneutics). Most
+western readers identify themselves as the Good Samaritan (myself included, before
+this article). Levine puts it this way, “‘we Samaritans’ help ‘them’” which she
+defines as “the sick, the poor, foreign nationals, and so on.” (Levine, 3/35). Some
+cultures read themselves as the abused man who receives help, which changes the
+dynamics of the parable considerably.</span></p>
+
+<p class="MsoNormal" style="line-height: 200%;"><i><span style="font-size: 12.0pt; line-height: 200%; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-ascii-theme-font: major-bidi; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-theme-font: major-bidi; mso-hansi-font-family: &quot;Times New Roman&quot;; mso-hansi-theme-font: major-bidi;">Prejudice/bias
+reading</span></i><span style="font-size: 12.0pt; line-height: 200%; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-ascii-theme-font: major-bidi; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-theme-font: major-bidi; mso-hansi-font-family: &quot;Times New Roman&quot;; mso-hansi-theme-font: major-bidi;">: Levine sees moderns defining the Levite and
+Priest characters as prejudiced against Judaism, or even against Jews. I
+suppose, this antisemitic reading is true for many modern readers, which is why
+westerners often use “Pharisee” as a pejorative. For me, these characters in
+the gospels represented “the establishment” leaders of any era. Whether that establishment
+is an apostate King or Emperor, a Jewish Sadducee interrogating Jesus, a
+Catholic Priest in the middle ages selling indulgences, a Baptist Pastor saying,
+“you have to be baptized our way or you’re not going to heaven”, a Word of
+Faith/Pentecostal televangelist, or a best-selling Christian author… the theme I
+see is “the establishment” insiders from “the church” often need to be replaced
+with authentic relational leadership. For my part, I did not see this as a
+Jewish issue, I see this as an issue within all leadership of Yahweh’s people
+in all iterations of those peoples. </span></p>
+
+<p class="MsoNormal" style="line-height: 200%;"><i><span style="font-size: 12.0pt; line-height: 200%; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-ascii-theme-font: major-bidi; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-theme-font: major-bidi; mso-hansi-font-family: &quot;Times New Roman&quot;; mso-hansi-theme-font: major-bidi;">Pearls:</span></i><span style="font-size: 12.0pt; line-height: 200%; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-ascii-theme-font: major-bidi; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-theme-font: major-bidi; mso-hansi-font-family: &quot;Times New Roman&quot;; mso-hansi-theme-font: major-bidi;"> Levine makes the case for understanding
+scripture in its original contexts, including the literary context (verses
+surrounding the verse in question) (Levine, 11/35). In quoting, “You shall love
+your neighbor as yourself” (Leviticus 19:18; Luke 10:27), the entire context of
+the sentence is intended to be implied and understood by the hearer. In first-century
+Israel, the average synagogue goer would have heard the Torah spoken aloud many
+times and recognized the context. This process, of quoting a sentence, or even
+a partial sentence, and implying the remaining unspoken context is known as
+“casting pearls”.<a href="#_ftn2" name="_ftnref2" style="mso-footnote-id: ftn2;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 12.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: AR-SA; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: major-bidi;">[2]</span></span></span></span></a>
+For many western Christians, there is a lack of familiarity with the Tanakh
+(due to improperly relating it to the “old”, by extension unnecessary). This
+unfamiliarity results in a lack of awareness about how often this pearl-casting
+occurs in the Second Writings (Gospels and Epistles). Familiarity with the
+Tanakh is a vital component for biblical interpretation. </span></p>
+
+<p class="MsoNormal" style="line-height: 200%;"><i><span style="font-size: 12.0pt; line-height: 200%; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-ascii-theme-font: major-bidi; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-theme-font: major-bidi; mso-hansi-font-family: &quot;Times New Roman&quot;; mso-hansi-theme-font: major-bidi;">“Who is
+my neighbor?” (Luke 10:29)</span></i><span style="font-size: 12.0pt; line-height: 200%; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-ascii-theme-font: major-bidi; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-theme-font: major-bidi; mso-hansi-font-family: &quot;Times New Roman&quot;; mso-hansi-theme-font: major-bidi;">. Levine
+contrasts the Hebrew words rooted in the Leviticus passage quoted by the
+attorney (Levine 12-13/35). The Hebrew root (ger) is translated in the Greek Septuagint
+as the word which is translated as proselyte. Rather than a convert, Levine
+says it means “one who comes forward” and the inference is “one who does life
+together” (Levine, 12/35). The Abridged BDB lists the following for these
+lemmas, </span><span dir="RTL" lang="HE" style="font-size: 12.0pt; line-height: 200%; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-ascii-theme-font: major-bidi; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-hansi-font-family: &quot;Times New Roman&quot;; mso-hansi-theme-font: major-bidi;">גֵּר</span><span dir="LTR"></span><span dir="LTR"></span><span style="font-size: 12.0pt; line-height: 200%; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-ascii-theme-font: major-bidi; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-theme-font: major-bidi; mso-hansi-font-family: &quot;Times New Roman&quot;; mso-hansi-theme-font: major-bidi;"><span dir="LTR"></span><span dir="LTR"></span>
+(ger) “sojourner, temporary dweller, new-comer” (Leviticus 19:9); II.</span><span dir="RTL" lang="HE" style="font-size: 12.0pt; line-height: 200%; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-ascii-theme-font: major-bidi; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-hansi-font-family: &quot;Times New Roman&quot;; mso-hansi-theme-font: major-bidi;">רֵעַ</span><span dir="LTR"></span><span dir="LTR"></span><span style="font-size: 12.0pt; line-height: 200%; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-ascii-theme-font: major-bidi; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-hansi-font-family: &quot;Times New Roman&quot;; mso-hansi-theme-font: major-bidi;"><span dir="LTR"></span><span dir="LTR"></span> (rea) “friend, companion, fellow” (Leviticus 9:13).<a href="#_ftn3" name="_ftnref3" style="mso-footnote-id: ftn3;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 12.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: major-bidi;">[3]</span></span></span></span></a></span><span style="font-size: 12.0pt; line-height: 200%; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-ascii-theme-font: major-bidi; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-theme-font: major-bidi; mso-hansi-font-family: &quot;Times New Roman&quot;; mso-hansi-theme-font: major-bidi;">A Logos Bible Word Study search identifies that
+the LEB translates II.</span><span dir="RTL" lang="HE" style="font-size: 12.0pt; line-height: 200%; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-ascii-theme-font: major-bidi; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-hansi-font-family: &quot;Times New Roman&quot;; mso-hansi-theme-font: major-bidi;">רֵעַ</span><span dir="LTR"></span><span dir="LTR"></span><span style="font-size: 12.0pt; line-height: 200%; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-ascii-theme-font: major-bidi; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-language: HE; mso-bidi-theme-font: major-bidi; mso-hansi-font-family: &quot;Times New Roman&quot;; mso-hansi-theme-font: major-bidi;"><span dir="LTR"></span><span dir="LTR"></span> (rea) </span><span style="font-size: 12.0pt; line-height: 200%; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-ascii-theme-font: major-bidi; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-theme-font: major-bidi; mso-hansi-font-family: &quot;Times New Roman&quot;; mso-hansi-theme-font: major-bidi;">as
+“neighbor” over in over half of the 184 instances.<a href="#_ftn4" name="_ftnref4" style="mso-footnote-id: ftn4;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 12.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: AR-SA; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: major-bidi;">[4]</span></span></span></span></a>
+Mounce ads the word “associate” in his lexicon.<a href="#_ftn5" name="_ftnref5" style="mso-footnote-id: ftn5;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 12.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-ascii-theme-font: major-bidi; mso-bidi-language: AR-SA; mso-bidi-theme-font: major-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast; mso-hansi-theme-font: major-bidi;">[5]</span></span></span></span></a> By
+contrasting the words from the original passage, and contextualizing those
+words/phrases with their original audience, one finds more depth in the
+exchange between Jesus and the attorney than a simple “love your neighbor”.
+Jesus is subverting and deepening the given understanding.</span></p>
+
+<p class="MsoNormal" style="line-height: 200%;"><i><span style="font-size: 12.0pt; line-height: 200%; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-ascii-theme-font: major-bidi; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-theme-font: major-bidi; mso-hansi-font-family: &quot;Times New Roman&quot;; mso-hansi-theme-font: major-bidi;">Subversion</span></i><span style="font-size: 12.0pt; line-height: 200%; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-ascii-theme-font: major-bidi; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-theme-font: major-bidi; mso-hansi-font-family: &quot;Times New Roman&quot;; mso-hansi-theme-font: major-bidi;">: Levine draws an important conclusion, “Those
+who want to kill you may be the only ones who will save you” (Levine, 30/35). Throughout
+the biblical narratives, one discovers the theme of subversion. Jesus
+frequently subverts his hearers’ preconceived ideas. Often, parables have this
+subversion feature. Going back into the literary and cultural contexts can shed
+light on the subtext of the text and provide ample room for seeing the
+subversion that was previously hidden to western eyes. </span><span style="mso-bidi-font-family: &quot;Times New Roman&quot;;"></span></p>
+
+<div style="mso-element: footnote-list;"><br clear="all" />
+
+<hr align="left" size="1" width="33%" />
+
+
+
+<div id="ftn1" style="mso-element: footnote;">
+
+<p class="MsoFootnoteText" style="text-indent: .5in;"><a href="#_ftnref1" name="_ftn1" style="mso-footnote-id: ftn1;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;">[1]</span></span></span></span></a> <span style="mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-font-size: 12.0pt;">Amy-Jill
+Levine, <i>Short Stories by Jesus: The Enigmatic Parables of a Controversial
+Rabbi</i> (Harper Collins, 2014), Chapter 2, The Good Samaritan (Note: Page
+numbers missing from this PDF copy, citing PDF page refence instead).</span></p>
+
+</div>
+
+<div id="ftn2" style="mso-element: footnote;">
+
+<p class="MsoFootnoteText" style="text-indent: .5in;"><a href="#_ftnref2" name="_ftn2" style="mso-footnote-id: ftn2;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;">[2]</span></span></span></span></a> <span style="mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-font-size: 12.0pt;">Ann
+Spangler and Lois Tverberg, <i>Sitting at the Feet of Rabbi Jesus: How the
+Jewishness of Jesus Can Transform Your Faith</i>, Updated edition (Grand
+Rapids, Michigan: Zondervan, 2018).</span></p>
+
+</div>
+
+<div id="ftn3" style="mso-element: footnote;">
+
+<p class="MsoFootnoteText" style="text-indent: .5in;"><a href="#_ftnref3" name="_ftn3" style="mso-footnote-id: ftn3;" title=""></a>&nbsp;</p>
+
+<p class="MsoFootnoteText" style="text-indent: .5in;"><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;">[3]</span></span></span></span> <span style="mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-font-size: 12.0pt;">Wilhelm
+Gesenius et al., <i>The Abridged Brown-Driver-Briggs Hebrew-English Lexicon of
+the Old Testament: From A Hebrew and English Lexicon of the Old Testament.</i>
+(Boston; New York: Houghton, Mifflin and Company, 1906).</span></p>
+
+</div>
+
+<div id="ftn4" style="mso-element: footnote;">
+
+<p class="MsoFootnoteText" style="text-indent: .5in;"><a href="#_ftnref4" name="_ftn4" style="mso-footnote-id: ftn4;" title=""></a>&nbsp;</p>
+
+<p class="MsoFootnoteText" style="text-indent: .5in;"><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;">[4]</span></span></span></span> <i><span style="mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-font-size: 12.0pt;">The
+Lexham English Bible (LEB), Fourth Edition</span></i><span style="mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-font-size: 12.0pt;">, Logo Bible Software, Harris,
+W. H., III, Ritzema, E., Brannan, R., Mangum, D., Dunham, J., Reimer, J. A.,
+&amp; Wierenga, M. (Eds.) (Bellingham, WA: Lexham Press, 2010),
+http://www.lexhampress.com; <i>Logos Bible Software 8.17 SR-38.17.0.0022</i>
+(Faithlife Corporation, 2000), logos.com.</span></p>
+
+</div>
+
+<div id="ftn5" style="mso-element: footnote;">
+
+<p class="MsoFootnoteText" style="text-indent: .5in;"><a href="#_ftnref5" name="_ftn5" style="mso-footnote-id: ftn5;" title=""></a>&nbsp;</p>
+
+<p class="MsoFootnoteText" style="text-indent: .5in;"><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;">[5]</span></span></span></span> <span style="mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-font-size: 12.0pt;">William
+D. Mounce, ed., <i>Mounce’s Complete Expository Dictionary of Old &amp; New
+Testament Words</i> (Grand Rapids, Mich: Zondervan, 2006).</span></p>
+
+</div>
+
+</div>
+

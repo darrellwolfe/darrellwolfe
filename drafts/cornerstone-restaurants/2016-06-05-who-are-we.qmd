@@ -1,0 +1,17 @@
+---
+title: 'Who are we?'
+date: '2016-06-05T22:11:00.0020000+00:00'
+draft: true
+blogger_blog: 'Cornerstone Restaurants'
+blogger_status: 'LIVE'
+blogger_post_id: '7896397554475085763'
+blogger_filename: '/2016/06/who-are-we.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Cornerstone Restaurants/feed.atom'
+---
+
+<div style="color: #3d596d; font-family: Merriweather, Georgia, 'Times New Roman', Times, serif; font-size: 15px; line-height: 25.5px; margin-bottom: 24px;">
+<a data-mce-href="/images/imported/cornerstonerestaurants-files-wordpress-com/cr-logo3-791139b9fd9d.jpg" href="/images/imported/cornerstonerestaurants-files-wordpress-com/cr-logo3-791139b9fd9d.jpg" style="color: #00aadc;"><img alt="" class="alignleft size-full wp-image-9" data-mce-src="/images/imported/cornerstonerestaurants-files-wordpress-com/cr-logo3-791139b9fd9d.jpg" height="455" src="/images/imported/cornerstonerestaurants-files-wordpress-com/cr-logo3-791139b9fd9d.jpg" style="border: 0px; float: left; height: auto; margin: 16px 16px 16px 0px; max-width: 100%;" title="cr logo" width="460" /></a></div>
+<div style="color: #3d596d; font-family: Merriweather, Georgia, 'Times New Roman', Times, serif; font-size: 15px; line-height: 25.5px; margin-bottom: 24px;">
+Cornerstone Restaurants is the master name for our restaurant concepts.</div>
+<div style="color: #3d596d; font-family: Merriweather, Georgia, 'Times New Roman', Times, serif; font-size: 15px; line-height: 25.5px;">
+The Soda Shop (Actual Name Pending) is our first&nbsp;endeavor&nbsp;to provide quality food and alcohol free drinks in a&nbsp;truly&nbsp;family friendly environment.</div>

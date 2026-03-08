@@ -1,0 +1,38 @@
+---
+title: 'Humbuckers Research'
+date: '2013-03-24T21:19:00.0020000+00:00'
+draft: true
+blogger_blog: 'Towdah: tō·dä'''
+blogger_status: 'LIVE'
+blogger_post_id: '89887926802467016'
+blogger_filename: '/2013/03/humbuckers-research.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Towdah_ tō·dä_/feed.atom'
+categories:
+  - 'Equipment'
+---
+
+<br />
+<div style="color: #333333; font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif; font-size: 13px; line-height: 19px;">
+Humbucker&nbsp;or Dual Coil pickups reduce the "Hum" or "Buzz" often&nbsp;experienced&nbsp;from the amp when using single coil pickups.</div>
+<div style="color: #333333; font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif; font-size: 13px; line-height: 19px;">
+While reducing the Hum it also provides a warmer softer tone vs the brighter crisper tone of the single coil. Humbuckers are used in many designs but best known in the Gibson design. Fenders are best known for the brighter sounds of a single coil design.</div>
+<div style="color: #333333; font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif; font-size: 13px; line-height: 19px;">
+From experience the sound I prefer is the softer warmer&nbsp;Humbucker&nbsp;design.</div>
+<div style="color: #333333; font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif; font-size: 13px; line-height: 19px;">
+<a data-mce-href="http://en.wikipedia.org/wiki/Humbucker" href="http://en.wikipedia.org/wiki/Humbucker" target="_blank">Humbuckers on Wiki</a></div>
+<div style="color: #333333; font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif; font-size: 13px; line-height: 19px;">
+A conventional&nbsp;<strong>humbucker</strong>&nbsp;(or&nbsp;<strong>Humbucking pickup</strong>) is a type of&nbsp;<a data-mce-href="/wiki/Electric_guitar" href="http://towdah.wordpress.com/wiki/Electric_guitar" title="Electric guitar">electric guitar</a>&nbsp;<a data-mce-href="/wiki/Pick_up_(music_technology)" href="http://towdah.wordpress.com/wiki/Pick_up_(music_technology)" title="Pick up (music technology)">pickup</a>, first patented by&nbsp;<a data-mce-href="/wiki/Seth_Lover" href="http://towdah.wordpress.com/wiki/Seth_Lover" title="Seth Lover">Seth Lover</a>&nbsp;and the&nbsp;<a data-mce-href="/wiki/Gibson" href="http://towdah.wordpress.com/wiki/Gibson" title="Gibson">Gibson</a>&nbsp;company, that uses two coils, both generating string signal. Humbuckers have high output since both coils are in series and the magnetic circuit is low loss. Like a&nbsp;<a data-mce-href="/wiki/Single_coil" href="http://towdah.wordpress.com/wiki/Single_coil" title="Single coil">single coil</a>&nbsp;pickup, a humbucker induces a slight magnetic field around the strings, which in turn induce an electrical current on the coils as the strings vibrate. The two coils have opposite polarity, opposite windings and are connected in series which causes noise and interference to be significantly reduced via&nbsp;<a data-mce-href="/wiki/Common-mode_rejection" href="http://towdah.wordpress.com/wiki/Common-mode_rejection" title="Common-mode rejection">common-mode rejection</a>. Humbuckers get their name from their canceling out interference (they "buck the hum") induced by&nbsp;<a data-mce-href="/wiki/Alternating_current" href="http://towdah.wordpress.com/wiki/Alternating_current" title="Alternating current">alternating current</a>&nbsp;sources normally experienced with single coil pickups.</div>
+<div style="color: #333333; font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif; font-size: 13px; line-height: 19px;">
+Hum is caused by interference typically created by transformers and power supplies inside various electrical equipment utilizing alternating current. As alternating current passes through a coil, it induces a magnetic field around the coil. The magnetic field may be very weak at the pickup, but once the signal is put through various pedals and amps it can become much more evident. Using a guitar without humbuckers, a musician would hear a slight but annoying hum from the amp in silent sections of the music. Sources of hum generated in the studio and on stage can include high-power amps, processors, mixers, motors, power lines, and other sources. Humbuckers dramatically reduce the hum effect compared to single coil pickups.</div>
+<div style="color: #333333; font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif; font-size: 13px; line-height: 19px;">
+<a data-mce-href="http://guitarpraise.blogspot.com/2007/09/humbuckers-vs-single-coils.html" href="http://guitarpraise.blogspot.com/2007/09/humbuckers-vs-single-coils.html" target="_blank">Guitar Praise</a></div>
+<div style="color: #333333; font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif; font-size: 13px; line-height: 19px;">
+I use a pair of Seymour Duncan humbuckers. I installed a push-pull pot, which is a really useful and cheap (about US$8) device to switch between having two coils or one coil. But the single coils probably don't sound as 'authentic' as dedicated single coils, but the video should be enough to give you a broad idea.</div>
+<div style="color: #333333; font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif; font-size: 13px; line-height: 19px;">
+Humbuckers have a much thicker and distorted sound ('higher gain') than single coils. Single coils have a kind of twang which is quite suitable for blues and country music, but not for heavier rock.</div>
+<div style="color: #333333; font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif; font-size: 13px; line-height: 19px;">
+But it isn't a hard and fast rule, because many rock players use single coils, and some blues players use humbuckers. It really boils down to your personal preference.</div>
+<div style="color: #333333; font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif; font-size: 13px; line-height: 19px;">
+You can&nbsp;<a data-mce-href="http://www.youtube.com/watch?v=9f4EV6F1Ni0&amp;feature=player_embedded" href="http://www.youtube.com/watch?v=9f4EV6F1Ni0&amp;feature=player_embedded" target="_blank">HEAR</a>&nbsp;the difference</div>
+<div style="color: #333333; font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif; font-size: 13px; line-height: 19px;">
+Listen&nbsp;<a data-mce-href="http://www.youtube.com/watch?v=wUHwqmAq9LQ" href="http://www.youtube.com/watch?v=wUHwqmAq9LQ" target="_blank">HERE</a>&nbsp;too...</div>

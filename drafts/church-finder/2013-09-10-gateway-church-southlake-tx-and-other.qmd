@@ -1,0 +1,143 @@
+---
+title: 'Gateway Church - Southlake, TX (And other locations throughout DFW)'
+date: '2013-09-10T04:11:00.0040000+00:00'
+draft: true
+blogger_blog: 'Church Finder'
+blogger_status: 'LIVE'
+blogger_post_id: '8436960798555038892'
+blogger_filename: '/2013/09/gateway-church-southlake-tx-and-other.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Church Finder/feed.atom'
+categories:
+  - 'Texas'
+---
+
+Gateway Church<br />
+Founder Pastor: Robert Morris<br />
+<br />
+<a href="http://gatewaypeople.com/services" target="_blank">http://gatewaypeople.com/services</a> <br />
+<br />
+<br />
+<div class="views-field-field-campus-address-value">
+<span class="field-content">700 Blessed Way</span>
+  </div>
+<span class="views-field-field-campus-city-value">
+                <span class="field-content">Southlake,</span>
+  </span>
+  
+  <span class="views-field-field-campus-state-value">
+                <span class="field-content">Texas</span>
+  </span>
+  
+  <span class="views-field-field-campus-zip-value">
+                <span class="field-content">76092</span>
+  </span>
+  
+  <br />
+<div class="views-field-field-campus-office-phone-value">
+<label class="views-label-field-campus-office-phone-value">
+        Phone:
+      </label>
+                <span class="field-content">817.328.1000</span>
+  </div>
+<div class="views-field-field-campus-fax-value">
+<label class="views-label-field-campus-fax-value">
+        Fax:
+      </label>
+                <span class="field-content">817.416.5701</span></div>
+<div class="views-field-field-campus-fax-value">
+</div>
+<div class="views-field-field-campus-fax-value">
+<span class="field-content">Also:</span></div>
+<div class="views-field-field-campus-fax-value">
+</div>
+<div class="views-field-field-campus-fax-value">
+<div class="views-field-field-campus-address-value">
+<span class="field-content">2404 N Carrier Parkway</span>
+  </div>
+<span class="views-field-field-campus-city-value">
+                <span class="field-content">Grand Prairie,</span>
+  </span>
+  
+  <span class="views-field-field-campus-state-value">
+                <span class="field-content">Texas</span>
+  </span>
+  
+  <span class="views-field-field-campus-zip-value">
+                <span class="field-content">75050</span>&nbsp;</span></div>
+<div class="views-field-field-campus-fax-value">
+</div>
+<div class="views-field-field-campus-fax-value">
+<div class="views-field-field-campus-address-value">
+<span class="field-content">7501 Davis Blvd</span>
+  </div>
+<span class="views-field-field-campus-city-value">
+                <span class="field-content">North Richland Hills,</span>
+  </span>
+  
+  <span class="views-field-field-campus-state-value">
+                <span class="field-content">Texas</span>
+  </span>
+  
+  <span class="views-field-field-campus-zip-value">
+                <span class="field-content">76182</span>
+  </span>
+  
+  <br />
+<div class="views-field-field-campus-office-phone-value">
+<label class="views-label-field-campus-office-phone-value">
+        Phone:
+      </label>
+                <span class="field-content">817.328.1000</span>
+  </div>
+<div class="views-field-field-campus-fax-value">
+<label class="views-label-field-campus-fax-value">
+        Fax:
+      </label>
+                <span class="field-content">817.416.5701</span>&nbsp;</div>
+<div class="views-field-field-campus-fax-value">
+</div>
+<div class="views-field-field-campus-fax-value">
+<div class="views-field-field-campus-address-value">
+<span class="field-content">7125 Legacy Drive</span>
+  </div>
+<span class="views-field-field-campus-city-value">
+                <span class="field-content">Frisco,</span>
+  </span>
+  
+  <span class="views-field-field-campus-state-value">
+                <span class="field-content">TX</span>
+  </span>
+  
+  <span class="views-field-field-campus-zip-value">
+                <span class="field-content">75034</span>&nbsp;&nbsp;</span></div>
+<div class="views-field-field-campus-fax-value">
+</div>
+<div class="views-field-field-campus-fax-value">
+<div class="views-field-field-campus-address-value">
+<span class="field-content">4209 Basswood Blvd</span>
+  </div>
+<span class="views-field-field-campus-city-value">
+                <span class="field-content">Fort Worth,</span>
+  </span>
+  
+  <span class="views-field-field-campus-state-value">
+                <span class="field-content">TX</span>
+  </span>
+  
+  <span class="views-field-field-campus-zip-value">
+                <span class="field-content">76137</span>
+  </span>
+  
+  <br />
+<div class="views-field-field-campus-office-phone-value">
+<label class="views-label-field-campus-office-phone-value">
+        Phone:
+      </label>
+                <span class="field-content">817.552.7581</span>&nbsp;</div>
+<div class="views-field-field-campus-office-phone-value">
+</div>
+<div class="views-field-field-campus-office-phone-value">
+</div>
+</div>
+<span class="views-field-field-campus-zip-value">&nbsp;</span><span class="field-content">&nbsp;</span>
+  </div>

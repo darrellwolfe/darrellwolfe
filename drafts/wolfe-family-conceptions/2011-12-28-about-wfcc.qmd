@@ -1,0 +1,222 @@
+---
+title: 'About WFCC'
+date: '2011-12-28T05:35:00.0000000+00:00'
+draft: true
+blogger_blog: 'Wolfe Family Conceptions'
+blogger_status: 'LIVE'
+blogger_post_id: '3010639313747885666'
+blogger_filename: '/2011/12/about-wfcc.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Wolfe Family Conceptions/feed.atom'
+---
+
+Wolfe Family Conceptions<br />
+<br />
+<blockquote class="tr_bq">
+CONCEPts + CreaTIONS = Conceptions</blockquote>
+<br />
+Our Mission:<br />
+<br />
+<blockquote class="tr_bq">
+Creating with the Creator!</blockquote>
+<br />
+Our Vision:<br />
+<br />
+<blockquote class="tr_bq">
+To use all of the gifts, talents, and treasures we have to fulfill Godâ€™s call on our life and help others fulfill their call. Therefore we reach out in art, writing, music, and other business ventures to help people get closer to God, see their full potential, fulfill their destiny, and reach their destination. In essence we create with the creator in order to draw all people to Him!</blockquote>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="/images/imported/blogger-googleusercontent-com/wfc-banner-3f23ce25e36f.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/imported/blogger-googleusercontent-com/wfc-banner-3f23ce25e36f.png" height="77" width="400" /></a></div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<script type="text/javascript">window.___gcfg = {'lang': 'en'};</script>
+
+<div class="widget BlogList" id="BlogList1">
+<h2 class="title">
+WFC Projects</h2>
+<div class="widget-content">
+<div class="blog-list-container" id="BlogList1_container">
+<ul id="BlogList1_blogs">
+<li style="display: block;">
+<div class="blog-icon">
+<img data-lateloadsrc="http://www.darrellwolfe.com/favicon.ico" height="16" width="16" />
+</div>
+<div class="blog-content">
+<div class="blog-title">
+<a href="http://www.darrellwolfe.com/" target="_blank">
+Darrell G. Wolfe</a>
+</div>
+<div class="item-content">
+<div class="item-thumbnail">
+<a href="http://www.darrellwolfe.com/" target="_blank">
+<img alt="" border="0" src="/images/imported/blogger-googleusercontent-com/changing-the-world-by-celestine-chua-07e89c3427dd.jpg" height="72" width="72" />
+</a>
+</div>
+<span class="item-title">
+<a href="http://feedproxy.google.com/~r/DarrellWolfe/~3/7s8t4vN8_4A/wnat-better-life-change-something.html" target="_blank">
+Want A Better Life? Change Something!</a>
+</span>
+
+                      -
+                    
+<span class="item-snippet">
+
+I'm going to be straight with you... I don't like to change. 
+Does anyone?  It's uncomfortable.
+
+But I find change is necessary if you want a better life. 
+...
+</span>
+<br />
+<div class="item-time">
+16 hours ago
+</div>
+</div>
+</div>
+<div style="clear: both;">
+</div>
+</li>
+<li style="display: block;">
+<div class="blog-icon">
+<img data-lateloadsrc="http://www.lifeinfortworth.com/favicon.ico" height="16" width="16" />
+</div>
+<div class="blog-content">
+<div class="blog-title">
+<a href="http://www.lifeinfortworth.com/" target="_blank">
+Texas Living Info</a>
+</div>
+<div class="item-content">
+<div class="item-thumbnail">
+<a href="http://www.lifeinfortworth.com/" target="_blank">
+<img alt="" border="0" src="/images/imported/blogger-googleusercontent-com/img-20140330-140831-fb3708cbd117.jpg" height="72" width="72" />
+</a>
+</div>
+<span class="item-title">
+<a href="http://feedproxy.google.com/~r/lifeinfortworth/~3/7JWGNQDACEQ/lif-review-of-sea-life-aquarium.html" target="_blank">
+LIF Review of Sea Life Aquarium Grapevine, Texas</a>
+</span>
+
+                      -
+                    
+<span class="item-snippet">
+Sea Life Aquarium Grapevine, TexasSee On Yelp (Click Here)
+Rating (5 Being the Best)*5+*
+
+
+[image: Sea Life Aquarium Sea Stars Attribution DarrellWolfe.Com]S...
+</span>
+<br />
+<div class="item-time">
+2 weeks ago
+</div>
+</div>
+</div>
+<div style="clear: both;">
+</div>
+</li>
+<li style="display: block;">
+<div class="blog-icon">
+<img data-lateloadsrc="http://authorfun.blogspot.com/favicon.ico" height="16" width="16" />
+</div>
+<div class="blog-content">
+<div class="blog-title">
+<a href="http://authorfun.blogspot.com/" target="_blank">
+Author Fun</a>
+</div>
+<div class="item-content">
+<span class="item-title">
+<a href="http://feedproxy.google.com/~r/AuthorFun/~3/hByEvHoZ1YQ/three-tips-for-creating-effective-and.html" target="_blank">
+Three tips for creating an effective and intriguing logline or elevator pitch</a>
+</span>
+
+                      -
+                    
+<span class="item-snippet">
+03/31/2014 The Perfect Elevator Pitch (Also Called a Logline)
+I came across this article from "The Write Practice" about creating a 
+perfect logline or eleva...
+</span>
+<br />
+<div class="item-time">
+2 weeks ago
+</div>
+</div>
+</div>
+<div style="clear: both;">
+</div>
+</li>
+<li style="display: block;">
+<div class="blog-icon">
+<img data-lateloadsrc="http://www.texascowsandcrafts.com/favicon.ico" height="16" width="16" />
+</div>
+<div class="blog-content">
+<div class="blog-title">
+<a href="http://www.texascowsandcrafts.com/" target="_blank">
+Texas Cows and Crafts</a>
+</div>
+<div class="item-content">
+<div class="item-thumbnail">
+<a href="http://www.texascowsandcrafts.com/" target="_blank">
+<img alt="" border="0" src="/images/imported/blogger-googleusercontent-com/god-parting-the-sky-c434d89a3fa2.jpg" height="72" width="72" />
+</a>
+</div>
+<span class="item-title">
+<a href="http://feedproxy.google.com/~r/texascowscrafts/~3/HC3ybaCnbUE/testr.html" target="_blank">
+testr #@</a>
+</span>
+
+                      -
+                    
+<span class="item-snippet">
+cgbh
+  
+</span>
+<br />
+<div class="item-time">
+1 month ago
+</div>
+</div>
+</div>
+<div style="clear: both;">
+</div>
+</li>
+</ul>
+<div class="clear">
+</div>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" href="https://www.blogger.com/rearrange?blogID=1376428504889168219&amp;widgetType=BlogList&amp;widgetId=BlogList1&amp;action=editWidget&amp;sectionId=main" onclick="return _WidgetManager._PopupConfig(document.getElementById(&quot;BlogList1&quot;));" target="configBlogList1" title="Edit">
+<img alt="" src="/images/imported/img1-blogblog-com/icon18-wrench-allbkg-d9d169315164.png" height="18" width="18" />
+</a>
+</span>
+</span>
+<br />
+<div class="clear">
+</div>
+</div>
+</div>
+</div>
+<div class="column-left-outer">
+<div class="column-left-inner">
+<br />
+<aside>
+</aside>
+</div>
+</div>
+<div class="column-right-outer">
+<div class="column-right-inner">
+<br />
+<aside>
+</aside>
+</div>
+</div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />

@@ -1,0 +1,210 @@
+---
+title: 'Audio 101 Sound Mixing Seminar with Buford Jones, Day One'
+date: '2013-12-02T04:37:00.0000000+00:00'
+draft: true
+blogger_blog: 'Towdah: tÅÂ·dÃ¤'''
+blogger_status: 'LIVE'
+blogger_post_id: '6903351057364200297'
+blogger_filename: '/2013/12/audio-101-sound-mixing-seminar-with.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Towdah_ tÅÂ·dÃ¤_/feed.atom'
+categories:
+  - 'Expert Advice'
+  - 'Audio 101'
+---
+
+<h4>
+<div style="text-align: center;">
+Audio 101</div>
+<div style="text-align: center;">
+Class Notes</div>
+<div style="text-align: center;">
+<br /></div>
+<div style="text-align: center;">
+Sound Mixing Seminar Notes</div>
+<div style="text-align: center;">
+with <a href="http://www.meyersound.com/about/people/buford_jones/" target="_blank">Buford Jones</a><br />
+Day ONE</div>
+</h4>
+An Audio Mixer defined: "The Artist bakes the cake and the Audio Mixer serves the cake."<br />
+<br />
+<h4>
+Board Recordings</h4>
+If you set your gain structure right, start with a room that has been EQ set with a Flat Frequency Response, and balance your levels right, you should try doing board recordings Post Fader. If done right, the board recording should sound essentially the same in the room played back on CD as it did played like (minus room noise from on stage items). If you adjust a guitar up on a solo, or bring the drum kit down a little during a quieter moment, these need to be reflected in your board recordings. It's an excellent way to develop a relationship between the band and the mixer, who is really more a part of the band than any other tech person present.<br />
+<h4>
+Sound Mixer vs Sound Engineer</h4>
+Many times, due to budget, these are the same person. But they are very different roles and when budget allows should be two different people with different skills set specialties.<br />
+<br />
+<b>Sound System Engineer,</b> or System Engineer, sets up the equipment and tunes the system. This person would be basically be the scientist or "engineer" of the group. He/She is going to know the power, amp, wattage requirements of the system and be able to ensure that the facility is equipped with what is needed. For large systems they may need several patches on the breaker board just dedicated to the sound system. The larger the system, and more subs, the more wattage needed. They also would check to make sure the system electrical is being grounded correctly with no ground loops (which create 60 Hz hums in the equipment). This person would also know things like weight ratios and weight capacities for hanging speakers from the ceiling baffles. This person would be responsible for calculating the Ohms needed for the system and setting up in Loudspeakers and other equipment in Series/Parallel formations to create the right Ohms outcome.<br />
+<br />
+<b>Mix Engineer</b>, or Mixer, or Sound Board Mixer, deals with the music. The mixer is a band member, just as much or more than a technician. Often Buford would right with the "techies" on the first trip in the tour, get to know his crew and make sure they know his needs and requirements. But from then on he spent most of his time with the band and artist. Everything on stage passes through him and it's his job to make sure that it doesn't get lost in translation. Artistic needs, who needs to be higher, lower, effects, placement in the mix, any changes the band is making based on past performances, this all needs to be passing through him. The mixer is an artist too and must bring his thinking to that level. He can't just turn on the system and set levels and then watch, he must play with the band.<br />
+<br />
+<h4>
+The Mixer as Band Member.&nbsp;</h4>
+The Mixer ought to be just as involved in the music the band produces as any other band member, they ought to know how to break down the construct of a song, know the bridge from the chorus, and know what parts need to shine before they come up and prepare for them. This level of knowledge can also help when doing creative EQ or Effects.<br />
+<br />
+For this reason, when budget allows, the Mixer shouldn't be showing up much earlier than the band themselves. They should be there a few minutes early to make sure everything is clean and ready, line checks are complete, and the system kinks are ironed out. But the majority of the Mixer's mental energy should be spent creatively with the band.<br />
+<br />
+You must learn to PLAY the music just like a band member. If you get buried in technicals you might miss the music and risk actually stepping on the band's performance with your own head buried in the board.<br />
+<br />
+Mixer style and ability is more important than the console itself. A great mixer on a poor console can still do great things, a poor mixer on a great console will still likely create a hot mess. This also means you must rely on the people you have. If you have the technical knowledge to be a System Engineer but you are the Mix Engineer you need to rely on your people. Get to know what they can and can't do. Once you know they can do it, let them and get back to the artistry of your mix.<br />
+<br />
+Would you want your Chef as your server or would you prefer for him to concentrate on making great food and let the server bring it? Let your chefs do their work and you work on serving it.<br />
+<br />
+<h4>
+How to get started in Sound:</h4>
+What kinds of things can you do to get started in a sound career?<br />
+<br />
+<ul>
+<li>Local Venues, bars, nightclubs, churches, maybe even hotels.</li>
+<li>Rental Equipment businesses</li>
+<li>Personal Recording Studios.&nbsp;</li>
+<li>Seminars</li>
+<li>Books, Magazines, Internet Tutorials</li>
+<li>Education - Audio AND Music Education.&nbsp;</li>
+<ul>
+<li>Know how to break down a song, know what instruments should sound like.&nbsp;</li>
+</ul>
+<li>Keep Learning....</li>
+</ul>
+<h4>
+System Tuning</h4>
+<div>
+Flat System Frequency Response!!!!&nbsp;</div>
+<div>
+<br /></div>
+<div>
+Many, if not most, of the audio systems in the world are tuned with some boost or cut in levels to create a good "room sound". More often than not it has a boost in the sub ranges (below 100 Hz). They do this to create a deep bass feel to the room. This is completely wrong for mixing Live Sound. Now, if you want to tune a car stereo or home sound system to the preferences of the listeners there, great. But in a live sound room you should not be boosting or cutting you should be starting with a FLAT response. Why?</div>
+<div>
+<br /></div>
+<div>
+An artist should start with a clean pallet. Is this to say that should not ever be any Bass Boost? No. It is to say that the boost or cut decisions should be made by the mixer at the board for each channel, not the system tuner. &nbsp;It's also WAY easier for the system to be tuned when you are not prematurely coloring the sound.&nbsp;</div>
+<div>
+<br /></div>
+<div>
+<object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="/images/imported/ytimg-googleusercontent-com/0-0bc7d6c0148e.jpg" height="266" style="clear: right; float: right;" width="320"><param name="movie" value="https://youtube.googleapis.com/v/hJ3A17Lowvs&source=uds" /><param name="bgcolor" value="#FFFFFF" /><param name="allowFullScreen" value="true" /><embed width="320" height="266"  src="https://youtube.googleapis.com/v/hJ3A17Lowvs&source=uds" type="application/x-shockwave-flash" allowfullscreen="true"></embed></object>Any changes, boosts, cuts, compression, limiting, gates should be set by the Mixer on the board (and outboard tools) and should be made purposefully to suite the situation. By tuning the system to a Flat System Frequency Response, using Pink Noise and tools to read the room. The System Graphic EQ should be fairly flat with minor adjustments to make the Loudspeakers produce the flattest frequency response in the room that it possible can.&nbsp;</div>
+<div>
+<br /></div>
+<div>
+So, the whole thing is sounding a little flat, missing some bottom end? Well fine, go to your kick drum and boost 60-100Hz with a wide bell and see how that feels. Now boost some of the Bass Guitar. Is that better? do it at the board, not on the system itself. Let these be creative decision by the mixer, not pre built into the system by the engineer.&nbsp;</div>
+<div>
+<br /></div>
+<div>
+Other sites on this topic:</div>
+<div>
+<ul>
+<li><a href="http://www.centerpointaudio.com/HowToUnderstandFlatFrequencyResponseGraph.aspx" target="_blank">http://www.centerpointaudio.com/HowToUnderstandFlatFrequencyResponseGraph.aspx</a></li>
+<li><a href="http://www.meyersound.com/events/seminars/webinars.php" target="_blank">http://www.meyersound.com/events/seminars/webinars.php</a></li>
+<li><a href="https://meyersound.adobeconnect.com/_a838360253/p1uobikst3z/?launcher=false&amp;fcsContent=true&amp;pbMode=normal" target="_blank">Meyers Audio Webinar: Equal Amplitude System Tuning</a></li>
+<li><a href="http://www.youtube.com/watch?v=hJ3A17Lowvs" target="_blank">http://www.youtube.com/watch?v=hJ3A17Lowvs</a></li>
+</ul>
+</div>
+<br />
+What are some of the ramifications of pre-tuning the system to the room? It will create bad live recordings, it will usually equal undesirable sound when piped into aux sends, like mothers rooms, hallways, and overflow rooms. It will create bass boost across the board, rather than the exact places you need it, so the entire mix becomes in danger of being muddy or swamped. By boosting only those instruments, mics, or channels that need the boost you preserve the clean pure sound you need to create a lively and authentic mix. It's not that there shouldn't be a boost, it's just that that boost should be made by the artist controlling the board.<br />
+<br />
+Tuning a system designed for live audio, with anything other than Flat Frequency Response, is like an artist buying a canvass that has been pre-colored with blue on the top half and green on the bottom half. It might be a good starting place for an amateur, but no professional artist wants to be told what colors and hues they must use.<br />
+<br />
+When tuning a system Buford will always use Pink Noise, he may also then turn to a High Quality recorded speaking voice, and then to a high quality musical set, typically a full band with brass and steal and all because it covers the frequency range. The two MP3's that he plays (Spoken and Band) are the same ones every time. This is because you must know what they OUGHT to sound like to make sure the system is tuned right.<br />
+<br />
+The idea on Flat System Tuning is that if you put in "A" you get "A" out of the Loudspeakers. In a non-linear, non flat system, you put in "A" and you get "A+b+c-d*z..." out often times. It's hard to know what you are dealing with.<br />
+<h4>
+SUBS</h4>
+Subs on separate Aux Sub Sends are a great idea! Here are some thoughts that make this work best. The system should be set up so that all frequencies 20Hz to 20kHz are being sent to the full range Loudspeaker system before calculating the subs in. So you shouldn't drop the subs and be "missing" frequencies, even though the Full Range Loudspeakers may not be producing "much" of the lower end, there should be some there. I should be able to play the Bass Guitar and Kick through the Main System and hear all of the corresponding frequencies.<br />
+<br />
+<a href="http://upload.wikimedia.org/wikipedia/commons/thumb/d/db/End-fire_Subwoofer_Array.png/170px-End-fire_Subwoofer_Array.png" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/db/End-fire_Subwoofer_Array.png/170px-End-fire_Subwoofer_Array.png" height="200" width="200" /></a>Now the <a href="http://en.wikipedia.org/wiki/Subwoofer" target="_blank">subs </a>are crossed over to only receive frequencies below your target, maybe below 200 Hz or even below 100 Hz on a well tuned professional system. These subs are sent to a separate Aux Send or Mono Send. The subs are then brought up and down throughout the performance as needed, not left on at all times mindlessly. They are used as "Accents" if you will. This may differ in different types of music of course. A very bass heavy music style may require that the subs be driven constantly, but that is a stylistic choice made by the artist and mixer, not one that applies to all sound, all music, all styles.<br />
+<br />
+End Fire Arrays for Subs are becoming quite popular and are actually much more effective than the traditional set up of having two subs off to the Right and Left. The R/L set up for Subs creates phase issues and often creates a tunnel in the middle of the room where the subs seem to drop out and then become more present in the sides. By setting up subs in a short End Fire Array you can actually create better coverage, creating a bubble of sub sound emanating from front center everywhere in the room, rather than two bubbles from the side competing in the middle. The End Fire array requires that the front speakers be time delayed to arrive at the same time as the rear speakers. This way both sound waves hit at the same time. Any time two similar waves arrive in time they serve to amplify (produce a large amplitude). You actually get more sub sound with less power out of this set up than you could full power with a R/L set up.<br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Cardioid_Subwoofer_Array.png/170px-Cardioid_Subwoofer_Array.png" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Cardioid_Subwoofer_Array.png/170px-Cardioid_Subwoofer_Array.png" height="200" width="200" /></a></div>
+Another interesting trick is essentially turning the subs into a cardioid pattern response. To do this you could have one rear facing and two front facing to create backwards phase cancellation so that the entire sound of the subs points forward and non is lost into the stage. Typically subs have an omni response pattern, meaning they tend to be heard everywhere (behind, side, front) equally. This creates a cardioid response and directs all that energy into the audience, without overwhelming them from the sides.<br />
+<br />
+The End Fire Array uses less energy, less decibels produced from the speakers directly and more sound coverage. The old adage "Smarter not harder" seems to come to mind here. Mixing the End Fire Array with a Rear Facing Delay Array could be a match made in heaven.<br />
+<br />
+<i>Side Note: with subs there is no need to boost any one channel into the subs more than another. In other words, don't boost subs at the Aux Level. If you are wanting more bottom end, make that adjustment at the channel EQ level and let it ride to through the cross overs to the subs. All the Aux Sends for the sub should be at unity.&nbsp;</i><br />
+<br />
+<h4>
+SPL</h4>
+Sound Pressure Levels. Louder is not always better. drop the SPL (overall system volume) and balance the mix and eq better. A great mix, as with great music, will be dynamic. It will have highs, lows, subtle, powerful, etc. Powerful is NOT equal to painful and fatiguing. Even in the hardest rock shows the listener should not leave hearing fatigued or with hearing damage (permanent or temporary). If you listen to something that is too loud, or even just one particular frequency that is too loud, the ear will begin to shut that off and you'll "feel" like you need more. The louder you get the worse it is for the hearer. Any audio person using ear plugs because it's too loud but "that's they way they like it" just doesn't know how to balance the audio mix.<br />
+<br />
+<b>Faders</b>: Learn to pull the faders BACK DOWN. If you boosted a guitar for a solo and it's over pull it back down. Many just keep pushing faders higher and higher. To make up for the guitar that was boosted everything else gets boosted now. Pull Back! You feel like you need more Bass? Rather than pushing up the bass maybe we could cut some piano, kick, or guitar and make room for it. Many times cutting something that is competing will have the audible effect of raising the thing you thought was missing. You also may find that starting out the entire set at a lower SPL and working up and down throughout the performance creates dynamic. It also gives you fatigue headroom for the final push when you "end with a bang"!<br />
+<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right; margin-left: 1em; text-align: right;"><tbody>
+<tr><td style="text-align: center;"><a href="http://www.independentrecording.net/irn/resources/freqchart/main_display.htm" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;" target="_blank"><img border="0" src="/images/imported/blogger-googleusercontent-com/interactive-frequency-chart-e859ec80af1a.jpg" height="172" width="200" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">independentrecording.net</td></tr>
+</tbody></table>
+<b>Use EQ</b> to cut out things you don't need. Very few frequencies below 50 Hz have any musicality in them. They are most the result of noise (system, electronics, feet stomping, something banging, etc) then music. Try putting a high pass at 50 Hz and above on everything, yes even the Kick and Bass. You can even clean up the bass and kick as individuals by High Passing the kick at 60-70 Hz and the Bass at 50 Hz. The bass have more musical tones than the kick, so let it carry the lowest place in the mix. High pass vocals at 100-200 Hz. Low Pass the kick down to 5-8kHz. Boost some of the EQ range 100 Hz-250 Hz for "Fullness" and 3 kHz-5 kHz for "Attack". You could lower or completely cut everything around these ranges if you wanted to "Make Room" for other things to live in this space. You High Pass and Low Pass cut the ends off so if you have a four band Parametric EQ you can use your two middle options to take out the middle and give other things some breathing room. Use this <a href="http://www.independentrecording.net/irn/resources/freqchart/main_display.htm" target="_blank">AWESOME interactive EQ Chart </a>for other instrument specific EQ ranges so that you can target your EQ. Ideally in a quiet room, enclosed drummer cage, off stage guitar amps, 100% In Ear monitors, etc... you shouldn't need to do a TON of cutting and boosting, just accent or de accent certain areas. But if you are in a VERY live room with lots of bleed you may have more creative cutting and boosting to create a product that "works" in the room.<br />
+<br />
+<b>EQ not SPL.</b> Also keep in mind that sometimes a listener fatigue or "hey that's too loud" could be coming from a specific frequency being amplified through&nbsp;<a href="http://en.wikipedia.org/wiki/Standing_wave" target="_blank">standing waves</a>&nbsp;or&nbsp;<a href="http://en.wikipedia.org/wiki/Interference_(wave_propagation)" target="_blank">constructive interference</a>&nbsp;and not the overall SPL. Check EQ settings before just pulling the volume down. Or pull the volume back for a moment and check eq settings and then pull it back up if you found a problem elsewhere.<br />
+<br />
+<b>Dynamics are important. </b>The mixer ought to be making constant adjustments. Just as guitarist doesn't play a song with just one chord, never moving his/her hand, so a mixer ought never be idle during a musical performance. The faders are the strings and they ought to be played musically with the band throughout the performance. Anticipate that lead vocal and have them shine through the chorus and then pull him/her back through the verses, or the other way around, if the lead is singing solo during verses and backed up by the other sings during chorus than push the lead during the verse and pull them back into the vocal mix during the chorus. Be ready to bring that solo guitarist up a bit during the solo but back into the mix during the rest of the set. Use background vocals (BGV's) to support the lead, without overpowering them.<br />
+<br />
+<b>Audience Levels.</b> If the audience gets too loud (yelling screaming, etc), many audio mixers will pull up the volume and compete with the audience, who then gets louder and so forth. Don't compete with the audience. They got excited, but if you pull up the SPL and they quiet down it will be TOO LOUD. Let them have their moment and then let them listen. When they realize they can't hear they'll pull themselves back. Obviously take this in stride, if they are constantly louder you could push it up a little, but find a good balance and let them do some of the work of choosing to hear too.<br />
+<br />
+<h4>
+VCA (Voltage Control Actuators).&nbsp;</h4>
+VCA's (DCA Digital Control Actuators on Digital Boards) can be a great tool when they are available. They are different from Subgroups in several ways, but one main way for our purposes. VCA's are like remote controls. No Audio Signal is passing through them they are simply remote controlling the other channels levels. By grouping things through VCA's you can control the overall system levels. You can essentially leave the main outs at unity and never touch them again. You don't need mutes, in fact mutes are dangerous because you may forget to turn them back on/off. By pulling all VCA faders to ZERO you essentially muted the system if all channels are routed through VCA's. They give you control without adding system noise or other unwanted effects that sub groups can cause.<br />
+<br />
+<h4>
+Clarity</h4>
+As odd as it sounds to me, effects can actually help gain clarity in some cases. Adding some <b>Chorus </b>to Voices or <b>Harmonizer </b>to Bass Guitar can create electronic constructive interference without &nbsp;actually turning up those channels any louder.<br />
+<br />
+Other tools like <b>Compressors and Limiters,</b> (which are essentially the same thing with different ratio settings) can help bring the dynamic of the music under control. If you have a bassist who is really soft and then really hard placing some hard compression on him so that he's always under compression will allow the soft parts to be heard without overloading the hard parts. Compressors also add their own color to the sound dynamics which can be quite pleasant as well. You don't want to compress so much that the instrument or channels looses all it's dynamic range, but you want to find that happy balance between dynamic range and overloading the rest of the band during heavier parts. If you are to err, err on the side of too much, not too little compression. Especially for Kick, Bass, and Vocals. For that matter compress everything if you can. Use <b>make up gain </b>after compression so that you don't loose too much overall signal. This can keep the dynamics of the band in check but still allow it to breath.<br />
+<br />
+If you know your band or musical style well, you could probably set attack and release times before the band arrives and then dial in the threshold when they start to play. If you have the tools for it, you can side chain the Kick and Bass. <b>Side Chaining</b> essentially lowers one piece through compression while the other is on and then raise up when the other stops. For example, you could side chain the Bass and Kick. When the Kick Hits the Bass is compressed more than normal for those milliseconds, then comes back in when the Kick Signal is released. This opens a hole for the Kick to Live and then the Bass becomes the sustain of the Kick. They breath together.<br />
+<br />
+<b>Drummers</b>: Gates most often should be used on Tom's only. &nbsp;A <b>Gate keeps a mic channel muted until there is enough signal coming into that mic to cause it to turn on</b>. The idea of the Gate on toms is that the sounds of the other pieces of the kit being played are not bleeding into the tom mics and increasing overall drum noise when they are not being played. If the gate is set correctly it should turn on when they are hit and then turn right back off when the sound is over. If set too high you risk cutting the tom sound short or not having it turn on at all if played too lightly. I'd err on too little gate rather than too much.<br />
+<br />
+<b>Monitors</b>: if you are not entirely on in ear monitors high pass the vocals upwards of 200-300 Hz in the monitors. These ranges are not needed for pitch which is the main point of the monitors, and the high pass will prevent any competing bass from covering the much needed pitch or with audience hearing. Bass has a tendency to kill mids and highs, overpowering them. If you are able to bypass those frequencies in the monitors you will have more clarity on stage for the singers.<br />
+<br />
+<i><b>Side Note Verbal Communication with Mixer:</b>&nbsp;</i><br />
+<i><br /></i>
+<i>If you are able to be open and honest tell the producer to provide feedback before or after the show but NOT during. Just like you wouldn't go to a Guitarist in the middle of a set on stage and start telling him to change how he's playing, you don't do that to the Sound Mixer either. He/She needs to be focused on the music. Provide feedback before and/or after, unless it's urgent.&nbsp;</i><br />
+<i><br /></i>
+<i>If you must come to the Mixer during a show, speak in a normal speaking voice to the plate just behind the ear. DO NOT YELL into anyone ear, this can cause damage to their hearing and it could hurt.&nbsp;</i><br />
+<br />
+<b>Volume:&nbsp;</b>Get your stage volume down as low and clean as you can before working on house volume.<br />
+<br />
+<h4>
+PAN and Instrument Marking:&nbsp;</h4>
+A general rule of thumb with stereo mixing is to "<b>Pan </b>as you see it". If the guitar 1 is off to your right and guitar 2 is off to your left add some panning those directions. Very few things will ever be hard panned left and right, subtle pan to move the item in your stereo field. If you keyboardist is giving you two stereo inputs and they are on your left side of the stage, pan the left hard left and the right to 11 oclock. THis puts the keyboardist in the stereo field where they ought to be.<br />
+<br />
+<b>Color</b>&nbsp;each instrument differently so that you don't really need to read labels in the dark just see the colors. Label them with words too, but use colored pens on white marking tape. This makes it easier to see.<br />
+<h4>
+Effects</h4>
+Effects can serve to widen the space. Reverbs can be set as three pre-sets. Slow (3 Seconds), Medium (2 Seconds), Fast (1.2 Seconds). This way you can simply hit one button each song to get where you want to be for that songs reverb needs. If something sounds hollow or thin, sometimes just adding some reverb will serve to fill out that space, the same way a shower room serves to fill out the voice, which is why so many people sing in the shower or bathroom.<br />
+<br />
+<h4>
+Sound Check</h4>
+<b>Have a talk back mic for YOURSELF</b> to talk to the band on stage during sound check and rehearsal. It might even be good to be in the ear of the talk back band member if they have one, which most professional bands will now. Even if you don't use it during performance, it'll be handy during sound check and rehearsal going both ways.<br />
+<b><br /></b>
+<b>Set the Band first.&nbsp;</b><br />
+<br />
+Start with <b>drummer</b>, and make sure all the mics are working for you correctly. Add the <b>bassist </b>and make sure they are working together and not stepping on each other. Set a hi pass on both at about 50Hz to remove low end clutter. Attempt to play with them based on your style of music. For most music (rock, country, pop, etc) you could add some boost in the 100Hz range for the kick and lower the bass in that same region, then to the opposite in the 200-250Hz range. Lower the kick and raise the bass. This will give them both a place to live. Don't cut the lower one, just lower it.<br />
+<br />
+Add the rest of the band and make sure everything is working in your stereo field. Other than Lead Vocals, Bass, Kick, and Snare you probably don't need anything else down the center of your stereo field. You can use creative panning and EQ to make sure each has it's own place. Even the drum mics can be panned across the field so as the drummer walks through toms and cymbals they crawl across your face/room.<br />
+<br />
+<b>Set the Vocals next.</b><br />
+<br />
+MUTE the band. Get the Lead vocal sounding right. Add in the back ground vocals and mix them as a group, lead just on top, but not way on top. It might even be helpful to have the background vocals set to one VCA and the lead to another. Then ride the lead bringing the lead up and down between chorus/verses. When vocals check their mics do NOT have them say "Check,1,2,3" this is not an accurate reading for singers. Have them sing part of the songs they will be preforming that night and do it with as much energy as they'll be using later. You know secretly that they will always be lower in volume early on in the check and they'll warm up with the audience energy, but this will still give you a better reading that Check-1-2-3.<br />
+<br />
+<b>Mix them back together </b>and make sure it all works cohesively. Make any adjustments as needed.<br />
+<br />
+Other thoughts<br />
+<br />
+<ul>
+<li>Use Mics that have good rejection and/or isolation depending on what you need.&nbsp;</li>
+<ul>
+<li>It's more important to have a good mic with live sound to have good rejection and mic placement. You can EQ things after you deal with having the right mics and mic placement.&nbsp;</li>
+</ul>
+<li><b><a href="http://mixonline.com/about/" target="_blank">Mix Magazine</a> is a great resource.&nbsp;</b></li>
+<li>Listening at LOW Sound Pressure Levels you can hear things that you don't hear at high spl. If you can listen remotely and here something at low spl that needs to be fixed, it'll make you full volume mix sound that much better.</li>
+<li>You MIX is musical and shouldn't change from room to room. Your EQ or adjustments may change based on how the room reacts, but how loud your lead guitar is in relationship to your mix during a lead solo shouldn't change from room to room. Keep your EQ Room adjustments and your Musical Mix as two separate things in your mind. Ultimately if you've turned your room to Flat Frequency Response than you should have to worry about any room to room adjustments on your board much at all. &nbsp;</li>
+</ul>
+<div>
+That is DAY ONE... notes from DAY TWO are forthcoming.&nbsp;</div>
+<div>
+<br /></div>
+<div>
+Darrell G. Wolfe</div>
+<div>
+Towdah!&nbsp;</div>

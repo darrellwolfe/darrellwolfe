@@ -1,0 +1,69 @@
+---
+title: 'Posting a You Tube Video into a Blog/Website'
+date: '2012-04-27T05:00:00.0040000+00:00'
+draft: true
+blogger_blog: 'Tech Knowledge Storage'
+blogger_status: 'LIVE'
+blogger_post_id: '6810910167714515319'
+blogger_filename: '/2012/04/posting-you-tube-video-into-blogwebsite.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Tech Knowledge Storage/feed.atom'
+categories:
+  - 'Technical Stuff'
+---
+
+<div style="text-align: center;">
+<b>Instructions for:&nbsp;Posting a You Tube Video into a Blog/Website</b></div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+Knowing something about HTML can be helpful, but it's not&nbsp;necessary. The following instructions are specifically for <a href="http://blogger.com/">Blogger.Com</a> blogs, but the same basic instructions work for WordPress.Com blogs and generally anything you want to post a video into, including emails, websites, etc.&nbsp;</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+For example. Let's say you have an awesome You Tube video you found and it goes just GREAT with the topic you were&nbsp;writing&nbsp;about.&nbsp;</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+</div>
+<ul>
+<li>All you need to do it <b>go to the video</b> in YouTube.&nbsp;</li>
+<ul>
+<li>Beneath the video,&nbsp;</li>
+<ul>
+<li>click "<b>Share</b>",&nbsp;</li>
+<li>then click "<b>Embed</b>".&nbsp;</li>
+<li>A box with a bunch of HTML comes up pre-highlighted for you.&nbsp;</li>
+<li>Simply right click on your mouse and hit <b>copy</b>, or if you are keyboard literate use Control-C.&nbsp;</li>
+</ul>
+</ul>
+<li>Then <b>pull up the post</b> you were writing.&nbsp;</li>
+<ul>
+<li>I suggest that if you are not HTML literate, at least a little, find the place you want to Embed the video and then hit the "Enter" button several times to create space in your post.&nbsp;</li>
+<li>Now in your post at the top you'll see two views.&nbsp;</li>
+<ul>
+<li>"Compose" is the default view that you type into.&nbsp;</li>
+<li>"<b>HTML</b>" is the <b>view </b>that shows you all the back code. For example; when you hit "Enter" over and over creating space between the paragraphs you will see the code&nbsp;</li>
+<ul>
+<li>"&lt;br /&gt;".&nbsp;</li>
+</ul>
+</ul>
+<li>So find a bunch of those and look just above them and you'll probably find amidst the code the words you typed in your paragraph, with a bunch of other funny markings indicating to the computer that you wanted bold&nbsp;letters, or whatever.&nbsp;</li>
+<li>Then you just <b>click wherever you want the video, </b>next to one of those break marks&nbsp;</li>
+<ul>
+<li>"&lt;br /&gt;"&nbsp;</li>
+</ul>
+<li>Then right <b>click paste </b>(or Control-V).&nbsp;</li>
+</ul>
+</ul>
+<br />
+<div style="text-align: justify;">
+If you still need help, try watching this video I found on the subject. You could also right click on this webpage and click "View Page Source" and scroll down until you find the words "www.YouTube.com". Try using Control-F to find it. You'll see where I posted this video.&nbsp;</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+<iframe allowfullscreen="" frameborder="0" height="315" src="http://www.youtube.com/embed/-3l0feGWTi0" width="420"></iframe>
+</div>
+<div style="text-align: justify;">
+<br /></div>
+<div style="text-align: justify;">
+Darrell G. Wolfe</div>

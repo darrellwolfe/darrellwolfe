@@ -1,0 +1,87 @@
+---
+title: 'Start Here!'
+date: '2019-11-29T11:05:00.0000000+00:00'
+draft: true
+blogger_type: 'PAGE'
+blogger_blog: 'Grief Sucks'
+blogger_status: 'LIVE'
+blogger_page_id: '8351122069428245865'
+blogger_filename: '/p/start-here_29.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Grief Sucks/feed.atom'
+---
+
+<div style="text-align: center;">
+<i>We help Widows &amp; Widowers understand their shattered life and give them hope to overcome their unique obstacles.</i></div>
+<div style="text-align: center;">
+<br />
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;"><a href="/images/imported/blogger-googleusercontent-com/marina-vitale-t809jj6r9ka-unsplash-1c9c2d2940fc.jpg" style="margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1067" data-original-width="1600" height="266" src="/images/imported/blogger-googleusercontent-com/marina-vitale-t809jj6r9ka-unsplash-e2b144833e3e.jpg" width="400" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;"><span face=", &quot;blinkmacsystemfont&quot; , &quot;san francisco&quot; , &quot;helvetica neue&quot; , &quot;helvetica&quot; , &quot;ubuntu&quot; , &quot;roboto&quot; , &quot;noto&quot; , &quot;segoe ui&quot; , &quot;arial&quot; , sans-serif" style="background-color: whitesmoke; color: #111111; font-size: 14px; white-space: nowrap;">Photo by&nbsp;</span><a href="https://unsplash.com/@marina_mv88?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" style="background-color: whitesmoke; box-sizing: border-box; color: #767676; font-family: -apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif; font-size: 14px; text-align: start; text-decoration-skip-ink: auto; transition: color 0.1s ease-in-out 0s, opacity 0.1s ease-in-out 0s; white-space: nowrap;">Marina Vitale</a><span face=", &quot;blinkmacsystemfont&quot; , &quot;san francisco&quot; , &quot;helvetica neue&quot; , &quot;helvetica&quot; , &quot;ubuntu&quot; , &quot;roboto&quot; , &quot;noto&quot; , &quot;segoe ui&quot; , &quot;arial&quot; , sans-serif" style="background-color: whitesmoke; color: #111111; font-size: 14px; white-space: nowrap;">&nbsp;on&nbsp;</span><a href="https://unsplash.com/s/photos/person?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText" style="background-color: whitesmoke; box-sizing: border-box; color: #767676; font-family: -apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif; font-size: 14px; text-align: start; text-decoration-skip-ink: auto; transition: color 0.1s ease-in-out 0s, opacity 0.1s ease-in-out 0s; white-space: nowrap;">Unsplash</a></td></tr>
+</tbody></table>
+<br /></div>
+<h4>
+<b>The Shattered Life</b></h4>
+<div>
+<b><br /></b></div>
+<blockquote class="tr_bq">
+<i><b>Your world was shattered and now nobody understands you.&nbsp;</b></i></blockquote>
+<br />
+They look at you and have no words; or worse, they have the wrong words. They were sympathetic for the first days, weeks, maybe a few months (if you were lucky) and now they are ready for you to move on. But you're not ready, you're not sure you ever will be.<br />
+<br />
+How do we know?<br />
+<br />
+Because we are Widows / Widowers too.<br />
+<br />
+We've lost a significant other and we know how utterly devastating it is. It's nothing like a divorce or even the loss of a parent or close friend or sibling. It's just not the same.<br />
+<br />
+<br />
+<h4>
+<b>The Hope</b></h4>
+<br />
+If you needed permission, here it is:<br />
+<br />
+<blockquote class="tr_bq">
+<b><i>It's Okay to be NOT Okay</i></b></blockquote>
+<br />
+We understand that right now the best you can probably do today is breathe and if you're lucky make a small meal for yourself. You didn't need it but if you felt you needed it, you have it now. Here is your permission to not be able or capable of doing anything more.<br />
+<br />
+Eventually, you'll start to live again, and when you do we'll walk with you through those steps. Each stage is a journey. We've had others who came before us walk us through and we're here to help you walk through each stage.<br />
+<br />
+<br />
+<br />
+<h4>
+<b>The Widow's Journey</b></h4>
+<br />
+If you would like us to walk this journey with you, here's the plan:<br />
+<ol>
+<li><b><a href="https://feedburner.google.com/fb/a/mailverify?uri=griefsucks/moHf&amp;amp;loc=en_US" target="_blank">Subscribe</a> </b>to take this journey with us.</li>
+<li><b>Join </b>a Facebook Group for Widows, we have several on our <a href="https://widowgriefsucks.blogspot.com/p/resources.html" target="_blank">Resources</a> page.&nbsp;</li>
+<li><b>Read </b>the articles we've put here for you.&nbsp;</li>
+</ol>
+<br />
+<form action="https://feedburner.google.com/fb/a/mailverify" method="post" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=griefsucks/moHf', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true" style="border: 1px solid rgb(204, 204, 204); padding: 3px; text-align: center;" target="popupwindow">
+<b>Subscribe</b>: Don't take this journey alone.<br />
+<input name="email" style="width: 140px;" type="text" /><br />
+<input name="uri" type="hidden" value="griefsucks/moHf" /><input name="loc" type="hidden" value="en_US" /><input type="submit" value="Subscribe" /><br />
+<i><span style="color: #999999;">Delivered by <a href="https://feedburner.google.com/" target="_blank">FeedBurner</a></span></i></form>
+<br />
+<h4><b>What's do I do next?</b></h4>
+<br />
+See our <a href="https://widowgriefsucks.blogspot.com/p/resources.html" target="_blank"><b>Resouces</b></a> page for more links, tools, and access to the community we need as Widows/Widowers.<br />
+<br />
+See <a href="https://widowgriefsucks.blogspot.com/p/about-us.html" target="_blank"><b>About Us</b></a> for more information about the authors of this site.<br />
+<br />
+A note about <i><b>Affiliates</b></i>. Periodically, we may recommend a book, product, service, or website. Some of these may pay us a small compensation for the sale. Rest assured, we only recommend things we believe will provide lasting value to you, many of them have impacted us first.<br />
+<div>
+<br />
+<i>A note about Terms: We use the term "<b>Widow</b>" here interchangeably. A Widow may be a female or male. You may see Widow, Widower, Widow(er) used interchangeably throughout this site.&nbsp;</i><br />
+<br /></div>
+<div>
+A note about <b>Cookies</b>, no not the edible kind. This site currently follows the disclosure policy outlined at <a href="http://www.darrellwolfe.com/p/a-simple-privacy-policy.html" target="_blank">DarrellWolfe.com</a>. Basically, we're American writers. We don't understand much about Europe's data disclosure laws. We do collect emails so we can send you updates when we post, and occasionally share great stuff with you. We do not share those emails with anyone else other than the services we use to collect them (Blogger.com and Feeburner.com).<br />
+<br />
+<br />
+<br />
+<br />
+<br /></div>
+<div>
+<br /></div>

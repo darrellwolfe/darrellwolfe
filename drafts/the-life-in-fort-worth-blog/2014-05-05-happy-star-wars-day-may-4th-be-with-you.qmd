@@ -1,0 +1,20 @@
+---
+title: 'Happy Star Wars Day! May the 4th be with you!'
+date: '2014-05-05T00:02:00.0010000+00:00'
+draft: true
+blogger_blog: 'The Life In Fort Worth Blog'
+blogger_status: 'LIVE'
+blogger_post_id: '143995891609133994'
+blogger_filename: '/2014/05/happy-star-wars-day-may-4th-be-with-you.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/The Life In Fort Worth Blog/feed.atom'
+categories:
+  - 'Enjoy'
+---
+
+Today is May 4th. And it's Star Wars Day!<br />
+<br />
+For those of you who are a little slow on uptake with this one; say:<br />
+May the Force<br />
+Now say:<br />
+May the 4th<br />
+Aha! I get it!

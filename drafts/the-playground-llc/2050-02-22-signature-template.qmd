@@ -1,0 +1,28 @@
+---
+title: '** Signature Template **'
+date: '2050-02-22T05:14:00.0000000+00:00'
+draft: true
+blogger_blog: 'The Playground, LLC'
+blogger_status: 'SCHEDULED'
+blogger_post_id: '6693865380432383215'
+blogger_filename: '/2050/02/signature-template.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/The Playground, LLC/feed.atom'
+---
+
+<br />
+<br />
+<br />
+<div class="MsoNormal">
+<span style="font-family: &quot;tempus sans itc&quot;; font-size: 18pt;">Darrell Wolfe</span><span style="font-family: &quot;times new roman&quot; , serif; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-font-size: 12.0pt; mso-bidi-theme-font: minor-bidi;"><o:p></o:p></span></div>
+<div class="MsoNormal">
+<span style="font-family: &quot;tempus sans itc&quot;;">The Playground, LLC</span><br />
+<span style="font-family: &quot;tempus sans itc&quot;;">Me@DarrellWolfe.com</span><br />
+<br />
+<br />
+<br />
+<div class="MsoNormal">
+<span style="font-family: &quot;tempus sans itc&quot;; font-size: 18pt;">Flavia Wolfe</span></div>
+<div class="MsoNormal">
+<span style="font-family: &quot;tempus sans itc&quot;;">The Playground, LLC</span><br />
+<span style="font-family: tempus sans itc;">FlaviaWolfe@gmail.com</span></div>
+</div>

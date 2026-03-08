@@ -1,0 +1,66 @@
+---
+title: 'Writing Craft: Show / Don''t Tell'
+date: '2018-04-15T15:00:00.0000000+00:00'
+draft: true
+blogger_blog: 'Darrell Wolfe, Storyteller'
+blogger_status: 'LIVE'
+blogger_post_id: '4793273194113373914'
+blogger_filename: '/2018/04/writing-craft-show-dont-tell.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
+categories:
+  - 'Writing Craft'
+---
+
+<i>Lessons I've learned about writing...</i><br />
+<br />
+In the world of creative writing, no phrase or lesson is more repeated than the famous:<br />
+<blockquote class="tr_bq">
+<b>Show Don't Tell</b></blockquote>
+What does that mean, exactly? It means don't give me a fact but show it to me. Let the actions of the character tell me he's nervous. Let the characters actions and motives be so tied to the setting, that they direct what details I get to see.<br />
+<br />
+<br />
+<b>Read this:</b><br />
+<br />
+<blockquote class="tr_bq">
+Dr. Briar sat nervously on a hand-made leather chair with mahogany&nbsp;inlays.&nbsp;</blockquote>
+<br />
+<b>Now read this:</b><br />
+<br />
+<blockquote class="tr_bq">
+Dr. Briar sat fidgeting in a hand-made leather chair, rotating his middle finger around on the mahogany inlays.&nbsp;</blockquote>
+<br />
+<b>What's different?</b><br />
+<br />
+<blockquote class="tr_bq">
+Dr. Briar sat <b>nervously </b>on a hand-made leather chair <b>with </b>mahogany&nbsp;inlays.&nbsp;</blockquote>
+<blockquote class="tr_bq">
+Dr. Briar sat <b>fidgeting&nbsp;</b>in a hand-made leather chair, <b>rotating his middle finger around on the</b> mahogany inlays.&nbsp;</blockquote>
+<div>
+<br /></div>
+<div>
+We show him fidgeting and rotating his finger, this gives us more reason to talk about the inlays. But could this be better? Sure, there are a thousand ways to write this sentence. Let's add just a bit more detail.</div>
+<blockquote class="tr_bq">
+Dr. Briar sat flick<b>ing</b> the&nbsp;magnetic strap of his tablet open and closed, periodically adjusting his potsition in the hand-made leather chair, rotating the middle finger of his other hand around on the mahogany inlays.&nbsp;</blockquote>
+<div>
+There's at least one problem with this new sentence. The structure is a bit off. "ING" is almost always death to a story, let's change that up a bit.</div>
+<blockquote class="tr_bq">
+Dr. Briar <b>flicked </b>the magnetic strap of his tablet open and closed, periodically adjusting his position in the hand-made leather chair, and <b>rotated </b>the middle finger of his other hand around on the mahogany inlays.&nbsp;</blockquote>
+<div>
+The ING wasn't awful, in this case, but changing this from a present tense ING to a past tense ED can help with consistency of storytelling and it gives a weight of finality to the phrase.</div>
+<div>
+<br /></div>
+<div>
+<br /></div>
+<div>
+<br /></div>
+<div>
+This has been a lesson from the things I've learned about writing. Good day to you,</div>
+<div>
+<br /></div>
+<br />
+<div class="MsoNormal">
+<span style="font-family: &quot;tempus sans itc&quot;; font-size: 18.0pt;">Darrell G. Wolfe</span><span style="font-family: &quot;times new roman&quot; , serif; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-font-size: 12.0pt; mso-bidi-theme-font: minor-bidi;"><o:p></o:p></span></div>
+<div class="MsoNormal">
+<span style="font-family: &quot;tempus sans itc&quot;;"><br /></span> <span style="font-family: &quot;tempus sans itc&quot;;">Storyteller | Writer | Thinker | Consultant |&nbsp;</span><a href="https://www.ted.com/talks/emilie_wapnick_why_some_of_us_don_t_have_one_true_calling?language=en" style="font-family: &quot;tempus sans itc&quot;;">Multipotentialite</a></div>
+<div class="MsoNormal">
+<br /></div>

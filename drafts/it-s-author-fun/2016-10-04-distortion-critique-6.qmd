@@ -1,0 +1,255 @@
+---
+title: 'Distortion Critique 6'
+date: '2016-10-04T00:10:00.0020000+00:00'
+draft: true
+blogger_blog: 'It''s Author Fun'
+blogger_status: 'LIVE'
+blogger_post_id: '4633075581858835863'
+blogger_filename: '/2016/10/distortion-critique-6.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/It_s Author Fun/feed.atom'
+categories:
+  - 'critique'
+  - 'White Noise'
+---
+
+<br />
+<br />
+So I put out scene one from Distortion for a writer's critique. Here was the result:<br />
+<br />
+It's amazing how awesome this feedback was. You can live with your stuff long enough that you become blind to it. I have a lot of work to do (first novel) but I've studied the craft long enough to understand everything everyone is saying. Besides all the specific points, the two themes I noticed were a lack of emotional/physical reaction (nothing to keep you in Ash's head) and the Great Sin (show don't tell). I also changed tense and didn't notice (no that was not on purpose). There were many other great points, and I have a lot of work to do. Thanks again to&nbsp;<a href="http://www.scribophile.com/" target="_blank">http://www.scribophile.com/&nbsp;</a>for making a community for writers.<br />
+<br />
+<br />
+&nbsp;<a href="http://www.scribophile.com/authors/a-j-sloane/">A J Sloane</a><br />
+<div class="bubble">
+<div class="comment">
+<h4>
+Opening Comments</h4>
+Okay, I am back, and as promised, the first of my list of critiques to do! I try to be as detailed as possible, leaving comments wherever I have a thought - some may be irrelevant to what you're trying to achieve, but I will offer all my thoughts and feel free to use what you see fit!<br />
+<h4>
+Inline Critique</h4>
+<button class="arrow-down" style="display: none;">Show 1,068 words</button><br />
+<div class="inline-comment-body" id="inline-comment-660399">
+<mark>Out of the corner of his eye, through the window of The Grounded Cafe, Ash saw two men dressed in black combat gear duck behind a car.</mark><br />
+<ins>This opening doesn't really draw me in. It might sound better if you open with 'Two men dressed in black ducked behind a car. Ash spotted them through the window of Thw Grounded Cafe and could have sworn they wore the black combat gear of [?]' Just a suggestion. I'm sure we all know this, but the first sentence and paragraph and page is always the most important!</ins><br />
+<br />
+<mark>Coolness </mark><br />
+<ins>A chill? A shiver? He shivered?</ins>rushed down his spine, and his muscles tensed.<br />
+<br />
+He reached for his <mark>sidearm</mark><br />
+<ins>I'm having a bit of a hard time picturing what this means. Do you mean a weapon of some kind, or literally his arm?</ins>.<br />
+<br />
+He shook his head, and looked again<br />
+<del>, </del><ins>;</ins>they were gone.<br />
+<ins>I think the transition between this and the paragraph above could be expanded upon. Or even combined.</ins><br />
+<br />
+Ash <mark>relaxed</mark><br />
+<ins>show us this instead</ins>and sank back into the leather bound chair; alone, in the corner of his favorite coffee shop.<br />
+<br />
+<mark>Always keep your back to the wall, be near the most exits, but never too visible.</mark><br />
+<ins>This sounds like somebody is speaking to him, or he's remembering what somebody said to him</ins><mark>It was like breathing, it never stopped.</mark>.<br />
+<ins>what is 'it' in this instance?</ins>. even in civilian life. Post-Traumatic Stress Disorder, PTSD. That was the diagnosis they’d assigned him.<br />
+<br />
+As Dean of Military Science, Ash's job primarily lay in administrative work and policy these days, plus a few sessions counseling the younger cadets, and would-be trouble makers. He was quite overqualified for the position, but he ran a tight unit.<br />
+<ins>This is probably more of a personal preference, but I always find it more interesting if you work information like this into the story rather than an info drop. It's not a huge paragraph so it probably doesn't matter too much, but could he have a flashback that addresses his title, or somebody speaks to him about it? Just a suggestion to 'bump it up'.</ins><br />
+<br />
+He stared at the faces of the pedestrians as they passed by the window. <mark>Hurried. Busy. Buried in their smartphones. So oblivious to the world around them, or the little clouds that float around their shoulders.</mark><br />
+<ins>You could maybe give more detail about this rather than simple statements. 'He watched the hurried pedestrians through the window...'</ins><br />
+<br />
+<mark>The leaves began to fall, most turning shades of orange and yellow</mark>,<br />
+<ins>this kind of feels as if it is all happening in this very moment</ins>matching perfectly the Pumpkins that were dotting porches and windows through the city the past few weeks.<br />
+<br />
+Some commotion outside broke his train of thought... <mark>Everyone was stopping, turning, and staring in the same direction, a few moving toward the distraction.</mark><br />
+<ins>you could give more detail about this. Does Ash feel curious? Does he wonder? Does he talk to himself about what it could be?</ins><br />
+<br />
+Ash stepped outside to see what was happening, turned a corner, and nearly ran into a bystander. <mark>A brisk evening breeze broke past his collar.</mark><br />
+<ins>This reads out of place for what his happening at the moment and seems to come along suddenly. You could expand on Ash leaving and I'd imagine he'd notice the breeze the moment he left the cafe</ins><br />
+<br />
+A man in a tattered and dirty suit with a graying beard was standing on top of a pickup truck screaming at nobody in particular.<br />
+<br />
+"You always did love Mother best... I know... That's why... You couldn't keep your mouth shut..." <mark>On he went, incoherently.</mark><br />
+<ins>I'm not sure this is necessary</ins><br />
+<br />
+Just as Ash took a step closer, the man turned to <mark>stare him directly in the eye</mark><br />
+<ins>This may very well be a region thing in language, so if it is, please ignore, but stare him reads a bit awkward and I desperately want to add an 'at' in between, but considering I know you use 'write you' and we use 'write to you' I am thinking it may be another regional thing so I'll leave it</ins>.<br />
+<br />
+In a deeper, gravelly voice: "You... What do you want with us?"<br />
+<ins>who is saying this? the man or Ash?</ins><br />
+<br />
+Ash took a step back.<br />
+<br />
+<mark>Then</mark><br />
+<ins>I know at times it can't be helped, but I was always taught not to begin a sentence with 'then'. You could scrap it altogether and begin with 'the'</ins>the man turned back to his one-sided conversation.<br />
+<br />
+<mark>Ash could see a large creature behind the man. The bottom half was more mist than form, as though it were made of smoke. The top half was like a man, with the head of a bull. It was charcoal</mark><br />
+<ins>as in made of charcoal or the colour of?</ins><mark>, and streaks of white painted across the chest.</mark><br />
+<mark>&nbsp;</mark><br />
+<mark>Ash could feel his palms turn cold, and he felt as though he couldn't move his legs.</mark><br />
+<ins>I think you could work these two together in a way of using the show don't tell method. 'Ash's palms went cold. It was as if his legs were glued to the [concrete pavement]...'</ins><br />
+<br />
+<mark>A smaller creature was on the homeless man's shoulders, screaming into his ears. He couldn't hear the conversation, but Ash could tell that the homeless man was responding and that he had only been hearing one-half of the conversation. Ash looked around and nobody else seemed too surprised, as usual.</mark><br />
+<ins>you could definitely expand on this</ins><br />
+<br />
+The large creature stared directly at Ash, cocked his head to one side and disappeared along with the smaller one. The homeless man was by himself again, then his eyes narrowed. He leapt off the truck and ran at Ash.<br />
+<br />
+It took all his training to keep from being pinned down. The old man was wiry but stronger than he looked.<br />
+<ins>definitely need to build upon this by including emotions and reactions for Ash and the people around</ins><br />
+<br />
+<mark>Ash let out a cry, "Jesus!"</mark><br />
+<ins>"Jesus!" Ash cried as he attempted to step out of the way/run/etc</ins><br />
+<br />
+The wiry man stepped back<br />
+<del>,</del><ins>.</ins><del>h</del><ins>H</ins>is eyes darted around<br />
+<del>, as though</del><ins>;</ins>he <br />
+<del>looked </del><ins>appeared</ins>confused.<br />
+<br />
+That was all Ash needed. In 30 seconds he hog-tied the man with his own belt.<br />
+<ins>show this scene rather than telling us</ins><br />
+<br />
+The police were just arriving. "Charlie's at it again... Let's take him in."<br />
+<ins>This has all happened really fast and it definitely needs expanding upon</ins><br />
+<br />
+Three big men in uniform put cuffs and a <mark>muzzle</mark><br />
+<ins>really?</ins>on the old man, and threw him, rather harshly, into the back of the squad car.<br />
+<br />
+Ash heard someone behind him, "Those were some moves, Marine."<br />
+<ins>so they know him? Or he's in uniform? I think this might need to be established at the beginning of the scene to paint that picture in the reader's head</ins><br />
+<br />
+"<mark>Airman</mark><br />
+<ins>so he is in uniform and they misunderstood? I think it's good that the general population could gt it wrong - I definitely would. It makes them more human</ins>. Uh... Thanks. No harm done." <mark>Ash noticed his cup crushed beneath him, the ice, coffee, and cream covered the sidewalk, and his jeans.</mark><br />
+<ins>rework this</ins>"Well... Almost no harm anyway."<br />
+<br />
+"Why don't you let me get you another… on me."<br />
+<ins>I think you need to establish who is speaking first up to give that initial picture rather than in the next paragraph. That was actually something that was pointed out to me  while ago, as I did it as well</ins><br />
+<br />
+Ash looked up to see a balding man in blue slacks, yellow polo, and a pile of papers in his arms. A logo with two E’s overlapping bore prominently on his chest.<br />
+<br />
+"The least I could do for a man who'd be willing to step into a situation like that, protect all these people. What's your name <mark>son</mark><br />
+<ins>so Ash is relatively young?</ins>?"<br />
+<br />
+"Ash. I need to get some new clothes. I don't think I need any more caffeine right now. But thanks for the offer.<br />
+<ins>For a moment I thought he was asking the man to buy him new clothes instead of a coffee and was like... that's a big ask :O</ins>" With a wave, he set off toward home.<br />
+<br />
+Ash headed down the sidewalk, past the shops and restaurants. <mark>There is a girl crying, typing away on the phone</mark><br />
+<ins>show this by her appearance and the way she was sitting/standing</ins>. A little red frog on her shoulder was yelling into her ear. Ash could only imagine what it must be saying.<br />
+<br />
+A little old lady <mark>is </mark><br />
+<ins>was</ins>sitting <mark>inside a window</mark><br />
+<ins>do you mean 'by a window'?</ins>at <mark>the</mark><br />
+<ins>this indicates there is only one, which will mean you need to expand upon it</ins>nursing home. She <br />
+<del>is </del><ins>was (the tense has just suddenly changed here which makes it a little awkward to read)</ins>knitting something, probably a blanket. A large man in all white, stands behind her, smiling. He looks up at Ash, his smile fades slightly, and then returns<br />
+<ins>to what? to the woman? Include that in the same sentence</ins>. He looks down to her again.<br />
+<br />
+Ash could not see the figure accompanying each person, only certain ones, here and there. Most were just clouds or mist.<br />
+<ins>I'm a bit confused by this sentence</ins><br />
+<br />
+<mark>"Don't worry so much." His doctor told him, "These may be after effects of the war. We’re just beginning to understand PTSD.</mark><br />
+<ins>Although grammatically correct this reads awkward the way you've used it. The 'don't worry so much' now reads as a stand alone without the dialogue tags and is rather confusing. I'd attach the tag to the first part not the second. It'll flow better that way</ins>The mind is a marvelous adapter to stress. As long as these phantoms do not interrupt your daily work, or cause you to want to harm yourself or others, you should be fine. Consider yourself lucky. Just think of them as a construct of your active imagination, an amusing distraction from the mundane realities of life."<br />
+<ins>He sounds like a great doctor (sarcasm)</ins><br />
+<br />
+He turned off the street into an alley between two old buildings, and up a well-worn path into the woods<br />
+<del>,</del><ins>;</ins>his refuge from the masses.<br />
+<br />
+<mark>Ash opened the door of his cabin.</mark><br />
+<ins>expand upon his journey to the cabin. What are the woods like? Dense? Quiet? What kind of animals live there? Also, what does the cabin look like on the outside?</ins><br />
+<br />
+<mark>It wasn't a mansion by any means</mark><br />
+<ins>that's a big jump. The word cabin instantly means small, so I don't think this is necessary</ins>, but it was more than sufficient for him. <mark>900 sq. ft.</mark><br />
+<ins>Not sure you need to specify exactly. Try and describe its size through more description</ins>, one large open room, a loft, and a balcony.<br />
+<br />
+Yes sir, he owned one fine cabin in the woods. All to himself. How he'd managed to live here eight years and still not have a single friend invited over was a mystery, even to himself. Then again, <mark>you'd</mark><br />
+<ins>he'd might be better here</ins>have to have a friend to invite one.<br />
+<br />
+<del>He liked things just so. </del>He liked the solitude.<br />
+<br />
+At least <mark>that's</mark><br />
+<ins>might just be me, but I feel that was might work better for this sentence</ins>what he told himself.<br />
+<br />
+Ash took a seat on his <mark>balcony</mark><br />
+<ins>a balcony generally indicates it's two storeys.</ins>, overlooking the hills and lake. He stared at the expansive forests, lost in time. <mark>The clock read: 6:00pm, he laid down in his hammock, bundled in the overpriced winter resistant sleeping bag, and watched the stars from the balcony until he drifted off.</mark><br />
+<ins>Re work this sentence</ins><br />
+<br />
+As sleep overtook him, he thought to himself<br />
+<ins>,</ins><mark>"Yes sir, this is one fine cabin."</mark><br />
+<ins>would that really be what his thoughts were about? After the incident earlier he hasn't really thought much of it since. Did it scare him? Or is he used to it. We don't get to see much of his inner thoughts or feelings at the moment</ins><br />
+<br />
+***<br />
+<br />
+An explosion knocks him against a wall. He barely sees, through the smoke, troops running about, hauling rubble off of bodies, checking pulses. Some are screaming in pain. Others shouting to one another. Half the mess hall is completely gone, all that is left is fire and rubble. <br />
+<ins>I really like this description</ins><br />
+<br />
+Ash can feel the beat of his heart in his neck, his forehead rushed with sweat. He sees them all running around, but all he hears is intense ringing. <br />
+<br />
+As the numbness subsides from his brain, shock waves hit his chest as more buildings <mark>are getting hit nearby. </mark><br />
+<ins>'crumble around him' maybe?</ins><br />
+<br />
+Ash uses the wall to steady himself and works to stand on his feet.<br />
+<br />
+Others will tend to the wounded. This band of Jihadist miscreants found upgraded weapons; <mark>Russian no doubt</mark><br />
+<ins>is that the truth?</ins>. <br />
+<br />
+Ash shoots out the building<br />
+<ins>I was under the impression he was outside. His location may need to be established more</ins>, <br />
+<ins>and</ins>down the road to the artillery unit. He grabs his rifle<br />
+<ins>so this has just happened then? He wouldn't already have a weapon on him? (I know nothing about modern war or battle, so forgive my ignorance here)</ins>and heads for the highest structure<br />
+<del>,</del><ins>-</ins>a radio tower toward the side of the camp. <br />
+<br />
+He can see the launch area where the rockets are being fired from. He takes a few quick breaths, <mark>hyperventilating</mark><br />
+<ins>that generally means a struggle to breathe</ins>floods the lungs with oxygen, <mark>one last deep breath in and hold, steadies his body. </mark><br />
+<ins>reads awkward</ins><br />
+<br />
+Through the scope, he can see about 10 of them. <br />
+<ins>of what? Rockets?</ins><br />
+<br />
+<mark>They</mark> only have two missile launchers. They have very little cover, firing from open desert, mostly hiding behind their Jeep and a few large outcroppings of fallen mountainside. <br />
+<br />
+He fires two rounds back to back, taking out both missile launchers, one exploding in the handler<br />
+<ins>'</ins>s face. <mark>Ash then begins</mark><br />
+<ins>He starts</ins>firing one round after another as the attackers fall like Coke cans on a fence post. The rounds hit their targets with extreme prejudice. <br />
+<br />
+Three remain, cowering behind the Jeep. Jeeps are great vehicles for driving through tough terrain quickly, but they are built light, not armored. He sees one peek through the glass, <br />
+<ins>and then he's</ins>gone. <br />
+<br />
+The other two attempt to climb in the vehicle<br />
+<ins>,</ins>keeping their heads down and<br />
+<ins>then</ins>drive away. The problem with that is that both seats are occupied. He doesn't need to see them. Two. One. <br />
+<br />
+<mark>The Jeep speeds up as it drives erratically,</mark><br />
+<ins>This sounds like the jeep is driving itself</ins>then crashes into a mound of rocks. <br />
+<br />
+***<br />
+<br />
+Ash woke up... another nightmare, if you can call a memory a nightmare.<br />
+<br />
+He rubbed his eyes and glanced at his wrist.<br />
+<br />
+Red numbers flooded his vision<br />
+<del>,</del><ins>.</ins>3:00 am.<br />
+<br />
+He rolled over and went back to sleep.<br />
+<ins>I'd like to see more reaction from Ash here. He's obviously having a nightmare. Does he wake up in a sweat? Heart pounding? Show us how he feels so we can feel it too!</ins></div>
+<h4>
+Closing Comments</h4>
+I think you already know what you need to work on as an over all, and I can't really add much to the email you sent me. These are just my thoughts and opinions, so hopefully you can find something useful from it. All the best, and I will look out for anything else you post :)</div>
+<h6>
+Was this critique helpful?  Thank A with:</h6>
+<div class="footer">
+<a class="link-button certificate" href="http://www.scribophile.com/authors/a-j-sloane/works/">A critique of her work</a> <a class="link-button gift" href="http://www.scribophile.com/dashboard/popups/add-gift?userid=51352">A gift</a> <a class="link-button mail modal" href="http://www.scribophile.com/dashboard/popups/add-private-message?userid=51352">A message</a> <a class="link-button note-pencil" href="http://www.scribophile.com/authors/a-j-sloane/#scratchpad">A scratchpad note</a></div>
+<br />
+<br />
+<blockquote class="tr_bq" style="background-color: white; color: #333333; font-family: Verdana, Geneva, sans-serif; font-size: 15.4px; line-height: 19.6px;">
+<div>
+<br /></div>
+</blockquote>
+<h4 style="background-color: white; color: #333333; font-family: Verdana, Geneva, sans-serif; font-size: 15.4px; line-height: 19.6px; margin: 0px; position: relative;">
+By&nbsp;<a href="https://plus.google.com/+DarrellWolfe/posts" style="color: #149adf; text-decoration: none;" target="_blank">Darrell Wolfe</a></h4>
+<blockquote class="tr_bq" style="background-color: white; color: #333333; font-family: Verdana, Geneva, sans-serif; font-size: 15.4px; line-height: 19.6px;">
+<i>Storyteller | Creative | <a href="http://www.16personalities.com/infj-personality" style="color: #149adf; text-decoration: none;" target="_blank">INFJ</a>&nbsp;|&nbsp;<a href="https://www.gallupstrengthscenter.com/Purchase/en-US/Product?Path=Clifton%20StrengthsFinder" style="color: #149adf; text-decoration: none;" target="_blank">Intellection</a>&nbsp;|&nbsp;Ideation | Input | Learner | Achiever | Multipotentialite</i></blockquote>
+<ul>
+<li><i>See my full about page and disclosures: <a href="http://authorfun.blogspot.com/p/what-is-this.html" target="_blank">Click Here</a>.&nbsp;</i></li>
+<li><i>Also check out my <a href="http://authorfun.blogspot.com/p/affiliate-store.html" target="_blank">Resources and Suggestions </a>for writers (<a href="http://authorfun.blogspot.com/p/affiliate-store.html" target="_blank">here</a>).&nbsp;</i></li>
+<li><i>To Subscribe to the <a href="http://feeds.feedburner.com/AuthorFun" target="_blank">RSS: Click Here</a></i></li>
+<li><i>For Non-Fiction writing by <a href="http://www.darrellwolfe.com/" target="_blank">Darrell Wolfe: Click Here</a></i></li>
+</ul>
+<ul>
+</ul>
+</div>

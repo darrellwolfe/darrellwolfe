@@ -1,0 +1,47 @@
+---
+title: 'Untitled Post'
+date: '2012-05-26T02:18:00.0010000+00:00'
+draft: true
+blogger_blog: 'Tech Knowledge Storage'
+blogger_status: 'DRAFT'
+blogger_post_id: '8686248993812468669'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Tech Knowledge Storage/feed.atom'
+---
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<div class="dhtmlgoodies_window">
+  <div class="dhtmlgoodies_window_top">
+    <img src="images/top_left.gif" align="left">
+    <img src="images/top_center.gif" class="topCenterImage">
+    <div class="top_buttons">
+      <img class="minimizeButton" src="images/minimize.gif">
+      <img class="closeButton" src="images/close.gif">
+      <img src="images/top_right.gif">
+    </div>
+  </div>
+  <div class="dhtmlgoodies_windowMiddle">
+    <div class="dhtmlgoodies_windowContent">
+    <!-- This is where you put the content -->
+    This script have been tested in Internet Explorer, Firefox and Opera
+    <!-- End of where you put the content -->
+    </div>
+  </div>  
+  <div class="dhtmlgoodies_window_bottom">
+    <img class="resizeImage" src="images/bottom_right.gif">
+  </div>
+</div>

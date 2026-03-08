@@ -1,0 +1,11 @@
+---
+title: 'Connor''s Blog'
+date: '2010-12-07T16:49:00.0030000+00:00'
+draft: true
+blogger_blog: 'Connor David Wolfe - Journal'
+blogger_status: 'DRAFT'
+blogger_post_id: '2662281056716796821'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Connor David Wolfe - Journal/feed.atom'
+---
+
+I'm reserving this url for you. You may want it some day.

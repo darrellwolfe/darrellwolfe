@@ -1,0 +1,251 @@
+---
+title: 'Resources'
+date: '2016-06-13T00:06:00.0000000+00:00'
+draft: true
+blogger_type: 'PAGE'
+blogger_blog: 'LIFE in Review (s)'
+blogger_status: 'LIVE'
+blogger_page_id: '1421766868229946720'
+blogger_filename: '/p/resources.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/LIFE in Review (s)/feed.atom'
+---
+
+<h3>
+Links, Posts, and More for Foodies and Travelers...&nbsp;</h3>
+<div>
+See my <a href="http://lifeinreviews.yelp.com/" target="_blank">Yelp profile HERE</a>.</div>
+<div>
+<h4>
+Food:</h4>
+<ul>
+<li><b>USA</b></li>
+<ul>
+<li><a href="http://www.urbanspoon.com/c/13/Dallas-restaurants.html">Urban Spoon</a></li>
+<li><a href="http://lifeinwortworth.yelp.com/">Yelp</a></li>
+</ul>
+</ul>
+<ul>
+<li><b>California</b></li>
+<ul>
+<li><a href="https://www.marketbroiler.com/menu" target="_blank">Market Broiler, Orange CA</a></li>
+</ul>
+<li><b>Idaho</b></li>
+<ul>
+<li><i>To Be Determined...</i></li>
+</ul>
+<li><b>Texas</b></li>
+<ul>
+<li><a href="http://txliving.wordpress.com/2011/10/12/pizza-inn-fort-worth-alliance/">Pizza Inn</a></li>
+<li><a href="http://wolfefamilyreviews.blogspot.com/2012/02/twisted-root-burger-co.html" target="_blank">Twisted Root Burger Co</a></li>
+</ul>
+</ul>
+</div>
+<div>
+<h4>
+Food-Recipes</h4>
+<ul>
+<li><a href="http://cpkathome.blogspot.com/2012/07/chicken-tequila-fettuccine.html">Copy Cat Recipes</a>, from your favorite restaurants.</li>
+<li><a href="http://allrecipes.com/" target="_blank">All Recipes</a></li>
+<li><a href="http://www.foodnetwork.com/recipes.html" target="_blank">Food Network</a></li>
+<li><a href="http://www.epicurious.com/" target="_blank">Epicurious</a></li>
+</ul>
+</div>
+<div>
+<h4>
+Fun &amp; Attractions:</h4>
+<ul>
+<li><b>USA</b></li>
+<ul>
+<li>Chuck E Cheese</li>
+</ul>
+<li><b>California</b></li>
+<ul>
+<li>Disneyland (Anaheim)</li>
+<li>Knotts Berry Farm</li>
+<li>Lego Land</li>
+</ul>
+<li><b>Idaho</b></li>
+<ul>
+<li>Lake Coeur d'Alene</li>
+<li><a href="http://www.coeurdalene.org/" target="_blank">Visit Coeur d'Alene, ID</a></li>
+<li><a href="https://visitidaho.org/places-to-stay/coeur-dalene/" target="_blank">Visit Idaho.Org</a></li>
+</ul>
+<li><b>Texas</b></li>
+<ul>
+<li><a href="http://hfalls.com/roanoke/">Hawaiian Falls Water Park (Roanoke)</a></li>
+<li><a href="http://www.legolanddiscoverycenter.com/dallasfw/">Legoland Discovery Center, Grapevine</a></li>
+<li><a href="http://www.nrh2o.com/">NRH2O Water Park (N Richland Hills)</a></li>
+<li><a href="http://www.naturalbridgecaverns.com/">Natural Bridge Caverns</a></li>
+<li><a href="http://www.sixflags.com/hurricaneharbortexas/index.aspx">Six Flags Hurricane Harbor Water Park (Arlington)</a></li>
+<li><a href="http://www.sixflags.com/overtexas/index.aspx">Six Flags Over Texas</a></li>
+</ul>
+</ul>
+<div>
+<br /></div>
+</div>
+<div>
+<h4>
+Travel Assistance and Ideas:</h4>
+<ul>
+<li><b>USA</b></li>
+<ul>
+<li><a href="http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak/HomePage&amp;WT.mc_t=FY11BRAND&amp;WT.mc_n=kwGAGSEARCH&amp;WT.mc_r=365&amp;utm_source=google&amp;utm_medium=cpc&amp;utm_term=amtrak">Amtrak</a></li>
+<li><a href="http://www.enterprise.com/car_rental/deeplinkmap.do?bid=019&amp;cnty=US&amp;language=en&amp;arc=GSSB183&amp;cm_mmc=Google-_-Brand-_-GS_SE_Top_B_NTL_E_US-_-enterprise">Enterprise Rent-A-Car</a></li>
+<li><a href="http://www.hojo.com/HowardJohnson/control/home?variant=&amp;cid=IP_PPC_GGL_TM%20&amp;iataNumber=00065402&amp;client_account2=1000008335&amp;008=&amp;004=2031984502&amp;005=13515402&amp;006=6318085822&amp;007=Search&amp;002=2189879">Howard Johnson Hotels</a></li>
+<li><a href="http://www.priceline.com/default.asp?refid=PLGOOGLECPC&amp;refclickid=S_priceline_e&amp;gclid=CI3nvf60uasCFY_CKgod9yZkgA">Priceline Travel Booking</a></li>
+</ul>
+<li><b>Idaho</b></li>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Coeur_d%27Alene,_Idaho" target="_blank">Coeur d'Alene (WIKI)</a></li>
+<li><a href="https://www.aaawa.com/index.asp?zip=83815&amp;devicecd=PC" target="_blank">AAA Idaho/Oregon/Washington</a></li>
+</ul>
+<li><b>Texas</b></li>
+<ul>
+<li><a href="http://www.texas.aaa.com/en-tx/Pages/Home.aspx">AAA Texas</a></li>
+<li><a href="http://www.dfwairport.com/">DFW Airport</a></li>
+<li><a href="https://www.facebook.com/TexasHillCountry">Texas Hill Country</a></li>
+<li><a href="http://www.traveltex.com/">Texas Tourism</a></li>
+</ul>
+</ul>
+<div>
+<br /></div>
+<h4>
+Moving/Relocation Guides and Checklists:</h4>
+<ul>
+<li><a href="http://www.realsimple.com/home-organizing/organizing/moving/moving-checklist">Real Simple's Moving Checklist</a></li>
+<li><a href="http://moving.about.com/od/afterthemove/a/after_checklist.htm">Moving.About: After Moving Checklist</a></li>
+<li><a href="http://www.fortworthchamber.com/explore-fort-worth/moving-to-fort-worth/">Fort Worth Chamber of Commerce Moving Guides</a></li>
+<li><a href="http://movingtotexas.net/dallas-fort-worth/">Dallas In A Nut-Shell</a></li>
+<li><a href="http://123relocation.com/Texas/">123 Relocation Guide</a></li>
+<li><a href="http://www.dmv.org/tx-texas/relocation">DMV Relocation Guide</a></li>
+<li><a href="http://www.emic.org/downloads_all.php?cat=10">EMIC Relocation Packet</a></li>
+</ul>
+<div>
+<br /></div>
+<h4>
+Finding Churches and Ministries</h4>
+<ul>
+<li><b>USA</b></li>
+<ul>
+<li><a href="http://www.arcchurches.com/find-a-church">Locator: ARC Planted Churches</a></li>
+<li><a href="http://churches.kcm.org/">Locator: KCM Related Churches</a></li>
+<li><a href="http://wordchurchfinder.blogspot.com/">Locator: Word Church Finder</a></li>
+</ul>
+<li><b>Idaho</b></li>
+<ul>
+<li><a href="http://lakecity.church/" target="_blank">Lake City Church (CDA, ID)</a></li>
+</ul>
+<li><b>Texas</b></li>
+<ul>
+<li><a href="http://gatewaypeople.com/">Gateway Church</a>&nbsp;(Southlake Texas)</li>
+<li><a href="http://emic.org/">Eagle Mountain Int Church</a>&nbsp;(Fort Worth Texas)</li>
+<li><a href="http://www.fellowshipoftheparks.com/">Fellowship of the Parks Church</a></li>
+<li><a href="http://hhttp//www.heritageoffaith.com/">Heritage of Faith Christian Center (Church)</a></li>
+<li><a href="http://www.kcm.org/bvov-media">Kenneth Copeland Ministries</a></li>
+<li><a href="http://thepottershouse.org/">Potters House Church</a> Dallas TX, Bishop T.D. Jakes</li>
+<li><a href="http://www.svtx.org/">Shepherd's Voice Church</a></li>
+</ul>
+</ul>
+<div>
+<br /></div>
+</div>
+<div>
+<b>Things you need to know to make a better move:</b><br />
+<ul>
+<li><b>USA</b></li>
+<ul>
+<li><a href="http://www.ers.usda.gov/StateFacts/TX.htm">USDA Statistics for TX</a></li>
+<li><a href="http://factfinder.census.gov/servlet/SAFFFacts?_event=Search&amp;geo_id=&amp;_geoContext=&amp;_street=&amp;_county=76052&amp;_cityTown=76052&amp;_state=&amp;_zip=76052&amp;_lang=en&amp;_sse=on&amp;pctxt=fph&amp;pgsl=010&amp;show_2003_tab=&amp;">Census Data</a></li>
+<li><a href="http://www.uscis.gov/portal/site/uscis">Immigration Info</a></li>
+<li><a href="http://www.usps.com/">USPS Mail</a></li>
+</ul>
+<li><b>Idaho</b></li>
+<ul>
+<li>Coeur d'Alene</li>
+</ul>
+<li><b>Texas</b></li>
+<ul>
+<li>Home Owners</li>
+<ul>
+<li><a href="http://www.todayshomeowner.com/">Todays Home Owners - DIY Home Ownership</a></li>
+<li><a href="http://www.diynetwork.com/">DIY Network</a></li>
+</ul>
+<li>Garden</li>
+<ul>
+<li><a href="http://www.wbfarmstore.net/category/blog/">Wells Brothers</a>: Pet, Lawn, and Garden Supply</li>
+<li><a href="http://northtexasvegetablegardeners.com/">North Texas Vegetable Gardeners</a>&nbsp;Gardening Blog</li>
+<li><a href="http://grownorthtexas.org/">Grow North Texas</a>: Gardening Blog</li>
+</ul>
+<li>Finding Your Home</li>
+<ul>
+<li><a href="http://www.texasliving.com/">Texas Living Real Estate Sales</a></li>
+<li><a href="http://www.lifeinfortworth.com/2012/02/home-sweet-home.html">Home Sweet Home</a>&nbsp;- Looking for a home or apartment</li>
+</ul>
+<li>Utility Information</li>
+<ul>
+<li><a href="http://stormcenter.oncor.com/default.html">Oncor Storm Center</a></li>
+<li><a href="http://www.powertochoose.org/">PowerToChoose.Org</a>&nbsp;(You an choose your electric company!)</li>
+<li><a href="http://ww2.ambitenergy.com/rates-and-plans">Ambit Energy Electric</a>: Earn Free Electricity</li>
+</ul>
+<li><a href="http://www.txdmv.gov/">Car Registration @ DMV - TX Dept of Motor Vehicles&nbsp;</a></li>
+<li><a href="http://www.txdps.state.tx.us/driverlicense/">Drivers License Get/Renew @TX DPS - Dept of Public Safety</a></li>
+<li><a href="http://www.texas.aaa.com/home.html?zip=76262&amp;stateprov=tx&amp;city=roanoke&amp;devicecd=PC&amp;referer=www.texas.aaa.com">AAA Texas: Insurance, Roadside Assistance, Travel Planning, and More</a></li>
+<li><a href="http://texaslivinginfo.blogspot.com/2012/02/voting.html">Voting - Resources for voting information</a></li>
+<li><a href="http://texaslivinginfo.blogspot.com/2012/02/texas-counties-map.html">What County am I am? There are so many!</a></li>
+<li><a href="http://www.txdmv.gov/">Auto DMV - Dept of Motor Vehicles</a></li>
+<li><a href="http://www.txdps.state.tx.us/rsd/vi/">Auto Inspections</a></li>
+<li><a href="http://www.registeredtexan.com/">Auto Registration Info</a></li>
+<li><a href="http://www.txdps.state.tx.us/driverlicense/">Drivers Licenses - DPS</a></li>
+<li><a href="http://www.texasports.org/">Texas Ports</a></li>
+<li><a href="http://www.texas.gov/en/Pages/default.aspx">Texas.Gov (One stop site for Info)</a></li>
+<li><a href="http://www.ers.usda.gov/StateFacts/TX.htm">USDA TX State Statistics</a></li>
+<li><a href="http://www.sos.state.tx.us/elections/pamphlets/largepamp.shtml">Voting Info - Tx Sec of State</a></li>
+<li><a href="http://www.votexas.org/">Voting Info - Votexas.org</a></li>
+</ul>
+</ul>
+<div>
+<br /></div>
+</div>
+<h4>
+Starting or Running a Business Information:</h4>
+<div>
+<ul>
+<li>USA</li>
+<ul>
+<li><a href="http://texaslivinginfo.blogspot.com/2012/02/businesses.html">Businesses - Starting and Running a Business in Texas</a></li>
+<li><a href="http://www.handsonbanking.org/">Hands on Banking - Free Online Training for Entrepreneurs and Small Business</a></li>
+<li><a href="http://factfinder.census.gov/servlet/SAFFFacts?_event=Search&amp;geo_id=&amp;_geoContext=&amp;_street=&amp;_county=76052&amp;_cityTown=76052&amp;_state=&amp;_zip=76052&amp;_lang=en&amp;_sse=on&amp;pctxt=fph&amp;pgsl=010&amp;show_2003_tab=&amp;">Census Data By Zip</a></li>
+<li><a href="http://www.ers.usda.gov/StateFacts/TX.htm">Hands On Banking - Business Training</a></li>
+<li><a href="http://www.handsonbanking.org/en/">Hands On Banking - Financial Training</a></li>
+<li><a href="http://www.sba.gov/category/navigation-structure/counseling-training/online-small-business-training">SBA Online Training</a></li>
+<li><a href="http://www.ers.usda.gov/StateFacts/TX.htm">USDA Statistics</a></li>
+</ul>
+<li>Idaho</li>
+<ul>
+<li>Coeur d'Alene</li>
+<li><a href="http://www.cdachamber.com/" target="_blank">CDA Chamber of Commerce</a></li>
+<li></li>
+<li></li>
+</ul>
+<li>Texas</li>
+<ul>
+<li><a href="http://www.dallascounty.org/department/countyclerk/roam.php">Dallas County Clerk</a></li>
+<li><a href="http://dentoncounty.com/dept/main.asp?Dept=17&amp;Link=50">Denton County Clerk</a></li>
+<li><a href="http://www.sos.state.tx.us/corp/generalfaqs.shtml">Secretary of State Site</a></li>
+<li><a href="http://www.tarrantcounty.com/ecountyclerk/cwp/view.asp?A=735&amp;Q=435718">Tarrant County Clerk (Fort Worth Area)</a></li>
+<li><a href="https://ourcpa.cpa.state.tx.us/coa/Index.html">Texas Comptroller</a></li>
+</ul>
+</ul>
+</div>
+<div>
+<div>
+<br /></div>
+<div>
+<b>Darrell Wolfe</b></div>
+<div>
+Story Teller | INFJ | Intellection | Learner | Ideation | Achiever | Input | Multipotentialite</div>
+</div>
+<div>
+<br /></div>
+<div>
+<br /></div>

@@ -1,0 +1,104 @@
+---
+title: 'Review Template'
+date: '2050-05-10T17:30:00.0000000+00:00'
+draft: true
+blogger_blog: 'The Life In Fort Worth Blog'
+blogger_status: 'DRAFT'
+blogger_post_id: '2610365000166685900'
+blogger_filename: '/2050/05/review-template.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/The Life In Fort Worth Blog/feed.atom'
+---
+
+<br />
+<h3 style="font-family: Georgia; margin: 0in;">
+<br />&nbsp;</h3>
+<h3 style="font-family: Georgia; margin: 0in;">
+Name</h3>
+<h3 style="font-family: Georgia; margin: 0in;">
+&nbsp;</h3>
+<h4 style="font-family: Georgia; margin: 0in;">
+Adress</h4>
+<br />
+<div style="font-family: Georgia; margin: 0in;">
+Where is it?<br />
+<br /></div>
+<div style="font-family: Georgia; margin: 0in;">
+Yelp: <a href="http://www.yelp.com/biz/mai-thai-haslet">HERE</a><br />
+Urban Spoon: <a href="http://www.urbanspoon.com/r/13/1590824/restaurant/Mai-Thai-Restaurant-Haslet">HERE</a></div>
+<div style="font-family: Georgia; margin: 0in;">
+<br /></div>
+<div style="font-family: Georgia; margin: 0in;">
+<br /></div>
+<div style="font-family: Georgia; margin: 0in;">
+<br /></div>
+<div style="font-family: Georgia; margin: 0in;">
+<br /></div>
+<div style="font-family: Georgia; margin: 0in;">
+<br /></div>
+<div style="font-family: Georgia; margin: 0in;">
+<h4>
+<span style="font-family: inherit;">Overview</span></h4>
+<span style="font-family: inherit;"><br /></span>
+<span style="font-family: inherit;"><br /></span>
+<br /></div>
+<div style="font-family: Georgia; margin: 0in;">
+<br /></div>
+<div style="font-family: Georgia; margin: 0in;">
+<h4>
+<span style="font-family: inherit;">Cost</span></h4>
+</div>
+<div style="font-family: Georgia; margin: 0in;">
+<br /></div>
+<div style="font-family: Georgia; margin: 0in;">
+<span style="font-family: inherit;"><br /></span>
+<span style="font-family: inherit;"><br /></span>
+<br /></div>
+<div style="font-family: Georgia; margin: 0in;">
+<br /></div>
+<div style="font-family: Georgia; margin: 0in;">
+<br /></div>
+<div style="font-family: Georgia; margin: 0in;">
+<h4>
+<span style="font-family: inherit;">Kids</span></h4>
+</div>
+<div style="font-family: Georgia; margin: 0in;">
+<span style="font-family: inherit;"><br /></span>
+<span style="font-family: inherit;"></span></div>
+<div style="font-family: Georgia; margin: 0in;">
+<br />
+<br />
+<br /></div>
+<div style="font-family: Georgia; margin: 0in;">
+<h4>
+<span style="font-family: inherit;">Final Thoughts</span></h4>
+</div>
+<div style="font-family: Georgia; margin: 0in;">
+<span style="font-family: inherit;"><br /></span>
+<span style="font-family: inherit;"><br /></span>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br /></div>
+<div style="font-family: Georgia; margin: 0in;">
+<span style="font-family: inherit;">**</span></div>
+<h2>
+</h2>
+<br />
+<br />
+<b>Life In Fort Worth By&nbsp;<a href="https://plus.google.com/+DarrellWolfe" target="_blank">Darrell Wolfe</a></b><br />
+<h4>
+<ul>
+<li>New to the blog?&nbsp;<a href="http://www.lifeinfortworth.com/p/about.html" target="_blank">Start HERE</a></li>
+</ul>
+<ul>
+<li>Click&nbsp;<a href="http://eepurl.com/OjOcn" target="_blank">HERE to Subscribe</a>&nbsp;by email.&nbsp;</li>
+</ul>
+</h4>
+<div>
+<b><br /></b></div>
+<div>
+<b>What is YOUR favorite thing about Texas? Comment Below!</b></div>
+<div>
+<b><br /></b></div>

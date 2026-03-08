@@ -1,0 +1,39 @@
+---
+title: 'Expand: Conditions Overlapping with ADHD and/or Autism'
+date: '2023-09-25T02:59:00.0020000+00:00'
+draft: true
+blogger_blog: 'The Freedom Center'
+blogger_status: 'LIVE'
+blogger_post_id: '5708559823498289499'
+blogger_filename: '/2023/09/expand-conditions-overlapping-with-adhd.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/The Freedom Center/feed.atom'
+categories:
+  - 'Conditions Overlapping with ADHD and/or Autism'
+---
+
+<p>&nbsp;</p><h1>Conditions Overlapping with ADHD and/or Autism</h1>
+<p>Several conditions are thought to have a higher rate of co-occurrence or overlapping features with ADHD (Attention-Deficit/Hyperactivity Disorder) and Autism Spectrum Disorder (ASD).</p>
+<h3>Common Overlaps with ADHD:</h3>
+<ol>
+<li><strong>Learning Disabilities</strong>: Such as dyslexia or dyscalculia, often co-occur with ADHD.</li>
+<li><strong>Anxiety Disorders</strong>: Generalized anxiety disorder and social anxiety are commonly found in individuals with ADHD.</li>
+<li><strong>Depression</strong>: Major depressive disorder can co-occur with ADHD, particularly in adults.</li>
+<li><strong>Oppositional Defiant Disorder (ODD)</strong>: A higher rate of ODD is seen in children with ADHD.</li>
+<li><strong>Sleep Disorders</strong>: Insomnia and other sleep-related issues often overlap with ADHD.</li>
+</ol>
+<h3>Common Overlaps with Autism:</h3>
+<ol>
+<li><strong>Sensory Processing Disorder</strong>: Many people with ASD have heightened or reduced sensitivity to sensory input.</li>
+<li><strong>Epilepsy</strong>: A significantly higher incidence of epilepsy is reported among those with ASD.</li>
+<li><strong>Gastrointestinal Disorders</strong>: Issues like irritable bowel syndrome (IBS) are often reported in individuals with ASD.</li>
+<li><strong>Anxiety Disorders</strong>: Particularly social anxiety and generalized anxiety disorder.</li>
+<li><strong>Intellectual Disability</strong>: Though not always the case, some individuals with ASD may also have intellectual disabilities.</li>
+</ol>
+<h3>Conditions Overlapping with Both:</h3>
+<ol>
+<li><strong>Tourette Syndrome</strong>: Though less common, there is a noted overlap with both ADHD and ASD.</li>
+<li><strong>OCD (Obsessive-Compulsive Disorder)</strong>: Traits can be similar to the repetitive behaviors seen in ASD and the impulsivity in ADHD.</li>
+<li><strong>Ehlers-Danlos Syndromes (EDS)</strong>: As previously mentioned, emerging evidence suggests a link with neurodiverse conditions.</li>
+</ol>
+<h3>Weight of Evidence:</h3>
+<p>The overlap between these conditions and ADHD/ASD is supported by both clinical experience and research studies. However, it's important to remember that having one condition does not necessarily mean you'll have another; these are just trends observed in larger populations. Diagnostic evaluations for each condition are essential for targeted treatment.</p>

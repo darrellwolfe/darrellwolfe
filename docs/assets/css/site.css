@@ -27,32 +27,144 @@ body {
   color: var(--text-main);
 }
 
+#quarto-header.headroom.fixed-top {
+  position: relative;
+}
+
+body.nav-fixed {
+  padding-top: 0 !important;
+}
+
 #quarto-header .navbar {
   background: color-mix(in srgb, var(--site-bg) 92%, white 8%) !important;
   border-bottom: 1px solid var(--line);
   backdrop-filter: blur(10px);
+  padding-top: 0.85rem;
+  padding-bottom: 0.55rem;
 }
 
-.navbar-brand .navbar-title {
-  font-family: "Times New Roman", Times, serif;
-  font-size: 1.25rem;
+#quarto-header .navbar-container {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  row-gap: 0.45rem;
+  align-items: center;
+}
+
+#quarto-header .navbar-brand-container {
+  grid-column: 1 / -1;
+  width: 100%;
+  margin: 0;
+}
+
+#quarto-header .navbar-brand {
+  display: block;
+  width: 100%;
+  padding: 0.2rem 0.6rem 0.65rem;
+  text-align: center;
+  color: var(--teal-700);
+}
+
+#quarto-header .navbar-title {
+  display: block;
+  color: #1a2553;
+  font-family: "Book Antiqua", "Palatino Linotype", "Times New Roman", Times, serif;
+  font-size: clamp(1.85rem, 4.2vw, 3.15rem);
+  font-weight: 700;
   letter-spacing: 0.01em;
-  color: var(--teal-700);
+  line-height: 1.05;
+  text-wrap: balance;
 }
 
-.navbar-nav .nav-link,
-.navbar-nav .dropdown-item {
-  font-weight: 600;
-  color: var(--teal-700);
+#quarto-header .navbar-brand::after {
+  content: "Storyteller | Thinker | Data Viz Nerd | SQL Geek | INFP | AuDHD | Science Fantasy Fan";
+  display: block;
+  max-width: 62rem;
+  margin: 0.7rem auto 0;
+  padding-top: 0.55rem;
+  border-top: 1px solid var(--line);
+  color: var(--text-muted);
+  font-family: "Source Sans 3", "Segoe UI", Tahoma, sans-serif;
+  font-size: clamp(0.9rem, 1.55vw, 1.15rem);
+  font-weight: 500;
+  line-height: 1.35;
 }
 
-.navbar-nav .nav-link:hover,
-.navbar-nav .dropdown-item:hover {
+#quarto-header #quarto-search {
+  grid-column: 1;
+  grid-row: 2;
+  justify-self: start;
+}
+
+#quarto-header .navbar-toggler {
+  grid-column: 2;
+  grid-row: 2;
+  margin-left: auto;
+}
+
+#quarto-header .navbar-collapse {
+  grid-column: 1 / -1;
+  margin-top: 0.1rem;
+  padding-top: 0.45rem;
+  border-top: 1px solid var(--line);
+}
+
+#quarto-header .navbar-nav {
+  width: 100%;
+  justify-content: center;
+  gap: 0.1rem 0.5rem;
+}
+
+#quarto-header .navbar-nav .nav-link,
+#quarto-header .navbar-nav .dropdown-item {
+  color: var(--teal-700);
+  font-size: 0.92rem;
+  font-weight: 650;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+#quarto-header .navbar-nav .nav-link:hover,
+#quarto-header .navbar-nav .dropdown-item:hover {
   color: var(--teal-500);
+}
+
+@media (max-width: 991.98px) {
+  #quarto-header .navbar {
+    padding-top: 0.7rem;
+    padding-bottom: 0.45rem;
+  }
+
+  #quarto-header .navbar-brand {
+    padding-bottom: 0.55rem;
+  }
+
+  #quarto-header .navbar-brand::after {
+    max-width: 100%;
+    font-size: 0.95rem;
+  }
+
+  #quarto-header .navbar-collapse {
+    padding-top: 0.3rem;
+  }
+
+  #quarto-header .navbar-nav {
+    align-items: flex-start;
+  }
+
+  #quarto-header .navbar-nav .nav-link {
+    padding-left: 0;
+    padding-right: 0;
+  }
 }
 
 #quarto-content {
   padding-top: 0.5rem;
+  background-color: var(--site-bg);
+}
+
+#quarto-content .page-navigation,
+.nav-footer {
+  background-color: var(--site-bg);
 }
 
 main.content {

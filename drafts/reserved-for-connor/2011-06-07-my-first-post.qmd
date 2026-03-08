@@ -1,0 +1,12 @@
+---
+title: 'My first Post'
+date: '2011-06-07T23:57:00.0000000+00:00'
+draft: true
+blogger_blog: 'Reserved for Connor'
+blogger_status: 'LIVE'
+blogger_post_id: '7847528124326233331'
+blogger_filename: '/2011/06/my-first-post.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Reserved for Connor/feed.atom'
+---
+
+One plus One equals Two. And I can ride two wheeled bike.

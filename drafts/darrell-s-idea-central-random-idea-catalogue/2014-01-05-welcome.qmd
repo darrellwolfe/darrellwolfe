@@ -1,0 +1,12 @@
+---
+title: 'This site has moved'
+date: '2014-01-05T04:56:00.0010000+00:00'
+draft: true
+blogger_blog: 'Darrell''s Idea Central (Random Idea Catalogue)'
+blogger_status: 'LIVE'
+blogger_post_id: '896921202841512297'
+blogger_filename: '/2014/01/welcome.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell_s Idea Central (Random Idea Catalogue)/feed.atom'
+---
+
+Please Visit <a href="http://www.darrellwolfe.com/">www.DarrellWolfe.Com</a>

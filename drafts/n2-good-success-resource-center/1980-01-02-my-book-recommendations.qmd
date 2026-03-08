@@ -1,0 +1,73 @@
+---
+title: 'My Book Recommendations'
+date: '1980-01-02T05:22:00.0000000+00:00'
+draft: true
+blogger_blog: 'N2 Good Success Resource Center'
+blogger_status: 'LIVE'
+blogger_post_id: '2925078046635888198'
+blogger_filename: '/1980/01/my-book-recommendations.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/N2 Good Success Resource Center/feed.atom'
+---
+
+<h3 style="text-align: center;">
+<b>My Book Recommendations By Other Authors:</b></h3>
+<div>
+<b>&nbsp;<i>As iron sharpens iron, so one person sharpens another. (</i><i>Proverbs 27:17 NIV)</i></b></div>
+<div>
+<b><i><br /></i></b></div>
+<b>These are some great resources written by others. Both Spiritual and Natural Success books that are must reads. See more @&nbsp;</b><b style="background-color: white; color: #181ecd; font-family: 'Times New Roman', serif; font-size: 12px; line-height: 16px;"><a href="http://astore.amazon.com/your0f4d-20" style="background-color: white; color: #181ecd; font-family: 'Times New Roman', serif; font-size: 12px; line-height: 16px;" target="_blank">N2 Good Success Amazon Store</a></b><br />
+<br />
+<table cellspacing="0" class="products" style="color: black; font-family: 'Times New Roman', serif; font-size: 12px; line-height: 16px; text-align: start; width: 482px;"><tbody>
+<tr class="imagerow"><td style="padding: 5px; vertical-align: bottom; width: 150px;"><a href="http://astore.amazon.com/your0f4d-20/detail/0881149527" style="color: #181ecd;"><img alt="The Laws of Prosperity" src="/images/imported/ecx-images-amazon-com/51k04sfgc7l-sl125-0a071de104b8.jpg" style="border: none;" /></a></td><td style="padding: 5px; vertical-align: bottom; width: 151px;"><a href="http://astore.amazon.com/your0f4d-20/detail/0883687305" style="color: #181ecd;"><img alt="Grace: The Power To Change" src="/images/imported/ecx-images-amazon-com/41sagkoq8kl-sl125-ad43e39677f4.jpg" style="border: none;" /></a></td><td style="padding: 5px; vertical-align: bottom; width: 151px;"><a href="http://astore.amazon.com/your0f4d-20/detail/1577941322" style="color: #181ecd;"><img alt="Faith and Confession" src="/images/imported/ecx-images-amazon-com/51otgg3bmal-sl125-a54d42379218.jpg" style="border: none;" /></a></td></tr>
+<tr class="textrow"><td style="padding: 5px 5px 20px; vertical-align: top; width: 150px;"><a href="http://astore.amazon.com/your0f4d-20/detail/0881149527" style="color: #181ecd;">The Laws of Prosperity</a><br />
+by&nbsp;<span class="by">Kenneth Copeland</span><br />
+<span class="price" style="font-weight: bold;">$9.99</span></td><td style="padding: 5px 5px 20px; vertical-align: top; width: 151px;"><a href="http://astore.amazon.com/your0f4d-20/detail/0883687305" style="color: #181ecd;">Grace: The Power To Change</a><br />
+by&nbsp;<span class="by">James B. Richards</span><br />
+<span class="price" style="font-weight: bold;">$9.88</span><br />
+Originally recommended to me by Pastor Chris Wilder</td><td style="padding: 5px 5px 20px; vertical-align: top; width: 151px;"><a href="http://astore.amazon.com/your0f4d-20/detail/1577941322" style="color: #181ecd;">Faith and Confession</a><br />
+by&nbsp;<span class="by">Charles Capps</span><br />
+<span class="price" style="font-weight: bold;">$10.87</span><br />
+Among the best texts I've ever seen on understanding faith's functions in a practical way.<br />
+<br /></td></tr>
+</tbody></table>
+<table cellspacing="0" class="products" style="color: black; font-family: 'Times New Roman', serif; font-size: 12px; line-height: 16px; text-align: start; width: 482px;"><tbody>
+<tr class="imagerow"><td style="padding: 5px; vertical-align: bottom; width: 150px;"><a href="http://astore.amazon.com/your0f4d-20/detail/1604631147" style="color: #181ecd;"><img alt="The Blessing of the Lord: Makes Rich and He Adds No Sorrow With It" src="/images/imported/ecx-images-amazon-com/513cu-p7k8l-sl125-e27f48509b94.jpg" style="border: none;" /></a></td><td style="padding: 5px; vertical-align: bottom; width: 151px;"><a href="http://astore.amazon.com/your0f4d-20/detail/160708306X" style="color: #181ecd;"><img alt="The Final Quest" src="/images/imported/ecx-images-amazon-com/51-uk4zc7wl-sl125-84309983b052.jpg" style="border: none;" /></a></td><td style="padding: 5px; vertical-align: bottom; width: 151px;"><a href="http://astore.amazon.com/your0f4d-20/detail/0785267131" style="color: #181ecd;"><img alt="The Vision A Two-in-one Volume Of The Final Quest And The Call" src="/images/imported/ecx-images-amazon-com/51zf9qar0fl-sl125-63d95d244688.jpg" style="border: none;" /></a></td></tr>
+<tr class="textrow"><td style="padding: 5px 5px 20px; vertical-align: top; width: 150px;"><a href="http://astore.amazon.com/your0f4d-20/detail/1604631147" style="color: #181ecd;">The Blessing of the Lord: Makes Rich and He...</a><br />
+by&nbsp;<span class="by">Kenneth Copeland</span><br />
+<span class="price" style="font-weight: bold;">$13.31</span></td><td style="padding: 5px 5px 20px; vertical-align: top; width: 151px;"><a href="http://astore.amazon.com/your0f4d-20/detail/160708306X" style="color: #181ecd;">The Final Quest</a><br />
+by&nbsp;<span class="by">Rick Joyner</span><br />
+<span class="price" style="font-weight: bold;">$10.87</span></td><td style="padding: 5px 5px 20px; vertical-align: top; width: 151px;"><a href="http://astore.amazon.com/your0f4d-20/detail/0785267131" style="color: #181ecd;">The Vision A Two-in-one Volume Of The Final...</a><br />
+by&nbsp;<span class="by">Rick Joyner</span><br />
+<span class="price" style="font-weight: bold;">$12.15</span><b>See Also:&nbsp;</b></td></tr>
+</tbody></table>
+<br />
+<table cellspacing="0" class="products" style="color: black; font-family: 'Times New Roman', serif; font-size: 12px; line-height: 16px; text-align: start; width: 482px;"><tbody>
+<tr class="imagerow"><td style="padding: 5px; vertical-align: bottom; width: 150px;"><a href="http://astore.amazon.com/your0f4d-20/detail/0066620996" style="color: #181ecd;"><img alt="Good to Great: Why Some Companies Make the Leap... and Others Don't" src="/images/imported/ecx-images-amazon-com/313w-vjib5l-sl125-70ae7d225d87.jpg" style="border: none;" /></a></td><td style="padding: 5px; vertical-align: bottom; width: 151px;"><a href="http://astore.amazon.com/your0f4d-20/detail/0470100281" style="color: #181ecd;"><img alt="The Energy Bus: 10 Rules to Fuel Your Life, Work, and Team with Positive Energy" src="/images/imported/ecx-images-amazon-com/41gvz8nw6il-sl125-f824c48ea05b.jpg" style="border: none;" /></a></td><td style="padding: 5px; vertical-align: bottom; width: 151px;"><a href="http://astore.amazon.com/your0f4d-20/detail/076242723X" style="color: #181ecd;"><img alt="Change the Way You See Everything through Asset-Based Thinking" src="/images/imported/ecx-images-amazon-com/512ign5oeil-sl125-f8ecd9ea0793.jpg" style="border: none;" /></a></td></tr>
+<tr class="textrow"><td style="padding: 5px 5px 20px; vertical-align: top; width: 150px;"><a href="http://astore.amazon.com/your0f4d-20/detail/0066620996" style="color: #181ecd;">Good to Great: Why Some Companies Make the ...</a><br />
+by&nbsp;<span class="by">Jim Collins</span><br />
+<span class="price" style="font-weight: bold;">$19.79</span></td><td style="padding: 5px 5px 20px; vertical-align: top; width: 151px;"><a href="http://astore.amazon.com/your0f4d-20/detail/0470100281" style="color: #181ecd;">The Energy Bus: 10 Rules to Fuel Your Life,...</a><br />
+by&nbsp;<span class="by">Jon Gordon</span><br />
+<span class="price" style="font-weight: bold;">$14.59</span></td><td style="padding: 5px 5px 20px; vertical-align: top; width: 151px;"><a href="http://astore.amazon.com/your0f4d-20/detail/076242723X" style="color: #181ecd;">Change the Way You See Everything through A...</a><br />
+by&nbsp;<span class="by">Kathryn D. Cramer</span><br />
+<span class="price" style="font-weight: bold;">$16.50</span></td></tr>
+</tbody></table>
+<table cellspacing="0" class="products" style="color: black; font-family: 'Times New Roman', serif; font-size: 12px; line-height: 16px; text-align: start; width: 482px;"><tbody>
+<tr class="imagerow"><td style="padding: 5px; vertical-align: bottom; width: 150px;"><a href="http://astore.amazon.com/your0f4d-20/detail/0743269519" style="color: #181ecd;"><img alt="The 7 Habits of Highly Effective People" src="/images/imported/ecx-images-amazon-com/51osk63eabl-sl125-a1a09ad802d9.jpg" style="border: none;" /></a></td></tr>
+<tr class="textrow"><td style="padding: 5px 5px 20px; vertical-align: top; width: 150px;"><a href="http://astore.amazon.com/your0f4d-20/detail/0743269519" style="color: #181ecd;">The 7 Habits of Highly Effective People</a><br />
+by&nbsp;<span class="by">Stephen R. Covey</span><br />
+<span class="price" style="font-weight: bold;">$8.49</span></td></tr>
+</tbody></table>
+<br />
+<table cellspacing="0" class="products" style="color: black; font-family: 'Times New Roman', serif; font-size: 12px; line-height: 16px; text-align: start; width: 482px;"><tbody>
+<tr class="imagerow"><td style="padding: 5px; vertical-align: bottom; width: 150px;"><a href="http://astore.amazon.com/your0f4d-20/detail/0786864370" style="color: #181ecd;"><img alt="How to Become CEO: The Rules for Rising to the Top of Any Organization" src="/images/imported/ecx-images-amazon-com/415b-y26y5l-sl125-eea562b7dcdf.jpg" style="border: none;" /></a></td><td style="padding: 5px; vertical-align: bottom; width: 151px;"><a href="http://astore.amazon.com/your0f4d-20/detail/159555078X" style="color: #181ecd;"><img alt="The Total Money Makeover: A Proven Plan for Financial Fitness" src="/images/imported/ecx-images-amazon-com/517lv72u4vl-sl125-820ff5d6d0bf.jpg" style="border: none;" /></a></td><td style="padding: 5px; vertical-align: bottom; width: 151px;"><a href="http://astore.amazon.com/your0f4d-20/detail/B001BYLFFS" style="color: #181ecd;"><img alt="Expelled: No Intelligence Allowed" src="/images/imported/ecx-images-amazon-com/51hozwvwqkl-sl125-d56c6d671c0c.jpg" style="border: none;" /></a></td></tr>
+<tr class="textrow"><td style="padding: 5px 5px 20px; vertical-align: top; width: 150px;"><a href="http://astore.amazon.com/your0f4d-20/detail/0786864370" style="color: #181ecd;">How to Become CEO: The Rules for Rising to ...</a><br />
+by&nbsp;<span class="by">Jeffrey J. Fox</span><br />
+<span class="price" style="font-weight: bold;">$11.22</span></td><td style="padding: 5px 5px 20px; vertical-align: top; width: 151px;"><a href="http://astore.amazon.com/your0f4d-20/detail/159555078X" style="color: #181ecd;">The Total Money Makeover: A Proven Plan for...</a><br />
+by&nbsp;<span class="by">Dave Ramsey</span><br />
+<span class="price" style="font-weight: bold;">$14.66</span><br />
+Among the Finest authors on financial planning alive, and a Christian too.</td><td style="padding: 5px 5px 20px; vertical-align: top; width: 151px;"><a href="http://astore.amazon.com/your0f4d-20/detail/B001BYLFFS" style="color: #181ecd;">Expelled: No Intelligence Allowed</a><br />
+<span class="price" style="font-weight: bold;">$7.93</span><br />
+Science? of evolution going down hill!</td></tr>
+</tbody></table>
+<br />
+<b><br /></b>

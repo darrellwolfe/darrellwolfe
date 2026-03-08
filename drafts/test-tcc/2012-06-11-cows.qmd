@@ -1,0 +1,38 @@
+---
+title: 'Cows'
+date: '2012-06-11T03:16:00.0010000+00:00'
+draft: true
+blogger_blog: 'TEST TCC'
+blogger_status: 'LIVE'
+blogger_post_id: '2341423725647765682'
+blogger_filename: '/2012/06/cows.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/TEST TCC/feed.atom'
+categories:
+  - 'Cows'
+---
+
+<div style="text-align: center;">
+So Many Ways To Say: "Your Myoo're Terrific!"</div>
+<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; text-align: center;"><tbody>
+<tr><td style="text-align: center;"><a href="http://tc-ccrafts.blogspot.com/2012/06/graduation-cows.html" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="200" src="/images/imported/blogger-googleusercontent-com/graduation-cows-d4ba50cb8e2d.jpg" width="200" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">Graduation</td></tr>
+</tbody></table>
+<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;"><a href="http://tc-ccrafts.blogspot.com/2012/06/texas-longhorn-cows.html" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="131" src="/images/imported/blogger-googleusercontent-com/longhorns-5db7cae16978.jpg" width="200" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">Texas Longhorns</td></tr>
+</tbody></table>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="/images/imported/blogger-googleusercontent-com/graduation-cows-975a71d6451e.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"></a></div>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;"><tbody>
+<tr><td style="text-align: center;"><a href="http://tc-ccrafts.blogspot.com/2012/06/anniversary-cows.html" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="173" src="/images/imported/blogger-googleusercontent-com/anniversary-cows-9bc00340331d.jpg" width="200" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">Anniversary</td></tr>
+</tbody></table>
+<br />
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: right;"><tbody>
+<tr><td style="text-align: center;"><a href="http://tc-ccrafts.blogspot.com/2012/06/birthday-cows.html" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="196" src="/images/imported/blogger-googleusercontent-com/happy-birthday-cows-ff98c9e1bcc7.jpg" width="200" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">Happy Birthday</td></tr>
+</tbody></table>
+<br />
+<br />

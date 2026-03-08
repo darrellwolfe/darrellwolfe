@@ -1,0 +1,13 @@
+---
+title: 'PowerBI Test'
+date: '2023-04-22T20:01:00.0000000+00:00'
+draft: true
+blogger_type: 'PAGE'
+blogger_blog: 'Topos Creative, LLC'
+blogger_status: 'LIVE'
+blogger_page_id: '3935605627729682640'
+blogger_filename: '/p/powerbi-test.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Topos Creative, LLC/feed.atom'
+---
+
+<p>Permit Report - Test</p><p><br /></p><p><br /><iframe title="PermitDashboard 2" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=50bdcd1b-97ad-4f9c-9ac1-68f32080e07e&autoAuth=true&ctid=c3098202-6895-4e8a-a38e-7c61435422e2" frameborder="0" allowFullScreen="true"></iframe></p><p><br /></p>

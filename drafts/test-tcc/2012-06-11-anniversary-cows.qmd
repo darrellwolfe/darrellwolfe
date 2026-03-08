@@ -1,0 +1,33 @@
+---
+title: 'Anniversary Cows'
+date: '2012-06-11T03:24:00.0050000+00:00'
+draft: true
+blogger_blog: 'TEST TCC'
+blogger_status: 'LIVE'
+blogger_post_id: '7180787329360833525'
+blogger_filename: '/2012/06/anniversary-cows.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/TEST TCC/feed.atom'
+categories:
+  - 'Cows'
+---
+
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<br class="Apple-interchange-newline" /></div>
+<div style="text-align: center;">
+These are Cows Testing</div>
+<div class="separator" style="clear: both; text-align: center;">
+<br /></div>
+<div class="separator" style="clear: both; text-align: center;">
+</div>
+<div style="text-align: center;">
+<a href="http://tc-ccrafts.blogspot.com/2012/06/cows.html">Back to Cows</a></div>
+<div class="separator" style="clear: both; text-align: center;">
+</div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+</div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="/images/imported/blogger-googleusercontent-com/anniversary-cows-e6150d58f015.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/imported/blogger-googleusercontent-com/anniversary-cows-e6150d58f015.jpg" /></a></div>
+<br class="Apple-interchange-newline" />

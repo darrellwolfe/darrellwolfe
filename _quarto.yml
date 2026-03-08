@@ -1,11 +1,17 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - "**/*.qmd"
+    - "!drafts/**"
+  resources:
+    - images/**
 
 website:
   title: "Darrell Wolfe, Storyteller"
   search: true
   navbar:
+    pinned: false
     left:
       - text: Home
         href: index.qmd

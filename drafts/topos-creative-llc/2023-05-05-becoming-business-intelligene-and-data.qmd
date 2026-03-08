@@ -1,0 +1,23 @@
+---
+title: 'Becoming a Business Intelligene and Data Analyst'
+date: '2023-05-05T15:43:00.0040000+00:00'
+draft: true
+blogger_blog: 'Topos Creative, LLC'
+blogger_status: 'LIVE'
+blogger_post_id: '5395221833366201000'
+blogger_filename: '/2023/05/becoming-business-intelligene-and-data.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Topos Creative, LLC/feed.atom'
+categories:
+  - 'Excel'
+  - 'Power BI'
+  - 'Tableau'
+  - 'SQL'
+---
+
+In order to learn SQL, here are the steps I'm using:<div><br /></div><div>I'm working through:</div><div><ul style="text-align: left;"><li><a href="https://www.w3schools.com/sql/default.asp" rel="nofollow" target="_blank">W3 Schools SQL Tutorials</a>&nbsp;</li><li><a href="https://www.coursera.org/professional-certificates/google-data-analytics?utm_medium=sem&amp;utm_source=gg&amp;utm_campaign=B2C_NAMER__google_FTCOF_google-career-certificates_country-US&amp;campaignid=14390440220&amp;adgroupid=129244555187&amp;device=c&amp;keyword=&amp;matchtype=&amp;network=g&amp;devicemodel=&amp;adposition=&amp;creativeid=636546041217&amp;hide_mobile_promo&amp;gclid=Cj0KCQjw0tKiBhC6ARIsAAOXutkpzpYh-gmit8pd_LVkbwHq8SttdFo-YNzvjQVOHfji78b-kmnMTfwaAi9jEALw_wcB" rel="nofollow" target="_blank">Coursera: Google Data Analytics Professional Certificate</a>&nbsp;</li><li>YouTube's Alex the Analyst FREE "<a href="https://youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF" rel="nofollow" target="_blank">Data Analyst Bootcamp!!</a>"&nbsp;</li><li>Google Searching to reference as many articles as I can find on various aspects.</li><li>Using <a href="https://chat.openai.com/" rel="nofollow" target="_blank">ChatGPT</a>&nbsp;to check my syntax and explain concepts to me, answering my questions like a tutor.&nbsp;</li></ul><div>I've also joined/downloaded/am using:</div><div><ul style="text-align: left;"><li><a href="https://github.com/darrellwolfe" rel="nofollow" target="_blank">GitHub</a></li><ul><li>My Repository:&nbsp;<a href="https://github.com/darrellwolfe/toposcreative" rel="nofollow" target="_blank">https://github.com/darrellwolfe/toposcreative</a></li><li>SQL Quick Reference notes</li></ul><li><a href="https://trello.com/w/darrellwolfesworkspace" rel="nofollow" target="_blank">Trello</a></li><li><a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank">SQL Server&nbsp;</a></li><ul><li>Express: SQL Server 2022 Express is a free edition of SQL Server, ideal for development and production for desktop, web, and small server applications.</li></ul><li></li><li><a href="https://visualstudio.microsoft.com/downloads/" rel="nofollow" target="_blank">Visual Studio 2022</a></li><li><a href="https://powerbi.microsoft.com/en-us/downloads/" rel="nofollow" target="_blank">Power BI</a></li><li>Tableau &amp;&nbsp;<a href="https://www.tableau.com/products/public" rel="nofollow" target="_blank">Tableau Public</a></li><li>TBC...</li></ul></div><div><br /></div><div><br /></div><div>
+<span style="font-family: &quot;tempus sans itc&quot;;">Shalom&nbsp;<span face="sans-serif" style="background-color: white; color: #202122; font-size: 14px;">שָׁלוֹם</span>: Live Long and Prosper!</span><br />
+<div class="MsoNormal">
+<span style="font-family: &quot;tempus sans itc&quot;; font-size: 18pt;">Darrell Wolfe</span></div>
+
+Storyteller | Writer | Thinker | Consultant | Freelancer
+<div><br /></div></div></div>

@@ -1,0 +1,21 @@
+---
+title: 'Hello.... Welcome'
+date: '2016-05-25T06:52:00.0010000+00:00'
+draft: true
+blogger_blog: 'Darrell Wolfe, Storyteller'
+blogger_status: 'LIVE'
+blogger_post_id: '1943593022345661413'
+blogger_filename: '/2016/05/hello-welcome.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
+categories:
+  - 'News & Updates'
+  - 'Fiction'
+  - 'NonFiction'
+  - 'Other'
+---
+
+I'm setting up this site to be a single HUB for all of my various creations. I'd rather not hand out a different business card to each person, as the topic of interest changes and I happen to have written about it.<br />
+<br />
+Since I'm a Multipontialite, I figured it fits to have a single hub. If it works for <a href="http://www.sethgodin.com/sg/" target="_blank">Seth Godin</a>, it works for me!<br />
+<br />
+Thanks for stopping by, Darrell

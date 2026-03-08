@@ -1,0 +1,47 @@
+---
+title: 'About'
+date: '2012-05-02T04:22:00.0000000+00:00'
+draft: true
+blogger_type: 'PAGE'
+blogger_blog: 'Tech Knowledge Storage'
+blogger_status: 'LIVE'
+blogger_page_id: '535743313104258535'
+blogger_filename: '/p/about.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Tech Knowledge Storage/feed.atom'
+---
+
+<br />
+<span style="text-align: center;"><b>To Contact:&nbsp;</b></span><br />
+<span style="background-color: white; font-family: 'Times New Roman', Times, FreeSerif, serif; line-height: 24px; text-align: center;"><br /></span><br />
+<span style="background-color: white; font-family: 'Times New Roman', Times, FreeSerif, serif; line-height: 24px; text-align: center;"><b>Author</b>:&nbsp;Darrell G. Wolfe</span><br />
+<span style="background-color: white; font-family: 'Times New Roman', Times, FreeSerif, serif; line-height: 24px; text-align: center;"><b>Address</b>: PO Box 1001&nbsp;Newark, TX 76071</span><br />
+<span style="background-color: white; font-family: 'Times New Roman', Times, FreeSerif, serif; line-height: 24px; text-align: center;"><b>Phone</b>:&nbsp;</span><span class="gc-cs-link" id="gc-number-0" style="background-color: white; font-family: 'Times New Roman', Times, FreeSerif, serif; line-height: 24px; text-align: center;" title="Call with Google Voice">(903) 345-5965</span><br />
+<span style="background-color: white; font-family: 'Times New Roman', Times, FreeSerif, serif; line-height: 24px; text-align: center;"><b>Email</b>:</span><span style="background-color: white; font-family: 'Times New Roman', Times, FreeSerif, serif; line-height: 24px; text-align: center;">N2GS@Live.Com</span><br />
+<br />
+<b>See also:</b><br />
+Article on:&nbsp;<a href="http://n2gs.blogspot.com/2012/03/what-i-believe.html" target="_blank">"What I believe"</a><br />
+<br />
+For other sites by Wolfe Family Conceptions:&nbsp;<a href="http://wfconcepts.wordpress.com/">http://wfconcepts.wordpress.com/</a><br />
+<br />
+<div style="text-align: left;">
+<b>About "Blogging by N2 Good Success":</b></div>
+<div style="text-align: left;">
+<b><br /></b></div>
+<div style="text-align: left;">
+N2 Good Success is about providing the tools for successful Christian living. Blogging by N2GS is to help you create your own blog. Many people have asked me questions about blogging. I've helped a few people create their blogs. I wanted to take a few things I've learned to do well and pass that knowledge onto others. There are MANY websites that help people create blogs. But those websites are complicated, often full of technical jargon, and primarily there to make money off of ads.&nbsp;</div>
+<div style="text-align: left;">
+<br /></div>
+<div style="text-align: left;">
+My primary purpose in creating this blog is to help you. I believe everyone has a Topos ( strategic position of opportunity and influence ). If you feel&nbsp;writing&nbsp;and the web are part of your calling and ministry to the world &nbsp;this website is designed to help you get there. My hope is that I'll be able to keep it simple and get any average person, with a basic understanding of using a computer, onto&nbsp;their&nbsp;blog quickly and painlessly. As part of my calling in life I take complicated things and make them simple, therefore if I have to get technical I'll try to simplify it.</div>
+<div style="text-align: left;">
+<br /></div>
+<div style="text-align: left;">
+Right off the bat, I'll tell you that for someone with very little technical knowledge the BEST tool to use is "<a href="http://www.blogger.com/" target="_blank">Blogger</a>". It's the most user friendly tool, almost as easy as using email. If you can email you can use blogger. Knowing technical stuff can make it look cooler and add more functionality, but it's not&nbsp;necessary&nbsp;with <a href="http://www.blogger.com/" target="_blank">Blogger</a>.&nbsp;</div>
+<div style="text-align: left;">
+<br /></div>
+<div style="text-align: left;">
+Thank you for taking time to see my site. If you want to see my other sites just go to:&nbsp;<a href="http://wfconcepts.wordpress.com/">http://wfconcepts.wordpress.com/</a></div>
+<div style="text-align: left;">
+<br /></div>
+<div style="text-align: left;">
+<i>I call you Empowered To Prosper, Into Good Success,</i> Darrell G. Wolfe</div>

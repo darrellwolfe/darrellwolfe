@@ -1,0 +1,14 @@
+---
+title: 'Raindrop Dance'
+date: '2017-06-09T04:04:00.0010000+00:00'
+draft: true
+blogger_blog: 'Darrell Wolfe, Storyteller'
+blogger_status: 'LIVE'
+blogger_post_id: '5853478347499271178'
+blogger_filename: '/2017/06/raindrop-dance.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
+categories:
+  - 'write'
+---
+
+<p dir="ltr">Raindrops dance all over my brain. A million tiny electrical signals buzzing just under my skull. A warm buzzing lays on my brain like a blanket after a cold winter awakening.</p>

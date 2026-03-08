@@ -1,0 +1,12 @@
+---
+title: 'Good night...'
+date: '2014-08-23T05:34:00.0010000+00:00'
+draft: true
+blogger_blog: '(My Journal) Fed By Faith'
+blogger_status: 'LIVE'
+blogger_post_id: '1202817763313254034'
+blogger_filename: '/2014/08/good-night.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/(My Journal) Fed By Faith/feed.atom'
+---
+
+<p dir=ltr>This is me typing a journal entry into my tablet.</p>

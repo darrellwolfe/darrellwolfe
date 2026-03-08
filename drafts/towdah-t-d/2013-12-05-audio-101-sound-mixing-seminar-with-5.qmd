@@ -1,0 +1,293 @@
+---
+title: 'Audio 101 Sound Mixing Seminar with Buford Jones, Day TWO'
+date: '2013-12-05T21:29:00.0000000+00:00'
+draft: true
+blogger_blog: 'Towdah: tō·dä'''
+blogger_status: 'LIVE'
+blogger_post_id: '8767544806489334769'
+blogger_filename: '/2013/12/audio-101-sound-mixing-seminar-with_5.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Towdah_ tō·dä_/feed.atom'
+categories:
+  - 'Expert Advice'
+  - 'Audio 101'
+---
+
+<h4>
+<div style="text-align: center;">
+Audio 101</div>
+<div style="text-align: center;">
+Class Notes</div>
+<div style="text-align: center;">
+<br /></div>
+<div style="text-align: center;">
+Sound Mixing Seminar Notes</div>
+<div style="text-align: center;">
+with&nbsp;<a href="http://www.meyersound.com/about/people/buford_jones/" target="_blank">Buford Jones</a><br />
+Day TWO</div>
+</h4>
+An Audio Mixer defined: "The Artist bakes the cake and the Audio Mixer serves the cake."<br />
+<br />
+Day two was more practice than talk. We spent several hours taking prerecorded drums from Protools and playing them back through the board separated by channel. I personally used the <a href="http://www.independentrecording.net/irn/resources/freqchart/main_display.htm" target="_blank">Interactive Frequency Chart</a> to play with accenting key frequencies within different drum parts. I went more dramatic than I would probably go in a real setting, but it was fun to play with for effect and learning.<br />
+<br />
+<a href="http://marcusfinnie.com/marcusfinnie/MarcusFinnie.html" target="_blank">Marcus Finnie</a> was the drummer who played for our recording. He was awesome!<br />
+<br />
+<h4>
+<b>!!! NOTE about EQ !!!&nbsp;</b></h4>
+<b>The less EQ the better in most instances. </b>If you have the right mic, in the right mic placement first, you won't need to do as much EQ. Every time you mess with EQ the sound will be colored, becoming less what it naturally is. In some cases you need this, in some cases you may even want to do this creatively, but as a general rule of thumb, the less EQ the better.<br />
+<br />
+There are, however, instances where EQ is serving to:<br />
+<ol>
+<li>Solve problems in the room, (Phase Shift, Cancellations, Combining, and Standing Wave issues, and other things.)&nbsp;</li>
+<li>Remove things that are NOT natural to the instrument. For example, much of the lowest end of the audible range, 50 Hz and below is really noise created by things that are not musical. You could easily, in most instances, bypass the 50 Hz and above on all channels and not loose anything in the performance or sound, and quite possible gain clarity for those sounds that ARE musical living close to this lowest range. </li>
+</ol>
+The following are generic principles, guidelines. They are not hard and fast rules. You may find that your style of music or creativity demand that you break these rules and go another direction. That's awesome! These are just meant to help guide if you don't know where to start with certain things, or provide insight or ideas to spur your creativity.&nbsp; <br />
+<br />
+<h4>
+<b>DRUMS:</b></h4>
+<b>Kick Drum:&nbsp;</b><br />
+If you are using two mics, one in and one out, the inner mic is the more important one. The out mic could be used to pick up nothing but the 50-80-100 Hz band just to add some whompf to the kick.<br />
+<br />
+No need to gate the kick. Just use a Blanket/Pillow/Muffle barely touching the front and read heads. This will subdue any ring and make gating unnecessary. Often an SM91/SM92 would be a good fit for the Kick mic. If your drum has no back head, or has no hole in the back head play with mic placement until you get the sound you want. When mixed with the band it should be fine.<br />
+<br />
+<b>Tambourine:</b><br />
+The Tambourine serves as an accent to the snare in many modern performances. If you stereo adjust these through panning and level together you will find that the Tambourine does for the snare what the bass does for the kick, it lets it live a bit more and sustains that sound a moment longer.<br />
+<br />
+<b>Bottom Snare Mic:</b><br />
+Like the tambourine, the bottom snare mic is best used, usually, as an accent to the snare sound. You could hi pass all way up to the high end range 1kHz and above, maybe even 6-7 kHz and above-but listen by ear, so that all it's doing is picking up the rattle of the snare on the head. <br />
+<br />
+<b>Inner Snare Mic:</b><br />
+A rare, but really intriguing option, is a THIRD snare mic INSIDE the snare. This can only be achieved by using a microphone small enough to fit inside the air hole, maybe a countryman lapel/headset mic. Using rubber bands you could suspend the Countryman inside the snare smack center of the drum, center of the heads, and center between the heads, perfect center.<br />
+<br />
+You would typically NOT have this mic on at all times. You would simply have this as an optional third snare channel and you would turn it up on SLOW/LOW ballads where a cross stick is being used and the snare is barely being tapped. It provides a new, interesting, sound that the top and bottom mic don't quite provide.<br />
+<br />
+Get that slider turned down instantly if the drummer picks up volume thought, because you could easily overpower the snare sound with this approach. Could be fun to play with though!<br />
+<br />
+<b>Snare:</b><br />
+Ring in the snare MAY be wanted by certain musicians or certain musical styles. However in most modern music the ring is unwanted. Several "tricks" are used to tone down or eliminate this ring WITHOUT having to resort to EQ, losing some of the natural sound. They are:<br />
+<ul>
+<li>A little Duck Tape on the top head to the on two or four of the sides, but in places that you would not strike the drum.</li>
+<li>Old Drum Head cut into a thin circle and simply laid over the top head.</li>
+<li>A few Cotton Balls inside the snare drum.</li>
+<li>A Thicker weight bottom head so that they (top/bottom) don't resonate at the same frequency.&nbsp; </li>
+<li>There may be other things to try as well. </li>
+</ul>
+<br />
+<b>Toms:</b><br />
+There is usually no need to PUSH the toms volume up during a series of rolls despite the fact that most Audio Mixers feel the urge to do so.&nbsp; If you have a good drummer he's going to be using dynamics of his own to create the feel he wants with these rolls and you could be altering his dynamics.<br />
+<br />
+Buford used the SM98 Small Condenser on the Hi Toms, and KSM28 wide diaphragm on the low tom(s) for the drum recording we used to practice on.<br />
+<br />
+<b>Hi Hat and Ride:</b><br />
+Hi Hat and Ride are both Rhythym pieces and should be present in the mix. If you are going to go to the trouble of micing the individual toms and snare, you should be micing the hi hat and ride individually too.<br />
+<b>Hi Hat </b>- can be mic'd with one or two mics, like the snare. Some ways you could set this up would be:<br />
+<ul>
+<li>Aim the top mic over the hi hat from above, angled down at 45 or 90 degree angle pointed toward the center or center edge of the Hi Hat.</li>
+<li>Aim the mic directly at the Hi Hat, parallel to the cymbal, but slightly above the cymbal plane, so as not to catch the wind gusts from the cymbal as it closes.</li>
+<li>Aim the bottom mic up at an angle 45-90 degrees</li>
+<li>Aim the Bottom mic straight up, 180 degrees to the cymbal.</li>
+</ul>
+Any of these options, or other arrangements could be interesting.<br />
+<br />
+<b>Ride -</b> this is often done best with a condenser mic, like an <a href="http://www.shure.com/americas/products/microphones/sm/sm81-instrument-microphone" target="_blank">SM81</a>. The idea is to pick up on the loud and soft hits as this often establishes the grove of a particular song. <br />
+<br />
+<br />
+<b>Overheads VS Cymbal Mics:</b><br />
+There are two different approaches used in micing the top end of the drum. One may serve you better than the other, or a combination of both can be useful. But there is a difference.<br />
+<br />
+<b>Overhead Mics:</b><br />
+These are meant to pick up the WHOLE kit, not just the cymbals. Either one or more mics can be placed several feet above the drum kit. They are intended to pick up the entire kit.<br />
+<ul>
+<li>Use 1: as a <b>Supplement</b>. </li>
+<ul>
+<li>The individual mics are used to get the sound you want from each piece, but then the overheads are brought in to "fill out" the sound of the kit, picking up on subtleties and how the kit pieces play off of each other. </li>
+</ul>
+<li>Use 2: as <b>Primary</b></li>
+<ul>
+<li>The over head is actually the primary mic, taking in the WHOLE kit, and then piece mics are added in to fill out the sound from the overhead. This is another great way to use an overhead.&nbsp;</li>
+</ul>
+</ul>
+<b>Cymbal Mics:</b><br />
+These are meant to be piece mics. Each mic would be aimed as a specific cymbal, not the cymbals are a whole. If you have three crashes, on hi hat, and one ride, each would have it's own mic and be hi passed way up the scale to block out non-cymbal sounds.<br />
+<br />
+This provides a crystal clear representation of the cymbal sound you are looking for to complete the pitches that give a true representation of the drum kit.<br />
+<br />
+In our recording example in class, Buford used a KS32 very close to the cymbal and hi passed it really high up the scale.&nbsp; <br />
+<br />
+<b>Drums Overall:</b><br />
+Just as three notes make a chord drums 
+are a sonic mixture. Lows, Mids, and Highs are presented by the various 
+components of the drum. Kick, Toms hi to low, Cymbals, Snare Drum, Snare
+ Rattle... they all make up the overall sound.<br />
+<br />
+Therefore, 
+if you drive the Kick and Snare to establish rhythm but fail to bring in
+ the Hi-Hat and/or Ride you are MISSING important pieces of the overall 
+drum sound. Many times we allow the cymbals, even the important rhythm 
+of Hi Hat and Ride, to be missing, lower, or buried by the other parts. 
+This does a disservice to the sound of the kit. <br />
+<br />
+Make sure to give proper attention to the high end pieces, especially the rhythm establishing Hi Hat and Ride. <br />
+<br />
+The
+ kick should not be louder than the snare, hi hat, or ride. They need to
+ balance t produce the right sound. This is a pitch based instrument. 
+Having the kick turned louder than the rest is like having one key on 
+the piano, or one string on a guitar set to be louder than the rest, 
+this isn't proper and ultimately does a disservice to the sound of the 
+kit. <br />
+<h4>
+<b>Hybrid Approach:</b></h4>
+In a pinch, or due to budget concerns, you could mix and match these techniques to achieve what you want. In fact, some recording artists, especially when they want an old rock sound, like old Beatles music, could use ONE mic for the whole drum kit, and simply EQ adjust for the sound they want. So there are no hard and fast rules, but the most tools you have to work with the more selective you can be on any given song, especially if you are doing things live. <br />
+<br />
+<br />
+<b>Drum Kit Accent Points</b><br />
+From the <a href="http://www.independentrecording.net/irn/resources/freqchart/main_display.htm" target="_blank">Interactive Frequency Chart</a> I figured these are the key points to play with when tuning EQ for Drums.<br />
+<ul>
+<li>Kick</li>
+<ul>
+<li>Punch - 50-100 Hz</li>
+<li>Fullness - 100-250 Hz</li>
+<li>Attack - 3 kHz -5 kHz </li>
+</ul>
+<li>Snare</li>
+<ul>
+<li>Ringing (Typically Unwanted)&nbsp; ~~ 900 Hz&nbsp;</li>
+<li>Fullness - 120-240 Hz</li>
+<li>Attack - 2.5 kHz - 5 kHz</li>
+<li>&nbsp;Snap - ~~ &gt; 10 kHz </li>
+</ul>
+<li>Floor Toms</li>
+<ul>
+<li>Fullness - 80-120 Hz</li>
+<li>Attack - ~5 kHz </li>
+</ul>
+<li>Rack Toms</li>
+<ul>
+<li>Fullness - 240 - 400 Hz</li>
+<li>Attack - 5 kHz -7 kHz </li>
+</ul>
+<li>Cymbals of any kind</li>
+<ul>
+<li>Clang - 200 Hz</li>
+<li>Presence - 3 kHz</li>
+<li>Shimmer - ~~ &gt; 12 kHz</li>
+</ul>
+<li>Gate Toms just enough to kill the ring, caused by vibration of the toms due to movement from the other kit pieces. Barely enough is better than too much with the gate. It's better to let some bleed through than not have the gate open with a soft hit/roll.&nbsp;</li>
+<li>Gate with Snare and Kick could be done, but it's probably better to deal with bleed or ring through mic positioning and other tricks, as noted above. Gate on Snare and Kick will often cause an unnatural sound and your often just better off without it, unless you are dealing with a more than average bleed/ring issue. </li>
+</ul>
+<h4>
+Side Notes:</h4>
+(Research: what is an <a href="https://play.google.com/store/search?q=Oscilloscope&amp;c=apps&amp;price=1&amp;hl=en" target="_blank">Oscilloscope?)</a><br />
+<br />
+(Side Note: Buford has been using <a href="http://www.apple.com/logic-pro/" target="_blank">Logic </a>more than <a href="http://www.avid.com/US/products/family/pro-tools" target="_blank">Pro Tools</a>. Research the difference.) <br />
+<br />
+(Research: <a href="http://www.avid.com/US/resources/Euphonix-Orientation" target="_blank">Euphonix Controller</a>)<br />
+<br />
+<h4>
+<b>Mixing in Surround:</b></h4>
+&nbsp;Mixing in Surround was one of Buford's favorite things to do. There were multiple ways to set up the system, but typically you still rely on your front Left and Right speaker arrays and subs (either L/R or In Line Array) as your main point of reference for the sound. <br />
+<br />
+From here there have been several arrangements he's used. <br />
+<ul>
+<li>Quad Setup</li>
+<ul>
+<li>Add a Rear Right and Rear Left.&nbsp;</li>
+</ul>
+<li>Typical 5.1 Setup</li>
+<ul>
+<li>Right (Front and Rear)</li>
+<li>Left (Front and Rear) </li>
+<li>Mono Center Front</li>
+</ul>
+<li>Floyd.1 (Used on the <a href="http://en.wikipedia.org/wiki/A_Momentary_Lapse_of_Reason_Tour" target="_blank">Momentary Lapse of Reason Tour</a>)</li>
+<ul>
+<li>Right and Left Front Mains</li>
+<li>Mono Center Front Main</li>
+<li>One Rear Center</li>
+<li>&nbsp;Far Right and Far Left&nbsp;</li>
+</ul>
+</ul>
+In any Surround system you wouldn't use the extra speakers at ALL times. You use these to accent. You still have primary sound coming from the front mains. You will create sizzle or excitement by adding in extras through this side/rear speakers. You add some echo or delay, sound effects, special solos, etc. Add as it fits. These speakers are not used to represent all sound at all times. In fact, there will be moments that no sound it coming from these extra sound sources.<br />
+<br />
+Some uses:<br />
+<ul>
+<li>echo, delay, reverb, or other effects </li>
+<li>the sound of an airplane rotating through the audience around, panning with a joystick through each speaker, fading into one and out of the other. This gives the feeling of an airplane flying around the auditorium.</li>
+<li>Same rotating done with a Sax Solo holding a long note, can be a very cool effect.&nbsp;</li>
+</ul>
+<br />
+<h4>
+<b>Stereo Mixing</b></h4>
+Stereo Mixing still involves just the Front Left and Right mains, but uses creative Panning to make room for the various sounds to live and breath.<br />
+<br />
+Pan: Pan can be used HEAVILY to create a stereo image of the sound present. If all the sounds are equal in Right and Left main the frequencies will compete and step on each other. You'll always be feeling like something is missing or too loud.<br />
+<br />
+Stereo Mixing creates a place for each thing to live. As a general rule, but just a guideline, start by panning visually. If something if on your right, pan it to the right some. Very few things should live in the center, but very few things need to live HARD right/left either. You are moving things off to one side or another. Visually/Image perception will be that if a person is playing on the far right of the stage, the sound will be coming from 60-80% more from that side.<br />
+<br />
+Mixing by Color is another way to view things. Imagine there are colors, maybe even use colored markers to write in the name of each instrument channel. Back Ground Vocals(BGVs) (all of them) in one color, Lead Vocals in another color, drum kit in a color, Electric Guitars in a color, Accoustic Guitars and Steal Guitars (if playing country) in a color, Organ would be it's own color (because it has a distinctly different sound from Piano/Keys which would get their own color.<br />
+<br />
+You then mix by color. Make sure that each color is represented and heard. If something is missing... check your colors. Is there not enough yellow, blue... etc. It's a neat visualization, especially when dealing with large bands and complex music.<br />
+<br />
+<br />
+<h4>
+Example of Stereo Mixing:</h4>
+Imagine you have: Acoustic Guitar, 2 Electric Guitars, Piano, Keys, Organ, Strings (Violin/Cello Etc), Drum Kit, Percussion Kit, Steal Guitar. Also you have Background Vocals, Choir, and One Lead Vocal. <br />
+<ul>
+<li>Input Channel the Bass Guitar as channel one, Kick as channel two. They ought to live and work together, but each have their own space.&nbsp;</li>
+<ul>
+<li>Hi Pass the Bass maybe to 50 Hz and the Kick to 70-80 Hz. Or Visa Versa. This allows one to live where the other is not?&nbsp; </li>
+</ul>
+<li>Bass, Kick, Snare and Lead are Pan Center.</li>
+<li>Hi Hat and Acoustic Guitar are both High Frequency Percussive Instruments.&nbsp;</li>
+<ul>
+<li>Hi Hat maybe off to one side just off center</li>
+<li>Acoustic Guitar off to the other side just off center. </li>
+<li>In this way they carve out their own living space in the Stereo Field.</li>
+</ul>
+<li>Steal Guitar with tucked up under the Acoustic Guitar. </li>
+<li>You might pan Electric One and Electric Two just off to one side opposite eachother. Maybe E1 a little left and E2 a little right, in this way they almost feel as though they bounce off of eachother, rather than compete for the same sonic space.  </li>
+<li>Organs and Strings have a very complimentary feel.&nbsp;</li>
+<ul>
+<li>You might place the String Section panned across one side</li>
+<li>Then place Piano and Keys and Organ panned out over the other side</li>
+</ul>
+<li>Hi Pass vocals maybe as high as 120-500 Hz depending on the vocalist. Get rid of noise that isn't musical or natural to that voice. If you can hi pass monitor mixes for vocals seperate from front of house, you may choose to hi pass MUCH higher on vocals in the monitor because the monitor is more about "Pitch" than tonal quality and they will hear pitch much better without low end clutter interfering.&nbsp;</li>
+<li>&nbsp;Ride the Vocals. Keep bringing in and out the BGV's to support the Lead. Often you don't need to turn up the lead if you simply duck down the BGV's.&nbsp;</li>
+<li>Ride the Lead too. Pull the lead in and out of the total mix, and in and out of the BGV mix depending on the feel and effect of the song.&nbsp; </li>
+</ul>
+<h4>
+&nbsp;Volume/SPL </h4>
+<ul>
+<li>This principle of bringing things down to highlight other things would apply to overall system levels as well. Attempt to leave head room. Not only head room in your board so that it's not clipping, but head room in your SPL dBu using a DB meter. If you are starting things at 90 SPL dBu than you only have until your cut off, decided by your leadership, usually 104 SPL dBu in Church settings. Start things with a lower range, maybe 70 SPL dBu. Give yourself room for dynamics and build.&nbsp;</li>
+<ul>
+<li>Buford's Example: One Venue the powers that be required they keep the rock show to some bizzare low number, like 78 SPL dBu.&nbsp;</li>
+<ul>
+<li>He made changes to cut down stage volume because it was throwing down more than 78 SPL by itself without help from the board.&nbsp;</li>
+<li>Once that was complete he worked all the input gains and system levels to bring the overall SPL down.&nbsp;</li>
+<li>He eventually did get things very close to their requirements. He said it felt awful at first to him, having listened at louder levels. But the audience gave more positive feedback during that show than any other before or after that tour. They were able to actually hear finer details that would have been drowned out at higher SPL. </li>
+<li>This is not to say you can't get loud, it's to say that when you do it should be something you build to and something you do on purpose for dynamic, not a place you live from beginning to end. </li>
+<li>Here are some facts about dB Meter Scales: <a href="http://en.wikipedia.org/wiki/A-weighting" target="_blank">Click Here</a></li>
+<li>Here are some great resources to learn about protecting your ears.</li>
+<ul>
+<li><a href="http://www.hearnet.com/" target="_blank">http://www.hearnet.com/</a></li>
+<li><a href="http://www.betterhearing.org/" target="_blank">http://www.betterhearing.org/</a></li>
+<li><a href="http://www.hei.org/" target="_blank">http://www.hei.org/</a></li>
+</ul>
+</ul>
+</ul>
+</ul>
+<h4>
+Advice to those starting in Music/Sound Mixing</h4>
+<ul>
+<li>Use FLAT frequency response in your system tuning.</li>
+<li>Work WITH your artist regularly!</li>
+<li>Remain calm during crises</li>
+<li>Stay Positive</li>
+<li>Never Stop Learning</li>
+<li>Protect your ears, and your audience's ears.</li>
+<li>Touring is by nature: Moments of intense stimulation and reward, surrounded by hours and hours of preparation and tedious work. </li>
+<li>Pursue Your Dreams!</li>
+</ul>
+<br />
+Darrell G. Wolfe<br />
+Towdah!

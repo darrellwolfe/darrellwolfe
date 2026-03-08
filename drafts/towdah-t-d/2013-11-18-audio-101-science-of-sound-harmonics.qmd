@@ -1,0 +1,251 @@
+---
+title: 'Audio 101 The Science of Sound; Harmonics and Waves'
+date: '2013-11-18T04:00:00.0010000+00:00'
+draft: true
+blogger_blog: 'Towdah: tÅÂ·dÃ¤'''
+blogger_status: 'LIVE'
+blogger_post_id: '5233714144560574581'
+blogger_filename: '/2013/11/audio-101-science-of-sound-harmonics.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Towdah_ tÅÂ·dÃ¤_/feed.atom'
+categories:
+  - 'Audio 101'
+---
+
+<h4>
+<div style="text-align: center;">
+<br />
+Audio 101 Class Notes&nbsp;</div>
+<div style="text-align: center;">
+Science of Sound&nbsp;</div>
+<div style="text-align: center;">
+Harmonics and Other Wave Forms</div>
+</h4>
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;"><a href="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Moodswingerscale.svg/250px-Moodswingerscale.svg.png" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" src="http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Moodswingerscale.svg/250px-Moodswingerscale.svg.png" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">Wiki</td></tr>
+</tbody></table>
+<br />
+<h4>
+Harmonics</h4>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right; margin-left: 1em; text-align: right;"><tbody>
+<tr><td style="text-align: center;"><a href="http://www.independentrecording.net/irn/resources/freqchart/images/main_chart.jpg" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="320" src="http://www.independentrecording.net/irn/resources/freqchart/images/main_chart.jpg" width="289" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">http://www.independentrecording.net</td></tr>
+</tbody></table>
+As a musician and general computer and science geek, I really geeked-out on this information, so forgive me if I think this is the coolest! Musicians should know some things about how keys work. Certain notes, represented by letters A-F, make up music. Middle C is in the middle of a Piano. But there are others "C" notes that are higher or lower in pitch than Middle C. You can continue to hit "C" notes over and over up and down until they are too high or low for human hearing. Many musician also know that there is math behind music. This math comes into play as an Audio Engineer in a BIG way. What's REALLY happening?<br />
+<br />
+Audio Signals are calculated using the <a href="http://en.wikipedia.org/wiki/Hertz" target="_blank">Hertz </a>Standard. When a wave form completes one cycle (<u>one compression <i>(air particles tighter together than normal)</i> and decompression (<i>air&nbsp;particles further apart than normal</i>) and returns to it's starting place</u>), this is known as ONE Hertz, or 1 Hz.<br />
+<br />
+Human hearing is generally considered to be from about 20 Hertz to 20,000 Hertz, otherwise notated as 20 Hz to 20 kHz.<br />
+<br />
+In the Audio world the "<a href="http://en.wikipedia.org/wiki/Piano_key_frequencies" target="_blank">A</a>" note just above the Middle C on a piano is known as <a href="http://en.wikipedia.org/wiki/A440_(pitch_standard)" target="_blank">A440, or 440Hz</a>.&nbsp;(<a href="http://en.wikipedia.org/wiki/Piano_key_frequencies" target="_blank">Click Here </a>for details). Now this is where my years of music came crashing into clarity. On an 88 key piano this A above Middle C is A4, and it is 440 Hz, also known as A440 by piano tuners. The A above A440, the next A up the keyboard is A5 or... A880. &nbsp;A5 is exactly double the frequency of A4. In other words there are twice as many cycles per second hitting you at A5 than A4. Following then A6, the next A up from A5 and two up from A4, is A1760 (880*2).<br />
+<br />
+So besides just being cool, why does this matter? Well, when many instruments are struck, like a guitar string for example, the "Fundamental" note struck, A440, is not the only sound being heard. The vibrations of that string are producing lots of 440, some of 880, a little 1760, etc. A note might sound fuller or emptier based on how many of these are present or missing. If you have EQ'd the higher octaves out of the sound the guitar might be sounding too thin. <br />
+<br />
+That's not all that is happening. You can also add the fundamental to itself over and over. So take A2 which is A110 and add another 110 to that. You get 220 Hz, which happens to be A3. We already know that A4 is 440Hz. But what if you add 110 to 220? You get 330Hz. Which is (mathmatically rounded) E4. E is the fifth in an <a href="http://chord-c.com/guitar-chord/A/major/" target="_blank">A-Chord</a>. The third is C#, which as it turns out, after you add 110 to 330 to get A440, then add 110 again to 440 you get 550 Hz which is C#!<br />
+<br />
+So as you play an A Chord you are playing sound waves that have very clear mathematical-physics-audio-wave relationships! People didn't JUST create music that sounded good, or stumble upon some ways to make sense of why certain sounds worked well together. There is very clear scientific-physics-math relationships going on that makes those relationships work.<br />
+<br />
+A real trip is <a href="http://en.wikipedia.org/wiki/Missing_fundamental" target="_blank">Phantom Fundamentals</a>. These are when you are playing all the harmonics of a note but not the actual note itself. You ear knows what this means and will actually fill in the missing information. So you can go into a computer, produce many of the harmonics of a note but not the note itself and you will actually feel as though you are hearing that note! This is interesting from an EQ standpoint. You might need to cut out something that is causing trouble and you might be killing the fundamental note, but your ear will still hear it because of the harmonics you left in place. Very interesting.<br />
+<br />
+These various harmonics play out in the frequencies we find ourselves working with. If we have phase canceling out certain portions of the audio realm we may find a production sounding too thing, heavy, thick, muddy, boomy, harsh, etc... and all of this may root back to some understanding of how these things are interacting in the harmonic nature of music. It's not the only factor, but it's A factor, and an interesting one. Forgive me for taking a little rabbit trail here with this side note.<br />
+<blockquote class="tr_bq">
+<i>Side Note:<br />I find that exciting because it shows, yet again, scientifically that there HAS to be an intelligent creator behind the universe, because there is NO SUCH THING as design without a designer! What a cool thing to study Audio Frequencies and find God hiding there!<br />If Satan was a musician, and many scholars believe he was, do you think he understands this better than we do, and how certain combinations of sound-pressure-waves can impact our body, mind, heart, spirit, etc in ways that we don't yet fully comprehend? Why does certain music make you feel happy or sad or angry or nervous or hopeful? Have you ever tried listening to a profound movie moment without the music? I think there is more to be said here, but that's another post. Here's an example of what I mean. (<a href="http://www.youtube.com/watch?v=rn9V0cN4NWs" target="_blank">Click Here</a>).</i></blockquote>
+<i><br /></i>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="/images/imported/img-youtube-com/0-13de58ba4d4f.jpg" height="266" width="320"><param name="movie" value="http://youtube.googleapis.com/v/rn9V0cN4NWs&source=uds" /><param name="bgcolor" value="#FFFFFF" /><param name="allowFullScreen" value="true" /><embed width="320" height="266"  src="http://youtube.googleapis.com/v/rn9V0cN4NWs&source=uds" type="application/x-shockwave-flash" allowfullscreen="true"></embed></object></div>
+<br />
+<h4>
+Waves:</h4>
+There are many types of waves. Sine waves are pure notes being played without other notes compounding them, and without any kind of interference. A <a href="http://www.youtube.com/watch?v=R7D1f6U6TpU" target="_blank">test signal</a> on TV stations just before whether warning might be an example. Since waves could also be comprehended as the sound of a flute. Simple, Distinct, Pure.<br />
+<br />
+<object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="/images/imported/img-youtube-com/0-e256ac88f1d5.jpg" height="266" style="clear: right; float: right;" width="320"><param name="movie" value="http://youtube.googleapis.com/v/-RZ1pLXX55M&source=uds" /><param name="bgcolor" value="#FFFFFF" /><param name="allowFullScreen" value="true" /><embed width="320" height="266"  src="http://youtube.googleapis.com/v/-RZ1pLXX55M&source=uds" type="application/x-shockwave-flash" allowfullscreen="true"></embed></object>However Pure Sine Waves are actually quite rare in the real world, except when produced electronically. Many times a complex wave is actually what we hear most of. Complex waves are many different types of waves, and lots and lots of sine waves, coming together to form new waves in combination. This new combined wave is what we are actually hearing most of the time. When two singers sing a duet and they we hear them together, they are creating a complex wave form.<br />
+<br />
+Some other "types" of waves that are not simple sine waves are often, but not always, electronically produced:<br />
+<br />
+<ul>
+<li>Triangle Waves,&nbsp;</li>
+<li>Square Waves,&nbsp;Square waves are going to sound VERY digital.&nbsp;</li>
+<li>Sawtooth Waves.&nbsp;</li>
+</ul>
+<br />
+(See a science and math explanation <a href="http://www.youtube.com/watch?v=mCs6I8a282M" target="_blank">Click Here</a>) (See and Hear Examples of Sine, Triangle, Square, and Sawtooth waves <a href="http://www.youtube.com/watch?v=-RZ1pLXX55M" target="_blank">Click Here</a>&nbsp;and <a href="http://www.youtube.com/watch?v=YsZKvLnf7wU" target="_blank">Click Here</a>, or see embedded videos)<br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<object class="BLOGGER-youtube-video" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" data-thumbnail-src="/images/imported/img-youtube-com/0-3e9ca83cc75f.jpg" height="266" width="320"><param name="movie" value="http://youtube.googleapis.com/v/YsZKvLnf7wU&source=uds" /><param name="bgcolor" value="#FFFFFF" /><param name="allowFullScreen" value="true" /><embed width="320" height="266"  src="http://youtube.googleapis.com/v/YsZKvLnf7wU&source=uds" type="application/x-shockwave-flash" allowfullscreen="true"></embed></object></div>
+<br />
+<br />
+<h4>
+Math of Sound</h4>
+Sound travels at 768 Miles Per Hour in dry air at 68*F (or 20*C). Other ways of saying this are:<br />
+<br />
+<ul>
+<li>1236 KPH</li>
+<li>1 Mile every 5 Seconds</li>
+<li>343.2 Meters Per Second</li>
+<li><b><span style="font-size: large;">1126 Feet Per Second</span></b></li>
+</ul>
+<br />
+It's this last one we'll deal with in live sound reinforcement, especially indoors, most often. This is because sound waves have very predictable behavior. Complicated, but predictable.<br />
+<br />
+Also sound is pressure. Air Pressure hitting your ears creates sound. If it hits your ears in certain patterns you will recognize that sound. The sound of glass breaking is hard to miss. If you hear a car screech it's tires and you hear the crunch of metal and glass breaking you know there has just been car accident. You know this without even seeing it. You know your significant others voice, (Mom, Dad, Wife, Husband, Kids, Etc).<br />
+<br />
+Sound Pressure waves traveling in a cycle can begin to sound like music. If sound pressure waves hit your ear 440 complete cycles per second (440Hz) you have just heard A4!<br />
+<br />
+With this understanding we can begin to calculate the distance of a single cycle of a single wave. This is useful when understanding how difference sized wave cycles will interact with the room you are engineering.<br />
+<br />
+<a href="http://www.meyersound.com/sound_solutions/?m_id=4800#4800" target="_blank">Myers Sound</a>, among others, have developed software that will allow you to enter the exact dimensions of a room, which exact loudspeakers you will be using, (<i>which gives you their dispersion patterns</i>), and their placement and then you can see how the sound will function in that room before you ever buy a single piece of equipment, before you even build the building!<br />
+<br />
+Sound Pressure Waves travel at 1126 feet/second. The symbol used for a sound wave is the Greek "Lambda" symbol which is"Î»". The speed of the wave is represented by a "v"<br />
+<br />
+The formula for calculating the wave distance, <a href="http://en.wikipedia.org/wiki/Wavelength" target="_blank">Wavelength</a>, is:<br />
+<br />
+Wave (Î») = Speed (v) of wave in feet (Feet per second) divided by the number of feet (f).<br />
+<div style="text-align: center;">
+&nbsp;Î» = v/f</div>
+<br />
+<div style="text-align: center;">
+<img alt="\lambda = \frac{v}{f}" class="tex" src="/images/imported/upload-wikimedia-org/0152a6d4d6bd46b7471954f72a74efa3-583bd78117bc.png" style="background-color: white; border: none; font-family: sans-serif; font-size: 13px; line-height: 19.1875px; vertical-align: middle;" /><span style="background-color: white; font-family: sans-serif; font-size: 13px; line-height: 19.1875px;">,</span></div>
+<div style="text-align: left;">
+<br /></div>
+<div style="text-align: left;">
+So if you know the frequency (Î») and you know the Speed (v) you can always find out how long the wave is. For example: A4 is 440Hz.= (Î»). Sound travels at 1126 f/s = (v).<br />
+<br />
+Therefore:<br />
+<blockquote class="tr_bq">
+<div style="text-align: center;">
+440 = 1126 / f &nbsp; which turns into&nbsp;</div>
+<div style="text-align: center;">
+1126/440 = f &nbsp; which turns into&nbsp;</div>
+<div style="text-align: center;">
+2.56 feet.<span style="text-align: left;">&nbsp;</span></div>
+</blockquote>
+<blockquote class="tr_bq">
+<div style="text-align: center;">
+A single cycle of a 440 Hz sound wave is 2.56 feet long</div>
+</blockquote>
+<br />
+I've never really understood fractions in algebra. I enjoy math concepts, but not actually doing it. I'm still working on that. Seems to be a good tutorial on fractions at MathIsFun.Com. Also some GREAT infographics specifically on wavelength at Wikihow. 
+
+<br />
+<br />
+<h4>
+Standing Waves&nbsp;</h4>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right; margin-left: 1em; text-align: right;"><tbody>
+<tr><td style="text-align: center;"><a href="http://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Standingwaves.svg/250px-Standingwaves.svg.png" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;" target="_blank"><img border="0" height="320" src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Standingwaves.svg/250px-Standingwaves.svg.png" width="242" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">wikimedia</td></tr>
+</tbody></table>
+What if I wanted to know the frequency of a room that is most likely to be the same length wave as the room, or some duplicate of that length? Why would I want to know that?<br />
+<br />
+Because if a wave is the same length as the room, or two cycles of that wave is equal to the length of the room or 3 cycles, etc, the wave may back in on itself and create a "Standing Wave". For the science of standing waves see: <a href="http://www.physicsclassroom.com/class/waves/u10l4b.cfm" target="_blank">PhysicsClassroom </a>or <a href="http://en.wikipedia.org/wiki/Standing_wave" target="_blank">Wiki</a>. The concept is that if you have a wave hitting the back wall of a room at exactly the the length of the wave, or some duplicate of it, you will have the wave reflect back in on itself.<br />
+<br />
+This essentially doubles the strength of the wave. But as you send more original sound that direction and more reflections back in on itself they start working into each other in a unique form of <a href="http://en.wikipedia.org/wiki/Interference_(wave_propagation)" target="_blank">constructive interference</a> and the waves do not get any longer, but the <a href="http://en.wikipedia.org/wiki/Amplitude" target="_blank">amplitude </a>gets higher and higher, in other words they get louder!<br />
+<br />
+So you can have parts of a room, or even specific frequencies that actually begin to get louder and louder even though you haven't turned up anything on the board!&nbsp;</div>
+<h4>
+Perception of Sound</h4>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;"><tbody>
+<tr><td style="text-align: center;"><a href="/images/imported/images-medicinenet-com/ear-cutaway-7a151aa4b541.jpg" imageanchor="1" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;" target="_blank"><img border="0" height="161" src="/images/imported/images-medicinenet-com/ear-cutaway-7a151aa4b541.jpg" width="200" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">medicinenet</td></tr>
+</tbody></table>
+The Ear is an amazing tool, created by God, to perceive sound around us. The <a href="http://highered.mcgraw-hill.com/sites/9834092339/student_view0/chapter45/effect_of_sound_waves_on_cochlear_structures.html" target="_blank">Cochlea </a>is the tool inside the inner ear that perceives sound. There is a great deal of <a href="http://www.cochlea.eu/en/cochlea/function" target="_blank">science </a>that has gone into studying the ear both for Sound Reinforcement, because there is a lot of money in it, and for the deaf or partial deaf, because there's a lot of money in that science too.<br />
+<br />
+At birth most humans have a hearing range from approximately 20 Hz to 20 kHz. But we do not hear equally at all frequencies.<br />
+<br />
+The&nbsp;<a href="http://en.wikipedia.org/wiki/Fletcher%E2%80%93Munson_curves" target="_blank">Fletcher Munson</a>&nbsp;curve shows us how human hearing picks up certain frequencies much more easily than other frequencies. So a speaker producing 50Hz and 1.5kHz at the same pressure level will "sound" like different volumes to the human ear. Therefore when a room is tuned this curve must be taken into account. One way of seeing this is&nbsp;<a href="http://en.wikipedia.org/wiki/Colors_of_noise" target="_blank">Pink Noise vs White Noise</a>. &nbsp;Humans hear from approximately 1.5kHz to 4.5 kHz more sensitively than they do other ranges above and below.<br />
+<br />
+Interestingly, sound actually travels 4.5 times faster in water, and 15 times faster in Iron. The Denser a material is the more particles there are to vibrate and interact with their neighbors. You see, much to my surprise, when you CLAP the air does not move from your hand to my ear. What actually happens in air (as in water and iron) is that the air particles compress and decompress causing the air particles around them to compress and decompress until finally they react to the air around your ears and that pressure hits the air in your ear canals and reacts to your ear.<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right; margin-left: 1em; text-align: right;"><tbody>
+<tr><td style="text-align: center;"><a href="/images/imported/mrescience-com/chap-05-010-00190975f41a.jpg" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;" target="_blank"><img border="0" src="/images/imported/mrescience-com/chap-05-010-00190975f41a.jpg" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">mrescience</td></tr>
+</tbody></table>
+<br />
+The best way I know to imagine this, since you cannot see air, is to see this happen in 2D on the surface of water. I challenge you to try this every so often. Go to a sink, bathtub, pond, pool, or all of the above, and drop something into it, or tap it with your finger. You'll see waves in the water. In a container the waves impact the walls and move back in and interact with new original waves and begin partial cancellations until eventually the waves all die down. In an Audio Environment this bouncing sound and interaction with the original source sound is called reflections and reverberations and echo.<br />
+<blockquote class="tr_bq">
+<a href="http://www.physicsclassroom.com/mmedia/waves/er.cfm" target="_blank">www.physicsclassroom.com</a></blockquote>
+<blockquote class="tr_bq">
+A reverberation is perceived when the reflected sound wave reaches your ear in less than 0.1 second after the original sound wave. Since the original sound wave is still held in memory, there is no time delay between the perception of the reflected sound wave and the original sound wave. The two sound waves tend to combine as one very prolonged sound wave. If you have ever sung in the shower (and we know that you have), then you have probably experienced a reverberation. The Pavarotti-like sound which you hear is the result of the reflection of the sounds you create combining with the original sounds. Because the shower walls are typically less than 17 meters away, these reflected sound waves combine with your original sound waves to create a prolonged sound - a reverberation. (see the website link for a more detailed description.)</blockquote>
+<b>Low </b>frequencies will tend:<br />
+<br />
+<ul>
+<li>Be less directional (they are perceived behind the speaker and in front equally)</li>
+<li>Have more energy</li>
+<li>To travel further</li>
+</ul>
+<div>
+<b>Medium </b>Frequencies will tend:</div>
+<div>
+<ul>
+<li>To be more directional</li>
+<li>Have less energy</li>
+<li>Feel very PRESENT (due to the Fletcher Munson curve).&nbsp;</li>
+</ul>
+<div>
+<b>High </b>Frequencies will tend:</div>
+</div>
+<div>
+<ul>
+<li>To be VERY directional (you stand behind the speaker and they disappear)</li>
+<li>Feel very CRISP up close.</li>
+<li>Fall away quickly. At the back of the room you may not hear them but you'll still hear the mids and bass.&nbsp;</li>
+</ul>
+<div>
+The directional nature of Mids and Highs is why you can stand outside of a booming worship service or concert, like I did this morning before going into a rocking church service at Gateway, and all I can hear is the booming of the drums and bass and some undertones of male voices, but nearly nothing else.&nbsp;</div>
+<div>
+<br /></div>
+<div>
+Why can I hear the bass, and a few mid range moments, but not the rest? This is due to this directionality feature of different frequency ranges, and that is due in part to wavelength. Some Sub-Bass frequencies can be 10-15 feet long. The just penetrate right through everything. Some very high frequencies can be mere inches long. &nbsp;</div>
+<div>
+<br /></div>
+<div>
+Well, suddenly I walk past two sets of double doors (inner and outer) and when I walk into the auditorium I am struck by how clear everything sounds now.&nbsp;</div>
+</div>
+<br />
+<h4>
+&nbsp;External Factors</h4>
+Atmospheric Pressure, Humidity (water in air means thicker air), Temperature, Altitude (thiner or thicker air), Wind, and other things can all play a part in altering the color of your sound. Indoors this won't matter as much, but outside on a cold windy humid day in the mountains the same band playing the same song through the same PA and PA Settings could sound different than they would outside in a hot dry desert at sea level. These things all play a factor in how sound travels. Different frequencies have different wave lengths so they will be affected differently by these conditions.<br />
+<br />
+Quiz:<br />
+<br />
+<ol>
+<li>If I play A2 on the piano the fundamental is 110 Hz. List 6 <a href="http://en.wikipedia.org/wiki/Overtone" target="_blank">overtones</a>&nbsp;present in this complex wave.</li>
+<li>If I play the following sine waves simultaneously, what frequency will appear to be the fundamental of the perceived complex wave? In other words, what is the missing fundamental?</li>
+<ol>
+<li>196 Hz, 392 Hz, 784 Hz , 1568&nbsp;Hz&nbsp;, 3136&nbsp;Hz&nbsp;</li>
+</ol>
+<li>If I am in a room that is 8 foot by 8 foot. What is the wavelength that will create standing waves most in this room? Hint:&nbsp;<span style="text-align: center;">&nbsp;Î» = v/f</span></li>
+<li>What is the frequency of Middle C?</li>
+<li>What note is 195.998 Hz?</li>
+</ol>
+<div>
+<br /></div>
+<br />
+Answers *I used WHITE font on WHITE background. Simply Highlight the area below this to see the answers. You may have to copy them and past them to a Word Doc or Notepad and recolor them:<br />
+<br />
+<ol>
+<li><span style="background-color: white;"><span style="color: white;">110(F), 220,330,440,550,660,770</span></span></li>
+<li><span style="background-color: white;"><span style="color: white;">98 Hz&nbsp;</span></span></li>
+<ol>
+<li><span style="background-color: white;"><span style="color: white;">(Each is half the other. 3136/2=1568... 1568/2=784...196/2=98)</span></span></li>
+</ol>
+<li><span style="background-color: white;"><span style="color: white;">140.75 Hz&nbsp;</span></span></li>
+<ol>
+<li><span style="background-color: white;"><span style="color: white;">Room is 8 Feet (f). Sound travels at 1126 f/s (v). 1126/8=f.&nbsp;</span></span></li>
+<li><span style="background-color: white;"><span style="color: white;">Which is somewhere between Db and D below Middle C. &nbsp;</span></span></li>
+</ol>
+<li><span style="background-color: white;"><span style="color: white;">261.626 Hz</span></span></li>
+<ol>
+<li><a href="http://en.wikipedia.org/wiki/Piano_key_frequencies" style="background-color: white;" target="_blank"><span style="color: white;">http://en.wikipedia.org/wiki/Piano_key_frequencies</span></a></li>
+</ol>
+<li><span style="background-color: white;"><span style="color: white;">G3, just below Middle C.&nbsp;</span></span></li>
+</ol>
+<div>
+Use mouse to highlight above this area all the way up to "Answers".</div>
+<div>
+___________________________________</div>
+<div>
+<br /></div>
+<a href="http://towdahaudio.blogspot.com/2013/11/audio-101-science-of-sound.html" target="_blank">Part One</a><br />
+<br />
+Darrell G. Wolfe<br />
+<a href="http://towdahaudio.blogspot.com/">http://towdahaudio.blogspot.com</a>

@@ -1,0 +1,185 @@
+---
+title: 'AFFILIATE BLOCK TEMPLATE'
+date: '2022-03-19T20:59:00.0000000+00:00'
+draft: true
+blogger_type: 'PAGE'
+blogger_blog: 'NoHiding.Faith'
+blogger_status: 'DRAFT'
+blogger_page_id: '2067510557540137715'
+blogger_filename: '/p/affiliate-block-template.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/NoHiding.Faith/feed.atom'
+---
+
+<p>Here is the link to the w3Schools template:</p><p><a href="https://www.w3schools.com/howto/howto_css_product_card.asp">https://www.w3schools.com/howto/howto_css_product_card.asp</a></p><p>and the Try it now builder:</p><p><a href="https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_product_card" target="_blank">https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_product_card </a><br /></p><p>&nbsp;</p><p>Switch to HTML View to see this: <br /></p><p>
+  
+  
+     <! â€“â€“ NT Wright Link â€“â€“>
+<div class="card">
+  <img alt="Book" src="/images/imported/images-na-ssl-images-amazon-com/417qkgrllvl-sx334-bo1-204-203-200-849d9cb00615.jpg" style="width: 100%;" />
+  <h1>A must have for your theological library.</h1>
+  <p class="price">Amazon</p>
+  <p> The New Testament in Its World: An Introduction to the History, Literature, and Theology of the First Christians, by NT Wright.</p>
+  <p><button>   <a href="https://amzn.to/3qj1Zm5">BUY NOW!</a></button></p>
+</div>
+  <! â€“â€“ NT Wright Link â€“â€“>
+  
+  
+  
+  
+  /*start*/
+
+<html>
+<head>
+<style>
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+}
+
+.price {
+  color: grey;
+  font-size: 22px;
+}
+
+.card button {
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: white;
+  background-color: #FF9900; /* Amazon Orange */
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+.card button:hover {
+  opacity: 0.7;
+}
+</style>
+</head>
+<body>
+
+<h2 style="text-align: center;">Theological Library Suggestion</h2>
+
+<div class="card">
+  <img alt="Book" src="/images/imported/images-na-ssl-images-amazon-com/417qkgrllvl-sx334-bo1-204-203-200-849d9cb00615.jpg" style="width: 100%;" />
+  <h1>A must have for your theological library.</h1>
+  <p class="price">Amazon</p>
+  <p> The New Testament in Its World: An Introduction to the History, Literature, and Theology of the First Christians, by NT Wright.</p>
+  <p><button>   <a href="https://amzn.to/3qj1Zm5">BUY NOW!</a></button></p>
+</div>
+
+</body>
+</html>
+/*end*/&nbsp;</p><p>&nbsp;</p><p>Button creator</p><p><a href="https://www.w3schools.com/css/css3_buttons.asp">https://www.w3schools.com/css/css3_buttons.asp</a></p><p>&nbsp;try now builder</p><p><a href="https://www.w3schools.com/css/tryit.asp?filename=trycss_buttons_color">https://www.w3schools.com/css/tryit.asp?filename=trycss_buttons_color</a><br /></p><p>&nbsp; <br /></p>
+  
+  
+  /*start*/
+  
+  
+<html>
+<head>
+<style>
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+}
+
+.price {
+  color: grey;
+  font-size: 22px;
+}
+
+.card button {
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: white;
+  background-color: #FF9900; /* Amazon Orange */
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+.card button:hover {
+  opacity: 0.7;
+}
+</style>
+</head>
+<body>
+
+<div class="card">
+  <p><button>Buy Now!</button></p>
+</div>
+
+</body>
+</html>
+ 
+  
+  
+  
+  /*end*/
+
+/Rabbi/
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+}
+
+.price {
+  color: grey;
+  font-size: 22px;
+}
+
+.card button {
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: white;
+  background-color: #4CAF50; /* Green */
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+.card button:hover {
+  opacity: 0.7;
+}
+</style>
+</head>
+<body>
+
+<h2 style="text-align:center">Theological Library Suggestion</h2>
+
+<div class="card">
+  <img src="/images/imported/images-na-ssl-images-amazon-com/5181ykmxrol-sx326-bo1-204-203-200-db9dff8fb054.jpg" alt="Book" style="width:100%">
+  <h1>A must have for your theological library.</h1>
+  <p class="price">Amazon</p>
+  <p> Sitting at the Feet of Rabbi Jesus: How the Jewishness of Jesus Can Transform Your Faith, by  Ann Spangler (Author) & Lois Tverberg (Author) 
+  .</p>
+  <p><button>
+    <a href="https://amzn.to/36dh2H5">BUY NOW!</a>
+  </button></p>
+</div>
+
+</body>
+</html>
+
+
+/end rabbi/

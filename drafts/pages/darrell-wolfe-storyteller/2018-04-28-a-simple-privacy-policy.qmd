@@ -1,0 +1,131 @@
+---
+title: 'A Simple Privacy Policy'
+date: '2018-04-28T20:29:00.0000000+00:00'
+draft: true
+blogger_type: 'PAGE'
+blogger_blog: 'Darrell Wolfe, Storyteller'
+blogger_status: 'LIVE'
+blogger_page_id: '6284356282961678406'
+blogger_filename: '/p/a-simple-privacy-policy.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
+---
+
+<i>The&nbsp;</i><i><a href="https://en.wikipedia.org/wiki/General_Data_Protection_Regulation" target="_blank">General Data Protection Regulation (GDPR</a>) h</i><i>as made those of us who run websites and blogs aware that we need to have a "Privacy Policy"... You know, that boring document nobody has ever read... ever... never met a person who's read one... It's the document you shred moments after getting it or use as a bookmark? Nevertheless, I must bore you with it, so here it goes.</i><br />
+<i><br /></i> <i>*Special thanks to Kirsten from the <a href="https://createifwriting.com/podcast-and-show-notes/" target="_blank">Create If Writing Podcast</a> #132 and to <a class="" href="https://castbox.fm/episode/132-Tips-for-GDPR-Compliance-and-Why-Data-Matters-id55512-id74330506?utm_campaign=a_share_ep&amp;utm_medium=dlink&amp;utm_source=a_share&amp;country=us" target="_blank">Castbox</a> for helping me find her post and making me aware of the&nbsp;<a href="https://en.wikipedia.org/wiki/General_Data_Protection_Regulation" target="_blank">General Data Protection Regulation (GDPR)</a></i><br />
+<br />
+<h3>
+A Simple Privacy Policy</h3>
+<b>I DO collect your information IF you give it to me willingly. I DO NOT release that information to any third party (except the software companies I use to obtain and manage it, see below).&nbsp;</b><br />
+<br />
+<h4>
+Information Collection And Use</h4>
+<ul>
+<li><b>Email</b>: If you sign up for my email list I collect your email (shocking I know) from you. In turn, you get emails from me (the point of putting your email in the box). Duh!</li>
+</ul>
+<ul>
+<li><b>Name, Address, Phone, Etc</b>.: In some instances, I may collect these things (especially if you want me to mail you something).&nbsp;</li>
+</ul>
+<div>
+I use&nbsp;<a href="https://mailchimp.com/legal/privacy/" target="_blank">MailChimp</a> or <a href="https://gumroad.com/privacy" target="_blank">Gumroad</a> for most of these things. Sometimes I use <a href="https://feedburner.google.com/" target="_blank">Feedburner</a>&nbsp;by Google as well.<br />
+<br /></div>
+<div>
+<h4>
+Log Data, Cookies</h4>
+<div>
+Some of the software/companies that I use related to this site gathers your information such as Log Data or Cookies. These things are not things I, personally, gather or keep.<br />
+<br />
+They are kept and used by the companies. Example: Google Analytics tells me how many people saw my site, how long they stayed, and where in the world they are from (but not their specific address, just generally the region they come from). It does not tell me who those people are, their addresses, etc.</div>
+</div>
+<h4>
+Links To Other Sites</h4>
+<div>
+I link to other sites in my posts. These links are to other articles and sometimes products. Each company would then have it's own policy, I suppose. Some of these links contain <a href="http://www.darrellwolfe.com/p/affiliate-disclosure-disclosure-of.html" target="_blank">affiliate links (see disclosure on that)</a>.</div>
+<br />
+<h4>
+Companies I use related to this site and links to THEIR privacy&nbsp;policies.</h4>
+<div>
+<b><i>Services, Companies, &amp; Software</i></b></div>
+<div>
+<ul>
+<li><a href="https://www1.domain.com/legal/legal_privacy.bml" target="_blank">Domain.com</a></li>
+<li><a href="https://www.facebook.com/policy.php" target="_blank">Facebook</a>&nbsp;(&amp; Facebook Pixel)</li>
+<li><a href="https://www.linkedin.com/legal/privacy-policy" target="_blank">LinkedIn Script</a></li>
+<li><a href="https://twitter.com/privacy" target="_blank">Twitter</a></li>
+<li><a href="https://mailchimp.com/legal/privacy/" target="_blank">MailChimp</a></li>
+<li><a href="https://gumroad.com/privacy" target="_blank">Gumroad</a></li>
+<li><a href="https://ifttt.com/privacy" target="_blank">IFTTT</a></li>
+<li><a href="https://www.amazon.com/gp/help/customer/display.html?nodeId=468496" target="_blank">Amazon Affiliate</a></li>
+<li><a href="http://translate.google.com/translate?js=y&amp;prev=_t&amp;hl=es&amp;ie=UTF-8&amp;layout=1&amp;eotf=1&amp;u=http%3A%2F%2Fbtemplates.com%2Fterms-of-use-es%2F&amp;sl=es&amp;tl=en" target="_blank">BTemplates (for my website design)</a></li>
+</ul>
+<div>
+<br /></div>
+<div>
+</div>
+</div>
+<div>
+<b><i>Google Products fall under Google's Privacy&nbsp;Policy</i></b></div>
+<ul>
+<li><a href="https://policies.google.com/privacy?hl=en" target="_blank">Google's Privacy Policy</a></li>
+<ul>
+<li>Blogger.com</li>
+<li>Feedburner</li>
+<li>Google Search</li>
+<li>Gmail</li>
+<li>Google Analytics</li>
+<li>GooglePlus+</li>
+</ul>
+</ul>
+<br />
+<span style="font-family: &quot;tempus sans itc&quot;;">Shalom: Live Long and Prosper!</span><br />
+<div class="MsoNormal">
+<span style="font-family: &quot;tempus sans itc&quot;; font-size: 18pt;">Darrell Wolfe (DG Wolfe)</span></div>
+<div class="MsoNormal">
+<span style="font-family: &quot;tempus sans itc&quot;;">Storyteller | Writer | Thinker | Consultant @&nbsp;<a href="http://www.darrellwolfe.com/p/start-here-about_12.html" target="_blank">DarrellWolfe.com</a></span></div>
+<div class="MsoNormal">
+<br /></div>
+<b><i>*And Now...&nbsp;The Longer Legalese Version (generated by&nbsp;<a href="http://www.privacypolicyonline.com/" target="_blank">http://www.privacypolicyonline.com</a>)</i></b><br />
+<h1>
+Privacy Policy for DarrellWolfe.com</h1>
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email: <a href="mailto:me@darrellwolfe.com" target="_blank">me@darrellwolfe.com</a>.<br />
+<br />
+At <a href="http://darrellwolfe.com/">DarrellWolfe.com</a> we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by http://www.darrellwolfe.com/ and how we use it.<br />
+<b><br /></b> <b>Log Files</b><br />
+Like many other Web sites, http://www.darrellwolfe.com/ makes use of log files. These files merely logs visitors to the site - usually a standard procedure for hosting companies and a part of hosting services' analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses and other such information are not linked to any information that is personally identifiable.<br />
+<b><br /></b> <b>Cookies and Web Beacons</b><br />
+http://www.darrellwolfe.com/ uses cookies to store information about visitors' preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalize or customize our web page content based upon visitors' browser type or other information that the visitor sends via their browser.<br />
+<b><br /></b> <b>DoubleClick DART Cookie</b><br />
+â†’ Google, as a third party vendor, uses cookies to serve ads on http://www.darrellwolfe.com/.<br />
+â†’ Google's use of the DART cookie enables it to serve ads to our site's visitors based upon their visit to http://www.darrellwolfe.com/ and other sites on the Internet.<br />
+â†’ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <a href="http://www.google.com/privacy_ads.html" title="Opt out of the Dart Cookie">http://www.google.com/privacy_ads.html</a> <br />
+<b><br /></b> <b>Our Advertising Partners</b><br />
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......<br />
+<br />
+<ul>
+<li>Google</li>
+<li>Amazon</li>
+</ul>
+<em>While each of these advertising partners has their own Privacy Policy for their site, an updated and hyperlinked resource is maintained here: <a href="http://www.privacypolicyonline.com/privacy-policies">Privacy Policies</a>.</em><br />
+<em>You may consult this listing to find the privacy policy for each of the advertising partners of http://www.darrellwolfe.com/.</em><br />
+<br />
+These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on http://www.darrellwolfe.com/ and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site's third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.<br />
+<br />
+http://www.darrellwolfe.com/ has no access to or control over these cookies that are used by third-party advertisers.<br />
+<br />
+<b>Third Party Privacy Policies</b><br />
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://www.darrellwolfe.com/'s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. You may find a comprehensive listing of these privacy policies and their links here: <a href="http://www.privacypolicyonline.com/privacy-policy-links" title="Privacy Policy Links">Privacy Policy Links</a>.<br />
+<br />
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. <a href="http://www.privacypolicyonline.com/what-are-cookies">What Are Cookies?</a><br />
+<strong><br /></strong> <strong>Children's Information</strong><br />
+We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to observe, participate in and/or monitor and guide their online activity. http://www.darrellwolfe.com/ does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that http://www.darrellwolfe.com/ has in its database the personally-identifiable information of a child under the age of 13, please contact us immediately (using the contact in the first paragraph) and we will use our best efforts to promptly remove such information from our records.<br />
+<b><br /></b> <b>Online Privacy Policy Only</b><br />
+This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there. This policy does not apply to any information collected offline or via channels other than this website.<br />
+<b><br /></b> <b>Consent</b><br />
+By using our website, you hereby consent to our privacy policy and agree to its terms.<br />
+<br />
+<b>Update</b><br />
+This Privacy Policy was last updated on: Saturday, April 28th, 2018. <a href="http://www.privacypolicyonline.com/" target="_blank" title="PrivacyPolicyOnline.com Approved Site"><img align="right" alt="Privacy Policy Online Approved Site" border="0" src="/images/imported/www-privacypolicyonline-com/privacypolicyonline-seal-7bc37ed13863.png" /></a><br />
+<em>Should we update, amend or make any changes to our privacy policy, those changes will be posted here.</em> <br />
+<br />
+<br />
+<br />
+<br />

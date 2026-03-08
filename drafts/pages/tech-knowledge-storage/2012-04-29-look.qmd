@@ -1,0 +1,282 @@
+---
+title: 'The Look'
+date: '2012-04-29T03:03:00.0000000+00:00'
+draft: true
+blogger_type: 'PAGE'
+blogger_blog: 'Tech Knowledge Storage'
+blogger_status: 'LIVE'
+blogger_page_id: '8104987054023039291'
+blogger_filename: '/p/look.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Tech Knowledge Storage/feed.atom'
+---
+
+<h2 style="text-align: center;">
+<b>How to Change My Sites Look</b></h2>
+<br />
+How a site looks, especially when using a free blogging platform, is largely due to the limitations or freedoms allowed to you by the platform you are using. How it looks isn't nearly as important, in the beginning, as the content (the words you've written and links to other cool things). However having a cool looking site could make the difference between someone staying on the site or "<a href="http://en.wikipedia.org/wiki/Bounce_rate" target="_blank">bouncing</a>" off to another site.<br />
+<br />
+Therefore it is helpful to know a few things about how to make them fit your personality and still be easy to read. If you make it too distracting it may look fun to you, but drive people away. Make sure that the design fits your concept and your audience. Younger people may be OK with dark screens, and distracting patterns. Older audiences may need a cleaner look with mute patterns. Wide ranges of audiences may need somewhere in between; a fun look and a clean reading space.<br />
+<br />
+I covered things in both sections that may pertain to the other without&nbsp;repeating&nbsp;myself, I suggest reading everything and taking what is helpful.<br />
+<br />
+<div style="text-align: center;">
+<b>Blogger</b>:</div>
+Blogger has several preformed templates and colors. If you are just starting out pick the one you like and start blogging.<br />
+<br />
+When you are ready to start playing with the look on your own; you can follow these steps:<br />
+<ul>
+<li>I suggest starting a fake test site on the side to play with looks while you are learning.&nbsp;</li>
+<ul>
+<li>If your site is MySite.Blogspot.Com, then choose MySiteTest.Blogspot.Com, or something like that. You can also <a href="http://support.google.com/blogger/bin/answer.py?hl=en&amp;answer=42673" target="_blank">change the settings</a> on the test site so that only you can see it.&nbsp;</li>
+</ul>
+<li>Go to <b>Template </b>and <b>Layout </b>on the right of your blogs dashboard. These are the primary two places to change how things look and where they sit on your page.&nbsp;</li>
+<ul>
+<a href="/images/imported/blogger-googleusercontent-com/blogger-logo-2-72ea3afdc0f5.jpg" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" height="200" src="/images/imported/blogger-googleusercontent-com/blogger-logo-2-8547849f0e42.jpg" width="200" /></a>
+<li>Template: allows you to choose from several different pre-set colors and looks. You can also enable the Mobile Version on this page.&nbsp;</li>
+<li>Under the "Live on Blog" window on the Template page there is a button that says: Customize. Click "Customize" and you will be taken to a new screen the: "Blogger Template Designer" On the far left you will see the options:</li>
+</ul>
+<li><b>Templates</b>: The default tab. This allows you to again choose and try out templates before savings the changes by hitting the button on the top right "Apply to Blog"&nbsp;</li>
+<ul><ul>
+<ul>
+<li>If you are going to make lots of changes than the primary thing you are looking for here is what you want the pages selection to look like. Such as "Home, About" etc...&nbsp;</li>
+<li>You also want to select the template that lets the links and side content look the way you want it to.&nbsp;</li>
+<li>Almost everything you can change easily in the following tabs. Background, Color, Font, everything.&nbsp;</li>
+</ul>
+</ul>
+</ul>
+<li><b>Background</b>: On this tab you you can choose from various pictures to use as backgrounds (each picture will show more or less depending on which template you started with). At the top of the picture choices you can hit "Upload Image" to choose a picture from your computer.&nbsp;</li>
+<ul><ul>
+<ul>
+<li>There are also default color schemes designed to work well with each other. After you pick a picture, you can choose the color scheme you like.&nbsp;</li>
+</ul>
+</ul>
+</ul>
+<li><b>Adjust Widths</b>: First go to Layouts and choose the layout you want in order then adjust the widths.&nbsp;</li>
+<ul><ul>
+<ul>
+<li>For certain blog layouts it's helpful to have a longer area to read in, having the blog post more pronounced. Side columns may need to be shorter or longer depending on how you like it.&nbsp;</li>
+<li>Typically I have my "Entire Blog" set to 1000 or 1100. I set my "Right Sidebar" to 300 or 250. It's just my&nbsp;preferred&nbsp;set up.&nbsp;</li>
+</ul>
+</ul>
+</ul>
+<li><b>Layout</b>:
+I usually choose a layout with ONE column on the right side.&nbsp;</li>
+<ul><ul>
+<ul>
+<li>Just my preference. I feel that for ease of reading it makes more sense to have the post on the far left, as English readers read left to right. I keep the column on the right for links and access tools and such. Since content is the most important thing about any site I create, content gets first priority on the page. I think this is a cleaner look.</li>
+<li>&nbsp;Play around with different formats yourself. You may find a different format that works for your site better. For example, if your site is just as much about the links to resources and other sites as it is about the content you've written, you may prefer to have right and left columns with links on both sides.&nbsp;</li>
+</ul>
+</ul>
+</ul>
+<li><b>Advanced</b>:This is actually where MOST of the personalizing takes place. You can choose fonts, colors, link colors, and more. You can change the heading and pages tabs to be more visually&nbsp;appealing.&nbsp;</li>
+<ul>
+<li><b>Blog Title</b>:</li>
+<ul>
+<li>The FIRST things I do when changing the site is change the font of the "Blog Title" to match the personality of the blog and/or my personality.&nbsp;</li>
+<ul><ul>
+</ul>
+</ul>
+</ul>
+<li><b>Page Tabs</b>:</li>
+<ul>
+<li>The SECOND thing I do is change the "Tabs Text" and "Tabs Background" to color coordinate with the blog and personality.&nbsp;</li>
+<ul>
+<li>For example you can choose two primary colors you are going to work with.</li>
+<ul><ul>
+<li>One color (Say Black) is the text for the Selected &nbsp;Text color and another color (say Orange) for the Background Color.&nbsp;</li>
+<li>Then alternate Black for Background Text and Orange for Selected Background.</li>
+<li>Then when you run your mouse over the tabs the colors will change as you mouse over them. This gives better illusion to the tab selection process.</li>
+<ul>
+</ul>
+</ul>
+</ul>
+<li>The higher the contrast between the two colors the more dramatic the effect. The more subtle for contrast the more subtle the effect. Black/Orange would be high contrast. Dark Blue/Light Blue would be a more subtle effect.&nbsp;</li>
+<ul><ul>
+</ul>
+</ul>
+</ul>
+</ul>
+</ul>
+<li><b>The Rest</b>:</li>
+<ul>
+<li>Then play around with the colors of the page in general, text, links, gadgets, etc.</li>
+<ul>
+<li><b>Gadgets:</b> usually refers to the&nbsp;separate&nbsp;blocks of content, containing links and/or content located within your side bars.&nbsp;</li>
+<li><b>Colors:</b></li>
+<ul>
+<li>I usually use two or three colors and stick to that.&nbsp;</li>
+<ul><ul><ul>
+</ul>
+</ul>
+</ul>
+</ul>
+<li><b>Links:</b></li>
+<ul>
+<li>Links can have three colors. I find two is better usually. The same one for Link color and&nbsp;Visited&nbsp;color and a different contrasting color for Hover color.&nbsp;</li>
+<li>If you like the Visited links being different, go ahead and use it. I don't for my taste.&nbsp;</li>
+<ul><ul><ul>
+</ul>
+</ul>
+</ul>
+</ul>
+<li><b>Post Area:</b></li>
+<ul>
+<li>I usually use a white background for the main posting area, this makes copy and paste from other sources to the blog post area easier. If you copy and paste content from another site into your post and then post that to a site with a dark background, sometimes the white background from the other site carries through. Using white makes it easier to ignore the stuff that comes through.&nbsp;</li>
+<li>You can also circumvent this by pasting into "HTML" instead of "Compose" but this also gets rid of font, style, and anything you may have liked from the other site.&nbsp;</li>
+<ul><ul><ul>
+</ul>
+</ul>
+</ul>
+</ul>
+</ul>
+</ul>
+</ul>
+<b><br /></b><br />
+<div style="text-align: center;">
+<b>WordPress</b>:</div>
+<br />
+Without much debate, WordPress templates are more advanced from the start than Blogger templates. You can get a more professional look by browsing through the templates and selecting the one you like. When you are ready to start creating your own look here's what to do next:<br />
+<br />
+<a href="/images/imported/blogger-googleusercontent-com/wordpress-logo-81e81158452c.jpg" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" height="200" src="/images/imported/blogger-googleusercontent-com/wordpress-logo-6efba966376c.jpg" width="199" /></a><br />
+On your left there are tabs for different functions within WordPress.<br /><br /><div>
+Select&nbsp;<b>Appearance&nbsp;</b><br /><ul>
+<li><b>Themes </b>- Browse Themes</li>
+<ul>
+<ul>
+<li>Feature Filters:</li>
+<ul>
+<li>On the far right, towards the top of the themes area you can select the "Feature Filters" link. If you have a logo to include, a special background or header image, you can choose a more tailored view of the template themes available.</li>
+</ul>
+</ul>
+<li>Feel free to "Preview" the themes which will allow you to see an&nbsp;approximation&nbsp;of what that theme would look like with your content. If you haven't built your site yet it may not be THAT helpful because there is really nothing to see yet. Get a mental image of what you might want a site to look like and then find a similar template.</li>
+<li>You should probably pick a template "as is" and then fill it with content, links, etc. Then you can go back and look at designs and they will make more sense.&nbsp;</li>
+<ul><ul>
+</ul>
+</ul>
+</ul>
+<li><b>Widgets </b>- Various types of content you can add to your site, usually these will be located in whatever side bars or footer areas that have been pre-built into your theme.&nbsp;</li>
+<ul>
+<li>Side Bars, Footers, and Headers:</li>
+<ul>
+<li>This is actually one big difference between Blogger and WordPress. You cannot choose where you want the side bar (left or right or both) or how many side bars or footer areas. You are, generally, stuck with whatever the theme was pre built for. There is actually a good reason for this. These themes are VERY hand built to have a certain look and feel. Some artisan of HTML built this for you. These looks are often more complicated and professional looking than a Blogger template is. For this reason you will find a certain level of limitation built in, because altering the spacing, or amount of side bars would alter the look they worked hard to build.&nbsp;</li>
+<ul>
+<li>Blogger gives more freedom.</li>
+<li>WordPress gives a more professional look.&nbsp;</li>
+</ul>
+</ul>
+<li>Widgets do many things. The most popular and my suggestion to include in almost any blog are:&nbsp;</li>
+<ul>
+<li>As seen here:&nbsp;
+<a href="http://movingtotexasinfo.wordpress.com/">http://movingtotexasinfo.wordpress.com/</a></li>
+<ul>
+<li>This site has a featured area at the top right. Below this are TWO right side bars. Most of the widgets below can be found on this site as an example.&nbsp;</li>
+</ul>
+<li><b>Links</b></li>
+<ul>
+<li>I suggest that you include links to other sites of interest.&nbsp;</li>
+<ul>
+<li>If this is a travel site, make the links some of your favorite travel resources, inside&nbsp;knowledge&nbsp;of great places to visit, etc.</li>
+<li>For Ministry: Links to great online bibles, dictionaries,&nbsp;thesauruses, other great ministries, etc</li>
+<li>Maybe links to other authors and bloggers you like and read often. &nbsp;</li>
+</ul>
+</ul>
+<li><b>RSS Feed and RSS Links</b></li>
+<ul>
+<li>An RSS feed will allow you to literally import other posts from other blogs and websites right into yours. Most news channels have specific RSS feeds for different types of news. Blogs can be imported into your site to be seen, maybe include one or two authors you read daily.&nbsp;</li>
+<li><b>RSS Links</b> allow your readers to subscribe to YOU. THEY can import YOUR blog into thier site, or subscribe to your site through a reader like Google Reader or Outlook.&nbsp;</li>
+<ul>
+<li>This one is ABSOLUTE. You MUST have a way for peole to connect to you. RSS Links to your site are NOT optional. They should be a primary part of your site and located near the top, preferably the right, of the page. If your template doesn't have an RSS link built into the top right of the page, you will want to include RSS LINKS as the first item on your side bar. Left is ok if you only have a left side bar, however right is the customary place to put it. &nbsp;</li>
+</ul>
+</ul>
+<li><b>Search</b></li>
+<ul>
+<li>Very cool widget. Allows people to literally run a&nbsp;Google&nbsp;search right through your site. This will search your whole blog for content you've written, it will search other blogs, and even the web as a whole.&nbsp;</li>
+<li>Benefit? When you've written 100's of items for years and you have many repeat readers, you may find that they will remember something you wrote and want to find it again. They can do a quick search through your site and it will first of all search your site for anything your wrote on the subject or key word they chose.&nbsp;</li>
+</ul>
+<li><b>Facebook Like Box</b></li>
+<ul>
+<li>If you don't have a Facebook page for your site: GET ONE!&nbsp;</li>
+<ul>
+<li><a href="https://www.facebook.com/pages/create.php">https://www.facebook.com/pages/create.php</a>
+</li>
+<li>Way easy to set up:&nbsp;</li>
+<ul>
+<li>If you are not sure where to start, just use bran/product and then select website. If you think something else fits better, use that.&nbsp;</li>
+</ul>
+</ul>
+<li>Most public figures make the mistake of linking their personal facebook page to their website. You can tell the difference because a personal page requires the visitor to hit "+1 Add Friend" and then the owner of the page must accept the request.&nbsp;</li>
+<ul>
+<li>This is too cumbersome for a casual visitor, and you can only have so many friends before the system blocks you from getting any more visitors.&nbsp;</li>
+<li>There are also people use "Groups" for this, also not a good idea unless you are looking to block most people out of your Facebook site. If you are looking to build traffic don't use "Groups" either.&nbsp;</li>
+</ul>
+<li>You need a Page that people can "Like". To do this follow the link above to create a page. You can do it in your name as a public figure. Or you can do it in the name of your blog, website, business, etc.&nbsp;</li>
+<ul>
+<li>Here are some examples:</li>
+<ul>
+<li><a href="https://www.facebook.com/jeremyandsarahpearsons">https://www.facebook.com/jeremyandsarahpearsons</a>
+</li>
+<li><a href="https://www.facebook.com/CopelandNetwork">https://www.facebook.com/CopelandNetwork</a>
+</li>
+<li><a href="https://www.facebook.com/teddekker">https://www.facebook.com/teddekker</a>
+</li>
+<li><a href="https://www.facebook.com/n2goodsuccess">https://www.facebook.com/n2goodsuccess</a>
+</li>
+</ul>
+</ul>
+</ul>
+<li><b>Recent Posts</b></li>
+<ul>
+<li>Just like it says. This pulls a snippet and list of your most recent posts. A cool way for people to get back to something you've written earlier and connect to other things you've written. You'd be&nbsp;surprised&nbsp;how hard it is to find what other people have written sometimes.&nbsp;</li>
+</ul>
+<li><b>Archives</b></li>
+<ul>
+<li>Another way for people to connect to what you'e written. This allows people to browse through everything you've written by date going back to the first post.</li>
+<li>It's also a cool way to feel accomplished. "I've been&nbsp;writing&nbsp;for a whole year?!" It's a great feeling. Each year get's better.&nbsp;</li>
+</ul>
+<li><b>Category&nbsp;Cloud</b></li>
+<ul>
+<li>Yet another, but more interactive, way to connect.&nbsp;</li>
+<ul>
+<li>This allows you to add&nbsp;categories&nbsp;to things you've written. Then people can click on a&nbsp;category&nbsp;and find everything you wrote on that subject.</li>
+<ul>
+<li>"End Times" VS "Love of God"</li>
+<li>"Life's little moments" vs "what makes me angry"&nbsp;</li>
+</ul>
+</ul>
+</ul>
+<li><b>Pages (Site Map)</b></li>
+<ul>
+<li>I sometimes, but not always, include this little widget. It allow me to set up a site map on the bottom of the side bar or footer. I prefer footer. It allows people who's internet may not be pulling the pages up top right, to still get to them. Not&nbsp;necessary, but helpful if you have a lot of pages.&nbsp;</li>
+</ul>
+<li><b>Text - Welcome/Greeting</b></li>
+<ul>
+<li>Also not necessary, but fun. This allows you to type anything into a little box and have that type show up on your side bar. This can be a fun way to include a welcome message, greeting, your websites mission, your personal vision statement or motto... whatever you want to make sure every visitor sees, no matter what post you've written today.&nbsp;</li>
+</ul>
+</ul>
+</ul>
+<li><b>Menu</b></li>
+<ul>
+<li>In short, I've never bothered taking the time to figure out what this does... when I do I'll add that to this section. I'm sure it does something.&nbsp;</li>
+</ul>
+<li><b>Header/Background</b></li>
+<ul>
+<li>These are essentially the same thing. They allow you to do things like upload an image to use or change color schemes or text color of the header. There only a few limited things you can do here, but used right and these could totally alter you pages look.&nbsp;</li>
+<li><b>Header </b>- only changes the header which is a box at the top of your page that contains the Blog Title and Blog Description.</li>
+<li><b>Background </b>usually refers to that are of the page that sites behind everything you put on your website. Most often this is a muted image or color that adds to the overall look but does not distract from the primary content.&nbsp;</li>
+</ul>
+<li><b>Custom Design</b></li>
+<ul>
+<li>For more&nbsp;technical&nbsp;people than I. This allows people who want to pay to add their own code to further alter the look of the site. If you are technologically impaired, ignore this area.&nbsp;</li>
+</ul>
+<li><b>Mobile</b></li>
+<ul>
+<li>Allows you to change a few settings for mobile viewers, like tablet users. This becoming more popular lately, so go in here and enable this feature.</li>
+</ul>
+<li><b>iPad</b></li>
+<ul>
+<li>Allows iPad specific settings</li>
+</ul>
+</ul>
+<br /><ul>
+</ul>
+<b>I hope this helps the beginner understand where to start, Darrell G. Wolfe</b></div>

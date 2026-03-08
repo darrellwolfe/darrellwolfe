@@ -1,0 +1,21 @@
+---
+title: 'About'
+date: '2013-12-18T06:34:00.0000000+00:00'
+draft: true
+blogger_type: 'PAGE'
+blogger_blog: 'N2 Good Success Resource Center'
+blogger_status: 'LIVE'
+blogger_page_id: '4509512758492300116'
+blogger_filename: '/p/aboutcontact.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/N2 Good Success Resource Center/feed.atom'
+---
+
+<h4>
+About N2 Good Success:</h4>
+<div>
+This is the resource site for the tribe of Darrell G. Wolfe. When I find resources, websites, links, products, services, and/or when I create great content I want to make available to you, I will link it here at my N2 Good Success Resource Center.&nbsp;</div>
+<br />
+<div style="text-align: right;">
+</div>
+<div>
+</div>

@@ -1,0 +1,17 @@
+---
+title: 'Flicker Slider'
+date: '2050-01-16T15:30:00.0000000+00:00'
+draft: true
+blogger_blog: 'The Life In Fort Worth Blog'
+blogger_status: 'DRAFT'
+blogger_post_id: '8530177694525303239'
+blogger_filename: '/2050/01/flicker-slider.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/The Life In Fort Worth Blog/feed.atom'
+---
+
+<br />
+<br />
+<iframe align="center" frameborder="0" height="500" scrolling="no" src="http://www.flickr.com/slideShow/index.gne?group_id=&amp;user_id=106439236@N07&amp;set_id=72157639827695576&amp;text=" width="500"></iframe><br />
+<small>Created with <a href="http://www.admarket.se/" title="Admarket.se">Admarket's</a> <a href="http://flickrslidr.com/" title="flickrSLiDR">flickrSLiDR</a>.</small>
+<br />
+<br />

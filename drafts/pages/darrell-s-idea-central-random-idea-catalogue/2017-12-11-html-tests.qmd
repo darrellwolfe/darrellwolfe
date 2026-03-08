@@ -1,0 +1,29 @@
+---
+title: 'HTML Tests'
+date: '2017-12-11T05:59:00.0000000+00:00'
+draft: true
+blogger_type: 'PAGE'
+blogger_blog: 'Darrell''s Idea Central (Random Idea Catalogue)'
+blogger_status: 'LIVE'
+blogger_page_id: '5219371117640930505'
+blogger_filename: '/p/html-tests.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell_s Idea Central (Random Idea Catalogue)/feed.atom'
+---
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdF-_AHsuVo_VOvlBBN9kF_ScZs4Eavpt77QhU7-3ZoFnCCpQ/viewform?embedded=true" width="500" height="300" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />

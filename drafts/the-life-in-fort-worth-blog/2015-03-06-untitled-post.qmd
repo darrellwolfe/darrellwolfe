@@ -1,0 +1,11 @@
+---
+title: 'Untitled Post'
+date: '2015-03-06T00:55:00.0010000+00:00'
+draft: true
+blogger_blog: 'The Life In Fort Worth Blog'
+blogger_status: 'DRAFT'
+blogger_post_id: '3831983395989295257'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/The Life In Fort Worth Blog/feed.atom'
+---
+
+<p class="mobile-photo"><a href="/images/imported/blogger-googleusercontent-com/0305151854-760096-4b451523a73f.jpg"><img src="/images/imported/blogger-googleusercontent-com/0305151854-760096-17fefc3abd7c.jpg"  border="0" alt="" id="BLOGGER_PHOTO_ID_6122919810643588178" /></a></p>You&#39;re never too old for @ChuckECheese in #GrapevineTX!

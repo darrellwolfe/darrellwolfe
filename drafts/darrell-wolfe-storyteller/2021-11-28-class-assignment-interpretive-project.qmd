@@ -1,0 +1,789 @@
+---
+title: 'Class Assignment: Interpretive Project: John 1:1â€“18 (LEB)'
+date: '2021-11-28T23:12:00.0030000+00:00'
+draft: true
+blogger_blog: 'Darrell Wolfe, Storyteller'
+blogger_status: 'LIVE'
+blogger_post_id: '6547066572404538312'
+blogger_filename: '/2021/11/class-assignment-interpretive-project.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
+categories:
+  - 'Class Assignment'
+  - 'Biblical Studies'
+---
+
+<p style="text-align: left;"></p><p style="text-align: left;"></p><p style="text-align: left;"></p><p style="text-align: left;"></p><p style="text-align: left;"></p><p style="text-align: left;"></p><p style="text-align: left;"></p><p style="text-align: left;"></p><p style="text-align: left;"></p><p style="text-align: left;"></p><p style="text-align: left;"></p><p style="text-align: left;"></p><p style="text-align: left;"></p><p style="text-align: left;"></p><p style="text-align: left;"></p><p style="text-align: left;"></p><p style="text-align: left;"></p><p style="text-align: left;"></p><p style="text-align: left;"></p><p style="text-align: left;"></p><p style="text-align: left;"></p><p style="text-align: left;"></p><p style="text-align: left;"></p><p style="text-align: left;"></p><p style="text-align: left;"></p><p style="text-align: left;"></p><p style="text-align: left;"></p><p style="text-align: left;"></p><p style="text-align: left;"></p><p style="text-align: left;"></p><p style="text-align: left;"></p><p style="text-align: left;"></p><p style="text-align: left;"></p><p style="text-align: left;"></p><p style="text-align: left;"></p><p style="text-align: left;"></p><p style="text-align: left;"></p><p style="text-align: left;"></p><p style="text-align: left;"><!--[if gte mso 9]><xml>
+ <o:OfficeDocumentSettings>
+  <o:RelyOnVML/>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:TrackMoves/>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>HE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:EnableOpenTypeKerning/>
+   <w:DontFlipMirrorIndents/>
+   <w:OverrideTableStyleHps/>
+   <w:UseFELayout/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
+  DefSemiHidden="false" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="376">
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 9"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="header"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footer"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index heading"/>
+  <w:LsdException Locked="false" Priority="35" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of figures"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope return"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="line number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="page number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of authorities"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="macro"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="toa heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 5"/>
+  <w:LsdException Locked="false" Priority="10" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Closing"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Signature"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Message Header"/>
+  <w:LsdException Locked="false" Priority="11" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Salutation"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Date"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Note Heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Block Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Hyperlink"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="FollowedHyperlink"/>
+  <w:LsdException Locked="false" Priority="22" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Document Map"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Plain Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="E-mail Signature"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Top of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Bottom of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal (Web)"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Acronym"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Cite"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Code"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Definition"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Keyboard"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Preformatted"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Sample"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Typewriter"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Variable"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Table"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation subject"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="No List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Contemporary"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Elegant"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Professional"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Balloon Text"/>
+  <w:LsdException Locked="false" Priority="39" Name="Table Grid"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Theme"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" QFormat="true"
+   Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" QFormat="true"
+   Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" QFormat="true"
+   Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" QFormat="true"
+   Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" QFormat="true"
+   Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" QFormat="true"
+   Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="TOC Heading"/>
+  <w:LsdException Locked="false" Priority="41" Name="Plain Table 1"/>
+  <w:LsdException Locked="false" Priority="42" Name="Plain Table 2"/>
+  <w:LsdException Locked="false" Priority="43" Name="Plain Table 3"/>
+  <w:LsdException Locked="false" Priority="44" Name="Plain Table 4"/>
+  <w:LsdException Locked="false" Priority="45" Name="Plain Table 5"/>
+  <w:LsdException Locked="false" Priority="40" Name="Grid Table Light"/>
+  <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Mention"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Smart Hyperlink"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Hashtag"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Unresolved Mention"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Smart Link"/>
+ </w:LatentStyles>
+</xml><![endif]--><!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin-top:0in;
+	mso-para-margin-right:0in;
+	mso-para-margin-bottom:8.0pt;
+	mso-para-margin-left:0in;
+	line-height:107%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	mso-bidi-font-family:Arial;
+	mso-bidi-theme-font:minor-bidi;
+	mso-bidi-language:AR-SA;}
+</style>
+<![endif]--></p><p style="text-align: left;">
+
+</p><h3 style="text-align: left;"><div class="separator" style="clear: both; text-align: center;"><a href="/images/imported/blogger-googleusercontent-com/john-1-ec570d6cd292.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="581" data-original-width="1247" height="298" src="/images/imported/blogger-googleusercontent-com/john-1-ec0f05f5b0d9.png" width="640"></a></div><br></h3><div><a href="https://youtu.be/XgslCbXOOIE">Bible Project: John 1</a><br></div><h3 style="text-align: left;">Interpretive Project: John 1:1â€“18 (LEB) </h3><br> The Kingâ€™s University, Southlake, Texas <br><br>Biblical Background and Interpretation (2021FA-BIBL-2301-ONL) <br><br>Professor: Dr. J. Wallace <br><br>12/05/2021 <br><br>By Darrell Wolfe <br> <br><br> <br><h4>Thesis </h4><p><br>The following paper includes a translation of John 1:1-18 (aka Johnâ€™s Prologue) from the Lexham English Bible (LEB), which is considered among the most literal translations.<a href="https://draft.blogger.com/#_ftn1">[1]</a> Then, the paper provides a Structural Outline for the passage, Observations, a Situational Reconstruction, Theological Questions posed by the text, and a Lexicography. Following these are an analysis of the Message/Argument of the Text and a Conclusion with takeaways about Johnâ€™s primary message: Jesus is the Logos and he came because God wanted his family back. <br>&nbsp;</p><p>&nbsp;</p><h4 style="text-align: left;">John 11â€“18 (LEB) </h4><p style="text-align: left;"><br></p><blockquote><i>1In the beginning was the Word, and the Word was with God, and the Word was God. 2 This one was in the beginning with God. 3 All things came into being through him, and apart from him not one thing came into being that has come into being. 4 In him was life, and the life was the light of humanity. 5 And the light shines in the darkness, and the darkness did not overcome it. 6 A man came, sent from God, âŒŠwhose name wasâŒ‹ John. 7 This one came for a witness, in order that he could testify about the light, so that all would believe through him. 8 That one was not the light but came in order that he could testify about the light. 9 The true light, who gives light to every person, was coming into the world. 10 He was in the world, and the world came into being through him, and the world did not recognize him. 11 He came to his own things, and his own people did not receive him. <b>12 But as many as received himâ€”to those who believe in his nameâ€”he gave to them authority to become children of God</b>, 13 who were born not of blood, nor of the will of the flesh, nor of the will of a husband, but of God. 14 And the Word became flesh and took up residence among us, and we saw his glory, glory as of the one and only from the Father, full of grace and truth. 15 John testified about him and cried out, saying, â€œThis one was he about whom I said, â€˜The one who comes after me is ahead of me, because he existed before me.â€™â€ 16 For from his fullness we have all received, and grace after grace. 17 For the law was given through Moses; grace and truth came about through Jesus Christ. 18 No one has seen God at any time; the one and only, God, the one who is in the bosom of the Fatherâ€”<b>that one has made him* known.<a href="https://draft.blogger.com/#_ftn2">[2]</a></b></i></blockquote><a href="https://draft.blogger.com/#_ftn2"></a> <p></p><p style="text-align: left;"><br>&nbsp;</p><h4 style="text-align: left;">Structural Outline </h4><p style="text-align: left;"><br>Johnâ€™s introduction to his theological biography of Jesus (1:1-18) <br><br>I Jesusâ€™ Nature (v 1-9) <br><br>A Nature Claim 1: Jesus preexisted with Yahweh, and was the co-creator (v 1-3) <br><br>B Nature Claim 1: Jesus is the embodiment of Creation (v 4-5) <br><br>C Clarification from John the Baptist: Jesus is different from John the Baptist (v 6-9) <br><br>II Jesusâ€™ Mission (v 10-15) <br><br>A Mission Claim 1: Jesus came to offer adoption as Godâ€™s kids (v 10-13) <br><br>B Mission Claim 2: Jesus came to his creation as one of them (v 10-14) <br><br>C Clarification from John the Baptist: John was not Jesus, but the one who prepared the way (v 15) <br><br>III Jesusâ€™ Legacy/Results (v 16-18) <br><br>A Jesus brings â€œgraceâ€ (16) <br><br>B Moses brought the Torah (the mind of Yahweh), building on that Jesus brought Grace (the Heart of Yahweh) (17) <br><br>C To know Jesus is to know the Father/Yahweh (18) <br>&nbsp;</p><p style="text-align: left;">&nbsp;</p><h4 style="text-align: left;">Observations </h4><p style="text-align: left;"><br>(1:1-3) <br><br></p><ul style="text-align: left;"><li><b>Beginning - Genesis One</b>: In the beginning calls the reader back to Genesis 1:1, "In the beginning, Elohim created the Skies and the Land".<a href="https://draft.blogger.com/#_ftn3">[3]</a> John mirrors the Hebrew (×‘Ö°Ö¼×¨Öµ××©Ö´×Ö–×™×ª) and the LXX by omitting the definite article in Greek (Î•Î Î‘Î¡Î§Î— (Gen1 LXX)/ á¼˜Î½ á¼€ÏÏ‡á¿‡ (John 1) causing a direct mental hyperlink to the original passage for anyone familiar with their Hebrew scriptures.<a href="https://draft.blogger.com/#_ftn4">[4]</a> </li><li><b>Beginning - Greek philosophers</b> began a search for the basic stuff from which everything was made, and Aristotle termed the search â€œwhat is the beginningâ€. John who was by this point living among the Greek-Speaking peoples of Ephesus created a double impact by his use of the phrase. His gospel will answer new Greek questions with old Hebrew answers, and yet with a surprising new twist (the Logos became one of us).<a href="https://draft.blogger.com/#_ftn5">[5]</a> </li><li><b>New Creation</b>: John writes his own Genesis, and his gospel is saturated with Genesis imagery. The creation of the world in Genesis is now interplayed with the New Creation in John. NET Bible Notes also make a point to clarify that Genesis 1:1 was a physical/spiritual creation (bodies animated by the breath of God), likewise, Johnâ€™s gospel is about a second birth which is also a physical/spiritual creation. Bodies are in this life in-breathed by Godâ€™s Spirit, and the promise remains of a future Resurrection with new in-breathed bodies. Thus, the water into wine is the first sign of this new creation arriving.<a href="https://draft.blogger.com/#_ftn6">[6]</a> In John, Jesus begins and ends his ministry interaction with wine symbols. </li><li><b>Word - Hebrew Thought</b>: For the Hebrews, God created the world not through a fight with other divine beings as taught in the Ugaritic story of Enuma Elish, but by simply speaking words and those words caused things to happen.<a href="https://draft.blogger.com/#_ftn7">[7]</a> This then becomes tied into the ideas and concepts which play out in the work of later Hebrew-Greek Philosopher, Philo. </li><li><b>Word - Greek Philosophers</b>: The word Î»ÏŒÎ³Î¿Ï‚ (logos) has a rich tradition in Greek Philosophy dating back to the 600s BC. In summary, by the first century AD, the Stoics had come to define the Logos as a cosmological and divine entity from which everything was created. The Jewish Philosopher, Philo (20 BC to 50 AD) brought the Hebrew scriptures to the Greek Philosophy and taught that logos was the way God operated in the world. For Philo, God did not govern directly but through his son, a mediator called the Logos. Lexham Bible Dictionary explains: </li></ul><blockquote><i>â€œIn Johnâ€™s prologue, God creates by way of the logos (John 1:3), similar to Philoâ€™s teachings. The logos is the only begotten Son of the Father (John 1:14), who acts as mediator between God and the people who do not know God (John 1:18), also like in Philo. The major difference between Philo and John comes with Johnâ€™s identification of the logos with the historical person of Jesus.â€<a href="https://draft.blogger.com/#_ftn8">[8]</a></i></blockquote><a href="https://draft.blogger.com/#_ftn8"></a> (1:4-5) <br><br><ul style="text-align: left;"><li><b>Light â€“ Life</b>: As the reader is already reminded of Genesis One, they consider the first act of God speaking, â€œlight beâ€, and then they're reminded of the Tree of Life in the Garden. The two concepts are tied together as one theme for John, the light that began all creation is the life that was lost in Eden. He takes it further, showing that life-light was actually a being, the Logos. When humankind lost the life-light, the life-light became a human to bring it back to them. </li></ul><br> (1:1-18) <br><br><ul style="text-align: left;"><li><b>Eternal Nature</b>: John uses a series of repetitive statements to drive home the point that the Logos (Jesus) is God and is eternal. He begins by showing he was in the beginning and the creator of all. Then he shows that he was the light/life but became a human. Then he shows that he came to the world, but most of the world did not recognize him, but those who did became Children of God. Then he circles back to the concept of Logos becoming the very creation he created. Then he uses John the Baptist to emphasize that Jesus pre-existed John, even though John was six months older (which by now everyone knows because the Synoptics have circulated for decades). He wraps up by showing that Moses gave the Torah, and Jesus clarified and brought fullness to Torah by adding Grace and Truth. </li></ul><p>&nbsp;</p><p>&nbsp;</p><h4 style="text-align: left;">Situational Reconstruction </h4><p style="text-align: left;"><br><b>Authorship</b>: The author of â€œJohnâ€ is unidentified within the text and refers to himself as â€œthe disciple whom Jesus lovedâ€ (John 21:20). It is in the closing chapter that the author gives us an interesting wordplay with the use of agapaÅ (to love, be faithful towards, delight in) and phileÅ (to manifest an act of kindness or token of affection, such as a kiss) (John 21:15-23).<a href="https://draft.blogger.com/#_ftn9">[9]</a> This focus on â€œloveâ€ becomes the theme of Johnâ€™s gospel, â€œfor God so loved the worldâ€ (John 3:16). Fee and Hubbard note that the author chooses the moniker/self-designation â€œthe disciple whom Jesus lovedâ€ to generate trust in his testimony as a confidant of Jesus.<a href="https://draft.blogger.com/#_ftn10">[10]</a> The author was likely Jewish by birth as he wrote Greek with an Aramaic way of thinking.<a href="https://draft.blogger.com/#_ftn11">[11]</a> <br><br>Church tradition and many commentaries settle on the author as John, the Apostle, the Son of Zebedee.<a href="https://draft.blogger.com/#_ftn12">[12]</a> However, it has been noted that John the Elder is also considered a possible author.<a href="https://draft.blogger.com/#_ftn13">[13]</a> Keener makes a compelling case for the author being John the Apostle, one of Jesusâ€™ closest companions (the inner three).<a href="https://draft.blogger.com/#_ftn14">[14]</a> Meanwhile, Wright takes a different tact, saying that some internal and external evidence leads him to â€œcautiously concludeâ€ that the author was John the Elder, a disciple of John the Apostle.<a href="https://draft.blogger.com/#_ftn15">[15]</a> This conclusion rests largely on how the early church fatherâ€™s referred to John as â€œThe Elderâ€ while referring to others as â€œApostlesâ€ in the same writings, and a tense change within the gospel itself that lends one to see the author as having joined the party later in Jesusâ€™ ministry. <br><br>In either case, the author is close enough to Jesus to have been leaning against him at the last supper and well-connected enough to be the only disciple allowed in the inner courts during Jesusâ€™ prosecution, and the only disciple present at the cross. He is also close enough to Jesus, that he inherits the care of Jesusâ€™ mother, Mary at the cross. The author is also thought to be the same author as 1, 2, &amp; 3 John and Revelation, due in large part to the contextual links in themes between all these writings.<a href="https://draft.blogger.com/#_ftn16">[16]</a> It is noted that the author would not need to identify his name if were already known to his â€œdear friendsâ€.<a href="https://draft.blogger.com/#_ftn17">[17]</a> The traditional view of John the Apostle is assumed by this paper, acknowledging the possibility of John the Elder.&nbsp;</p><p style="text-align: left;"><br><br><b>Recipients and Date</b>: Most early traditions point to John having been an Elder of the Church of Ephesus, between 70AD and 100AD. The Rylands Fragment of John dates to 135 AD and was discovered in Egypt. For the gospel to have circulated down that far, it would have had to have been written decades before.<a href="https://draft.blogger.com/#_ftn18">[18]</a> This leads one to conclude that the gospel likely dates to the later decades of the first century AD. As one of the four â€œGospelsâ€, the book was written with the knowledge it would be passed around to various audiences, but likely would have begun its circulation in Ephesus. <br><br>Barry notes the detail of Jewish customs reflect a first-hand knowledge of Judea, and he concludes the audience would have been Jewish Christians.<a href="https://draft.blogger.com/#_ftn19">[19]</a> However, JFB notes that the explanation of things familiar to most Jews indicates the audience is largely Gentile.<a href="https://draft.blogger.com/#_ftn20">[20]</a> Intertextually, Ephesus plays a major role in the development of the New Testament. As noted elsewhere, Paulâ€™s work in Colossae led to the development of the church at Ephesus and impacted all of Asia Minor.<a href="https://draft.blogger.com/#_ftn21">[21]</a> Thus, if the author of John is writing after the work of Paul, he is certainly aware of the letters of Paul to Philemon, Ephesians, and Colossians and would be writing firstly to those same audiences.&nbsp;</p><p style="text-align: left;"><br><br><b>Why John Wrote the fourth Gospel</b>: By this point in history, the three synoptic gospels had circulated as had the writings of Paul and most (if not all) the other New Testament epistles. So, what did John feel was needed to add to the now-established young church? While the three Synoptics focused on narrative-biography, John had many decades to reflect on his experiences with Jesus and the resulting impacts of those events on world history up to that point. He had seen the walls of Jerusalemâ€™s beloved temple fall, just as Jesus said they would (Matthew 24). John presents a theological gospel, with an emphasis on Jesus as the â€œGod-Manâ€.<a href="https://draft.blogger.com/#_ftn22">[22]</a> <br><br>The prologue of John begins with a series of statements and theological claims about the nature of Jesus and his ministry (1:1-18). The most striking of which are the use of â€œbeginningâ€, â€œlogos/wordâ€, and inferences to the eternal nature of Jesus who was â€œwith Godâ€ and through whom â€œeverything was createdâ€. The introduction concludes by using the words of John the Baptist to emphasize the point of the story: â€œI have seen and testify that this one (Jesus) is the Chosen One of Godâ€ (John 1:32-34). <br><br>John concludes his book by telling the reader why he wrote, that â€œyou may believe the Jesus is the Christos (Messiah), the Son of God (a political and theological claim in one), and that by believing you may have life in His name.â€ (parenthesis added, John 20:30-31). This final statement is often misunderstood by modern Christians to indicate a disembodied future in â€œheavenâ€; while the common Jewish understanding would have understood that he meant a forever-life at The Resurrection, which Paul also referred to when he talked about getting new bodies. <br>&nbsp;</p><p style="text-align: left;">&nbsp;</p><h4 style="text-align: left;">Theological Questions </h4>What does the passage teach us about God? <ul style="text-align: left;"><li>Everything that exists came through the work of God and His Logos. </li><li>Godâ€™s Light and Life (Genesis one and two themes) are tied directly to his Logos. </li><li>Godâ€™s purposes in entering his creation were to make a family and show them the way out of the darkness. </li><li>It is impossible to see God as Father without seeing Jesus as Godâ€™s Logos, Creative-Force. </li><li>While God is big enough to create an entire universe, he is passionate about his humans and wants them to be his family. He is so interested in them, he is willing to become one of them for eternity (Jesus never stopped being incarnated, he remains today in the resurrected human form he took at the incarnation). </li><li>Unlike the Ugaritic Peopleâ€™s ideas about the â€œgodsâ€ creating through a war with Tiamat, or the later version of essentially the same story in the Greek worldâ€™s ideas of Zeus defeating Cronos, Johnâ€™s God is capable of overcoming the chaos darkness all on his own, by simply speaking through his Logos. While Stoics rejected the personal gods in favor of an essence called logos, John shows them a personal God does exist in the person of Logos. </li></ul>What does the passage teach us about humankind? <ul style="text-align: left;"><li>Without the Light, which is the Life, we stumble around in the darkness. </li><li>It is possible to be in the presence of the very thing you need most and be blind to it. </li><li>Some may never understand the calling on a personâ€™s life or their message (John the Baptist/Jesus alike). Some may even attack the message on behalf of God, even though it was from God. </li></ul>What does the passage teach us about the relationship between God and humankind? <ul style="text-align: left;"><li>We are invited to become Godâ€™s family. </li><li>Godâ€™s work in the world may not be recognized by many in the world, but some will recognize that work, and those will be recognized by God. </li><li>When God wants to do his greatest work, he becomes one of the very humans he created to show them what he is like. </li></ul>What does the passage teach us about the responsibilities God gives to humankind? <ul style="text-align: left;"><li>Just as God works through his Logos, he also works through his people. Rather than announcing his purposes from the sky, he begins by sending a Spirit-empowered human in the form of John the Baptist. </li><li>He gives humans access to light and life; however, he will not force them to accept it. </li><li>Just as he will not force them to accept it, he will not provide them another avenue either. As a parent might refuse to make a different meal than the one prepared, the ending of the prologue makes it clear that no one can see God as Father unless they come to him through his Logos. </li></ul>What does the passage teach us about how people should treat each other, particularly in light of our relationship with God? <ul style="text-align: left;"><li>While nothing directly speaks to human-to-human relationships, there are inferences available in the text: </li><ul><li>If John the Baptist and the Logos himself could come and not be recognized by the very people who studied the â€œwordâ€ day and night, we should be cautious when we speak to believers we disagree with. It may turn out to be that they are trying to bring us the light that we need and we are too blind to see it. </li><li>Just as Moses gave Torah (teachings) and the Logos expanded those teachings, we may come to the things of God in stages. We should appreciate those who came before, but not fail to move forward with the new things God wants to show us. However, they should always align, as Torah/Logos do, in the beginning. </li></ul></ul><p style="text-align: left;"><br> <br></p><h4 style="text-align: left;">Lexicography </h4><p style="text-align: left;"><br>This Lexicography is using reproduces but condenses the Mounce Lexicon unless otherwise indicated.<a href="https://draft.blogger.com/#_ftn23">[23]</a> For brevity, some examples are included, but not an exhaustive list. <br><br></p><ul style="text-align: left;"><li><b>(794) á¼€ÏÏ‡Î® archÄ“ 55x â€œa beginningâ€</b> (Mt. 24:8), can refer to an extremity or corner (Acts 10:11; 11:5), but typically referring to authority and headship (Jude 6; Lk. 20:20; Lk. 12:11; Eph. 3:10; 6:12). Could also refer to â€œfrom the firstâ€ (Mt. 19:4, 8; Lk. 1:2; Jn. 6:64; 2 Thess. 2:13; 1 Jn. 1:1; 2:7) or â€œin the beginning of thingsâ€ (Jn. 1:1, 2; Heb. 1:10, Acts 11:15). </li><li><b>(3364) Î»ÏŒÎ³Î¿Ï‚ logos 330x â€œa wordâ€</b>, typically used in the common sense of â€œspeech, language, talkâ€. However, could also have conceptual links to the Hebrew concepts of â€œthe Word of Yahwehâ€ which came to the prophets. (Mt. 13:21, 22; Mk. 16:20; Lk. 1:2; Acts 6:4); and in only one place in the New Testament, it is used as â€œthe divine WORDâ€ (or Logos) (Jn. 1:1). Originally a mathematical term referring to giving account (bookkeeping), Logos came to have strong ties to Greek Philosophers such as Pythagoras, Heraclitus, Socrates, Plato, Aristotle, the Stoics, and the Hebrew-Greek Philosopher Philo.<a href="https://draft.blogger.com/#_ftn24">[24]</a> </li><ul><li>See also, the Old Testament, â€œdabarâ€ Mounce expands here to say that while the word â€œdabar/wordâ€ is common in the Hebrew for all sorts of speech, Human and God, it is often used to refer to â€œThe Dabar of Yahweh has come to meâ€.&nbsp;</li><li>Verb: ×“Ö¸Ö¼×‘Ö·×¨ (dÄbar), GK 1819 (S 1696), 1136Ã—; Noun: ×“Ö¸Ö¼×‘Ö¸×¨ (dÄbÄr), GK 1821 (S 1697), 1454Ã—; Noun: × Ö°×Ö»× (neÊ¾um), GK 5536 (S 5002), 376Ã—. neÊ¾um.<a href="https://draft.blogger.com/#_ftn25">[25]</a> See also, ×§Ö¸×¨Ö¸× (qara) vb. call, proclaim, read and ×Ö¸×žÖ·×¨ (amar) vb. utter, say from Genesis One.<a href="https://draft.blogger.com/#_ftn26">[26]</a> </li><li>This â€œWord/Dabarâ€, Dr. Tim Mackie says, is seen as the subject of the verb in the vision recorded in Genesis 15:1, and thus the â€œWord of Yahwehâ€ becomes seen as an analog for Yahweh himself in later Jewish traditions.<a href="https://draft.blogger.com/#_ftn27">[27]</a> This blends into the theme of God using his Logos at work in the world in Greek thought, and the two are combined in the work of Philo. </li></ul><li><b>(2437) Î¶Ï‰Î® zÅÄ“ 135Ã— life, </b>living existence (Lk. 16:25; Acts 17:25) spiritual life (Jn. 6:51; Rom. 5:18; 6:4); the final life of the redeemed, (Mt. 25:46) life, source of spiritual life. Aligned with the Hebrew background for these concepts, this should be understood as related to the Tree of Life in Genesis 2; and to the Resurrection of the Dead at the Great Day of Yahweh, in which everyone loyal to Yahweh is brought back from the grave and invited into the eschatological Kingdom of God. Life, in the mouths of Greek-speaking Hebrew minds, refers to the life we have a taste of now and a promise of in the age to come. For the Hebrew, the grave is not the end, a redemption will come at the end. We will live, embodied, again. Thus, Paul goes on to talk about a day when all believers will rise from the dead, and together we will get new bodies. This concept is what is meant by â€œeternal (zoe) lifeâ€ when spoken by a Hebrew-minded writer. </li><li><b>(5890) Ï†á¿¶Ï‚ phÅs 73Ã— light</b> (Mt. 17:2; 2 Cor. 4:6) daylight, broad day (Mt. 10:27; Lk. 12:3) from the Hebrew, the light of Godâ€™s presence (2 Cor. 11:14; 1 Tim. 6:16) the light of Divine truth, spiritual illumination (Lk. 16:8; Jn. 3:19; Rom. 13:12; Eph. 5:8; 1 Pet. 2:9; 1 Jn. 1:7; 2:8, 9, 10). Contextualized by John, this word refers to the very first act of creation, â€œand Elohim said â€˜light beâ€™ and light beâ€™dâ€. It was through the Logos that light and life were given to humankind, both in the beginning and in this new beginning.&nbsp;</li></ul><p style="text-align: left;"></p><p style="text-align: left;"><br></p><h4 style="text-align: left;">Authorial Intent (Message/Argument of the Text) </h4><p style="text-align: left;"><br> In the late first century AD, John took his residence in Ephesus and became pastor over Asia Minor (hence his seven letters in Revelation). Either John the Apostle or John the Elder working with John the Apostle may have received a revelation from the Apostle Andrew to write a fourth gospel account.<a href="https://draft.blogger.com/#_ftn28">[28]</a> At this point, the Synoptics, most epistles, and Paulâ€™s letters had circulated through the churches. Paul who began the work in Asia Minor was later killed by the Romans, as was Peter. John built on Paulâ€™s work in Ephesus. As an old man, John had decades to reflect on the life of Jesus, speaking about it with anyone who would listen. He had read the works of Matthew, Mark, and Luke and felt no need to repeat their works. John is also fighting increased emperor worship in his time, as Caesar is called â€œlord and godâ€ by his people.<a href="https://draft.blogger.com/#_ftn29">[29]</a> <br><br> Bringing together his life as a Hebrew fisherman in Galilee and his life as a world-traveler among the Greeks, John sets out to show the world a more intimate and theologically themed narrative about the life of the man who changed everything. He allows his words to do triple time, relating Hebrew and Greek ideas with a narrative aimed directly at the emperor worship of his day. Clement of Alexandria said that John had seen all the basic facts laid out by the other writers and wanted to compose a gospel aimed at the core theological themes of Jesusâ€™ ministry, a â€œspiritual gospelâ€.<a href="https://draft.blogger.com/#_ftn30">[30]</a> <br><br> While recent scholarship has shown the works of the Synoptics to demonstrate high-Christology once understood in their own original Hebrew contexts,<a href="https://draft.blogger.com/#_ftn31">[31]</a> Johnâ€™s gospel remains the clearest indication to lay-readers of his divinity focusing on the unity of Father and Son.<a href="https://draft.blogger.com/#_ftn32">[32]</a> To begin this narrative, John chooses a framework that highlights Jesus as God-incarnate. Mackie says that Jesus is shown in Johnâ€™s prologue to be equal with Yahweh, and then he spends the rest of the gospel showing Jesus going around doing â€œYahweh Stuffâ€.<a href="https://draft.blogger.com/#_ftn33">[33]</a> Blum summarizes: <br><br>It is almost as if John had said, â€œI want you to consider Jesus in His teaching and deeds. But you will not understand the good news of Jesus in its fullest sense unless you view Him from this point of view. Jesus is God manifest in the flesh, and His words and deeds are those of the God-Man.â€<a href="https://draft.blogger.com/#_ftn34">[34]</a> <br><br>  Building on the work of Philo, John brings ancient Hebrew and new Greek ideas to bear on the theological significance of the life of Jesus. This is no mere prophet or philosopher or martyr. Jesus is the Logos the Greeks are searching to understand. He is the manifested Word of God which was in operation throughout Yahwehâ€™s work with Israel. Even before anything existed, Jesus was there, as the Logos, the Word. Jesus was not only with God, but he was also God. Separate and together. Many in the Jewish community were already familiar with the Two Powers in Heaven and some knew of Philoâ€™s work showing Yahweh worked through his â€œsonâ€ the Logos, now John was introducing these concepts in a new way, one that tied them directly to this one man in real history and his impact on the world.<a href="https://draft.blogger.com/#_ftn35">[35]</a> <br><br> Humanity was groping about in darkness and death, and the light-giver and life-giver came to bring them hope. However, many failed to see it for what it was. Even after a movement had started and gospels were written and shared, there remained only a portion of the population that believed the good news of the Yeshua (Iesus/Jesus) as the real Lord (kurios) and God (theos) who had come to bring peace (counter to the Pax Romana). These were all direct opposition to the claims of Caesar. John upped the ante and demonstrated once and for all that one must choose Caesar or Jesus as Lord. And yet, the words he chooses do not speak as one who lays down a demand but as one pleading from compassion. <br><br> John speaks of new creation, light, life, and a new family of God. John centers his prologue around the invitation: â€œas many as received him â€“ to those who believe in his name â€“ he gave them authority to become children of Godâ€ (1:12, see bolded in the introduction to this paper). Just as God once created a physical world and a physical human and breathed life into that human; God was again at work in the world breathing new life into humanity. As God had intended to walk with Adam in the cool of the day, God was again calling humanity out to become children and family. The prologue ends with the desire of Johnâ€™s heart â€œto make Him knownâ€ just as the Logos had made the heart of the father â€œknownâ€ (1:18).&nbsp;</p><p style="text-align: left;"></p><p style="text-align: left;"><br></p><h4 style="text-align: left;">Conclusion </h4><p style="text-align: left;"><br>After reviewing the text, the situational background, and exploring the themes presented by John, this paper concludes that Johnâ€™s primary message both in his book and in this section (prologue) was to demonstrate the Jesus was the Logos (the search of the Greek) and the Word (the second power in heaven) who came to offer the opportunity to become children of God. John wanted to â€œmake him knownâ€ so that everyone would have the opportunity to connect with Godâ€™s heart to have his human family return to him. To do this, he spent his words repeating and driving home the theme that this was no mere man, no mere prophet, but was the very Logos of Yahweh/God. The rest of the book of John outlines the life of Jesus in ways that highlight these points. The themes of the Logos at work in the world by bringing light and life are repeated throughout the book. To everyone who believes, they are given the opportunity to become Godâ€™s kids. Just as â€œthe disciple whom Jesus lovedâ€ was intimate with Godâ€™s heart, he desired everyone else should be too. John knew that others had written the facts of Jesus, John wanted to communicate the heart of Jesus and his Father to his lost and hurting humanity. God wanted his family back. <br><br> <br></p><h4 style="text-align: left;">Notes</h4><p style="text-align: left;"> <br><a href="https://draft.blogger.com/#_ftnref1">[1]</a> 
+â€œBible Translation Spectrum,â€ accessed November 20, 2021, 
+https://wiki.logos.com/Bible_Translation_Spectrum; â€œThe Lexham English 
+Bible: Dark Horse of English Bible Versions,â€ Bible Bookshelf blog, 
+accessed November 20, 2021, 
+http://biblebookshelf.weebly.com/1/post/2017/01/the-lexham-english-bible-dark-horse-of-english-bible-versions.html.
+ <br> <br><a href="https://draft.blogger.com/#_ftnref2">[2]</a> The 
+Lexham English Bible (LEB), Fourth Edition, Logo Bible Software, Harris,
+ W. H., III, Ritzema, E., Brannan, R., Mangum, D., Dunham, J., Reimer, 
+J. A., &amp; Wierenga, M. (Eds.) (Bellingham, WA: Lexham Press, 2010), 
+John 1:1â€“18, http://www.lexhampress.com; â€œNJAB - Comparison Chart of 
+Bible Translations Showing Style or Type of Translation and Readability 
+or Grade Level,â€ accessed November 20, 2021, 
+https://notjustanotherbook.com/biblecomparison.htm. <br> <br><a href="https://draft.blogger.com/#_ftnref3">[3]</a> The Lexham Hebrew Bible (LHB) (Bellingham, WA: Leham Press, 2012), English translation of Gen 1:1 my own. <br> <br><a href="https://draft.blogger.com/#_ftnref4">[4]</a>
+ Rob Plummer, Daily Dose of Greek, Daily Dose of Greek (Louisville, KY: 
+Daily Dose of Greek and Hebrew), John 1, accessed November 27, 2021, 
+https://dailydoseofgreek.com/about/; LHB, Genesis 1; Henry Barclay 
+Swete, The Old Testament in Greek: According to the Septuagint 
+(Cambridge, UK: Cambridge University Press, 1909), Genesis 1; Richard J 
+Goodrich et al., A readerâ€™s Hebrew and Greek Bible: 2nd edition., 2020, 
+John 1. <br> <br><a href="https://draft.blogger.com/#_ftnref5">[5]</a> The NET Bible First Edition Notes (Biblical Studies Press, 2006), Notes for 1:1. <br> <br><a href="https://draft.blogger.com/#_ftnref6">[6]</a> The NET Bible First Edition Notes, Notes for 1:1. <br> <br><a href="https://draft.blogger.com/#_ftnref7">[7]</a>
+ â€œEnuma Elish - New World Encyclopedia,â€ accessed November 17, 2021, 
+https://www.newworldencyclopedia.org/entry/Enuma_Elish; John H Walton, 
+The Lost World of Genesis One: Ancient Cosmology and the Origins Debate.
+ (Westmont: InterVarsity Press, 2010), 
+https://public.ebookcentral.proquest.com/choice/publicfullrecord.aspx?p=2030851.
+ <br> <br><a href="https://draft.blogger.com/#_ftnref8">[8]</a> The 
+Lexham Bible Dictionary - Barry, J. D., Bomar, D., Brown, D. R., 
+Klippenstein, R., Mangum, D., Sinclair Wolcott, C., â€¦ Widder, W. (Eds.).
+ (2016). In The Lexham Bible Dictionary. Bellingham, WA: Lexham Press. 
+(Billingham, WA: Leham Press, 2016), o Brian K. Gamel, â€œLogos, Greek 
+Background,â€ ed. John D. Barry et al., LexhamPress.com. <br> <br><a href="https://draft.blogger.com/#_ftnref9">[9]</a>
+ William D. Mounce, ed., Mounceâ€™s Complete Expository Dictionary of Old 
+&amp; New Testament Words (Grand Rapids, Mich: Zondervan, 2006). <br> <br><a href="https://draft.blogger.com/#_ftnref10">[10]</a>
+ Gordon D. Fee and Robert L. Hubbard, eds., The Eerdmans Companion to 
+the Bible (Grand Rapids, Mich.â€¯; Cambridge, U.K: W.B. Eerdmans Pub. Co, 
+2011), 585. <br> <br><a href="https://draft.blogger.com/#_ftnref11">[11]</a>
+ Charles Gore, Henry Leighton Goudge, and Alfred Guillaume, eds., A NEW 
+COMMENTARY ON HOLY SCRIPTURE INCLUDING THE APOCRYPHA, Vol. 1, p. iii 
+(New York, NY: The Macmillan Company, 1928), W. Lock, â€œThe Gospel 
+according to St. John,.â€ <br> <br><a href="https://draft.blogger.com/#_ftnref12">[12]</a>
+ Christian Standard BibleÂ® (CSB) (Nashville, Tennessee.: Holman Bible 
+Pub, 2017), Andreas J. KÃ¶stenberger, â€œJohn,â€; E. Ray Clendenen and 
+Jeremy Howard, Holman Illustrated Bible Commentary (Broadman &amp; 
+Holman, 2015), Andreas KÃ¶stenberger, â€œJohn,â€; Gordon D. Fee and Douglas 
+K. Stuart, How to Read the Bible Book by Book: A Guided Tour (Grand 
+Rapids, Mich: Zondervan, 2002), 304; Robert Jamieson, A. R. Fausset, and
+ David Brown, Commentary Critical and Explanatory on the Whole Bible 
+(1871) (Oak Harbor, WA: Logos Research Systems, Inc., 1997), 126. <br> <br><a href="https://draft.blogger.com/#_ftnref13">[13]</a> Faithlife Study Bible, via Logos Software (Faithlife / Logos Bible Software, 2018), Introduction to John, John D. Barry et al. <br> <br><a href="https://draft.blogger.com/#_ftnref14">[14]</a>
+ Faithlife Study Bible, via Logos Software, Craig S. Keener, â€œThe Gospel
+ of John and the Johannine Letters,â€. The Beloved Disciple holds a place
+ of special honor in John 13:23, and options for who occupied this 
+position appear limited (though some suggest Lazarus or Thomas). Besides
+ John, Jesusâ€™ inner circle in the other first-century Gospels included 
+only James, who was martyred early (Acts 12:2), and Peter, whom Johnâ€™s 
+Gospel distinguishes from the Beloved Disciple (John 13:24; 20:4â€“6)â€¦ 
+Differing significantly from the earlier Synoptic Gospels, the Gospel of
+ John itself took time to gain wide acceptance, which may suggest John 
+the Elder as its author. However, the son of Zebedee, by contrast, is 
+clearly close to Jesus and this gives him probable status as the Beloved
+ Disciple. <br> <br><a href="https://draft.blogger.com/#_ftnref15">[15]</a>
+ N. T. Wright and Michael F. Bird, The New Testament in Its World: An 
+Introduction to the History, Literature, and Theology of the First 
+Christians (Londonâ€¯: Grand Rapids, MI: SPCKâ€¯; Zondervan Academic, 2019),
+ 652â€“63. <br> <br><a href="https://draft.blogger.com/#_ftnref16">[16]</a>
+ John F. Walvoord, Roy B. Zuck, and Dallas Theological Seminary, eds., 
+The Bible Knowledge Commentary: An Exposition of the Scriptures 
+(Wheaton, Ill: Victor Books, 1983), Edwin A. Blum, â€œJohn,.â€ <br> <br><a href="https://draft.blogger.com/#_ftnref17">[17]</a>
+ Fee and Stuart, How to Read the Bible Book by Book, 411. Note: John 
+feels the need to clarify that John the Baptist is not Jesus; however, 
+never feels the need to clarify that John the Baptist is not the same as
+ John the Apostle. A possible indication of John the Apostle being the 
+author, audience familiarity. <br> <br><a href="https://draft.blogger.com/#_ftnref18">[18]</a> Fee and Hubbard, The Eerdmans Companion to the Bible, 585. <br> <br><a href="https://draft.blogger.com/#_ftnref19">[19]</a> Faithlife Study Bible, via Logos Software, Introduction to John, by John D. Barry et al.,. <br> <br><a href="https://draft.blogger.com/#_ftnref20">[20]</a> Jamieson, Fausset, and Brown, Commentary Critical and Explanatory on the Whole Bible (1871), 126â€“27. <br> <br><a href="https://draft.blogger.com/#_ftnref21">[21]</a>
+ Darrell Wolfe, â€œClass Assignment: Situational Reconstruction | 
+Philemonâ€ (Paper, Biblical Background and Interpretation 
+(2021FA-BIBL-2301-ONL), The Kingâ€™s University, Southlake, Texas, 
+November 4, 2021), 
+http://www.darrellwolfe.com/2021/11/class-assignment-situational.html. <br> <br><a href="https://draft.blogger.com/#_ftnref22">[22]</a> Walvoord, Zuck, and Dallas Theological Seminary, The Bible Knowledge Commentary, 271; The Prologue (1:1â€“18). <br> <br><a href="https://draft.blogger.com/#_ftnref23">[23]</a> Mounce, Mounceâ€™s Complete Expository Dictionary of Old &amp; New Testament Words. <br> <br><a href="https://draft.blogger.com/#_ftnref24">[24]</a> Lexham Bible Dictionary, LOGOS, GREEK BACKGROUND. <br> <br><a href="https://draft.blogger.com/#_ftnref25">[25]</a> Mounce, Mounceâ€™s Complete Expository Dictionary of Old &amp; New Testament Words, 801. <br> <br><a href="https://draft.blogger.com/#_ftnref26">[26]</a>
+ Wilhelm Gesenius et al., The Abridged Brown-Driver-Briggs 
+Hebrew-English Lexicon of the Old Testament: From A Hebrew and English 
+Lexicon of the Old Testament. (Boston; New York: Houghton, Mifflin and 
+Company, 1906). <br> <br><a href="https://draft.blogger.com/#_ftnref27">[27]</a>
+ Tim Mackie and Jon Collins, â€œGodâ€™s Word, Spirit, &amp; Wisdom Podcast |
+ BibleProjectTM,â€ BibleProject, accessed November 26, 2021, 
+https://bibleproject.com/podcast/theme-god-e11-gods-word-spirit-wisdom/.
+ <br> <br><a href="https://draft.blogger.com/#_ftnref28">[28]</a> Gore, 
+Goudge, and Guillaume, A NEW COMMENTARY ON HOLY SCRIPTURE INCLUDING THE 
+APOCRYPHA, W. Lock, â€œThe Gospel according to St. John,â€ ((Apostle Andrew
+ (Muratorian Canon))). <br> <br><a href="https://draft.blogger.com/#_ftnref29">[29]</a>
+ Fee and Hubbard, The Eerdmans Companion to the Bible, Marianne Meye 
+Thompson, â€œThe Johannine Writings,.â€ (Not unlike the way some mislead 
+Christians have praised Donald Trump in the 2016-2022 era). <br> <br><a href="https://draft.blogger.com/#_ftnref30">[30]</a> CSB, Andreas J. KÃ¶stenberger, â€œJohn,.â€ <br> <br><a href="https://draft.blogger.com/#_ftnref31">[31]</a>
+ N. T. Wright, Jesus and the Victory of God, 1st North American ed, vol.
+ Vol 2., Christian Origins and the Question of God (Minneapolis, MN: 
+Fortress Press, 1996). <br> <br><a href="https://draft.blogger.com/#_ftnref32">[32]</a> Faithlife Study Bible, via Logos Software, John D. Barry et al.,. <br> <br><a href="https://draft.blogger.com/#_ftnref33">[33]</a>
+ Tim Mackie and Jon Collins, â€œBibleProjectTM Videos and Podcasts,â€ God â€¢
+ Episode 17 Jesusâ€™ Identity in Johnâ€™s Gospel; and, God â€¢ Episode 18 God 
+Q&amp;R 3-Questions About Jesusâ€™ Identity, accessed June 18, 2021, 
+https://bibleproject.com/. <br> <br><a href="https://draft.blogger.com/#_ftnref34">[34]</a> Walvoord, Zuck, and Dallas Theological Seminary, The Bible Knowledge Commentary, Edwin A. Blum, â€œJohn,.â€ <br> <br><a href="https://draft.blogger.com/#_ftnref35">[35]</a>
+ Alan F. Segal, Two Powers in Heaven: Early Rabbinic Reports about 
+Christianity and Gnosticism, Studies in Judaism in Late Antiquity, v. 25
+ (Leiden: Brill, 1977). <br><br><br> <br></p><h4 style="text-align: left;">Bibliography </h4><p style="text-align: left;"><br> â€œBible Translation Spectrum.â€ Accessed November 20, 2021. https://wiki.logos.com/Bible_Translation_Spectrum. <br><br>Christian Standard BibleÂ® (CSB). Nashville, Tennessee.: Holman Bible Pub, 2017. <br><br> Clendenen, E. Ray, and Jeremy Howard. Holman Illustrated Bible Commentary. Broadman &amp; Holman, 2015. <br><br> â€œEnuma Elish - New World Encyclopedia.â€ Accessed November 17, 2021. https://www.newworldencyclopedia.org/entry/Enuma_Elish. <br><br> Faithlife Study Bible, via Logos Software. Faithlife / Logos Bible Software, 2018. <br><br> Fee, Gordon D., and Robert L. Hubbard, eds. The Eerdmans Companion to the Bible. Grand Rapids, Mich.â€¯; Cambridge, U.K: W.B. Eerdmans Pub. Co, 2011. <br><br> Fee, Gordon D., and Douglas K. Stuart. How to Read the Bible Book by Book: A Guided Tour. Grand Rapids, Mich: Zondervan, 2002. <br><br> Gesenius, Wilhelm, Charles Briggs, S.R. Driver, and Francis Brown. The Abridged Brown-Driver-Briggs Hebrew-English Lexicon of the Old Testament: From A Hebrew and English Lexicon of the Old Testament. Boston; New York: Houghton, Mifflin and Company, 1906. <br><br> Goodrich, Richard J, Albert L Lukaszewski, A. Philip Brown, and Bryan W Smith. A readerâ€™s Hebrew and Greek Bible: 2nd edition., 2020. <br><br> Gore, Charles, Henry Leighton Goudge, and Alfred Guillaume, eds. A NEW COMMENTARY ON HOLY SCRIPTURE INCLUDING THE APOCRYPHA. Vol. 1, p. Iii. New York, NY: The Macmillan Company, 1928. <br><br> Jamieson, Robert, A. R. Fausset, and David Brown. Commentary Critical and Explanatory on the Whole Bible (1871). Oak Harbor, WA: Logos Research Systems, Inc., 1997. <br><br> Mackie, Tim, and Jon Collins. â€œBibleProjectTM Videos and Podcasts.â€ Accessed June 18, 2021. https://bibleproject.com/. <br><br>â€”â€”â€”. â€œGodâ€™s Word, Spirit, &amp; Wisdom Podcast | BibleProjectTM.â€ BibleProject. Accessed November 26, 2021. https://bibleproject.com/podcast/theme-god-e11-gods-word-spirit-wisdom/. <br><br> Mounce, William D., ed. Mounceâ€™s Complete Expository Dictionary of Old &amp; New Testament Words. Grand Rapids, Mich: Zondervan, 2006. <br><br> â€œNJAB - Comparison Chart of Bible Translations Showing Style or Type of Translation and Readability or Grade Level.â€ Accessed November 20, 2021. https://notjustanotherbook.com/biblecomparison.htm. <br><br> Plummer, Rob. Daily Dose of Greek. Daily Dose of Greek. Louisville, KY: Daily Dose of Greek and Hebrew. Accessed November 27, 2021. https://dailydoseofgreek.com/about/. <br><br> Segal, Alan F. Two Powers in Heaven: Early Rabbinic Reports about Christianity and Gnosticism. Studies in Judaism in Late Antiquity, v. 25. Leiden: Brill, 1977. <br><br> Swete, Henry Barclay. The Old Testament in Greek: According to the Septuagint. Cambridge, UK: Cambridge University Press, 1909. <br><br> The Lexham Bible Dictionary - Barry, J. D., Bomar, D., Brown, D. R., Klippenstein, R., Mangum, D., Sinclair Wolcott, C., â€¦ Widder, W. (Eds.). (2016). In The Lexham Bible Dictionary. Bellingham, WA: Lexham Press. Billingham, WA: Leham Press, 2016. LexhamPress.com. <br><br> Bible Bookshelf blog. â€œThe Lexham English Bible: Dark Horse of English Bible Versions.â€ Accessed November 20, 2021. http://biblebookshelf.weebly.com/1/post/2017/01/the-lexham-english-bible-dark-horse-of-english-bible-versions.html. <br><br> The Lexham English Bible (LEB), Fourth Edition. Logo Bible Software. Harris, W. H., III, Ritzema, E., Brannan, R., Mangum, D., Dunham, J., Reimer, J. A., &amp; Wierenga, M. (Eds.). Bellingham, WA: Lexham Press, 2010. http://www.lexhampress.com. <br><br> The Lexham Hebrew Bible (LHB). Bellingham, WA: Leham Press, 2012. <br><br> The NET Bible First Edition Notes. Biblical Studies Press, 2006. <br><br> Walton, John H. The Lost World of Genesis One: Ancient Cosmology and the Origins Debate. Westmont: InterVarsity Press, 2010. https://public.ebookcentral.proquest.com/choice/publicfullrecord.aspx?p=2030851. <br><br> Walvoord, John F., Roy B. Zuck, and Dallas Theological Seminary, eds. The Bible Knowledge Commentary: An Exposition of the Scriptures. Wheaton, Ill: Victor Books, 1983. <br><br> Wolfe, Darrell. â€œClass Assignment: Situational Reconstruction | Philemon.â€ Paper presented at the Biblical Background and Interpretation (2021FA-BIBL-2301-ONL), The Kingâ€™s University, Southlake, Texas, November 4, 2021. <a href="http://www.darrellwolfe.com/2021/11/class-assignment-situational.html" target="_blank">http://www.darrellwolfe.com/2021/11/class-assignment-situational.html. </a><br><br> Wright, N. T. Jesus and the Victory of God. 1st North American ed. Vol. Vol 2. Christian Origins and the Question of God. Minneapolis, MN: Fortress Press, 1996. <br><br> Wright, N. T., and Michael F. Bird. The New Testament in Its World: An Introduction to the History, Literature, and Theology of the First Christians. Londonâ€¯: Grand Rapids, MI: SPCKâ€¯; Zondervan Academic, 2019. <br><br> <br><br><br><br> <br> <br> <br></p><p style="text-align: left;">
+<br>
+<br>
+</p><div id="mc_embed_signup" style="text-align: left;">
+<form action="https://darrellwolfe.us3.list-manage.com/subscribe/post?u=979cb0db6ca74343e82a059ba&amp;id=14df3ba97b" class="validate" id="mc-embedded-subscribe-form" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank">
+<div id="mc_embed_signup_scroll">
+<label>Subscribe Now - Pursue a No Hiding Lifestyle</label>&nbsp;<div class="fx-relay-email-input-wrapper"><input class="email" id="mce-EMAIL" name="EMAIL" required="" style="padding-right: 30px;" type="email" value=""><div class="fx-relay-icon" style="bottom: 0px; right: 2px; top: 0px;"><button class="fx-relay-button" id="fx-relay-button" style="height: 24px; min-width: 24px; width: 24px;" title="Generate new alias" type="button"></button></div></div><br>
+<div aria-hidden="true" style="left: -5000px; position: absolute;">
+<input name="b_979cb0db6ca74343e82a059ba_14df3ba97b" tabindex="-1" type="text" value=""></div>
+<div class="clear">
+<input class="button" id="mc-embedded-subscribe" name="subscribe" type="submit" value="Subscribe"></div>
+</div>
+</form>
+</div>
+<br>
+<span style="font-family: &quot;tempus sans itc&quot;;">Shalom: Live Long and Prosper!</span><br>
+<div class="MsoNormal" style="text-align: left;">
+<span style="font-family: &quot;tempus sans itc&quot;; font-size: 18pt;">Darrell Wolfe (DG Wolfe)</span></div>
+<div class="MsoNormal" style="text-align: left;">
+<span style="font-family: &quot;tempus sans itc&quot;;">Storyteller | Writer | Thinker | Consultant @&nbsp;<a href="http://www.darrellwolfe.com/p/start-here-about_12.html" target="_blank">DarrellWolfe.com</a></span><br>
+<br>
+<span style="font-family: &quot;tempus sans itc&quot;;"><a href="https://www.gallupstrengthscenter.com/" target="_blank">Clifton StrengthsFinder</a>: Intellection, Learner,&nbsp;</span><span style="font-family: &quot;tempus sans itc&quot;;">Ideation,</span><span style="font-family: &quot;tempus sans itc&quot;;">&nbsp;Achiever, Input</span><br>
+<span style="font-family: &quot;tempus sans itc&quot;;"><a href="https://www.16personalities.com/infj-personality" target="_blank">16Personalities</a> (Myers-Briggs Type): INFJ</span><br>
+<span style="font-family: &quot;tempus sans itc&quot;;"><br></span>
+<span style="font-family: &quot;tempus sans itc&quot;;"><br></span></div>

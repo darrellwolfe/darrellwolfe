@@ -1,0 +1,20 @@
+---
+title: 'Reason vs Pro Tools'
+date: '2013-10-12T16:29:00.0010000+00:00'
+draft: true
+blogger_blog: 'Towdah: tō·dä'''
+blogger_status: 'LIVE'
+blogger_post_id: '2441467581619693920'
+blogger_filename: '/2013/10/reason-vs-pro-tools.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Towdah_ tō·dä_/feed.atom'
+categories:
+  - 'Software'
+---
+
+Reason 7<br />
+<a href="http://www.propellerheads.se/download/">http://www.propellerheads.se/download/</a><br />
+Avid Pro Tools 11<br />
+<a href="http://www.avid.com/Trial/ProTools/Activate">http://www.avid.com/Trial/ProTools/Activate</a><br />
+<a href="http://www.avid.com/Trial/ProTools/Download">http://www.avid.com/Trial/ProTools/Download</a><br />
+iLok.com<br />
+<a href="https://www.ilok.com/">https://www.ilok.com/</a>

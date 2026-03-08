@@ -1,0 +1,12 @@
+---
+title: 'Yarn Dolls'
+date: '2014-01-23T01:44:00.0020000+00:00'
+draft: true
+blogger_blog: 'Texas Cows and Crafts'
+blogger_status: 'DRAFT'
+blogger_post_id: '1398101998171699554'
+blogger_filename: '/2014/01/yarn-dolls.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Texas Cows and Crafts/feed.atom'
+---
+
+<p><em>No content found in export.</em></p>

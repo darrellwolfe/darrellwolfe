@@ -1,0 +1,1947 @@
+---
+title: 'Class Assignment: LEADERSHIP: LOVE – CHARACTER – STRENGTHS | Leadership Reflection Paper'
+date: '2022-03-03T07:04:00.0000000+00:00'
+draft: true
+blogger_blog: 'NoHiding.Faith'
+blogger_status: 'LIVE'
+blogger_post_id: '618121725586238371'
+blogger_filename: '/2022/03/class-assignment-leadership-love.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/NoHiding.Faith/feed.atom'
+categories:
+  - 'Class Assignment'
+---
+
+<p>&nbsp;<!--[if gte mso 9]><xml>
+ <o:OfficeDocumentSettings>
+  <o:RelyOnVML/>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:TrackMoves/>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>HE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:EnableOpenTypeKerning/>
+   <w:DontFlipMirrorIndents/>
+   <w:OverrideTableStyleHps/>
+   <w:UseFELayout/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
+  DefSemiHidden="false" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="376">
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 9"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="header"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footer"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index heading"/>
+  <w:LsdException Locked="false" Priority="35" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of figures"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope return"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="line number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="page number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of authorities"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="macro"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="toa heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 5"/>
+  <w:LsdException Locked="false" Priority="10" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Closing"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Signature"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Message Header"/>
+  <w:LsdException Locked="false" Priority="11" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Salutation"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Date"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Note Heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Block Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Hyperlink"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="FollowedHyperlink"/>
+  <w:LsdException Locked="false" Priority="22" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Document Map"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Plain Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="E-mail Signature"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Top of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Bottom of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal (Web)"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Acronym"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Cite"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Code"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Definition"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Keyboard"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Preformatted"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Sample"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Typewriter"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Variable"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Table"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation subject"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="No List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Contemporary"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Elegant"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Professional"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Balloon Text"/>
+  <w:LsdException Locked="false" Priority="39" Name="Table Grid"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Theme"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" QFormat="true"
+   Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" QFormat="true"
+   Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" QFormat="true"
+   Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" QFormat="true"
+   Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" QFormat="true"
+   Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" QFormat="true"
+   Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="TOC Heading"/>
+  <w:LsdException Locked="false" Priority="41" Name="Plain Table 1"/>
+  <w:LsdException Locked="false" Priority="42" Name="Plain Table 2"/>
+  <w:LsdException Locked="false" Priority="43" Name="Plain Table 3"/>
+  <w:LsdException Locked="false" Priority="44" Name="Plain Table 4"/>
+  <w:LsdException Locked="false" Priority="45" Name="Plain Table 5"/>
+  <w:LsdException Locked="false" Priority="40" Name="Grid Table Light"/>
+  <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Mention"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Smart Hyperlink"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Hashtag"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Unresolved Mention"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Smart Link"/>
+ </w:LatentStyles>
+</xml><![endif]--><!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin-top:0in;
+	mso-para-margin-right:0in;
+	mso-para-margin-bottom:8.0pt;
+	mso-para-margin-left:0in;
+	line-height:107%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
+	mso-bidi-font-family:Arial;
+	mso-bidi-theme-font:minor-bidi;
+	mso-bidi-language:AR-SA;}
+</style>
+<![endif]-->
+
+</p><p align="center" class="MsoNormal" style="text-align: center;"><span style="font-size: 12.0pt; line-height: 107%; mso-bidi-font-family: &quot;Times New Roman&quot;;">&nbsp;</span></p>
+
+<p align="center" class="MsoNormal" style="text-align: center;"><span style="font-size: 12.0pt; line-height: 107%; mso-bidi-font-family: &quot;Times New Roman&quot;;">THE
+KING’S UNIVERSITY (TKU)</span></p>
+
+<p align="center" class="MsoNormal" style="text-align: center;"><span style="font-size: 12.0pt; line-height: 107%; mso-bidi-font-family: &quot;Times New Roman&quot;;">&nbsp;</span></p>
+
+<p align="center" class="MsoNormal" style="text-align: center;"><span style="font-size: 12.0pt; line-height: 107%; mso-bidi-font-family: &quot;Times New Roman&quot;;">&nbsp;</span></p>
+
+<p align="center" class="MsoNormal" style="text-align: center;"><span class="MsoBookTitle"><span style="font-size: 12.0pt; line-height: 107%;">LEADERSHIP: LOVE
+– CHARACTER – STRENGTHS</span></span><span class="MsoBookTitle"><span style="font-size: 12.0pt; font-weight: normal; line-height: 107%;"></span></span></p>
+
+<p align="center" class="MsoNormal" style="text-align: center;"><span style="font-size: 12.0pt; line-height: 107%; mso-bidi-font-family: &quot;Times New Roman&quot;;">&nbsp;</span></p>
+
+<p align="center" class="MsoNormal" style="text-align: center;"><span style="font-size: 12.0pt; line-height: 107%; mso-bidi-font-family: &quot;Times New Roman&quot;;">&nbsp;</span></p>
+
+<p align="center" class="MsoNormal" style="text-align: center;"><span style="font-size: 12.0pt; line-height: 107%; mso-bidi-font-family: &quot;Times New Roman&quot;;">LEADERSHIP
+FINAL PAPER SUBMITTED TO PROFESSOR DR. HOLLEY S. CLOUGH FOR LEADERSHIP
+DEVELOPMENT (BIBM3302ONL1)</span></p>
+
+<p align="center" class="MsoNormal" style="text-align: center;"><span style="font-size: 12.0pt; line-height: 107%; mso-bidi-font-family: &quot;Times New Roman&quot;;">&nbsp;</span></p>
+
+<p align="center" class="MsoNormal" style="text-align: center;"><span style="font-size: 12.0pt; line-height: 107%; mso-bidi-font-family: &quot;Times New Roman&quot;;">&nbsp;</span></p>
+
+<p align="center" class="MsoNormal" style="text-align: center;"><span style="font-size: 12.0pt; line-height: 107%; mso-bidi-font-family: &quot;Times New Roman&quot;;">&nbsp;</span></p>
+
+<p align="center" class="MsoNormal" style="text-align: center;"><span style="font-size: 12.0pt; line-height: 107%; mso-bidi-font-family: &quot;Times New Roman&quot;;">BY</span></p>
+
+<p align="center" class="MsoNormal" style="line-height: 200%; text-align: center;"><span style="font-size: 12.0pt; line-height: 200%; mso-bidi-font-family: &quot;Times New Roman&quot;;">DARRELL
+WOLFE</span></p>
+
+<p class="MsoNormal"><span style="font-size: 12.0pt; line-height: 107%;">&nbsp;</span></p>
+
+<p class="MsoNormal"><span style="font-size: 12.0pt; line-height: 107%;">&nbsp;</span></p>
+
+<p class="MsoNormal"><span style="font-size: 12.0pt; line-height: 107%;">&nbsp;</span></p>
+
+<p align="center" class="MsoNormal" style="text-align: center;"><span style="font-size: 12.0pt; line-height: 107%;">SOUTHLAKE, TEXAS, ONLINE VIA NORTH
+POLE, IDAHO</span></p>
+
+<p align="center" class="MsoNormal" style="text-align: center;"><span style="font-size: 12.0pt; line-height: 107%;">FEBRUARY 2022</span></p>
+
+<p align="center" class="MsoNormal" style="text-align: center;"><span style="font-size: 12.0pt; line-height: 107%;">&nbsp;</span></p>
+
+<p class="MsoNormal"><span style="font-size: 12.0pt; line-height: 107%; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-theme-font: major-fareast;">&nbsp;</span></p>
+
+<span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 11.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;"><br clear="all" style="mso-special-character: line-break; page-break-before: always;" />
+</span>
+
+<p class="MsoNormal"><b><span style="font-size: 12.0pt; line-height: 107%; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-theme-font: major-fareast;">&nbsp;</span></b></p>
+
+<h1>&nbsp;</h1>
+
+
+ <p class="MsoTocHeading">Table of Contents<span style="font-size: 11.0pt; font-weight: normal; line-height: 115%; mso-bidi-font-family: Arial; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-theme-font: minor-fareast;"></span></p>
+ <p class="MsoToc1" style="tab-stops: right dotted 467.5pt;"><a href="#_Toc96819109"><span style="mso-no-proof: yes;">THESIS</span><span style="color: windowtext; display: none; mso-hide: screen; mso-no-proof: yes; text-decoration: none; text-underline: none;"><span style="mso-tab-count: 1 dotted;">. </span></span><span style="color: windowtext; display: none; mso-hide: screen; mso-no-proof: yes; text-decoration: none; text-underline: none;">2</span></a><span style="font-family: &quot;Calibri&quot;,sans-serif; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: Arial; mso-bidi-language: HE; mso-bidi-theme-font: minor-bidi; mso-hansi-theme-font: minor-latin; mso-no-proof: yes;"></span></p>
+ <p class="MsoToc1" style="tab-stops: right dotted 467.5pt;"><a href="#_Toc96819110"><span style="mso-no-proof: yes;">LEADERSHIP IS LOVING OTHERS TO FULLNESS</span><span style="color: windowtext; display: none; mso-hide: screen; mso-no-proof: yes; text-decoration: none; text-underline: none;"><span style="mso-tab-count: 1 dotted;">. </span></span><span style="color: windowtext; display: none; mso-hide: screen; mso-no-proof: yes; text-decoration: none; text-underline: none;">3</span></a><span style="font-family: &quot;Calibri&quot;,sans-serif; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: Arial; mso-bidi-language: HE; mso-bidi-theme-font: minor-bidi; mso-hansi-theme-font: minor-latin; mso-no-proof: yes;"></span></p>
+ <p class="MsoToc2" style="tab-stops: right dotted 467.5pt;"><a href="#_Toc96819111"><span style="mso-no-proof: yes;">The problems with “leadership” as usually presented</span><span style="color: windowtext; display: none; mso-hide: screen; mso-no-proof: yes; text-decoration: none; text-underline: none;"><span style="mso-tab-count: 1 dotted;">. </span></span><span style="color: windowtext; display: none; mso-hide: screen; mso-no-proof: yes; text-decoration: none; text-underline: none;">3</span></a><span style="font-family: &quot;Calibri&quot;,sans-serif; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: Arial; mso-bidi-language: HE; mso-bidi-theme-font: minor-bidi; mso-hansi-theme-font: minor-latin; mso-no-proof: yes;"></span></p>
+ <p class="MsoToc2" style="tab-stops: right dotted 467.5pt;"><a href="#_Toc96819112"><span style="mso-no-proof: yes;">Character</span><span style="color: windowtext; display: none; mso-hide: screen; mso-no-proof: yes; text-decoration: none; text-underline: none;"><span style="mso-tab-count: 1 dotted;"> </span></span><span style="color: windowtext; display: none; mso-hide: screen; mso-no-proof: yes; text-decoration: none; text-underline: none;">4</span></a><span style="font-family: &quot;Calibri&quot;,sans-serif; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: Arial; mso-bidi-language: HE; mso-bidi-theme-font: minor-bidi; mso-hansi-theme-font: minor-latin; mso-no-proof: yes;"></span></p>
+ <p class="MsoToc2" style="tab-stops: right dotted 467.5pt;"><a href="#_Toc96819113"><span style="mso-no-proof: yes;">Love</span><span style="color: windowtext; display: none; mso-hide: screen; mso-no-proof: yes; text-decoration: none; text-underline: none;"><span style="mso-tab-count: 1 dotted;">. </span></span><span style="color: windowtext; display: none; mso-hide: screen; mso-no-proof: yes; text-decoration: none; text-underline: none;">6</span></a><span style="font-family: &quot;Calibri&quot;,sans-serif; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: Arial; mso-bidi-language: HE; mso-bidi-theme-font: minor-bidi; mso-hansi-theme-font: minor-latin; mso-no-proof: yes;"></span></p>
+ <p class="MsoToc2" style="tab-stops: right dotted 467.5pt;"><a href="#_Toc96819114"><span style="mso-no-proof: yes;">Strengths-Focus</span><span style="color: windowtext; display: none; mso-hide: screen; mso-no-proof: yes; text-decoration: none; text-underline: none;"><span style="mso-tab-count: 1 dotted;"> </span></span><span style="color: windowtext; display: none; mso-hide: screen; mso-no-proof: yes; text-decoration: none; text-underline: none;">7</span></a><span style="font-family: &quot;Calibri&quot;,sans-serif; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: Arial; mso-bidi-language: HE; mso-bidi-theme-font: minor-bidi; mso-hansi-theme-font: minor-latin; mso-no-proof: yes;"></span></p>
+ <p class="MsoToc1" style="tab-stops: right dotted 467.5pt;"><a href="#_Toc96819115"><span style="mso-no-proof: yes;">LEADERSHIP DEVELOPMENT</span><span style="color: windowtext; display: none; mso-hide: screen; mso-no-proof: yes; text-decoration: none; text-underline: none;"><span style="mso-tab-count: 1 dotted;">. </span></span><span style="color: windowtext; display: none; mso-hide: screen; mso-no-proof: yes; text-decoration: none; text-underline: none;">9</span></a><span style="font-family: &quot;Calibri&quot;,sans-serif; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: Arial; mso-bidi-language: HE; mso-bidi-theme-font: minor-bidi; mso-hansi-theme-font: minor-latin; mso-no-proof: yes;"></span></p>
+ <p class="MsoToc1" style="tab-stops: right dotted 467.5pt;"><a href="#_Toc96819116"><span style="mso-no-proof: yes;">LEADERSHIP COMPETENCIES &amp; GROWTH STRATEGY</span><span style="color: windowtext; display: none; mso-hide: screen; mso-no-proof: yes; text-decoration: none; text-underline: none;"><span style="mso-tab-count: 1 dotted;">.. </span></span><span style="color: windowtext; display: none; mso-hide: screen; mso-no-proof: yes; text-decoration: none; text-underline: none;">11</span></a><span style="font-family: &quot;Calibri&quot;,sans-serif; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: Arial; mso-bidi-language: HE; mso-bidi-theme-font: minor-bidi; mso-hansi-theme-font: minor-latin; mso-no-proof: yes;"></span></p>
+ <p class="MsoToc2" style="tab-stops: right dotted 467.5pt;"><a href="#_Toc96819117"><span style="mso-no-proof: yes;">Strategic Position of Opportunity and Influence</span><span style="color: windowtext; display: none; mso-hide: screen; mso-no-proof: yes; text-decoration: none; text-underline: none;"><span style="mso-tab-count: 1 dotted;">. </span></span><span style="color: windowtext; display: none; mso-hide: screen; mso-no-proof: yes; text-decoration: none; text-underline: none;">11</span></a><span style="font-family: &quot;Calibri&quot;,sans-serif; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: Arial; mso-bidi-language: HE; mso-bidi-theme-font: minor-bidi; mso-hansi-theme-font: minor-latin; mso-no-proof: yes;"></span></p>
+ <p class="MsoToc1" style="tab-stops: right dotted 467.5pt;"><a href="#_Toc96819118"><span style="mso-no-proof: yes;">CONCLUSION</span><span style="color: windowtext; display: none; mso-hide: screen; mso-no-proof: yes; text-decoration: none; text-underline: none;"><span style="mso-tab-count: 1 dotted;">.. </span></span><span style="color: windowtext; display: none; mso-hide: screen; mso-no-proof: yes; text-decoration: none; text-underline: none;">13</span></a><span style="font-family: &quot;Calibri&quot;,sans-serif; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: Arial; mso-bidi-language: HE; mso-bidi-theme-font: minor-bidi; mso-hansi-theme-font: minor-latin; mso-no-proof: yes;"></span></p>
+ <p class="MsoToc1" style="tab-stops: right dotted 467.5pt;"><a href="#_Toc96819119"><span style="mso-no-proof: yes;">BIBLIOGRAPHY</span><span style="color: windowtext; display: none; mso-hide: screen; mso-no-proof: yes; text-decoration: none; text-underline: none;"><span style="mso-tab-count: 1 dotted;">.. </span></span><span style="color: windowtext; display: none; mso-hide: screen; mso-no-proof: yes; text-decoration: none; text-underline: none;">14</span></a><span style="font-family: &quot;Calibri&quot;,sans-serif; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: Arial; mso-bidi-language: HE; mso-bidi-theme-font: minor-bidi; mso-hansi-theme-font: minor-latin; mso-no-proof: yes;"></span></p>
+ <p class="MsoToc1" style="tab-stops: right dotted 467.5pt;"><a href="#_Toc96819120"><span style="mso-no-proof: yes;">ADDENDUM | LEADERSHIP ASSESSMENT SUMMARIES</span><span style="color: windowtext; display: none; mso-hide: screen; mso-no-proof: yes; text-decoration: none; text-underline: none;"><span style="mso-tab-count: 1 dotted;">. </span></span><span style="color: windowtext; display: none; mso-hide: screen; mso-no-proof: yes; text-decoration: none; text-underline: none;">15</span></a><span style="font-family: &quot;Calibri&quot;,sans-serif; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: Arial; mso-bidi-language: HE; mso-bidi-theme-font: minor-bidi; mso-hansi-theme-font: minor-latin; mso-no-proof: yes;"></span></p>
+ <p class="MsoToc2" style="tab-stops: right dotted 467.5pt;"><a href="#_Toc96819121"><span style="mso-no-proof: yes;">Vales Clarification:</span><span style="color: windowtext; display: none; mso-hide: screen; mso-no-proof: yes; text-decoration: none; text-underline: none;"><span style="mso-tab-count: 1 dotted;"> </span></span><span style="color: windowtext; display: none; mso-hide: screen; mso-no-proof: yes; text-decoration: none; text-underline: none;">15</span></a><span style="font-family: &quot;Calibri&quot;,sans-serif; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: Arial; mso-bidi-language: HE; mso-bidi-theme-font: minor-bidi; mso-hansi-theme-font: minor-latin; mso-no-proof: yes;"></span></p>
+ <p class="MsoToc2" style="tab-stops: right dotted 467.5pt;"><a href="#_Toc96819122"><span style="mso-no-proof: yes;">Northouse Assessments:</span><span style="color: windowtext; display: none; mso-hide: screen; mso-no-proof: yes; text-decoration: none; text-underline: none;"><span style="mso-tab-count: 1 dotted;"> </span></span><span style="color: windowtext; display: none; mso-hide: screen; mso-no-proof: yes; text-decoration: none; text-underline: none;">15</span></a><span style="font-family: &quot;Calibri&quot;,sans-serif; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: Arial; mso-bidi-language: HE; mso-bidi-theme-font: minor-bidi; mso-hansi-theme-font: minor-latin; mso-no-proof: yes;"></span></p>
+ <p class="MsoToc1" style="tab-stops: right dotted 467.5pt;"><a href="#_Toc96819123"><span style="mso-no-proof: yes;">ADDENDUM | PHILOSPHY OF MINISTRY</span><span style="color: windowtext; display: none; mso-hide: screen; mso-no-proof: yes; text-decoration: none; text-underline: none;"><span style="mso-tab-count: 1 dotted;">.. </span></span><span style="color: windowtext; display: none; mso-hide: screen; mso-no-proof: yes; text-decoration: none; text-underline: none;">16</span></a><span style="font-family: &quot;Calibri&quot;,sans-serif; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: Arial; mso-bidi-language: HE; mso-bidi-theme-font: minor-bidi; mso-hansi-theme-font: minor-latin; mso-no-proof: yes;"></span></p>
+ <p class="MsoToc2" style="tab-stops: right dotted 467.5pt;"><a href="#_Toc96819124"><span style="mso-no-proof: yes;">Darrell’s LIFE Mission Statement</span><span style="color: windowtext; display: none; mso-hide: screen; mso-no-proof: yes; text-decoration: none; text-underline: none;"><span style="mso-tab-count: 1 dotted;"> </span></span><span style="color: windowtext; display: none; mso-hide: screen; mso-no-proof: yes; text-decoration: none; text-underline: none;">16</span></a><span style="font-family: &quot;Calibri&quot;,sans-serif; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: Arial; mso-bidi-language: HE; mso-bidi-theme-font: minor-bidi; mso-hansi-theme-font: minor-latin; mso-no-proof: yes;"></span></p>
+ <p class="MsoToc2" style="tab-stops: right dotted 467.5pt;"><a href="#_Toc96819125"><span style="mso-no-proof: yes;">Ministry is Imaging Yahweh to others at all times</span><span style="color: windowtext; display: none; mso-hide: screen; mso-no-proof: yes; text-decoration: none; text-underline: none;"><span style="mso-tab-count: 1 dotted;">. </span></span><span style="color: windowtext; display: none; mso-hide: screen; mso-no-proof: yes; text-decoration: none; text-underline: none;">16</span></a><span style="font-family: &quot;Calibri&quot;,sans-serif; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: Arial; mso-bidi-language: HE; mso-bidi-theme-font: minor-bidi; mso-hansi-theme-font: minor-latin; mso-no-proof: yes;"></span></p>
+ <p class="MsoToc3" style="tab-stops: right dotted 467.5pt;"><a href="#_Toc96819126"><span style="mso-no-proof: yes;">Being an Image Bearer for God:</span><span style="color: windowtext; display: none; mso-hide: screen; mso-no-proof: yes; text-decoration: none; text-underline: none;"><span style="mso-tab-count: 1 dotted;"> </span></span><span style="color: windowtext; display: none; mso-hide: screen; mso-no-proof: yes; text-decoration: none; text-underline: none;">16</span></a><span style="font-family: &quot;Calibri&quot;,sans-serif; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: Arial; mso-bidi-language: HE; mso-bidi-theme-font: minor-bidi; mso-hansi-theme-font: minor-latin; mso-no-proof: yes;"></span></p>
+ <p class="MsoToc3" style="tab-stops: right dotted 467.5pt;"><a href="#_Toc96819127"><span style="mso-no-proof: yes;">Being an Image Bearer to the de-churched and
+ disenfranchised (irreligious Christianity):</span><span style="color: windowtext; display: none; mso-hide: screen; mso-no-proof: yes; text-decoration: none; text-underline: none;"><span style="mso-tab-count: 1 dotted;"> </span></span><span style="color: windowtext; display: none; mso-hide: screen; mso-no-proof: yes; text-decoration: none; text-underline: none;">16</span></a><span style="font-family: &quot;Calibri&quot;,sans-serif; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: Arial; mso-bidi-language: HE; mso-bidi-theme-font: minor-bidi; mso-hansi-theme-font: minor-latin; mso-no-proof: yes;"></span></p>
+ <p class="MsoToc2" style="tab-stops: right dotted 467.5pt;"><a href="#_Toc96819128"><span style="mso-no-proof: yes;">My Ministry Philosophies: What and why I do what I
+ do.</span><span style="color: windowtext; display: none; mso-hide: screen; mso-no-proof: yes; text-decoration: none; text-underline: none;"><span style="mso-tab-count: 1 dotted;"> </span></span><span style="color: windowtext; display: none; mso-hide: screen; mso-no-proof: yes; text-decoration: none; text-underline: none;">17</span></a><span style="font-family: &quot;Calibri&quot;,sans-serif; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: Arial; mso-bidi-language: HE; mso-bidi-theme-font: minor-bidi; mso-hansi-theme-font: minor-latin; mso-no-proof: yes;"></span></p>
+ <p class="MsoToc3" style="tab-stops: right dotted 467.5pt;"><a href="#_Toc96819129"><span style="mso-no-proof: yes;">Transformational Teaching: I teach them to think
+ differently and seek freedom.</span><span style="color: windowtext; display: none; mso-hide: screen; mso-no-proof: yes; text-decoration: none; text-underline: none;"><span style="mso-tab-count: 1 dotted;"> </span></span><span style="color: windowtext; display: none; mso-hide: screen; mso-no-proof: yes; text-decoration: none; text-underline: none;">17</span></a><span style="font-family: &quot;Calibri&quot;,sans-serif; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: Arial; mso-bidi-language: HE; mso-bidi-theme-font: minor-bidi; mso-hansi-theme-font: minor-latin; mso-no-proof: yes;"></span></p>
+ <p class="MsoToc3" style="tab-stops: right dotted 467.5pt;"><a href="#_Toc96819130"><span style="mso-no-proof: yes;">Transformational Community: Building community through
+ relationship (doing life together)</span><span style="color: windowtext; display: none; mso-hide: screen; mso-no-proof: yes; text-decoration: none; text-underline: none;"><span style="mso-tab-count: 1 dotted;"> </span></span><span style="color: windowtext; display: none; mso-hide: screen; mso-no-proof: yes; text-decoration: none; text-underline: none;">17</span></a><span style="font-family: &quot;Calibri&quot;,sans-serif; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: Arial; mso-bidi-language: HE; mso-bidi-theme-font: minor-bidi; mso-hansi-theme-font: minor-latin; mso-no-proof: yes;"></span></p>
+ <p class="MsoToc2" style="tab-stops: right dotted 467.5pt;"><a href="#_Toc96819131"><span style="mso-no-proof: yes;">Wolfe Rules (Gibb's Style Rules) – My curated truisms
+ to living well.</span><span style="color: windowtext; display: none; mso-hide: screen; mso-no-proof: yes; text-decoration: none; text-underline: none;"><span style="mso-tab-count: 1 dotted;"> </span></span><span style="color: windowtext; display: none; mso-hide: screen; mso-no-proof: yes; text-decoration: none; text-underline: none;">17</span></a><span style="font-family: &quot;Calibri&quot;,sans-serif; mso-ascii-theme-font: minor-latin; mso-bidi-font-family: Arial; mso-bidi-language: HE; mso-bidi-theme-font: minor-bidi; mso-hansi-theme-font: minor-latin; mso-no-proof: yes;"></span></p>
+ <p class="MsoNormal">&nbsp;</p>
+
+
+<p class="MsoNormal">&nbsp;</p>
+
+<span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 11.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;"><br clear="all" style="mso-special-character: line-break; page-break-before: always;" />
+</span>
+
+<p class="MsoNormal"><b><span style="font-size: 12.0pt; line-height: 107%; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-theme-font: major-fareast;">&nbsp;</span></b></p>
+
+<h1><a name="_Toc96819109">THESIS</a></h1>
+
+<p class="MsoNormal" style="line-height: 200%; margin-bottom: 0in; text-indent: .5in;">How
+one defines leadership tends to direct how they systematize, categorize, and
+discuss the topic. I find that many of the topics authors use to discuss
+“leadership” have to do more with charisma and capacity than character. While
+discussing the ways one takes up physical or experiential space, uses their
+organizational skills, has some “it factor”, creates a vision, establishes
+tasks and accomplishes goals have some value, they make up together a sub-set
+of issues in regards to leadership. Essentially, these types of investigations
+are the results of leadership (secondary skill sets); but not the primary
+drivers of leadership. <i>Note: For the purposes of this paper, “leadership”
+will be further narrowed to the specific focus of leadership within the Kingdom
+of God (body of Christ) regardless of occupation. </i></p>
+
+<p class="MsoNormal" style="line-height: 200%; margin-bottom: 0in; text-indent: .5in;">As
+I reflect on 41 years of serving leaders (and leading teams), a stack of
+leadership texts (including the texts for this course), I find that three
+primary drivers are the ones I use to evaluate myself and any leader who seeks
+to earn my loyalty. In my experience, Character, Love, and Strengths-Focus are
+the core elements of leadership that will determine the success the
+organization will experience under that leader. The three primary drivers that
+get my attention are defined as:</p>
+
+<p class="MsoListParagraphCxSpFirst" style="line-height: normal; margin-bottom: 0in; margin-left: 1.0in; margin-right: 0in; margin-top: 0in; mso-add-space: auto; mso-list: l0 level1 lfo5; text-indent: -.25in;"><span style="font-family: Symbol; mso-bidi-font-family: Symbol; mso-fareast-font-family: Symbol;"><span style="mso-list: Ignore;">·<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span dir="LTR"></span><b>Character</b> – The
+unseen realm of the heart (usually worked out {or not} in the development
+stages). </p>
+
+<p class="MsoListParagraphCxSpMiddle" style="line-height: normal; margin-bottom: 0in; margin-left: 1.0in; margin-right: 0in; margin-top: 0in; mso-add-space: auto; mso-list: l0 level1 lfo5; text-indent: -.25in;"><span style="font-family: Symbol; mso-bidi-font-family: Symbol; mso-fareast-font-family: Symbol;"><span style="mso-list: Ignore;">·<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span dir="LTR"></span><b>Love</b> – The seen
+realm of the heart in action.</p>
+
+<p class="MsoListParagraphCxSpLast" style="line-height: normal; margin-left: 1.0in; mso-add-space: auto; mso-list: l0 level1 lfo5; text-indent: -.25in;"><span style="font-family: Symbol; mso-bidi-font-family: Symbol; mso-fareast-font-family: Symbol;"><span style="mso-list: Ignore;">·<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span dir="LTR"></span><b>Strengths</b> – The
+intersection of passion and talent (both in the leader and the team) that
+create the “Sweet Spot” for synthesis and fusion of teamwork and productivity.</p>
+
+<p class="MsoNormal" style="line-height: 200%; text-indent: .5in;">My key-theme to
+drive the entire discussion is: “<b>Loving Others to Fullness</b>”.<a href="#_ftn1" name="_ftnref1" style="mso-footnote-id: ftn1;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 11.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;">[1]</span></span></span></span></a> This paper will also
+define (as a result of these three core drivers and key theme) the topics of
+leadership development, and my competencies and growth strategies.</p>
+
+<br clear="all" style="mso-special-character: line-break; page-break-before: always;" />
+
+<p class="MsoNormal"><b><span style="font-size: 12.0pt; line-height: 107%; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-theme-font: major-fareast;">&nbsp;</span></b></p>
+
+<h1><a name="_Toc96819110">LEADERSHIP IS LOVING OTHERS TO FULLNESS</a></h1>
+
+<h2 style="line-height: 200%;"><a name="_Toc96819111">The problems with
+“leadership” as usually presented</a></h2>
+
+<p class="MsoNormal" style="line-height: 200%; text-indent: .5in;">In my experience,
+good leadership has been harder to identify, define, and quantify than bad
+leadership. It’s much easier to bring to mind examples of bad leadership at a
+moment’s notice than what examples of what leadership should be. Still, there
+are diamonds in the rough (to quote Disney’s Aladdin) which we can each conjure
+to mind as examples of doing it right. The most recent example of “doing it
+right” came to me recently. As my girlfriend told the local pastor about a
+young woman who needed assistance, he immediately agreed to help. Without ever
+having met her or qualifying her through official forms, he gathered two men
+and met us at her home to clean it in preparing for her coming home from the
+emergency room. This was love in action. They left before she returned and have
+yet to meet her. But they served because it was the heart of the Father to do
+so. In my book, that is what leadership looks like.</p>
+
+<p class="MsoNormal" style="line-height: 200%; text-indent: .5in;">Morse identified
+my struggle with the subject of leadership in the punchline of her opening
+story; “He stopped right in front of me, leaned in close and carefully said,
+"I am the speaker. You are a workshop presenter." With that, he
+walked away.”<a href="#_ftn2" name="_ftnref2" style="mso-footnote-id: ftn2;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 11.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;">[2]</span></span></span></span></a>
+In that example, she showed a so-called “leader” who lacked integrity, character,
+and love, which are the primary hallmarks of a good leader. Too often, we
+promote men and women to these positions because they have skills the
+“organization” can use to be “successful” which is usually defined as growing
+the membership and increasing the giving (money). Morse highlights the fact
+that in some organizations gender may play a role in pastoral placement above
+“leadership ability or preaching skills”.<a href="#_ftn3" name="_ftnref3" style="mso-footnote-id: ftn3;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 11.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;">[3]</span></span></span></span></a> In highlighting one error,
+she inadvertently highlights another. The idea that leadership ability or
+preaching skills would play any role (primary or secondary) in the placement of
+a pastor is itself an issue with the way the modern church is structured.
+Leadership ability or preaching skills have no direct correlation with one’s
+heart to shepherd individual hearts. I have served under countless “pastors”
+with high degrees of leadership ability and preaching skills that I would never
+choose to serve again. </p>
+
+<p class="MsoNormal" style="line-height: 200%; text-indent: .5in;">But Morse also
+captured the essence of what I think marks a good leader in her statement; “power
+used well is redemptive”.<a href="#_ftn4" name="_ftnref4" style="mso-footnote-id: ftn4;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 11.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;">[4]</span></span></span></span></a> In order to use one’s
+power redemptively, they must be operating within their wheelhouse and doing so
+within a developed character and action-oriented love walk. When a leader is
+ill-suited for the position, even with character and love in place, their
+impact will be minimal. </p>
+
+<h2 style="line-height: 200%;"><a name="_Toc96819112">Character</a></h2>
+
+<p class="MsoNormal" style="line-height: 200%; text-indent: .5in;">In “Good to
+Great”, Collins observes that Level Four leaders are often seen as having
+charisma and vision, with ability to lead a team toward the vision and
+accomplish big results.<a href="#_ftn5" name="_ftnref5" style="mso-footnote-id: ftn5;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 11.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;">[5]</span></span></span></span></a> Images of Steve Jobs and
+his whirlwind of power come to mind. He started a company and made bold
+decisions that lead them to the top of the marketplace. After being ousted from
+his own company, the company sagged under the bean-counters left behind to
+“lead”. In a last-ditch effort, Jobs was brought back to rescue the company,
+and the iPhone was born revolutionizing the tech industry a second time. But in
+the wake of his death, Apple is again on uncertain terms. Organizations lead by
+Level Four leaders were identified by Collins as having unstained success for
+the simple fact they relied on this single charismatic leader. My friend Brent
+calls churches led by these types of individuals “Personality Lead Ministries”.
+In contrast, Level Five leaders take up almost no space in the public media.
+Very few ever know their name. They quietly work behind the scenes, taking all
+blame to themselves, deflecting all credit to their “team”. Level Five leaders
+operate through team-led initiatives, quietly but steadily work to make the
+lives of their teams and subordinates better, and lead their companies to
+sustained success. Without exception, every company studied by Collins that
+operated with sustained success had a Level Five leader at the helm.</p>
+
+<p class="MsoNormal" style="line-height: 200%; text-indent: .5in;">Time and again,
+examples of lack of character fill the headlines and diminish Christian
+reputation in the modern west. Priests covering up child abuse, yet another
+celebrity pastor retires early (or dies) as sex-scandals come to light, money
+motives taint the community discussion, and arrogant leaders are fired (with
+podcasts made to discuss the matter) but then promoted back to leadership in
+another state by yet more celebrity pastors. My CEO, at Wells Fargo, was warned
+by me and countless others about the mishandling of customers for years before
+the news broke in 2016. We worked to make the company what it was meant to be
+on paper (the written vision) while he ignored our cries for help. Then, when
+the news finally broke, and the company plummeted, the man who lead the ship
+into disaster jumped with his golden parachute. In a similar fashion, an
+acquaintance from the local coffee shop tells me the story of how McDonald
+Douglas took over Boeing and changed all the safety protocols. They went from
+having a 5-year, 10-year, 20-year, and 40-year vision for new innovation and
+safety to having a quarterly profit motive and cost-cutting initiatives. In
+less than a generation, they managed to produce an atmosphere in which design
+flaws went from being investigated and aggressively repaired to tucked away and
+hidden, leading the deaths of over 400 people as planes they knew were unsafe
+kept flying. </p>
+
+<p class="MsoNormal" style="line-height: 200%; text-indent: .5in;">Meanwhile,
+employees, customers, church members, community members, and the “least of
+these” go on being taken advantage of by these so-called leaders because they
+were “talented”, “skilled”, had “charisma”, were “such a good preacher”, and
+other lame excuses for perpetuating the system. Character has become the most
+valuable and least available asset in modern western leadership (inside and
+outside the church). But character will only be developed when the motivation
+is God-Driven (rather than Self-Driven). Character is often a hidden aspect of
+the heart, but it is seen or demonstrated through the second component: Love. </p>
+
+<h2 style="line-height: 200%;">&nbsp;</h2>
+
+<h2 style="line-height: 200%;">&nbsp;</h2>
+
+<h2 style="line-height: 200%;">&nbsp;</h2>
+
+<h2 style="line-height: 200%;">&nbsp;</h2>
+
+<h2 style="line-height: 200%;"><a name="_Toc96819113">Love</a></h2>
+
+<p class="MsoNormal" style="line-height: 200%; text-indent: .5in;">Dunn observes that
+“In different ways, the (<i>all three</i>) Synoptic evangelists stress the
+importance of both commandments (Deut 6:7; Lev 19:18)”.<a href="#_ftn6" name="_ftnref6" style="mso-footnote-id: ftn6;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 11.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;">[6]</span></span></span></span></a></p>
+
+<p class="MsoQuote" style="margin-top: 0in;"><i>Jesus answered, “The most important
+is, ‘Listen, Israel! The Lord our God, the Lord is one. And you shall love the
+Lord your God from your whole heart and from your whole soul and from your
+whole mind and from your whole strength’. The second is this: ‘You shall love
+your neighbor as yourself.’ There is no other commandment greater than these.” </i>Mk
+12:29–31<a href="#_ftn7" name="_ftnref7" style="mso-footnote-id: ftn7;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 12.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;">[7]</span></span></span></span></a></p>
+
+<p class="MsoNormal" style="line-height: 200%; margin-top: 12.0pt; text-indent: .5in;">Matthew
+the gospel author follows this observation by stating that “on these two hang
+all the law and prophets” (Mat 22:40). In other words, there is essentially no
+act of human will on earth that is not affected by either the practice of or
+lacking the practice of these two commands. </p>
+
+<p class="MsoNormal" style="line-height: 200%;"><span style="mso-tab-count: 1;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>In
+many ways, Northouse hits on the theme of love as a core element of good
+leadership without ever quite identifying the word “love”. An overview of the
+Table of Contents shows examples such as “establishing a constructive climate”,
+“embracing diversity”, “listening to out-group members”, “managing conflict”,
+and “addressing ethics in leadership”.<a href="#_ftn8" name="_ftnref8" style="mso-footnote-id: ftn8;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 11.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;">[8]</span></span></span></span></a> The thematic link for each
+of these chapters was “Love God, Love Folks, Don’t be a Donkey’s Butt”.<a href="#_ftn9" name="_ftnref9" style="mso-footnote-id: ftn9;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 11.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;">[9]</span></span></span></span></a> Morse identifies this love
+component when she talks about Second Impressions, in which she shares that she
+made a snap judgment about a conference attendee and fellow leader that turned
+out to be wrong upon speaking with her.<a href="#_ftn10" name="_ftnref10" style="mso-footnote-id: ftn10;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 11.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;">[10]</span></span></span></span></a> They are friends today
+because she allowed room for her first impression to be challenged. Morse
+identifies an example of Loving God first as a way to Love Folks when she
+discusses her friend Tom who “takes every Monday off and allows no
+interruptions. This is his Sabbath”.<a href="#_ftn11" name="_ftnref11" style="mso-footnote-id: ftn11;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 11.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;">[11]</span></span></span></span></a> Loving God always comes
+before Loving Folks. We must come to our interactions with other humans full;
+and this fullness overflows into the lives of those around us. If we do not
+make this priority in our lives, we find ourselves empty and unable to give
+what we no longer have to those around us. Building boundaries (as defined by Drs.
+Cloud &amp; Townsend) into our lives carves out space for putting on our own oxygen
+masks first, before helping others.<a href="#_ftn12" name="_ftnref12" style="mso-footnote-id: ftn12;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 11.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;">[12]</span></span></span></span></a> By loving God first
+(filling ourselves with His love for us) we then go into the world with our
+“cup overflowing” so we can love others into fullness with that overflow (Psalms
+23).</p>
+
+<h2 style="line-height: 200%;"><a name="_Toc96819114">Strengths-Focus</a></h2>
+
+<p class="MsoNormal" style="line-height: 200%;"><span style="mso-tab-count: 1;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>If
+we have developed the character to undergird our leadership and the love-walk
+(vertical and horizontal) to sustain our leadership, then we finally come to a
+place of understanding how and where our leadership can be best utilized. Tom
+Rath, in Strength’s Finder 2.0, discussed the results of 40-years of strengths
+studies. They found that if individuals who were not gifted at something were
+given extra training, they could improve at a new skill marginally. Meanwhile,
+individuals who were already gifted for a particular skill set who were given
+the same amount of extra training began to increase their skill-set
+exponentially. Upon this foundation, they make the claim that “you cannot be
+whatever you want to be but you can be a lot more of who you already are”.<a href="#_ftn13" name="_ftnref13" style="mso-footnote-id: ftn13;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 11.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;">[13]</span></span></span></span></a> By studying one’s
+strengths, personality preferences, and motivations, an individual can learn to
+spend their time focusing on the areas in which they will provide the most
+value for their team or organization. Strengths-Based leaders will use a
+variety of assessments and observations to ascertain the God-given gifts in
+their team and love them to fullness, bringing out the very best of what God
+has put in them to do. </p>
+
+<p class="MsoNormal" style="line-height: 200%;"><span style="mso-tab-count: 1;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>It
+is in this place we find that Clinton provides a valuable insight: “God is
+quietly, often in unusual ways, trying to get the leader to see that one
+ministers out of what one is. God is concerned with what we are” and he defines
+this as “Phase IV will have this “you-minister-from-what-you-are” emphasis.”<a href="#_ftn14" name="_ftnref14" style="mso-footnote-id: ftn14;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 11.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;">[14]</span></span></span></span></a> Primarily, God is forming
+the character of Yeshua in each of us, and he is far more interested in that
+process than in anything we can “do” for Him. Carmen Imes added insights into
+this process by showing us that when we were made “in God’s image” he calls us
+to be “Image Bearers”, which is the real emphasis in the second commandment
+“you shall not bear the image of Yahweh in vain” (Deut 5:11).<a href="#_ftn15" name="_ftnref15" style="mso-footnote-id: ftn15;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 11.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;">[15]</span></span></span></span></a> </p>
+
+<p class="MsoNormal" style="line-height: 200%;"><span style="mso-tab-count: 1;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Going
+beyond this universal call to Image Yahweh to his good world, we each have
+individual talents, gifts, abilities, and passions. God forms these in us
+through a combination of nature and nurture, and they converge to become a
+unique fingerprint of Yahweh inside each of us. Rath states in the Strengths’
+Finder 2.0 introduction that the likelihood of anyone on earth having the exact
+same 34-Strengths in the exact same order is so astronomical that it’s possible
+that nobody who has ever lived has had the same order as you. That’s just one
+assessment. There are many ways of seeing the unique fingerprint of God in a
+person. When I work with individuals, I will start with the Myers-Briggs and
+Strength’s Finder 2.0 as a baseline and begin the process of helping them see
+the things God has put inside of them from there.<a href="#_ftn16" name="_ftnref16" style="mso-footnote-id: ftn16;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 11.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;">[16]</span></span></span></span></a> I did find Northouse’s
+inclusion of Strengths Finder 2.0 plus some new assessments I did not know
+about helpful, I will be trying these other two to see if I would add them to
+my arsenal.<a href="#_ftn17" name="_ftnref17" style="mso-footnote-id: ftn17;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 11.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;">[17]</span></span></span></span></a>
+Although, I find it ironic that he uses Steve Jobs as an example of a good
+leader (Northouse, 140). Jobs was a Level Four leader (in Collins’s paradigm)
+and as such a cautionary example, not an example to emulate. Jobs is an example
+of the types of leaders we need to stop promoting to leadership (both in
+secular and ministry settings). He is an example of someone who’s Character and
+Love-Walk were underdeveloped so that his Strength’s (while temporarily
+successful) ultimately caused burnout in his personal and professional life,
+and lead to his own death. Nobody should look to Jobs as an example of a
+Leader. Mother-Theresa would be a much better fit.</p>
+
+<h1><a name="_Toc96819115">LEADERSHIP DEVELOPMENT</a></h1>
+
+<p class="MsoNormal" style="line-height: 200%; text-indent: .5in;">After reviewing
+the key themes of leadership (Character, Love, and Strengths), we move on to
+the leadership development process. While I find Clinton’s timeline
+structure/definitions somewhat arbitrary, I do see its usefulness in describing
+a generalized flow of life-events as one matures in their walk with Yahweh.<a href="#_ftn18" name="_ftnref18" style="mso-footnote-id: ftn18;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 11.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;">[18]</span></span></span></span></a></p>
+
+<p class="MsoNormal" style="line-height: 200%; text-indent: .5in;">In the Sovereign
+Foundations stage, God is working through a variety of experiences to shape the
+image of Yeshua into the heart of the leader. These experiences may not seem
+like training to the individual as they are being experienced. While school may
+be involved, it is often through character tests, interactions with other
+people, early jobs and hobbies, and other unconventional “training” interactions
+that Yahweh works his heart into the heart of emerging leaders. Clinton tells
+us that “Leadership is a lifetime of lessons. It is not a set of do-it-yourself
+correspondence courses that can be worked through in a few months or years.”<a href="#_ftn19" name="_ftnref19" style="mso-footnote-id: ftn19;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 11.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;">[19]</span></span></span></span></a> </p>
+
+<p class="MsoNormal" style="line-height: 200%; text-indent: .5in;">As a look back at
+my life at 41-years old, I see experiences in a variety of different jobs
+training me to see the bigger picture, accept that the only constant is change,
+see that people matter more than productivity, see that giving one’s life to
+any entity (corporate or ministry) is a fool’s errand and instead one should
+seek to Love God, Love Folks, Don’t be Rude, and look for ways to keep those in
+balance. After almost loosing my marriage, kids, and even my life to a nervous
+breakdown in 2016, I refuse to allow undue stress to entre my life. I will do
+my best between 8:00-5:00 pm, Monday through Friday. I will not take on burdens
+my shoulders were not meant to bear. I will look for ways to add value to my
+environment and put loving my coworker into fullness over “getting things
+done”. One mentor handed me a leadership book that helped me quantify these lessons
+and help me see some areas I was “stuck” in. </p>
+
+<p class="MsoNormal" style="line-height: 200%; text-indent: .5in;">Using the
+definitions provided by Clinton in “The Generalized Timeline”, I see a mixture
+of Ministry Maturing, Life Maturing, and Convergence in my current state.<a href="#_ftn20" name="_ftnref20" style="mso-footnote-id: ftn20;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 11.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;">[20]</span></span></span></span></a> Under Phase III, Ministry
+Maturing, I have become aware of my giftsets and learned the hard way how
+people matter more than tasks or feelings of inadequacy. During these years I
+learned about self-deception and the need to be “out of the box” towards
+people.<a href="#_ftn21" name="_ftnref21" style="mso-footnote-id: ftn21;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 11.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;">[21]</span></span></span></span></a> I learned that “how
+something happens is more important to God than what happens” and an emphasis
+on “identity” over “behavior”.<a href="#_ftn22" name="_ftnref22" style="mso-footnote-id: ftn22;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 11.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;">[22]</span></span></span></span></a> </p>
+
+<p class="MsoNormal" style="line-height: 200%; text-indent: .5in;">In many ways, I
+feel at the end-stage of this phase. Under Phase IV, Life Maturing, I believe I
+am far down the path of learning is more important to be “with God” than work
+for him.<a href="#_ftn23" name="_ftnref23" style="mso-footnote-id: ftn23;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 11.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;">[23]</span></span></span></span></a>
+I have a strong sense of who am I am in Him as I have experienced more isolation
+and crises than I ever thought possible, which drove me to seek Him and only
+Him. The sense that “ministry flows out of being” is well engrained in me.<a href="#_ftn24" name="_ftnref24" style="mso-footnote-id: ftn24;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 11.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;">[24]</span></span></span></span></a> The one thing that is
+still underdeveloped from this category as he defined it us “using his
+spiritual gifts in a ministry that is satisfying”. In some ways, this has
+started. After many years of resistance, I am finally in Bible school. As I
+have pivoted further and further into His will regarding my studies, I feel
+portions of my inner life that were long dormant coming alive for what feels
+like the first time. However, professionally I still work for a job a don’t
+enjoy as much (although its better than any previously). I am not working
+vocationally or publicly in anything resembling “a ministry that is
+satisfying”. Behind the scenes, however, I am beginning to see the fruit of the
+studies and investment in my dialogues with folks one-on-one. I see the
+lightbulb go off for them as I use the particular gifts I have for shedding
+light on seemingly difficult spiritual topics. As Clinton defines the term, I
+suppose I am not in “Convergence” practically. However, internally, I have
+begun to reach a sense of convergence. It is as though the seemingly disparate
+and chaotic lessons of my life have begun to congeal into a singular focus and
+life-message.<span style="mso-spacerun: yes;">&nbsp; </span>So in that sense, the
+Convergence process has started its early roots. </p>
+
+<h1><a name="_Toc96819116">LEADERSHIP COMPETENCIES &amp; GROWTH STRATEGY</a></h1>
+
+<h2><a name="_Toc96819117">Strategic Position of Opportunity and Influence</a></h2>
+
+<p class="MsoNormal" style="line-height: 200%; text-indent: .5in;">As I’ve learned
+the ancient biblical languages, I’ve found that this may have been overstating
+the data. However, I once heard someone define the Greek word “<span lang="EL" style="font-family: &quot;#Logos 8 Resource&quot;,serif; mso-ansi-language: EL;">τόπος</span>
+(<i style="mso-bidi-font-style: normal;"><span style="color: black;">topos</span></i>)”
+as “a strategic position of opportunity and influence” and it stuck with me
+ever since.<a href="#_ftn25" name="_ftnref25" style="mso-footnote-id: ftn25;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 11.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;">[25]</span></span></span></span></a>
+I even named a business after this concept. One of my life-themes is to help
+others find their own strategic position of opportunity and influence. I have
+coached many people through finding their path (either in life as a whole or
+through a particular decision). With that concept in mind, I now consider what
+the coming season(s) look like for me as a Leader. As a Widower, I am leading
+two teenage boys who lost their mom (my late-wife) four years ago. We are
+navigating their transition to adulthood with one of their key champions
+missing. But, God has given us a surrogate champion (my fellow widow and
+girlfriend, Jen). I’m learning what it means to lead them through their
+struggles by not letting them fend for themselves alone but also not doing
+everything for them. I must come along side of them to help them make decisions
+(rather than making it for them) so that they can learn to become successful
+adult men. </p>
+
+<p class="MsoNormal" style="line-height: 200%; text-indent: .5in;">I am learning how
+to lead a new relationship (with Jen) in which both partners have had extensive
+life experiences and counseling and Boundaries training. What does it mean to
+walk together without codependency? It was one thing on paper, now I am walking
+it out. I am learning how to see what I see but maybe not burn down the past to
+build the future. Maybe there is beauty in what is that can be preserved as I
+fight for the people’s hearts I see hurting in our current “modern western
+American Christianity” models, systems, and culture. </p>
+
+<p class="MsoNormal" style="line-height: 200%; text-indent: .5in;">During my dark
+night(s) of the soul, I learned that I am responsible for getting my own needs
+met in healthy, safe, nonromantic communities. While I have consistently met
+with my mentor for over a year now, I have yet to take seriously the need to
+build authentic lasting relationships with other men who will come along side
+of me and “do life together”. I had a group of men I left behind in Texas
+(2017) and I always intended to forge new groups in North Idaho (someday) but I
+have yet to find such a group until recently. I believe I have but it will
+require I make them a priority (as their meeting times and available are
+inconvenient for me). Growth comes at a cost, and I must decide its time to pay
+that price.</p>
+
+<p class="MsoNormal" style="line-height: 200%;"><span style="mso-tab-count: 1;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>All
+that being said, the following are the competencies I will be focusing on
+developing for the remainder of 2022 and the strategic plans to implement them.
+</p>
+
+<p class="MsoListParagraphCxSpFirst" style="line-height: 200%; mso-list: l1 level1 lfo6; text-indent: -.25in;"><span style="mso-bidi-font-family: &quot;Times New Roman&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;;"><span style="mso-list: Ignore;">1.<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span dir="LTR"></span><b>Love God – Practice His
+Presence.</b><span style="mso-spacerun: yes;">&nbsp; </span>While I find all forms of
+“spiritual disciplines” to be anathema to my spiritual health, I do find I have
+let go of being cognizant of his presence as things have gone “better” for me.
+I will begin doing using my automated calendar reminders to do frequently daily
+check-ins with HaRuach Elohim, specifically asking “Is there anything you want
+to talk about right now?” </p>
+
+<p class="MsoListParagraphCxSpMiddle" style="line-height: 200%; mso-list: l1 level1 lfo6; text-indent: -.25in;"><span style="mso-bidi-font-family: &quot;Times New Roman&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;;"><span style="mso-list: Ignore;">2.<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span dir="LTR"></span><b>Love Others – Community Building
+– Groups.</b> It is long passed time to stop isolating and begin re-engaging
+the world. During the 2020-2021 pandemic, I among those who quipped “when you
+find out your normal everyday life is called a quarantine”. For me, my
+girlfriend, and our kids, it is time to start getting plugged into community
+groups (inside and outside of “church”). So, we will attend at least two
+functions a month that are not a “Sunday” event. Having come from zero in four
+years, that is a start. </p>
+
+<p class="MsoListParagraphCxSpMiddle" style="line-height: 200%; mso-list: l1 level1 lfo6; text-indent: -.25in;"><span style="mso-bidi-font-family: &quot;Times New Roman&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;;"><span style="mso-list: Ignore;">3.<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span dir="LTR"></span><b>Develop Character –
+Mentorship – Level Up.</b> I have my mentor (spiritual father). I have begun to
+develop relationships with spiritual brothers. I have two biological sons and
+two semi-adopted kids. I will begin looking for ways to deepen the
+relationships with my spiritual brothers, and in so doing be looking for ways
+to reach down and pull up someone coming in behind me. Practically, I will
+begin meeting “the guys” on Monday mornings (way too early in the morning).</p>
+
+<p class="MsoListParagraphCxSpLast" style="line-height: 200%; mso-list: l1 level1 lfo6; text-indent: -.25in;"><span style="mso-bidi-font-family: &quot;Times New Roman&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;;"><span style="mso-list: Ignore;">4.<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span dir="LTR"></span><b>Develop Strengths –
+Stretch Thyself</b>. While I can make excuses for the things I haven’t done
+(legitimately too busy), the fact remains that I know I feel the nudge to begin
+building my ministry (early steps). So I will begin to write and publish
+articles (at least six this year) on my ministry website (NoHiding.Faith). I
+will also record and publish at least six pilot podcast episodes.</p>
+
+<h1><a name="_Toc96819118">CONCLUSION</a></h1>
+
+<p class="MsoNormal" style="line-height: 200%; text-indent: .5in;">The scariest part
+of this entire paper, was the last bullet of the last section. Working in
+corporate America, I learned about the concept of doing “concrete and specific”
+interviews. We aren’t looking for “I usually” as an answer to an interview
+question. We ask “tell me about a time when” because we are looking for as
+specific and concrete of an example as you can provide. Taking this same tact,
+I forced myself to provide concrete and specific answers to the competency and
+strategy questions. Once I hit send on this to TKU (and cross-post this paper
+on my personal blog), it will be forever out there that I made these
+declarations. I am committing to concrete and specific steps toward accepting
+the next level of my calling and ministry. Even saying “my ministry” without
+wanting to throw up or punch something is a huge sign of progress since I
+started this journey back to sanity. While there are many little tips, tricks,
+techniques, tools, and trends that can be observed in this topic of leadership,
+it is my experience that learning to Love God, Love Folks, Develop Character,
+and focus on utilizing your Strengths are the core-thematic elements to good leadership.
+These are the areas I will be focusing on in 2022. May we all live long and
+prosper, Shalom (<span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: &quot;Times New Roman&quot;; mso-bidi-language: HE; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: &quot;Times New Roman&quot;;">שלום</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>). </p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<br clear="all" style="mso-special-character: line-break; page-break-before: always;" />
+
+<p class="MsoNormal"><b><span style="font-size: 12.0pt; line-height: 107%; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-theme-font: major-fareast;">&nbsp;</span></b></p>
+
+<h1><a name="_Toc96819119">BIBLIOGRAPHY</a></h1>
+
+<p class="MsoBibliography"><i><span style="mso-bidi-font-family: &quot;Times New Roman&quot;;">16Personalities (NERIS® Model
+Based on Myers-Briggs Type Indicator)</span></i><span style="mso-bidi-font-family: &quot;Times New Roman&quot;;">. ©2011-2022 NERIS Analytics Limited. Accessed February 26,
+2022. https://www.16personalities.com/articles/our-theory.</span></p>
+
+<p class="MsoBibliography"><span style="mso-bidi-font-family: &quot;Times New Roman&quot;;">Arbinger
+Institute, ed. <i>Leadership and Self-Deception: Getting out of the Box</i>.
+2nd ed. A BK Life Book. San Francisco: Berrett-Koehler Publishers, 2010.</span></p>
+
+<p class="MsoBibliography"><span style="mso-bidi-font-family: &quot;Times New Roman&quot;;">Clinton,
+J. Robert. <i>The Making of a Leader: Recognizing the Lessons and Stages of
+Leadership Development</i>. Rev. ed. Colorado Springs, CO: NavPress, 2012.</span></p>
+
+<p class="MsoBibliography"><span style="mso-bidi-font-family: &quot;Times New Roman&quot;;">Cloud,
+Henry, and John Sims Townsend. <i>Boundaries: When to Say Yes, How to Say No to
+Take Control of Your Life</i>. Updated and Expanded [edition]. Boundaries.
+Grand Rapids, Michigan: Zondervan, 2017.</span></p>
+
+<p class="MsoBibliography"><span style="mso-bidi-font-family: &quot;Times New Roman&quot;;">Collins,
+James C. <i>Good to Great: Why Some Companies Make the Leap--and Others Don’t.</i>
+1st ed. New York, NY: HarperBusiness, 2001.</span></p>
+
+<p class="MsoBibliography"><span style="mso-bidi-font-family: &quot;Times New Roman&quot;;">Hamp,
+Bob. <i>Think Differently Lead Differently: Bringing Reformation in Your Heart,
+Your Home and Your Organization</i>, 2014.</span></p>
+
+<p class="MsoBibliography"><span style="mso-bidi-font-family: &quot;Times New Roman&quot;;">Imes,
+Carmen Joy. <i>Bearing God’s Name: Why Sinai Still Matters</i>. Downers Grove,
+IL: IVP Academic, An Imprint of InterVarsity Press, 2019.</span></p>
+
+<p class="MsoBibliography"><span style="mso-bidi-font-family: &quot;Times New Roman&quot;;">Jethani,
+Skye. <i>With: Reimagining the Way You Relate to God</i>. Nashville: Thomas
+Nelson, 2011.</span></p>
+
+<p class="MsoBibliography"><span style="mso-bidi-font-family: &quot;Times New Roman&quot;;">Morse,
+MaryKate. <i>Making Room for Leadership: Power, Space and Influence</i>.
+Downers Grove, Ill: IVP Books, 2008.</span></p>
+
+<p class="MsoBibliography"><span style="mso-bidi-font-family: &quot;Times New Roman&quot;;">Mounce,
+William D., ed. <i>Mounce’s Complete Expository Dictionary of Old &amp; New
+Testament Words</i>. Grand Rapids, Mich: Zondervan, 2006.</span></p>
+
+<p class="MsoBibliography"><span style="mso-bidi-font-family: &quot;Times New Roman&quot;;">Nelson,
+Jennifer V., n.d.</span></p>
+
+<p class="MsoBibliography"><span style="mso-bidi-font-family: &quot;Times New Roman&quot;;">Northouse,
+Peter Guy. <i>Introduction to Leadership: Concepts and Practice</i>. Fifth
+edition. Los Angeles: SAGE, 2021.</span></p>
+
+<p class="MsoBibliography"><span style="mso-bidi-font-family: &quot;Times New Roman&quot;;">Perrin,
+Nicholas, Jeannine K. Brown, and Joel B. Green. <i>Dictionary of Jesus and the
+Gospels (DJG)</i>. IVP Bible Dictionary Series. Downers Grove, Ill: IVP
+Academic, 2013.
+http://search.ebscohost.com/login.aspx?direct=true&amp;db=nlebk&amp;AN=633424&amp;site=ehost-live.</span></p>
+
+<p class="MsoBibliography"><span style="mso-bidi-font-family: &quot;Times New Roman&quot;;">Rath,
+Tom, and Don Clifton. <i>Strengths Finder 2.0</i>. New York: Gallup Press,
+2007.</span></p>
+
+<p class="MsoBibliography"><i><span style="mso-bidi-font-family: &quot;Times New Roman&quot;;">The
+Lexham English Bible (LEB), Fourth Edition</span></i><span style="mso-bidi-font-family: &quot;Times New Roman&quot;;">. Logo Bible Software. Harris, W. H., III, Ritzema, E.,
+Brannan, R., Mangum, D., Dunham, J., Reimer, J. A., &amp; Wierenga, M. (Eds.).
+Bellingham, WA: Lexham Press, 2010. http://www.lexhampress.com.</span></p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<br clear="all" style="mso-special-character: line-break; page-break-before: always;" />
+
+<p class="MsoNormal"><b><span style="font-size: 12.0pt; line-height: 107%; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-theme-font: major-fareast;">&nbsp;</span></b></p>
+
+<h1><a name="_Toc96819120">ADDENDUM | LEADERSHIP ASSESSMENT SUMMARIES</a></h1>
+
+<h2><a name="_Toc96819121">Vales Clarification:</a></h2>
+
+<p class="Default">After reviewing the assessment for the “reasons” I answered
+the way I did and adjusting for the most authentic answers, I found the
+following is a fairly accurate rate. </p>
+
+<p class="MsoListParagraphCxSpFirst" style="mso-list: l3 level1 lfo4; text-indent: -.25in;"><span style="mso-bidi-font-family: &quot;Times New Roman&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;;"><span style="mso-list: Ignore;">1.<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span dir="LTR"></span><span style="color: black; font-size: 11.5pt; line-height: 107%; mso-bidi-font-family: JLFBHN+TimesNewRoman;">CREATIVITY
+(being imaginative, innovative, coming up with ideas) </span></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="mso-list: l3 level1 lfo4; text-indent: -.25in;"><span style="font-size: 11.5pt; line-height: 107%; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;;"><span style="mso-list: Ignore;">2.<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span dir="LTR"></span><span style="color: black; font-size: 11.5pt; line-height: 107%; mso-bidi-font-family: JLFBHN+TimesNewRoman;">INTELLECTUAL STATUS (be regarded as an expert
+in your field, thought of as smart)</span><span style="font-size: 11.5pt; line-height: 107%;"></span></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="mso-list: l3 level1 lfo4; text-indent: -.25in;"><span style="mso-bidi-font-family: &quot;Times New Roman&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;;"><span style="mso-list: Ignore;">3.<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span dir="LTR"></span><span style="color: black; font-size: 11.5pt; line-height: 107%; mso-bidi-font-family: JLFBHN+TimesNewRoman;">AUTONOMY
+(work independently, determine the nature of your work without significant
+direction from others)</span></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="mso-list: l3 level1 lfo4; text-indent: -.25in;"><span style="color: black; font-size: 11.5pt; line-height: 107%; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;;"><span style="mso-list: Ignore;">4.<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span dir="LTR"></span><span style="color: black; font-size: 11.5pt; line-height: 107%; mso-bidi-font-family: JLFBHN+TimesNewRoman;">CHALLENGE (stimulates full use of your
+potential) </span></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="mso-list: l3 level1 lfo4; text-indent: -.25in;"><span style="mso-bidi-font-family: &quot;Times New Roman&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;;"><span style="mso-list: Ignore;">5.<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span dir="LTR"></span><span style="color: black; font-size: 11.5pt; line-height: 107%; mso-bidi-font-family: JLFBHN+TimesNewRoman;">TIME
+FREEDOM (flexible work schedule, no specific work hours required)</span></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="mso-list: l3 level1 lfo4; text-indent: -.25in;"><span style="mso-bidi-font-family: &quot;Times New Roman&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;;"><span style="mso-list: Ignore;">6.<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span dir="LTR"></span><span style="color: black; font-size: 11.5pt; line-height: 107%; mso-bidi-font-family: JLFBHN+TimesNewRoman;">WISDOM
+(accumulation of knowledge)</span></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="mso-list: l3 level1 lfo4; text-indent: -.25in;"><span style="color: black; font-size: 11.5pt; line-height: 107%; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;;"><span style="mso-list: Ignore;">7.<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span dir="LTR"></span><span style="color: black; font-size: 11.5pt; line-height: 107%; mso-bidi-font-family: JLFBHN+TimesNewRoman;">KNOWLEDGE (understanding gained through study
+and experience)</span></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="mso-list: l3 level1 lfo4; text-indent: -.25in;"><span style="mso-bidi-font-family: &quot;Times New Roman&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;;"><span style="mso-list: Ignore;">8.<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span dir="LTR"></span><span style="color: black; font-size: 11.5pt; line-height: 107%; mso-bidi-font-family: JLFBHN+TimesNewRoman;">ACHIEVEMENT
+(sense of accomplishment by means of skills, practice, perseverance, or
+exertion)</span></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="mso-list: l3 level1 lfo4; text-indent: -.25in;"><span style="mso-bidi-font-family: &quot;Times New Roman&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;;"><span style="mso-list: Ignore;">9.<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span dir="LTR"></span><span style="color: black; font-size: 11.5pt; line-height: 107%; mso-bidi-font-family: JLFBHN+TimesNewRoman;">HELP
+OTHERS (be involved in helping people in a direct way, individually or in a
+group)</span></p>
+
+<p class="MsoListParagraphCxSpLast" style="mso-list: l3 level1 lfo4; text-indent: -.25in;"><span style="color: black; font-size: 11.5pt; line-height: 107%; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-fareast-font-family: &quot;Times New Roman&quot;;"><span style="mso-list: Ignore;">10.<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp; </span></span></span><span dir="LTR"></span><span style="color: black; font-size: 11.5pt; line-height: 107%; mso-bidi-font-family: JLFBHN+TimesNewRoman;">LOCATION (live somewhere that will fit your
+lifestyle and allow you to do the things you enjoy most)</span></p>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<h2><a name="_Toc96819122">Northouse Assessments:</a></h2>
+
+<p class="MsoNormal"><b><i>2.3 –</i></b> While the final total scores matched
+perfectly (14/14), there were areas in which others rated me higher than myself
+and where I rated myself higher. Also interesting was that my children who’ve
+seen me for decades rated me differently than my girlfriend who’s seen me only
+since my healing journey was well underway. The largest discrepancy was
+“Self-Confident” and “Determined”. In both cases, I rated myself a 2 and
+everyone else rated me a 4. </p>
+
+<p class="MsoNormal"><b>3.3 –</b> Final rating showed Very High for Democratic,
+High for Laissez-Faire, and Moderate for Authoritarian. </p>
+
+<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse: collapse; margin-left: -.05pt; mso-padding-alt: 0in 5.4pt 0in 5.4pt; mso-yfti-tbllook: 1184; width: 333px;">
+ <tbody><tr style="height: .2in; mso-yfti-firstrow: yes; mso-yfti-irow: 0;">
+  <td nowrap="" style="background: #4472C4; border-right: none; border: solid #8EA9DB 1.0pt; height: .2in; mso-border-bottom-alt: solid #8EA9DB .5pt; mso-border-left-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; padding: 0in 5.4pt 0in 5.4pt; width: 110.4pt;" width="147">
+  <p align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;"><b><span style="color: white; font-family: &quot;Calibri&quot;,sans-serif; mso-fareast-font-family: &quot;Times New Roman&quot;;">Leadership Style</span></b></p>
+  </td>
+  <td nowrap="" style="background: #4472C4; border-bottom: solid #8EA9DB 1.0pt; border-left: none; border-right: none; border-top: solid #8EA9DB 1.0pt; height: .2in; mso-border-bottom-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; padding: 0in 5.4pt 0in 5.4pt; width: 79.8pt;" width="106">
+  <p align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;"><b><span style="color: white; font-family: &quot;Calibri&quot;,sans-serif; mso-fareast-font-family: &quot;Times New Roman&quot;;">Sum Score</span></b></p>
+  </td>
+  <td nowrap="" style="background: #4472C4; border-left: none; border: solid #8EA9DB 1.0pt; height: .2in; mso-border-bottom-alt: solid #8EA9DB .5pt; mso-border-right-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; padding: 0in 5.4pt 0in 5.4pt; width: 59.4pt;" width="79">
+  <p align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;"><b><span style="color: white; font-family: &quot;Calibri&quot;,sans-serif; mso-fareast-font-family: &quot;Times New Roman&quot;;">Range</span></b></p>
+  </td>
+ </tr>
+ <tr style="height: .2in; mso-yfti-irow: 1;">
+  <td nowrap="" style="background: #D9E1F2; border-bottom: solid #8EA9DB 1.0pt; border-left: solid #8EA9DB 1.0pt; border-right: none; border-top: none; height: .2in; mso-border-bottom-alt: solid #8EA9DB .5pt; mso-border-left-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; padding: 0in 5.4pt 0in 5.4pt; width: 110.4pt;" width="147">
+  <p align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;"><span style="color: black; font-family: &quot;Calibri&quot;,sans-serif; mso-fareast-font-family: &quot;Times New Roman&quot;;">Authoritarian</span></p>
+  </td>
+  <td nowrap="" style="background: #D9E1F2; border-bottom: solid #8EA9DB 1.0pt; border: none; height: .2in; mso-border-bottom-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; padding: 0in 5.4pt 0in 5.4pt; width: 79.8pt;" width="106">
+  <p align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;"><span style="color: black; font-family: &quot;Calibri&quot;,sans-serif; mso-fareast-font-family: &quot;Times New Roman&quot;;">18</span></p>
+  </td>
+  <td nowrap="" style="background: #D9E1F2; border-bottom: solid #8EA9DB 1.0pt; border-left: none; border-right: solid #8EA9DB 1.0pt; border-top: none; height: .2in; mso-border-bottom-alt: solid #8EA9DB .5pt; mso-border-right-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; padding: 0in 5.4pt 0in 5.4pt; width: 59.4pt;" width="79">
+  <p align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;"><span style="color: black; font-family: &quot;Calibri&quot;,sans-serif; mso-fareast-font-family: &quot;Times New Roman&quot;;">Moderate</span></p>
+  </td>
+ </tr>
+ <tr style="height: .2in; mso-yfti-irow: 2;">
+  <td nowrap="" style="border-bottom: solid #8EA9DB 1.0pt; border-left: solid #8EA9DB 1.0pt; border-right: none; border-top: none; height: .2in; mso-border-bottom-alt: solid #8EA9DB .5pt; mso-border-left-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; padding: 0in 5.4pt 0in 5.4pt; width: 110.4pt;" width="147">
+  <p align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;"><span style="color: black; font-family: &quot;Calibri&quot;,sans-serif; mso-fareast-font-family: &quot;Times New Roman&quot;;">Democratic</span></p>
+  </td>
+  <td nowrap="" style="border-bottom: solid #8EA9DB 1.0pt; border: none; height: .2in; mso-border-bottom-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; padding: 0in 5.4pt 0in 5.4pt; width: 79.8pt;" width="106">
+  <p align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;"><span style="color: black; font-family: &quot;Calibri&quot;,sans-serif; mso-fareast-font-family: &quot;Times New Roman&quot;;">28</span></p>
+  </td>
+  <td nowrap="" style="border-bottom: solid #8EA9DB 1.0pt; border-left: none; border-right: solid #8EA9DB 1.0pt; border-top: none; height: .2in; mso-border-bottom-alt: solid #8EA9DB .5pt; mso-border-right-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; padding: 0in 5.4pt 0in 5.4pt; width: 59.4pt;" width="79">
+  <p align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;"><span style="color: black; font-family: &quot;Calibri&quot;,sans-serif; mso-fareast-font-family: &quot;Times New Roman&quot;;">Very High</span></p>
+  </td>
+ </tr>
+ <tr style="height: .2in; mso-yfti-irow: 3; mso-yfti-lastrow: yes;">
+  <td nowrap="" style="background: #D9E1F2; border-bottom: solid #8EA9DB 1.0pt; border-left: solid #8EA9DB 1.0pt; border-right: none; border-top: none; height: .2in; mso-border-bottom-alt: solid #8EA9DB .5pt; mso-border-left-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; padding: 0in 5.4pt 0in 5.4pt; width: 110.4pt;" width="147">
+  <p align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;"><span style="color: black; font-family: &quot;Calibri&quot;,sans-serif; mso-fareast-font-family: &quot;Times New Roman&quot;;">Laissez-Faire</span></p>
+  </td>
+  <td nowrap="" style="background: #D9E1F2; border-bottom: solid #8EA9DB 1.0pt; border: none; height: .2in; mso-border-bottom-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; padding: 0in 5.4pt 0in 5.4pt; width: 79.8pt;" width="106">
+  <p align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;"><span style="color: black; font-family: &quot;Calibri&quot;,sans-serif; mso-fareast-font-family: &quot;Times New Roman&quot;;">21</span></p>
+  </td>
+  <td nowrap="" style="background: #D9E1F2; border-bottom: solid #8EA9DB 1.0pt; border-left: none; border-right: solid #8EA9DB 1.0pt; border-top: none; height: .2in; mso-border-bottom-alt: solid #8EA9DB .5pt; mso-border-right-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; padding: 0in 5.4pt 0in 5.4pt; width: 59.4pt;" width="79">
+  <p align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;"><span style="color: black; font-family: &quot;Calibri&quot;,sans-serif; mso-fareast-font-family: &quot;Times New Roman&quot;;">High</span></p>
+  </td>
+ </tr>
+</tbody></table>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal"><b>4.3 –</b> I am evenly divided between Task/Relationship
+and score Moderately High for both. </p>
+
+<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse: collapse; margin-left: -.05pt; mso-padding-alt: 0in 5.4pt 0in 5.4pt; mso-yfti-tbllook: 1184; width: 176px;">
+ <tbody><tr style="height: .2in; mso-yfti-firstrow: yes; mso-yfti-irow: 0;">
+  <td nowrap="" style="background: #4472C4; border-right: none; border: solid #8EA9DB 1.0pt; height: .2in; mso-border-bottom-alt: solid #8EA9DB .5pt; mso-border-left-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; padding: 0in 5.4pt 0in 5.4pt; width: 70.4pt;" width="94">
+  <p align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;"><b><span style="color: white; font-family: &quot;Calibri&quot;,sans-serif; mso-fareast-font-family: &quot;Times New Roman&quot;;">Type</span></b></p>
+  </td>
+  <td nowrap="" style="background: #4472C4; border-left: none; border: solid #8EA9DB 1.0pt; height: .2in; mso-border-bottom-alt: solid #8EA9DB .5pt; mso-border-right-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; padding: 0in 5.4pt 0in 5.4pt; width: 61.4pt;" width="82">
+  <p align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;"><b><span style="color: white; font-family: &quot;Calibri&quot;,sans-serif; mso-fareast-font-family: &quot;Times New Roman&quot;;">Score</span></b></p>
+  </td>
+ </tr>
+ <tr style="height: .2in; mso-yfti-irow: 1;">
+  <td nowrap="" style="background: #4472C4; border-bottom: solid #8EA9DB 1.0pt; border-left: solid #8EA9DB 1.0pt; border-right: none; border-top: none; height: .2in; mso-border-bottom-alt: solid #8EA9DB .5pt; mso-border-left-alt: solid #8EA9DB .5pt; padding: 0in 5.4pt 0in 5.4pt; width: 70.4pt;" width="94">
+  <p align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;"><b><span style="color: white; font-family: &quot;Calibri&quot;,sans-serif; mso-fareast-font-family: &quot;Times New Roman&quot;;">Task</span></b></p>
+  </td>
+  <td nowrap="" style="background: #D9E1F2; border-bottom: solid #8EA9DB 1.0pt; border-left: none; border-right: solid #8EA9DB 1.0pt; border-top: none; height: .2in; mso-border-bottom-alt: solid #8EA9DB .5pt; mso-border-right-alt: solid #8EA9DB .5pt; padding: 0in 5.4pt 0in 5.4pt; width: 61.4pt;" width="82">
+  <p align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;"><span style="color: black; font-family: &quot;Calibri&quot;,sans-serif; mso-fareast-font-family: &quot;Times New Roman&quot;;">34</span></p>
+  </td>
+ </tr>
+ <tr style="height: .2in; mso-yfti-irow: 2; mso-yfti-lastrow: yes;">
+  <td nowrap="" style="background: #4472C4; border-bottom: solid #8EA9DB 1.0pt; border-left: none; border-right: solid #8EA9DB 1.0pt; border-top: none; height: .2in; mso-border-bottom-alt: solid #8EA9DB .5pt; mso-border-right-alt: solid #8EA9DB .5pt; padding: 0in 5.4pt 0in 5.4pt; width: 70.4pt;" width="94">
+  <p align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;"><b><span style="color: white; font-family: &quot;Calibri&quot;,sans-serif; mso-fareast-font-family: &quot;Times New Roman&quot;;">Relationship</span></b></p>
+  </td>
+  <td nowrap="" style="border-bottom: solid #8EA9DB 1.0pt; border-left: none; border-right: solid #8EA9DB 1.0pt; border-top: none; height: .2in; mso-border-bottom-alt: solid #8EA9DB .5pt; mso-border-right-alt: solid #8EA9DB .5pt; padding: 0in 5.4pt 0in 5.4pt; width: 61.4pt;" width="82">
+  <p align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;"><span style="color: black; font-family: &quot;Calibri&quot;,sans-serif; mso-fareast-font-family: &quot;Times New Roman&quot;;">38</span></p>
+  </td>
+ </tr>
+</tbody></table>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal"><b>6.3 –</b> While I don’t completely understand what to do
+with these results, I can say I tested High-Very High in each category. While
+taking the test; however, I can feel intuitively which skills were learned out
+of necessity draining my energy and which came naturally with an increase to my
+energy. Any skills related to working with others is learned and draining for
+me. Any skill related to being left alone with a problem to think about it
+creatively until I find a solution is exhilarating and energizing for me. </p>
+
+<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="border-collapse: collapse; margin-left: -.05pt; mso-padding-alt: 0in 5.4pt 0in 5.4pt; mso-yfti-tbllook: 1184; width: 321px;">
+ <tbody><tr style="height: .2in; mso-yfti-firstrow: yes; mso-yfti-irow: 0;">
+  <td nowrap="" style="background: #4472C4; border-right: none; border: solid #8EA9DB 1.0pt; height: .2in; mso-border-bottom-alt: solid #8EA9DB .5pt; mso-border-left-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; padding: 0in 5.4pt 0in 5.4pt; width: 1.45in;" width="139">
+  <p align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;"><b><span style="color: white; font-family: &quot;Calibri&quot;,sans-serif; mso-fareast-font-family: &quot;Times New Roman&quot;;">Leadership Style</span></b></p>
+  </td>
+  <td nowrap="" style="background: #4472C4; border-bottom: solid #8EA9DB 1.0pt; border-left: none; border-right: none; border-top: solid #8EA9DB 1.0pt; height: .2in; mso-border-bottom-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; padding: 0in 5.4pt 0in 5.4pt; width: 77.8pt;" width="104">
+  <p align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;"><b><span style="color: white; font-family: &quot;Calibri&quot;,sans-serif; mso-fareast-font-family: &quot;Times New Roman&quot;;">Sum Score</span></b></p>
+  </td>
+  <td nowrap="" style="background: #4472C4; border-left: none; border: solid #8EA9DB 1.0pt; height: .2in; mso-border-bottom-alt: solid #8EA9DB .5pt; mso-border-right-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; padding: 0in 5.4pt 0in 5.4pt; width: 58.4pt;" width="78">
+  <p align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;"><b><span style="color: white; font-family: &quot;Calibri&quot;,sans-serif; mso-fareast-font-family: &quot;Times New Roman&quot;;">Range</span></b></p>
+  </td>
+ </tr>
+ <tr style="height: .2in; mso-yfti-irow: 1;">
+  <td nowrap="" style="background: #D9E1F2; border-bottom: solid #8EA9DB 1.0pt; border-left: solid #8EA9DB 1.0pt; border-right: none; border-top: none; height: .2in; mso-border-bottom-alt: solid #8EA9DB .5pt; mso-border-left-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; padding: 0in 5.4pt 0in 5.4pt; width: 1.45in;" width="139">
+  <p align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;"><span style="color: black; font-family: &quot;Calibri&quot;,sans-serif; mso-fareast-font-family: &quot;Times New Roman&quot;;">Implementer</span></p>
+  </td>
+  <td nowrap="" style="background: #D9E1F2; border-bottom: solid #8EA9DB 1.0pt; border: none; height: .2in; mso-border-bottom-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; padding: 0in 5.4pt 0in 5.4pt; width: 77.8pt;" width="104">
+  <p align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;"><span style="color: black; font-family: &quot;Calibri&quot;,sans-serif; mso-fareast-font-family: &quot;Times New Roman&quot;;">25</span></p>
+  </td>
+  <td nowrap="" style="background: #D9E1F2; border-bottom: solid #8EA9DB 1.0pt; border-left: none; border-right: solid #8EA9DB 1.0pt; border-top: none; height: .2in; mso-border-bottom-alt: solid #8EA9DB .5pt; mso-border-right-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; padding: 0in 5.4pt 0in 5.4pt; width: 58.4pt;" width="78">
+  <p align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;"><span style="color: black; font-family: &quot;Calibri&quot;,sans-serif; mso-fareast-font-family: &quot;Times New Roman&quot;;">High</span></p>
+  </td>
+ </tr>
+ <tr style="height: .2in; mso-yfti-irow: 2;">
+  <td nowrap="" style="border-bottom: solid #8EA9DB 1.0pt; border-left: solid #8EA9DB 1.0pt; border-right: none; border-top: none; height: .2in; mso-border-bottom-alt: solid #8EA9DB .5pt; mso-border-left-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; padding: 0in 5.4pt 0in 5.4pt; width: 1.45in;" width="139">
+  <p align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;"><span style="color: black; font-family: &quot;Calibri&quot;,sans-serif; mso-fareast-font-family: &quot;Times New Roman&quot;;">Innovator</span></p>
+  </td>
+  <td nowrap="" style="border-bottom: solid #8EA9DB 1.0pt; border: none; height: .2in; mso-border-bottom-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; padding: 0in 5.4pt 0in 5.4pt; width: 77.8pt;" width="104">
+  <p align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;"><span style="color: black; font-family: &quot;Calibri&quot;,sans-serif; mso-fareast-font-family: &quot;Times New Roman&quot;;">30</span></p>
+  </td>
+  <td nowrap="" style="border-bottom: solid #8EA9DB 1.0pt; border-left: none; border-right: solid #8EA9DB 1.0pt; border-top: none; height: .2in; mso-border-bottom-alt: solid #8EA9DB .5pt; mso-border-right-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; padding: 0in 5.4pt 0in 5.4pt; width: 58.4pt;" width="78">
+  <p align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;"><span style="color: black; font-family: &quot;Calibri&quot;,sans-serif; mso-fareast-font-family: &quot;Times New Roman&quot;;">Very High</span></p>
+  </td>
+ </tr>
+ <tr style="height: .2in; mso-yfti-irow: 3;">
+  <td nowrap="" style="background: #D9E1F2; border-bottom: solid #8EA9DB 1.0pt; border-left: solid #8EA9DB 1.0pt; border-right: none; border-top: none; height: .2in; mso-border-bottom-alt: solid #8EA9DB .5pt; mso-border-left-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; padding: 0in 5.4pt 0in 5.4pt; width: 1.45in;" width="139">
+  <p align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;"><span style="color: black; font-family: &quot;Calibri&quot;,sans-serif; mso-fareast-font-family: &quot;Times New Roman&quot;;">Encourager</span></p>
+  </td>
+  <td nowrap="" style="background: #D9E1F2; border-bottom: solid #8EA9DB 1.0pt; border: none; height: .2in; mso-border-bottom-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; padding: 0in 5.4pt 0in 5.4pt; width: 77.8pt;" width="104">
+  <p align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;"><span style="color: black; font-family: &quot;Calibri&quot;,sans-serif; mso-fareast-font-family: &quot;Times New Roman&quot;;">26</span></p>
+  </td>
+  <td nowrap="" style="background: #D9E1F2; border-bottom: solid #8EA9DB 1.0pt; border-left: none; border-right: solid #8EA9DB 1.0pt; border-top: none; height: .2in; mso-border-bottom-alt: solid #8EA9DB .5pt; mso-border-right-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; padding: 0in 5.4pt 0in 5.4pt; width: 58.4pt;" width="78">
+  <p align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;"><span style="color: black; font-family: &quot;Calibri&quot;,sans-serif; mso-fareast-font-family: &quot;Times New Roman&quot;;">Very High</span></p>
+  </td>
+ </tr>
+ <tr style="height: .2in; mso-yfti-irow: 4;">
+  <td nowrap="" style="border-bottom: solid #8EA9DB 1.0pt; border-left: solid #8EA9DB 1.0pt; border-right: none; border-top: none; height: .2in; mso-border-bottom-alt: solid #8EA9DB .5pt; mso-border-left-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; padding: 0in 5.4pt 0in 5.4pt; width: 1.45in;" width="139">
+  <p align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;"><span style="color: black; font-family: &quot;Calibri&quot;,sans-serif; mso-fareast-font-family: &quot;Times New Roman&quot;;">Analyzer</span></p>
+  </td>
+  <td nowrap="" style="border-bottom: solid #8EA9DB 1.0pt; border: none; height: .2in; mso-border-bottom-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; padding: 0in 5.4pt 0in 5.4pt; width: 77.8pt;" width="104">
+  <p align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;"><span style="color: black; font-family: &quot;Calibri&quot;,sans-serif; mso-fareast-font-family: &quot;Times New Roman&quot;;">30</span></p>
+  </td>
+  <td nowrap="" style="border-bottom: solid #8EA9DB 1.0pt; border-left: none; border-right: solid #8EA9DB 1.0pt; border-top: none; height: .2in; mso-border-bottom-alt: solid #8EA9DB .5pt; mso-border-right-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; padding: 0in 5.4pt 0in 5.4pt; width: 58.4pt;" width="78">
+  <p align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;"><span style="color: black; font-family: &quot;Calibri&quot;,sans-serif; mso-fareast-font-family: &quot;Times New Roman&quot;;">Very High</span></p>
+  </td>
+ </tr>
+ <tr style="height: .2in; mso-yfti-irow: 5; mso-yfti-lastrow: yes;">
+  <td nowrap="" style="background: #D9E1F2; border-bottom: solid #8EA9DB 1.0pt; border-left: solid #8EA9DB 1.0pt; border-right: none; border-top: none; height: .2in; mso-border-bottom-alt: solid #8EA9DB .5pt; mso-border-left-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; padding: 0in 5.4pt 0in 5.4pt; width: 1.45in;" width="139">
+  <p align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;"><span style="color: black; font-family: &quot;Calibri&quot;,sans-serif; mso-fareast-font-family: &quot;Times New Roman&quot;;">Mediator</span></p>
+  </td>
+  <td nowrap="" style="background: #D9E1F2; border-bottom: solid #8EA9DB 1.0pt; border: none; height: .2in; mso-border-bottom-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; padding: 0in 5.4pt 0in 5.4pt; width: 77.8pt;" width="104">
+  <p align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;"><span style="color: black; font-family: &quot;Calibri&quot;,sans-serif; mso-fareast-font-family: &quot;Times New Roman&quot;;">25</span></p>
+  </td>
+  <td nowrap="" style="background: #D9E1F2; border-bottom: solid #8EA9DB 1.0pt; border-left: none; border-right: solid #8EA9DB 1.0pt; border-top: none; height: .2in; mso-border-bottom-alt: solid #8EA9DB .5pt; mso-border-right-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; mso-border-top-alt: solid #8EA9DB .5pt; padding: 0in 5.4pt 0in 5.4pt; width: 58.4pt;" width="78">
+  <p align="center" class="MsoNormal" style="line-height: normal; margin-bottom: 0in; text-align: center;"><span style="color: black; font-family: &quot;Calibri&quot;,sans-serif; mso-fareast-font-family: &quot;Times New Roman&quot;;">High</span></p>
+  </td>
+ </tr>
+</tbody></table>
+
+<p class="MsoNormal">&nbsp;</p>
+
+<p class="MsoNormal"><b>7.3 –</b> My score of 48 is considered Very High. The
+only two items that scored a 4 instead of a 5 were both group-oriented items
+(which are within my developed skillsets but not my naturally (or enjoyable)
+skillsets. </p>
+
+<p class="MsoNormal"><b>9.3 –</b> My score of 126 is considered high; however, my
+answers are all over the map. For some items I am a solid 5, for others I roll
+my eyes and sigh heavily with a solid 1. This is an area in which the cultural
+dialog and accepted vocabulary has been dominated by non-biblical worldviews
+and pseudo-science with which I take strong exception. I believe we should
+strongly advocate for the other. Where I disagree with the cultural dialog is
+areas in which we are supposed to “accept” without “confronting”. While I take
+a strong stand against modern western Christianity’s tendency to make a big
+deal of LGBT members of the community (and I would happily bake the cake); I
+also have had very candid conversations with my LGBT friends letting them know
+it’s not the perfect will of God for their life and offered to walk along side
+of them while they submit this area to the Holy Spirit to see what he would do
+in their heart regarding the matter. This type of mentality flows into other
+areas, but this is the clearest example in our culture. </p>
+
+<p class="MsoNormal"><b>11.3 –</b> For the Conflict Style Questionnaire I chose
+an older conflict (pre-counseling) and a more recent conflict (post-counseling)
+to see if that had any bearing on my test results. For both conflicts, I scored
+fairly evenly (Strong and Very-Strong) on Competition, Compromise, Accommodation,
+and Collaboration. However, on the older conflict, I scored Weak (9) on the
+Avoidance while I scored Very High (22) for the more recent conflict. So I
+suppose this means I learned something. </p>
+
+<h1><a name="_Toc96819123">ADDENDUM | PHILOSPHY OF MINISTRY</a></h1>
+
+<h2><a name="_Toc96819124">Darrell’s LIFE Mission Statement</a></h2>
+
+<p class="MsoNormal" style="margin-left: .5in;">NO HIDING: Finding Faith &amp;
+Freedom to walk out an authentic relationship with God, His Family, and His
+Word; through Biblical Studies, Stories, and Scholarship</p>
+
+<h2><a name="_Toc96819125">Ministry is Imaging Yahweh to others at all times</a></h2>
+
+<h3><a name="_Toc96819126">Being an Image Bearer for God:</a></h3>
+
+<p class="MsoListParagraph" style="line-height: normal;"><i>Key Concept:</i> <i>“Think
+of the “image” of God as a verb, and you’ll get the idea. We were created to
+image God, to be his imagers—to represent him or be his proxy to each other and
+to all the earth.”</i>&nbsp;Michael Heiser</p>
+
+<h3><a name="_Toc96819127">Being an Image Bearer to the de-churched and
+disenfranchised (irreligious Christianity):</a></h3>
+
+<p class="MsoListParagraph" style="line-height: normal;"><i>Key Concept:</i> I am
+called to the de-churched and disenfranchised, to love them into fullness and
+to teach them to think differently so they can find freedom. This means I will
+sometimes look and act in ways that make religious people uncomfortable, which
+is just fine with me.</p>
+
+<h2><a name="_Toc96819128">My Ministry Philosophies: What and why I do what I
+do.</a></h2>
+
+<h3><a name="_Toc96819129">Transformational Teaching: I teach them to think
+differently and seek freedom.</a></h3>
+
+<p class="MsoNormal" style="line-height: normal;"><i>Key Concepts:</i> </p>
+
+<p class="MsoListParagraphCxSpFirst" style="line-height: normal; margin-left: .25in; mso-add-space: auto; mso-list: l2 level1 lfo2; text-indent: -.25in;"><span style="font-family: Symbol; mso-bidi-font-family: Symbol; mso-fareast-font-family: Symbol;"><span style="mso-list: Ignore;">·<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span dir="LTR"></span>By knowing Truth, we are freed
+from bondage to lies (strongholds).</p>
+
+<p class="MsoListParagraphCxSpMiddle" style="line-height: normal; margin-left: .25in; mso-add-space: auto; mso-list: l2 level1 lfo2; text-indent: -.25in;"><span style="font-family: Symbol; mso-bidi-font-family: Symbol; mso-fareast-font-family: Symbol;"><span style="mso-list: Ignore;">·<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span dir="LTR"></span>Freedom from Psychological
+bondage<b> -</b> by thinking differently, we can be freed from unhealthy
+behaviors and relationship patterns that came through stronghold patterns
+induced and perpetuated by lies.</p>
+
+<p class="MsoListParagraphCxSpMiddle" style="line-height: normal; margin-left: .25in; mso-add-space: auto; mso-list: l2 level1 lfo2; text-indent: -.25in;"><span style="font-family: Symbol; mso-bidi-font-family: Symbol; mso-fareast-font-family: Symbol;"><span style="mso-list: Ignore;">·<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span dir="LTR"></span>Freedom from Religious
+bondage - by thinking differently, we can see where old religious traditions
+have held us captive to unhealthy ideologies. It is seeing what the biblical
+authors really meant that brings us the truth of God’s inspired revelation and
+the freedom that comes from that truth.</p>
+
+<p class="MsoListParagraphCxSpLast" style="line-height: normal; margin-left: .25in; mso-add-space: auto; mso-list: l2 level1 lfo2; text-indent: -.25in;"><span style="font-family: Symbol; mso-bidi-font-family: Symbol; mso-fareast-font-family: Symbol;"><span style="mso-list: Ignore;">·<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span dir="LTR"></span>Freedom from Tradition’s
+bondage- by studying the Bible in its own Ancient Near East (ANE) and Second
+Temple period contexts, we can attempt to rid ourselves of all religious
+traditions and get back to the inspired narratives God wanted to communicate.
+By doing so, we find the freedom brought by His truth. There is no tradition
+too sacred too question.</p>
+
+<h3><a name="_Toc96819130">Transformational Community: Building community
+through relationship (doing life together)</a></h3>
+
+<p class="MsoNormal" style="line-height: normal;"><i>Key Concepts:</i> </p>
+
+<p class="MsoListParagraphCxSpFirst" style="line-height: normal; margin-left: .25in; mso-add-space: auto; mso-list: l5 level1 lfo3; text-indent: -.25in;"><span style="font-family: Symbol; mso-bidi-font-family: Symbol; mso-fareast-font-family: Symbol;"><span style="mso-list: Ignore;">·<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span dir="LTR"></span>Need for community: By
+developing relationships with others, in healthy, safe, nonromantic community
+we can find our needs for intimacy (to know and be known) and find freedom from
+lies that breed in isolation as people mirror God’s Image back to us.</p>
+
+<p class="MsoListParagraphCxSpMiddle" style="line-height: normal; margin-left: .25in; mso-add-space: auto; mso-list: l5 level1 lfo3; text-indent: -.25in;"><span style="font-family: Symbol; mso-bidi-font-family: Symbol; mso-fareast-font-family: Symbol;"><span style="mso-list: Ignore;">·<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span dir="LTR"></span>Forming life-long community
+by doing life together. For me, community means real, life-long, deep
+relationship building. While some relationships can be seasonal, the hope-goal
+is that we (the community) will do life together, and one of us will be at the
+other’s funeral (should the Lord tarry). </p>
+
+<p class="MsoListParagraphCxSpLast" style="line-height: normal; margin-left: .25in; mso-add-space: auto; mso-list: l5 level1 lfo3; text-indent: -.25in;"><span style="font-family: Symbol; font-size: 12.0pt; mso-bidi-font-family: Symbol; mso-bidi-font-style: italic; mso-bidi-font-weight: bold; mso-fareast-font-family: Symbol;"><span style="mso-list: Ignore;">·<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span dir="LTR"></span>Forming real community
+outside of the modern event-culture. Community is much harder to form by merely
+attending a weekly spectator event involving a concert and a public speaker,
+then quickly leaving afterwards. While that event (some people call “church”)
+can be one avenue of meeting people, it is the activities that bring us into
+Koinonia (doing life together) that will ultimately create these life-long
+bonds of community. The event can be a component of that community, but it must
+not be the only tool one uses to develop community.<b><i><span style="font-size: 12.0pt; mso-bidi-font-family: &quot;Times New Roman&quot;;"></span></i></b></p>
+
+<h2><a name="_Toc96819131">Wolfe Rules (Gibb's Style Rules) – My curated
+truisms to living well.</a></h2>
+
+<p class="MsoNormal"><b><i>My highest priority: NO HIDING</i> </b>– Radical
+authenticity in healthy community is the key to freedom (getting and staying
+free). -Darrell Wolfe</p>
+
+<p class="MsoNormal" style="margin-bottom: 0in;"><i>Doing Life:</i></p>
+
+<p class="MsoListParagraphCxSpFirst" style="mso-list: l4 level1 lfo1; text-indent: -.25in;"><span style="font-family: Symbol; mso-bidi-font-family: Symbol; mso-fareast-font-family: Symbol;"><span style="mso-list: Ignore;">·<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span dir="LTR"></span>Plans Fail. Live by
+Principles. -Unknown</p>
+
+<p class="MsoListParagraphCxSpMiddle" style="mso-list: l4 level1 lfo1; text-indent: -.25in;"><span style="font-family: Symbol; mso-bidi-font-family: Symbol; mso-fareast-font-family: Symbol;"><span style="mso-list: Ignore;">·<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span dir="LTR"></span>When Overwhelmed: Take the
+next indicated step. -Alcoholics Anonymous/Al-Anon</p>
+
+<p class="MsoListParagraphCxSpMiddle" style="mso-list: l4 level1 lfo1; text-indent: -.25in;"><span style="font-family: Symbol; mso-bidi-font-family: Symbol; mso-fareast-font-family: Symbol;"><span style="mso-list: Ignore;">·<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span dir="LTR"></span>“What you compromise to
+keep, you will eventually lose.” -Jesse Duplantis</p>
+
+<p class="MsoListParagraphCxSpMiddle" style="mso-list: l4 level1 lfo1; text-indent: -.25in;"><span style="font-family: Symbol; mso-bidi-font-family: Symbol; mso-fareast-font-family: Symbol;"><span style="mso-list: Ignore;">·<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span dir="LTR"></span>“Do what’s right because
+it’s right, do it right, and do it right away.” -Art Aragon</p>
+
+<p class="MsoListParagraphCxSpMiddle" style="mso-list: l4 level1 lfo1; text-indent: -.25in;"><span style="font-family: Symbol; mso-bidi-font-family: Symbol; mso-fareast-font-family: Symbol;"><span style="mso-list: Ignore;">·<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span dir="LTR"></span>“Strive not to be a
+success, but rather to be of value.” -Albert Einstein</p>
+
+<p class="MsoListParagraphCxSpMiddle" style="mso-list: l4 level1 lfo1; text-indent: -.25in;"><span style="font-family: Symbol; mso-bidi-font-family: Symbol; mso-fareast-font-family: Symbol;"><span style="mso-list: Ignore;">·<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span dir="LTR"></span>“If you can't explain it
+simply, you don't understand it well enough.” -Albert Einstein</p>
+
+<p class="MsoListParagraphCxSpMiddle" style="mso-list: l4 level1 lfo1; text-indent: -.25in;"><span style="font-family: Symbol; mso-bidi-font-family: Symbol; mso-fareast-font-family: Symbol;"><span style="mso-list: Ignore;">·<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span dir="LTR"></span>“To admit that you were
+wrong is to declare that you are wiser now than you were before.” -Albert
+Einstein.</p>
+
+<p class="MsoListParagraphCxSpMiddle" style="mso-list: l4 level1 lfo1; text-indent: -.25in;"><span style="font-family: Symbol; mso-bidi-font-family: Symbol; mso-fareast-font-family: Symbol;"><span style="mso-list: Ignore;">·<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span dir="LTR"></span>“Stay away from negative
+people, they have a problem for every solution.” -Albert Einstein</p>
+
+<p class="MsoListParagraphCxSpMiddle" style="mso-list: l4 level1 lfo1; text-indent: -.25in;"><span style="font-family: Symbol; mso-bidi-font-family: Symbol; mso-fareast-font-family: Symbol;"><span style="mso-list: Ignore;">·<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span dir="LTR"></span>“An ounce of prevention is
+worth a pound of cure.” -Ben Franklin</p>
+
+<p class="MsoListParagraphCxSpMiddle" style="mso-list: l4 level1 lfo1; text-indent: -.25in;"><span style="font-family: Symbol; mso-bidi-font-family: Symbol; mso-fareast-font-family: Symbol;"><span style="mso-list: Ignore;">·<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span dir="LTR"></span>“People who believe in the
+resurrection, in God making a whole new world in which everything will be set
+right at last, are unstoppably motivated to work for that new world in the
+present.” -NT Wright</p>
+
+<p class="MsoListParagraphCxSpMiddle" style="mso-list: l4 level1 lfo1; text-indent: -.25in;"><span style="font-family: Symbol; mso-bidi-font-family: Symbol; mso-fareast-font-family: Symbol;"><span style="mso-list: Ignore;">·<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span dir="LTR"></span>“Prayer is for hearing
+God’s agenda not for bringing Him yours.&nbsp;Don’t tell Him what you want to
+see happen. When praying, ask Him what He’s doing and how you can participate.”
+-Darrell Wolfe</p>
+
+<p class="MsoListParagraphCxSpLast" style="mso-list: l4 level1 lfo1; text-indent: -.25in;"><span style="font-family: Symbol; mso-bidi-font-family: Symbol; mso-fareast-font-family: Symbol;"><span style="mso-list: Ignore;">·<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span dir="LTR"></span>“When in doubt: Shift into ‘Low
+Slow’, listen for His voice.” -Kenneth Copeland</p>
+
+<p class="MsoNormal" style="margin-bottom: 0in;"><i>Finding Freedom:</i></p>
+
+<p class="MsoListParagraphCxSpFirst" style="mso-list: l4 level1 lfo1; text-indent: -.25in;"><span style="font-family: Symbol; mso-bidi-font-family: Symbol; mso-fareast-font-family: Symbol;"><span style="mso-list: Ignore;">·<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span dir="LTR"></span>“Freedom is not the absence
+of something, it is the presence of someone.” -Bob Hamp</p>
+
+<p class="MsoListParagraphCxSpMiddle" style="line-height: normal; mso-list: l4 level1 lfo1; text-indent: -.25in;"><span style="font-family: Symbol; mso-bidi-font-family: Symbol; mso-fareast-font-family: Symbol;"><span style="mso-list: Ignore;">·<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span dir="LTR"></span>“We are all broken, that’s
+how the light gets through.” -Ernest Hemingway</p>
+
+<p class="MsoListParagraphCxSpMiddle" style="line-height: normal; mso-list: l4 level1 lfo1; text-indent: -.25in;"><span style="font-family: Symbol; mso-bidi-font-family: Symbol; mso-fareast-font-family: Symbol;"><span style="mso-list: Ignore;">·<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span dir="LTR"></span>“It’s OKAY to be not okay”
+-Unknown</p>
+
+<p class="MsoListParagraphCxSpLast" style="line-height: normal; mso-list: l4 level1 lfo1; text-indent: -.25in;"><span style="font-family: Symbol; mso-bidi-font-family: Symbol; mso-fareast-font-family: Symbol;"><span style="mso-list: Ignore;">·<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span dir="LTR"></span>“Religion attempts to
+overcome the Knowledge of Evil with the Knowledge of Good; but the Knowledge of
+Good will never re-connect you to LIFE, which is the real need of man. Life
+flows from a different tree (paraphrased)” -Bob Hamp</p>
+
+<p class="MsoNormal" style="margin-bottom: 0in;"><i>Studying the Bible:</i></p>
+
+<p class="MsoListParagraphCxSpFirst" style="line-height: normal; mso-list: l4 level1 lfo1; text-indent: -.25in;"><span style="font-family: Symbol; mso-bidi-font-family: Symbol; mso-fareast-font-family: Symbol;"><span style="mso-list: Ignore;">·<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span dir="LTR"></span>"Religion is the
+by-product left over after God's move is turned from movement to
+monument." -Darrell Wolfe</p>
+
+<p class="MsoListParagraphCxSpMiddle" style="mso-list: l4 level1 lfo1; text-indent: -.25in;"><span style="font-family: Symbol; mso-bidi-font-family: Symbol; mso-fareast-font-family: Symbol;"><span style="mso-list: Ignore;">·<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span dir="LTR"></span>“Don’t seek out verses, seek
+out themes and patterns in the whole Bible. Ask Him to reveal His-Story to you,
+and your part in it. Only build theology on what the text of the bible can
+support.” – Darrell Wolfe</p>
+
+<p class="MsoListParagraphCxSpMiddle" style="mso-list: l4 level1 lfo1; text-indent: -.25in;"><span style="font-family: Symbol; mso-bidi-font-family: Symbol; mso-fareast-font-family: Symbol;"><span style="mso-list: Ignore;">·<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span dir="LTR"></span>“Traditions tell us where
+we have come from. Scripture itself is a better guide as to where we should be
+going now.” -NT Wright</p>
+
+<p class="MsoListParagraphCxSpMiddle" style="line-height: normal; mso-list: l4 level1 lfo1; text-indent: -.25in;"><span style="font-family: Symbol; mso-bidi-font-family: Symbol; mso-fareast-font-family: Symbol;"><span style="mso-list: Ignore;">·<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span dir="LTR"></span>“You are better off knowing
+what a passage means than you are memorizing it.” -Michael Heiser</p>
+
+<p class="MsoListParagraphCxSpMiddle" style="line-height: normal; mso-list: l4 level1 lfo1; text-indent: -.25in;"><span style="font-family: Symbol; mso-bidi-font-family: Symbol; mso-fareast-font-family: Symbol;"><span style="mso-list: Ignore;">·<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span dir="LTR"></span>“The New Testament is
+essentially an inspired commentary on the Old Testament. So, we need to pay attention
+to how the New Testament authors read the Old Testament, how they repurposed
+it, and their understanding of the it is not going to violate the Old Testament
+in its own original context. In fact, it will build on it. It will reinforce
+it.” -Michael Heiser</p>
+
+<p class="MsoListParagraphCxSpLast" style="line-height: normal; mso-list: l4 level1 lfo1; text-indent: -.25in;"><span style="font-family: Symbol; mso-bidi-font-family: Symbol; mso-fareast-font-family: Symbol;"><span style="mso-list: Ignore;">·<span style="font: 7.0pt &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span dir="LTR"></span>"Second Temple
+literature is really important, and therefore, we ought to pay more attention
+to that material for understanding the Old Testament and how the New Testament
+uses the Old Testament than to our own denominational traditions." -Michael
+Heiser</p>
+
+<p class="MsoNormal" style="line-height: 200%;">&nbsp;</p>
+
+<div style="mso-element: footnote-list;"><br clear="all" />
+
+<hr align="left" size="1" width="33%" />
+
+
+
+<div id="ftn1" style="mso-element: footnote;">
+
+<p class="MsoFootnoteText"><a href="#_ftnref1" name="_ftn1" style="mso-footnote-id: ftn1;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;">[1]</span></span></span></span></a>
+<span style="mso-bidi-font-family: &quot;Times New Roman&quot;;">Jennifer V. Nelson, n.d., Credit
+to Jen for this phrase.</span></p>
+
+</div>
+
+<div id="ftn2" style="mso-element: footnote;">
+
+<p class="MsoFootnoteText"><a href="#_ftnref2" name="_ftn2" style="mso-footnote-id: ftn2;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;">[2]</span></span></span></span></a>
+<span style="mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-font-size: 12.0pt;">MaryKate
+Morse, <i>Making Room for Leadership: Power, Space and Influence</i> (Downers
+Grove, Ill: IVP Books, 2008), Kindle Locations 143-144.</span></p>
+
+</div>
+
+<div id="ftn3" style="mso-element: footnote;">
+
+<p class="MsoFootnoteText"><a href="#_ftnref3" name="_ftn3" style="mso-footnote-id: ftn3;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;">[3]</span></span></span></span></a>
+<span style="mso-bidi-font-family: &quot;Times New Roman&quot;;">Morse, Kindle Location 868.</span></p>
+
+</div>
+
+<div id="ftn4" style="mso-element: footnote;">
+
+<p class="MsoFootnoteText"><a href="#_ftnref4" name="_ftn4" style="mso-footnote-id: ftn4;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;">[4]</span></span></span></span></a>
+<span style="mso-bidi-font-family: &quot;Times New Roman&quot;;">Morse, Kindle Location 512.</span></p>
+
+</div>
+
+<div id="ftn5" style="mso-element: footnote;">
+
+<p class="MsoFootnoteText"><a href="#_ftnref5" name="_ftn5" style="mso-footnote-id: ftn5;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;">[5]</span></span></span></span></a>
+<span style="mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-font-size: 12.0pt;">James
+C. Collins, <i>Good to Great: Why Some Companies Make the Leap--and Others
+Don’t.</i>, 1st ed (New York, NY: HarperBusiness, 2001).</span></p>
+
+</div>
+
+<div id="ftn6" style="mso-element: footnote;">
+
+<p class="MsoFootnoteText"><a href="#_ftnref6" name="_ftn6" style="mso-footnote-id: ftn6;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;">[6]</span></span></span></span></a>
+<span style="mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-font-size: 12.0pt;">Nicholas
+Perrin, Jeannine K. Brown, and Joel B. Green, <i>Dictionary of Jesus and the
+Gospels (DJG)</i>, IVP Bible Dictionary Series (Downers Grove, Ill: IVP
+Academic, 2013), Pg 511-J. D. G. Dunn,
+“Law,”-https://ref.ly/logosres/dctjssgsscnddtn?ref=Page.p+511 &amp; off=22,
+http://search.ebscohost.com/login.aspx?direct=true&amp;db=nlebk&amp;AN=633424&amp;site=ehost-live.</span></p>
+
+</div>
+
+<div id="ftn7" style="mso-element: footnote;">
+
+<p class="MsoFootnoteText"><a href="#_ftnref7" name="_ftn7" style="mso-footnote-id: ftn7;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;">[7]</span></span></span></span></a>
+<i><span style="mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-font-size: 12.0pt;">The
+Lexham English Bible (LEB), Fourth Edition</span></i><span style="mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-font-size: 12.0pt;">, Logo Bible Software, Harris,
+W. H., III, Ritzema, E., Brannan, R., Mangum, D., Dunham, J., Reimer, J. A.,
+&amp; Wierenga, M. (Eds.) (Bellingham, WA: Lexham Press, 2010), Mk 12:29–31,
+http://www.lexhampress.com.</span></p>
+
+</div>
+
+<div id="ftn8" style="mso-element: footnote;">
+
+<p class="MsoFootnoteText"><a href="#_ftnref8" name="_ftn8" style="mso-footnote-id: ftn8;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;">[8]</span></span></span></span></a>
+<span style="mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-font-size: 12.0pt;">Peter
+Guy Northouse, <i>Introduction to Leadership: Concepts and Practice</i>, Fifth
+edition (Los Angeles: SAGE, 2021).</span></p>
+
+</div>
+
+<div id="ftn9" style="mso-element: footnote;">
+
+<p class="MsoFootnoteText"><a href="#_ftnref9" name="_ftn9" style="mso-footnote-id: ftn9;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;">[9]</span></span></span></span></a>
+<span style="mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-font-size: 12.0pt;">Nelson,
+interview, (paraphrase of a friend’s way of stating the divine commands).</span></p>
+
+</div>
+
+<div id="ftn10" style="mso-element: footnote;">
+
+<p class="MsoFootnoteText"><a href="#_ftnref10" name="_ftn10" style="mso-footnote-id: ftn10;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;">[10]</span></span></span></span></a>
+<span style="mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-font-size: 12.0pt;">Morse,
+<i>Making Room for Leadership</i>, Chapter 7 Second Impressions.</span></p>
+
+</div>
+
+<div id="ftn11" style="mso-element: footnote;">
+
+<p class="MsoFootnoteText"><a href="#_ftnref11" name="_ftn11" style="mso-footnote-id: ftn11;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;">[11]</span></span></span></span></a>
+<span style="mso-bidi-font-family: &quot;Times New Roman&quot;;">Morse, Kindle Locations
+1071-1073.</span></p>
+
+</div>
+
+<div id="ftn12" style="mso-element: footnote;">
+
+<p class="MsoFootnoteText"><a href="#_ftnref12" name="_ftn12" style="mso-footnote-id: ftn12;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;">[12]</span></span></span></span></a>
+<span style="mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-font-size: 12.0pt;">Henry
+Cloud and John Sims Townsend, <i>Boundaries: When to Say Yes, How to Say No to
+Take Control of Your Life</i>, Updated and expanded [edition], Boundaries
+(Grand Rapids, Michigan: Zondervan, 2017).</span></p>
+
+</div>
+
+<div id="ftn13" style="mso-element: footnote;">
+
+<p class="MsoFootnoteText"><a href="#_ftnref13" name="_ftn13" style="mso-footnote-id: ftn13;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;">[13]</span></span></span></span></a>
+<span style="mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-font-size: 12.0pt;">Tom
+Rath and Don Clifton, <i>Strengths Finder 2.0</i> (New York: Gallup Press,
+2007).</span></p>
+
+</div>
+
+<div id="ftn14" style="mso-element: footnote;">
+
+<p class="MsoFootnoteText"><a href="#_ftnref14" name="_ftn14" style="mso-footnote-id: ftn14;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;">[14]</span></span></span></span></a>
+<span style="mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-font-size: 12.0pt;">J.
+Robert Clinton, <i>The Making of a Leader: Recognizing the Lessons and Stages
+of Leadership Development</i>, Rev. ed. (Colorado Springs, CO: NavPress, 2012),
+27.</span></p>
+
+</div>
+
+<div id="ftn15" style="mso-element: footnote;">
+
+<p class="MsoFootnoteText"><a href="#_ftnref15" name="_ftn15" style="mso-footnote-id: ftn15;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;">[15]</span></span></span></span></a>
+<span style="mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-font-size: 12.0pt;">Carmen
+Joy Imes, <i>Bearing God’s Name: Why Sinai Still Matters</i> (Downers Grove,
+IL: IVP Academic, An Imprint of InterVarsity Press, 2019).</span></p>
+
+</div>
+
+<div id="ftn16" style="mso-element: footnote;">
+
+<p class="MsoFootnoteText"><a href="#_ftnref16" name="_ftn16" style="mso-footnote-id: ftn16;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;">[16]</span></span></span></span></a>
+<span style="mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-font-size: 12.0pt;">Rath
+and Clifton, <i>Strengths Finder 2.0</i>; <i>16Personalities (NERIS® Model
+Based on Myers-Briggs Type Indicator)</i> (©2011-2022 NERIS Analytics Limited),
+accessed February 26, 2022, https://www.16personalities.com/articles/our-theory.</span></p>
+
+</div>
+
+<div id="ftn17" style="mso-element: footnote;">
+
+<p class="MsoFootnoteText"><a href="#_ftnref17" name="_ftn17" style="mso-footnote-id: ftn17;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;">[17]</span></span></span></span></a>
+<span style="mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-font-size: 12.0pt;">Northouse,
+<i>Introduction to Leadership</i>, 127–43.</span></p>
+
+</div>
+
+<div id="ftn18" style="mso-element: footnote;">
+
+<p class="MsoFootnoteText"><a href="#_ftnref18" name="_ftn18" style="mso-footnote-id: ftn18;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;">[18]</span></span></span></span></a>
+<span style="mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-font-size: 12.0pt;">Clinton,
+<i>The Making of a Leader</i>.</span></p>
+
+</div>
+
+<div id="ftn19" style="mso-element: footnote;">
+
+<p class="MsoFootnoteText"><a href="#_ftnref19" name="_ftn19" style="mso-footnote-id: ftn19;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;">[19]</span></span></span></span></a><span style="mso-ansi-language: FR;"> </span><span lang="FR" style="mso-ansi-language: FR; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-font-size: 12.0pt;">Clinton, 33–34.</span><span lang="FR" style="mso-ansi-language: FR;"></span></p>
+
+</div>
+
+<div id="ftn20" style="mso-element: footnote;">
+
+<p class="MsoFootnoteText"><a href="#_ftnref20" name="_ftn20" style="mso-footnote-id: ftn20;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;">[20]</span></span></span></span></a><span style="mso-ansi-language: FR;"> </span><span lang="FR" style="mso-ansi-language: FR; mso-bidi-font-family: &quot;Times New Roman&quot;;">Clinton,
+37.</span><span lang="FR" style="mso-ansi-language: FR;"></span></p>
+
+</div>
+
+<div id="ftn21" style="mso-element: footnote;">
+
+<p class="MsoFootnoteText"><a href="#_ftnref21" name="_ftn21" style="mso-footnote-id: ftn21;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;">[21]</span></span></span></span></a><span style="mso-ansi-language: FR;"> </span><span lang="FR" style="mso-ansi-language: FR; mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-font-size: 12.0pt;">Arbinger Institute, ed., <i>Leadership and
+Self-Deception: Getting out of the Box</i>, 2nd ed, A BK Life Book (San
+Francisco: Berrett-Koehler Publishers, 2010).</span><span lang="FR" style="mso-ansi-language: FR;"></span></p>
+
+</div>
+
+<div id="ftn22" style="mso-element: footnote;">
+
+<p class="MsoFootnoteText"><a href="#_ftnref22" name="_ftn22" style="mso-footnote-id: ftn22;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;">[22]</span></span></span></span></a>
+<span style="mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-font-size: 12.0pt;">Bob
+Hamp, <i>Think Differently Lead Differently: Bringing Reformation in Your
+Heart, Your Home and Your Organization</i>, 2014, 12; 92.</span></p>
+
+</div>
+
+<div id="ftn23" style="mso-element: footnote;">
+
+<p class="MsoFootnoteText"><a href="#_ftnref23" name="_ftn23" style="mso-footnote-id: ftn23;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;">[23]</span></span></span></span></a>
+<span style="mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-font-size: 12.0pt;">Skye
+Jethani, <i>With: Reimagining the Way You Relate to God</i> (Nashville: Thomas
+Nelson, 2011).</span></p>
+
+</div>
+
+<div id="ftn24" style="mso-element: footnote;">
+
+<p class="MsoFootnoteText"><a href="#_ftnref24" name="_ftn24" style="mso-footnote-id: ftn24;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;">[24]</span></span></span></span></a>
+<span style="mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-font-size: 12.0pt;">Clinton,
+<i>The Making of a Leader</i>, 39.</span></p>
+
+</div>
+
+<div id="ftn25" style="mso-element: footnote;">
+
+<p class="MsoFootnoteText"><a href="#_ftnref25" name="_ftn25" style="mso-footnote-id: ftn25;" title=""><span class="MsoFootnoteReference"><span style="mso-special-character: footnote;"><span class="MsoFootnoteReference"><span style="font-family: &quot;Times New Roman&quot;,serif; font-size: 10.0pt; line-height: 107%; mso-ansi-language: EN-US; mso-bidi-font-family: Arial; mso-bidi-language: AR-SA; mso-bidi-theme-font: minor-bidi; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US; mso-fareast-theme-font: minor-fareast;">[25]</span></span></span></span></a>
+<span style="mso-bidi-font-family: &quot;Times New Roman&quot;; mso-bidi-font-size: 12.0pt;">William
+D. Mounce, ed., <i>Mounce’s Complete Expository Dictionary of Old &amp; New
+Testament Words</i> (Grand Rapids, Mich: Zondervan, 2006), 187.</span></p>
+
+</div>
+
+</div>
+

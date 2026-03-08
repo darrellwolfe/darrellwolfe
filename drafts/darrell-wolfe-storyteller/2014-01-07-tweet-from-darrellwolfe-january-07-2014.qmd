@@ -1,0 +1,14 @@
+---
+title: 'Tweet From DarrellWolfe January 07, 2014 at 02:19PM'
+date: '2014-01-07T20:25:00.0000000+00:00'
+draft: true
+blogger_blog: 'Darrell Wolfe, Storyteller'
+blogger_status: 'LIVE'
+blogger_post_id: '2783200922076778316'
+blogger_filename: '/2014/01/tweet-from-darrellwolfe-january-07-2014.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
+categories:
+  - 'Twitter'
+---
+
+<div xmlns='http://www.w3.org/1999/xhtml'><blockquote class='twitter-tweet'><br /><p>I'm starting a new routine. 10 minutes each of quiet, pray, journal, reading, followed by a blog post or two in the morning. <a href='https://twitter.com/search?q=%23DW&amp;src=hash'>#DW</a> </p><br />— Darrell G Wolfe (@DarrellWolfe) <a href='https://twitter.com/DarrellWolfe/statuses/420650837455945728'>January 7, 2014</a> </blockquote><br /><script type='text/javascript' charset='utf-8' src='//platform.twitter.com/widgets.js' async=''><br /></script><br/><br /><br/><br />January 07, 2014 at 02:19PM<br/><br />via <a href='https://ifttt.com/?ref=da&amp;site=blogger'>IFTTT</a></div>

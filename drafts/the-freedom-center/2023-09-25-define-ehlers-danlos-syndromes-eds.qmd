@@ -1,0 +1,34 @@
+---
+title: 'Define: Ehlers-Danlos Syndromes (EDS), Hypermobility, and Neurodiversity'
+date: '2023-09-25T02:55:00.0030000+00:00'
+draft: true
+blogger_blog: 'The Freedom Center'
+blogger_status: 'LIVE'
+blogger_post_id: '4572472911242880381'
+blogger_filename: '/2023/09/define-ehlers-danlos-syndromes-eds.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/The Freedom Center/feed.atom'
+categories:
+  - 'and Neurodiversity'
+  - 'Hypermobility'
+  - 'Ehlers-Danlos Syndromes (EDS)'
+---
+
+<p>&nbsp;</p><h1>Ehlers-Danlos Syndromes (EDS)</h1>
+<p><a href="https://www.ehlers-danlos.com/what-is-eds/" target="_blank">Ehlers-Danlos syndromes</a> are a group of connective tissue disorders primarily characterized by hypermobility of the joints, skin that is easily bruised and hyper-elastic, and a tendency to scar easily.</p>
+<h3>Primary Diagnostic Criteria:</h3>
+<ol>
+<li><strong>Joint Hypermobility</strong>: Excessive movement in the joints, often leading to dislocations and chronic pain.</li>
+<li><strong>Skin Issues</strong>: Skin that is unusually elastic, fragile, and prone to scarring.</li>
+<li><strong>Cardiovascular Complications</strong>: Some types of EDS may involve vascular issues, including a tendency for easy bruising and, in severe cases, a risk of arterial or organ rupture.</li>
+<li><strong>Chronic Pain</strong>: Persistent pain in the muscles and joints is common.</li>
+<li><strong>Digestive Problems</strong>: Issues like irritable bowel syndrome (IBS) are often associated with EDS.</li>
+</ol>
+<h3>Link to Neurodiversity:</h3>
+<p>While EDS is primarily considered a physical disorder, there is emerging evidence to suggest a higher prevalence of neurodiverse conditions like Autism Spectrum Disorder (ASD) and Attention-Deficit/Hyperactivity Disorder (ADHD) among individuals with EDS. The links are not yet fully understood, but several hypotheses are being explored:</p>
+<ol>
+<li><strong>Genetic Overlap</strong>: Some researchers are investigating whether there is a genetic component that predisposes an individual to both EDS and neurodiverse conditions.</li>
+<li><strong>Sensory Processing</strong>: Both EDS and neurodiverse conditions like ASD involve differences in sensory processing, which might suggest a common neurological link.</li>
+<li><strong>Chronic Stress</strong>: Living with the chronic pain and other challenges associated with EDS can also have an impact on mental health and cognitive function, potentially exacerbating traits associated with neurodiversity.</li>
+</ol>
+<h3>Weight of Evidence:</h3>
+<p>It's important to note that the link between EDS and neurodiversity is still the subject of ongoing research. While anecdotal evidence and smaller studies suggest a connection, larger, more comprehensive studies are needed to draw definitive conclusions.</p>

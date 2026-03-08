@@ -1,0 +1,88 @@
+---
+title: 'Texas Counties Map'
+date: '2012-02-08T23:09:00.0030000+00:00'
+draft: true
+blogger_blog: 'The Life In Fort Worth Blog'
+blogger_status: 'LIVE'
+blogger_post_id: '3134227045836652579'
+blogger_filename: '/2012/02/texas-counties-map.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/The Life In Fort Worth Blog/feed.atom'
+categories:
+  - 'Navigate'
+---
+
+<br />
+<div style="color: #333333; font-family: Helvetica, Arial, 'Lucida Grande', Verdana, sans-serif; font-size: 16px; margin-bottom: 24px;">
+You just never know when it might be helpful to find out which county you live in or work in. Below is a picture of all the counties in Texas. You can find more information at&nbsp;<a data-mce-href="http://www.censusfinder.com/maptx.htm" href="http://www.censusfinder.com/maptx.htm" style="color: #743399;" target="_blank">Census Finder's website</a>. The&nbsp;<a data-mce-href="http://www.texasalmanac.com/topics/facts-profile" href="http://www.texasalmanac.com/topics/facts-profile" style="color: #743399;" target="_blank">Texas Almanac</a>&nbsp;records that there are 254 counties in Texas. Below are some more statistics. Click on the map below for a clearer picture.</div>
+<div style="color: #333333; font-family: Helvetica, Arial, 'Lucida Grande', Verdana, sans-serif; font-size: 16px; margin-bottom: 24px;">
+</div>
+<div style="color: #333333; font-family: Helvetica, Arial, 'Lucida Grande', Verdana, sans-serif; font-size: 16px; margin-bottom: 24px;">
+Some&nbsp;<strong style="color: black;">More helpful information</strong>&nbsp;from Texas Almanac:</div>
+<h4>
+<strong>The Government</strong></h4>
+<div style="color: #333333; font-family: Helvetica, Arial, 'Lucida Grande', Verdana, sans-serif; font-size: 16px; margin-bottom: 24px;">
+<strong style="color: black;">Capital:</strong>&nbsp;Austin</div>
+<div style="color: #333333; font-family: Helvetica, Arial, 'Lucida Grande', Verdana, sans-serif; font-size: 16px; margin-bottom: 24px;">
+<strong style="color: black;">Government:&nbsp;</strong>Bicameral legislature</div>
+<div style="color: #333333; font-family: Helvetica, Arial, 'Lucida Grande', Verdana, sans-serif; font-size: 16px; margin-bottom: 24px;">
+<strong style="color: black;">28th State</strong>&nbsp;to enter the Union: Dec. 29, 1845</div>
+<div style="color: #333333; font-family: Helvetica, Arial, 'Lucida Grande', Verdana, sans-serif; font-size: 16px; margin-bottom: 24px;">
+<a data-mce-href="http://www.statutes.legis.state.tx.us/" href="http://www.statutes.legis.state.tx.us/" style="color: #743399;"><strong style="color: black;">Present Constitution</strong></a>&nbsp;adopted: 1876</div>
+<div style="color: #333333; font-family: Helvetica, Arial, 'Lucida Grande', Verdana, sans-serif; font-size: 16px; margin-bottom: 24px;">
+<strong style="color: black;">State motto:</strong>&nbsp;Friendship</div>
+<div style="color: #333333; font-family: Helvetica, Arial, 'Lucida Grande', Verdana, sans-serif; font-size: 16px; margin-bottom: 24px;">
+<strong style="color: black;">Origin of name:</strong>&nbsp;Texas, or Tejas, was the Spanish pronunciation of a Caddo Indian word meaning "friends" or "allies."</div>
+<div style="color: #333333; font-family: Helvetica, Arial, 'Lucida Grande', Verdana, sans-serif; font-size: 16px; margin-bottom: 24px;">
+<strong style="color: black;">Nickname:&nbsp;</strong>Texas is called the Lone Star State because of the design of the state flag: a broad vertical blue stripe at left centered by a single white star, and at right, horizontal bars of white (top) and red.</div>
+<h4>
+<strong><span style="font-size: small;">The People and Populations</span></strong></h4>
+<div style="color: #333333; font-family: Helvetica, Arial, 'Lucida Grande', Verdana, sans-serif; font-size: 16px; margin-bottom: 24px;">
+Population 2010 (U.S Census) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<strong style="color: black;">25,145,561</strong></div>
+<div style="color: #333333; font-family: Helvetica, Arial, 'Lucida Grande', Verdana, sans-serif; font-size: 16px; margin-bottom: 24px;">
+Population 2000 (U.S. Census) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;20,851,820</div>
+<div style="color: #333333; font-family: Helvetica, Arial, 'Lucida Grande', Verdana, sans-serif; font-size: 16px; margin-bottom: 24px;">
+Population 1990 (U.S. Census) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;16,986,510</div>
+<div style="color: #333333; font-family: Helvetica, Arial, 'Lucida Grande', Verdana, sans-serif; font-size: 16px; margin-bottom: 24px;">
+Population increase 2000–2010 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 20.6%</div>
+<div style="color: #333333; font-family: Helvetica, Arial, 'Lucida Grande', Verdana, sans-serif; font-size: 16px; margin-bottom: 24px;">
+Population density (2010):&nbsp;<strong style="color: black;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;</strong>96.3 per square mile</div>
+<div style="color: #333333; font-family: Helvetica, Arial, 'Lucida Grande', Verdana, sans-serif; font-size: 16px; margin-bottom: 24px;">
+Voting-age population (2010):&nbsp;<strong style="color: black;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>18,789,238</div>
+<div style="color: #333333; font-family: Helvetica, Arial, 'Lucida Grande', Verdana, sans-serif; margin-bottom: 24px;">
+<h4>
+<strong style="color: black;">Cities and Counties</strong></h4>
+</div>
+<div style="color: #333333; font-family: Helvetica, Arial, 'Lucida Grande', Verdana, sans-serif; font-size: 16px; margin-bottom: 24px;">
+Number of counties: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;254</div>
+<div style="color: #333333; font-family: Helvetica, Arial, 'Lucida Grande', Verdana, sans-serif; font-size: 16px; margin-bottom: 24px;">
+Number of incorporated cities: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 1,215</div>
+<div style="color: #333333; font-family: Helvetica, Arial, 'Lucida Grande', Verdana, sans-serif; font-size: 16px; margin-bottom: 24px;">
+Number of cities of 100,000 population or more:&nbsp;&nbsp;&nbsp;&nbsp; 29</div>
+<div style="color: #333333; font-family: Helvetica, Arial, 'Lucida Grande', Verdana, sans-serif; font-size: 16px; margin-bottom: 24px;">
+Number of cities of 50,000 population or more:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 63</div>
+<div style="color: #333333; font-family: Helvetica, Arial, 'Lucida Grande', Verdana, sans-serif; font-size: 16px; margin-bottom: 24px;">
+Number of cities of 10,000 population or more:&nbsp;&nbsp;&nbsp;&nbsp; 246</div>
+<div style="color: #333333; font-family: Helvetica, Arial, 'Lucida Grande', Verdana, sans-serif; font-size: 16px; margin-bottom: 24px;">
+<strong style="color: black;">Just for comparison</strong>, my birth state of<a data-mce-href="http://www.counties.org/default_print.asp?id=6" href="http://www.counties.org/default_print.asp?id=6" style="color: #743399;" target="_blank">&nbsp;California has 58 counties</a>, of course seeing how well that state is run, maybe more counties is better... hmm?:<br />
+<br />
+<h4>
+MAPS:</h4>
+<div>
+<br /></div>
+<div>
+<a href="http://quickfacts.census.gov/qfd/img/counties/stout48.gif" target="_blank">Texas Counties Map: Click Here</a></div>
+<div>
+<br /></div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://quickfacts.census.gov/qfd/img/counties/stout48.gif" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://quickfacts.census.gov/qfd/img/counties/stout48.gif" height="609" width="640" /></a></div>
+<br />
+<a href="http://quickfacts.census.gov/qfd/img/counties/stout06.gif" target="_blank">California Counties Map: Click Here</a><br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://quickfacts.census.gov/qfd/img/counties/stout06.gif" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://quickfacts.census.gov/qfd/img/counties/stout06.gif" height="640" width="555" /></a></div>
+<br /></div>
+<div style="color: #333333; font-family: Helvetica, Arial, 'Lucida Grande', Verdana, sans-serif; font-size: 16px; margin-bottom: 24px;">
+</div>
+<br />
+<div style="font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif; font-size: 13px; line-height: 19px;">
+</div>

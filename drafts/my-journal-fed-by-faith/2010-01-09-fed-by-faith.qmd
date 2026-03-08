@@ -1,0 +1,210 @@
+---
+title: 'Fed By Faith'
+date: '2010-01-09T07:10:00.0000000+00:00'
+draft: true
+blogger_blog: '(My Journal) Fed By Faith'
+blogger_status: 'LIVE'
+blogger_post_id: '7176726144669134252'
+blogger_filename: '/2010/01/fed-by-faith.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/(My Journal) Fed By Faith/feed.atom'
+---
+
+Starting Monday 01/11/2009 I will embark on a New Faith Journey,<br />
+<br />
+<br />
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"></meta><meta content="Word.Document" name="ProgId"></meta><meta content="Microsoft Word 12" name="Generator"></meta><meta content="Microsoft Word 12" name="Originator"></meta><link href="file:///C:%5CDOCUME%7E1%5CDell%5CLOCALS%7E1%5CTemp%5Cmsohtmlclip1%5C01%5Cclip_filelist.xml" rel="File-List"></link><link href="file:///C:%5CDOCUME%7E1%5CDell%5CLOCALS%7E1%5CTemp%5Cmsohtmlclip1%5C01%5Cclip_themedata.thmx" rel="themeData"></link><link href="file:///C:%5CDOCUME%7E1%5CDell%5CLOCALS%7E1%5CTemp%5Cmsohtmlclip1%5C01%5Cclip_colorschememapping.xml" rel="colorSchemeMapping"></link><style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;
+	mso-font-charset:2;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:0 268435456 0 0 -2147483648 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:1;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:0 0 0 0 0 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1610611985 1073750139 0 0 159 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:10.0pt;
+	margin-left:0in;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+p
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:10.0pt;
+	line-height:115%;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:116947918;
+	mso-list-template-ids:-793739642;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:"Courier New";
+	mso-bidi-font-family:"Times New Roman";}
+@list l1
+	{mso-list-id:475530277;
+	mso-list-template-ids:1549568228;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2
+	{mso-list-id:2046367077;
+	mso-list-template-ids:-757964172;}
+@list l2:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:"Courier New";
+	mso-bidi-font-family:"Times New Roman";}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>  <br />
+<div class="MsoNormal" style="line-height: normal;"><br />
+</div><div class="MsoNormal" style="line-height: normal; margin-bottom: 0.0001pt;"><b><span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; font-size: 12pt;">Fed By Faith:</span></b><span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; font-size: 12pt;"><o:p></o:p></span><br />
+</div><ul type="disc"><li class="MsoNormal" style="line-height: normal;"><b><span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; font-size: 12pt;">Foundation:</span></b><span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; font-size: 12pt;"><o:p></o:p></span></li>
+<li class="MsoNormal" style="line-height: normal;"><span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; font-size: 12pt;">Mathew 6<o:p></o:p></span></li>
+<li class="MsoNormal" style="line-height: normal;"><span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; font-size: 12pt;">I Kings 17 <o:p></o:p></span></li>
+<li class="MsoNormal" style="line-height: normal;"><b><span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; font-size: 18pt;"><a href="http://www.biblegateway.com/passage/?search=Mathew%206&amp;version=ESV"><span style="color: blue;">Matthew 6&nbsp;(English Standard Version)</span></a><o:p></o:p></span></b></li>
+</ul><div class="MsoNormal" style="line-height: normal; margin-left: 0.5in;"><br />
+</div><ul type="disc"><ul type="circle"><li class="MsoNormal" style="line-height: normal;"><b><i><span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; font-size: 10pt;">The       Lord’s Prayer</span></i></b><b><span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; font-size: 10pt;"><o:p></o:p></span></b></li>
+</ul>
+</ul><div class="MsoNormal" style="line-height: normal; margin-left: 0.5in;"><b><i><sup><span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; font-size: 10pt;">6</span></sup></i></b><b><i><span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; font-size: 10pt;">But when you pray,<sup>(<a href="http://www.biblegateway.com/passage/?search=Mathew%206&amp;version=ESV#cen-ESV-23289I" title="See cross-reference I"><span style="color: blue; font-size: 12pt;">I</span></a>)</sup> go into your room and shut the door and pray to your Father who is in secret.<sup>(<a href="http://www.biblegateway.com/passage/?search=Mathew%206&amp;version=ESV#cen-ESV-23289J" title="See cross-reference J"><span style="color: blue; font-size: 12pt;">J</span></a>)</sup> And your <span style="color: blue;">Father who sees in secret will reward you.</span></span></i></b><span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; font-size: 12pt;"><o:p></o:p></span><br />
+</div><div class="MsoNormal" style="line-height: normal; margin-left: 1in; text-indent: -0.25in;"><span style="font-family: Symbol; font-size: 10pt;">·<span style="font-family: &quot;Times New Roman&quot;; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; font-size: 12pt;"><o:p>&nbsp;</o:p></span><br />
+</div><ul type="disc"><ul type="circle"><li class="MsoNormal" style="line-height: normal;"><b><i><span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; font-size: 10pt;">Fasting</span></i></b><b><span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; font-size: 10pt;"><o:p></o:p></span></b></li>
+</ul>
+</ul><div class="MsoNormal" style="line-height: normal; margin-left: 0.5in;"><b><i><span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; font-size: 10pt;">&nbsp;<sup>16</sup>"And<sup>(<a href="http://www.biblegateway.com/passage/?search=Mathew%206&amp;version=ESV#cen-ESV-23299AC" title="See cross-reference AC"><span style="color: blue; font-size: 12pt;">AC</span></a>)</sup> when you fast, do not look gloomy like the hypocrites, for they disfigure their faces that their fasting may be seen by others.<sup>(<a href="http://www.biblegateway.com/passage/?search=Mathew%206&amp;version=ESV#cen-ESV-23299AD" title="See cross-reference AD"><span style="color: blue; font-size: 12pt;">AD</span></a>)</sup> Truly, I say to you, they have received their reward.</span></i></b><b><i><span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; font-size: 12pt;"> </span></i></b><b><i><sup><span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; font-size: 10pt;">17</span></sup></i></b><b><i><span style="color: blue; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; font-size: 10pt;">But when you fast,<sup>(<a href="http://www.biblegateway.com/passage/?search=Mathew%206&amp;version=ESV#cen-ESV-23300AE" title="See cross-reference AE"><span style="color: blue; font-size: 12pt;">AE</span></a>)</sup> anoint your head and wash your face, <sup>18</sup>that your fasting may not be seen by others but by your Father who is in secret.<sup>(<a href="http://www.biblegateway.com/passage/?search=Mathew%206&amp;version=ESV#cen-ESV-23301AF" title="See cross-reference AF"><span style="color: blue; font-size: 12pt;">AF</span></a>)</sup> And your Father who sees in secret will reward you.</span></i></b><b><i><span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; font-size: 10pt;"> </span></i></b><span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; font-size: 12pt;"><o:p></o:p></span><br />
+</div><ul type="disc"><ul type="circle"><li class="MsoNormal" style="line-height: normal;"><b><i><span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; font-size: 10pt;">Do       Not Be Anxious</span></i></b><b><span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; font-size: 10pt;"><o:p></o:p></span></b></li>
+</ul>
+</ul><div class="MsoNormal" style="line-height: normal; margin-left: 0.5in;"><b><i><sup><span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; font-size: 10pt;">31</span></sup></i></b><b><i><span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; font-size: 10pt;">T<span style="color: blue;">herefore do not be anxious</span>, saying, 'What shall we eat?' or 'What shall we drink?' or 'What shall we wear?' <sup>32</sup>For<sup>(<a href="http://www.biblegateway.com/passage/?search=Mathew%206&amp;version=ESV#cen-ESV-23315AW" title="See cross-reference AW"><span style="color: blue; font-size: 12pt;">AW</span></a>)</sup> the Gentiles seek after all these things, and<sup>(<a href="http://www.biblegateway.com/passage/?search=Mathew%206&amp;version=ESV#cen-ESV-23315AX" title="See cross-reference AX"><span style="color: blue; font-size: 12pt;">AX</span></a>)</sup> your heavenly Father knows that you need them all. <sup>33</sup>But<sup>(<a href="http://www.biblegateway.com/passage/?search=Mathew%206&amp;version=ESV#cen-ESV-23316AY" title="See cross-reference AY"><span style="color: blue; font-size: 12pt;">AY</span></a>)</sup> <span style="color: blue;">seek first<sup>(<a href="http://www.biblegateway.com/passage/?search=Mathew%206&amp;version=ESV#cen-ESV-23316AZ" title="See cross-reference AZ"><span style="color: blue; font-size: 12pt;">AZ</span></a>)</sup> the kingdom of God and his righteousness,<sup>(<a href="http://www.biblegateway.com/passage/?search=Mathew%206&amp;version=ESV#cen-ESV-23316BA" title="See cross-reference BA"><span style="color: blue; font-size: 12pt;">BA</span></a>)</sup> and all these things will be added to you.</span></span></i></b><span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; font-size: 12pt;"><o:p></o:p></span><br />
+</div><div class="MsoNormal" style="line-height: normal; margin-left: 0.5in;"><b><i><span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; font-size: 10pt;">&nbsp;<sup>34(<a href="http://www.biblegateway.com/passage/?search=Mathew%206&amp;version=ESV#cen-ESV-23317BB" title="See cross-reference BB"><span style="color: blue; font-size: 12pt;">BB</span></a>)</sup> "Therefore do not be anxious about tomorrow, for tomorrow will be anxious for itself. Sufficient for the day is its own trouble.</span></i></b><span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; font-size: 12pt;"><o:p></o:p></span><br />
+</div><div class="MsoNormal" style="line-height: normal; margin-left: 0.5in;"><br />
+</div><div class="MsoNormal" style="line-height: normal; margin-left: 0.5in;"><b><span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; font-size: 12pt;"><a href="http://www.biblegateway.com/passage/?search=1%20Kings%2017:1&amp;version=ESV"><span style="color: blue;">1 Kings 17</span></a><o:p></o:p></span></b><br />
+</div><ul type="disc"><ul type="circle"><li class="MsoNormal" style="line-height: normal;"><b><i><span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; font-size: 10pt;">Elijah       Predicts a Drought</span></i></b><b><span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; font-size: 10pt;"><o:p></o:p></span></b></li>
+</ul>
+</ul><div class="MsoNormal" style="line-height: normal; margin-left: 0.5in;"><b><i><span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; font-size: 10pt;">&nbsp;<sup>1</sup>Now Elijah the Tishbite, of<sup>(<a href="http://www.biblegateway.com/passage/?search=1%20Kings%2017:1-20&amp;version=ESV#cen-ESV-9319A" title="See cross-reference A"><span style="color: blue; font-size: 12pt;">A</span></a>)</sup> Tishbe<sup>[<a href="http://www.biblegateway.com/passage/?search=1%20Kings%2017:1-20&amp;version=ESV#fen-ESV-9319a" title="See footnote a"><span style="color: blue; font-size: 12pt;">a</span></a>]</sup> in Gilead, said to Ahab,<sup>(<a href="http://www.biblegateway.com/passage/?search=1%20Kings%2017:1-20&amp;version=ESV#cen-ESV-9319B" title="See cross-reference B"><span style="color: blue; font-size: 12pt;">B</span></a>)</sup> "As the LORD, the God of Israel, lives,<sup>(<a href="http://www.biblegateway.com/passage/?search=1%20Kings%2017:1-20&amp;version=ESV#cen-ESV-9319C" title="See cross-reference C"><span style="color: blue; font-size: 12pt;">C</span></a>)</sup> before whom I stand,<sup>(<a href="http://www.biblegateway.com/passage/?search=1%20Kings%2017:1-20&amp;version=ESV#cen-ESV-9319D" title="See cross-reference D"><span style="color: blue; font-size: 12pt;">D</span></a>)</sup> there shall be neither dew nor rain these years, except by my word." <sup>2</sup>And the word of the LORD came to him: <sup>3</sup>"Depart from here and turn eastward and hide yourself by the brook Cherith, which is east of the Jordan. <sup>4</sup>You shall drink from the brook, and I have commanded the ravens to feed you there." <sup>5</sup>So he went and did according to the word of the LORD. He went and lived by the brook Cherith that is east of the Jordan. <sup>6</sup></span></i></b><b><i><span style="color: blue; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; font-size: 12pt;">And the ravens brought him bread and meat in the morning, and bread and meat in the evening, and he drank from the brook. <sup>7</sup>And after a while the brook dried up</span></i></b><b><i><span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; font-size: 10pt;">, because there was no rain in the land.</span></i></b><span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; font-size: 12pt;"><o:p></o:p></span><br />
+</div><div class="MsoNormal" style="line-height: normal;"><span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; font-size: 12pt;">So God tells me NOT to worry about my food for HE knows my need. I am to seek HIS kingdom living as outlined in His word, specifically in context: Mathew Chapters 4-7. So if God could feed Elijah with Ravens He can feed me however HE wants to.&nbsp;&nbsp;<o:p></o:p></span><br />
+</div><div class="MsoNormal" style="line-height: normal;"><br />
+</div><div class="MsoNormal" style="line-height: normal;"><b><span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; font-size: 12pt;">The Project:</span></b><span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; font-size: 12pt;"> <o:p></o:p></span><br />
+</div><div class="MsoNormal" style="line-height: normal;"><br />
+</div><ul type="disc"><li class="MsoNormal" style="line-height: normal;"><span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; font-size: 12pt;">I will NOT prepare or take ANY lunches with me to work,      indefinitely, until such time as the Holy Spirit through direct and      outside sources confirms to me that this project's season has run it's      course. Like Jerry and his giving up of his motorcycles until a man gave      him one by leading of the Holy Spirit.&nbsp;<o:p></o:p></span></li>
+<li class="MsoNormal" style="line-height: normal;"><span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; font-size: 12pt;">I am NOT saying I'm going to fast every lunch. The      point of this project is to hone my faith to believe GOD will provide my      lunches. If HE has not provided food for me then I have missed it and      still need work. I will spend that time praying and fasting and studying      HIS Word. If He provides food I will give Him thanks and recognition for      it immediately.&nbsp;<o:p></o:p></span></li>
+</ul><div class="MsoNormal" style="line-height: normal;"><b><span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; font-size: 12pt;">&nbsp;The Goal:</span></b><span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; font-size: 12pt;"><o:p></o:p></span><br />
+</div><div class="MsoNormal" style="line-height: normal;"><br />
+</div><ul type="disc"><li class="MsoNormal" style="line-height: normal;"><span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; font-size: 12pt;">To train my body and senses how to know the difference      between good and evil.&nbsp;<o:p></o:p></span></li>
+
+<ul type="circle"><li class="MsoNormal" style="line-height: normal;"><b><span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; font-size: 12pt;"><a href="http://www.biblegateway.com/passage/?search=Hebrews+5:14&amp;version=NIV"><span style="color: blue;">Hebrews 5:14</span></a></span></b><span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; font-size: 12pt;"><br />
+But solid food is for the mature, who by constant use have trained       themselves to distinguish <b>good</b> from <b>evil</b>.<o:p></o:p></span></li>
+</ul>
+<li class="MsoNormal" style="line-height: normal;"><span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; font-size: 12pt;">To develop my faith to believe for specific things.<o:p></o:p></span></li>
+<li class="MsoNormal" style="line-height: normal;"><span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; font-size: 12pt;">To learn to rely on Jesus and His Word as my ONLY      source, First Place, and FINAL authority!<o:p></o:p></span></li>
+<li class="MsoNormal" style="line-height: normal;"><span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; font-size: 12pt;">To become stronger in my Spirit, discerning the voice      of the Lord<o:p></o:p></span></li>
+<li class="MsoNormal" style="line-height: normal;"><span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; font-size: 12pt;">To take my family to new heights<o:p></o:p></span></li>
+<li class="MsoNormal" style="line-height: normal;"><span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; font-size: 12pt;">To take my employer and team to new heights<o:p></o:p></span></li>
+<li class="MsoNormal" style="line-height: normal;"><span style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;; font-size: 12pt;">To take a significant step into the Perfect will of God      for MY life! <o:p></o:p></span></li>
+</ul><div style="margin-left: 0.5in; text-indent: -0.25in;"><span style="font-family: Symbol; font-size: 10pt;">·<span style="font-family: &quot;Times New Roman&quot;; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><o:p>&nbsp;</o:p><br />
+</div><div style="margin-left: 0.5in; text-indent: -0.25in;"><span style="font-family: Symbol; font-size: 10pt;">·<span style="font-family: &quot;Times New Roman&quot;; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><o:p>&nbsp;</o:p><br />
+</div><div style="margin-left: 0.5in; text-indent: -0.25in;"><span style="font-family: Symbol; font-size: 10pt;">·<span style="font-family: &quot;Times New Roman&quot;; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><b>The Background:</b><br />
+</div><div style="margin-left: 0.5in; text-indent: -0.25in;"><span style="font-family: Symbol; font-size: 10pt;">·<span style="font-family: &quot;Times New Roman&quot;; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><o:p>&nbsp;</o:p><br />
+</div><div style="margin-left: 0.5in; text-indent: -0.25in;"><span style="font-family: Symbol; font-size: 10pt;">·<span style="font-family: &quot;Times New Roman&quot;; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>I have always been impressed with people who fast. People like, Dago Ashile, from COD who fasts every Monday without exception. I have read about fasting through the Word and life stories and even read books on the subject. I've gone three days without food, but it was a trial.<br />
+</div><div style="margin-left: 0.5in; text-indent: -0.25in;"><span style="font-family: Symbol; font-size: 10pt;">·<span style="font-family: &quot;Times New Roman&quot;; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><o:p>&nbsp;</o:p><br />
+</div><div style="margin-left: 0.5in; text-indent: -0.25in;"><span style="font-family: Symbol; font-size: 10pt;">·<span style="font-family: &quot;Times New Roman&quot;; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>I have also been impressed with seeing the invisible and doing the impossible. I've seen glimpses of it in my own life. I know this faith life works. I've seen God come through time and again in crisis in our lives. I've even put my faith out for a specific target and received it when I believed in a pair of dress shoes. The exact size and shape and style I wanted, without telling anyone! But... something has been flat lining... stale... and I'm fed up! Enough is enough! We've gone way too many months taking direct deposit advance loans, after we had already decided to become debt free.<br />
+</div><div style="margin-left: 0.5in; text-indent: -0.25in;"><span style="font-family: Symbol; font-size: 10pt;">·<span style="font-family: &quot;Times New Roman&quot;; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><o:p>&nbsp;</o:p><br />
+</div><div style="margin-left: 0.5in; text-indent: -0.25in;"><span style="font-family: Symbol; font-size: 10pt;">·<span style="font-family: &quot;Times New Roman&quot;; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>A Woman gave Flavia a word of the Lord on Sunday... and among the things she said she told Flavia to request that I read the bible and pray with her EVERY night! We've had moments of great discussion, but to be honest in the last 6+ years they've been too few and far between.<br />
+</div><div style="margin-left: 0.5in; text-indent: -0.25in;"><span style="font-family: Symbol; font-size: 10pt;">·<span style="font-family: &quot;Times New Roman&quot;; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><o:p>&nbsp;</o:p><br />
+</div><div style="margin-left: 0.5in; text-indent: -0.25in;"><span style="font-family: Symbol; font-size: 10pt;">·<span style="font-family: &quot;Times New Roman&quot;; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>This morning the Lord got me out of bed at 4 AM (would have been earlier but I tried to ignore him and tossed and turned for awhile first.) For one half hour He discussed with me the changes I needed to make in this home. He said that I'd been focused on my career and growing as an employee for a while and lost track of priority one... which is the family HE entrusted to MY care! He asked me to put the same effort, forethought, planning, and strategy that I've learned to use at work running a team and put it to work. As I begin a new position as Team Lead/Supervisor of a team... I am responsible to turn my attention to this family and manage them with the same level of excellence. They should not receive the brunt of my frustration just because they can't fire me... or could they?... I am to use "My Customer" skills at home EVEN MORE than I do at work. I am to focus on the needs of my Wife and Children with the same level of detail I put in to my clients, customers, co-workers and team... and MORE at home!<br />
+</div><div style="margin-left: 0.5in; text-indent: -0.25in;"><span style="font-family: Symbol; font-size: 10pt;">·<span style="font-family: &quot;Times New Roman&quot;; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><o:p>&nbsp;</o:p><br />
+</div><div style="margin-left: 0.5in; text-indent: -0.25in;"><span style="font-family: Symbol; font-size: 10pt;">·<span style="font-family: &quot;Times New Roman&quot;; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>As she and I were praying tonight... the first time I can remember sensing the unity of God in our prayer at this level since just before we got married in 01/2004... I was impressed with a new task. I didn't want it or like it. I thought it was too much and overboard. As I sat in silence and prayer the thought grew from my heart into a full force command.<br />
+</div><div style="margin-left: 0.5in; text-indent: -0.25in;"><span style="font-family: Symbol; font-size: 10pt;">·<span style="font-family: &quot;Times New Roman&quot;; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><o:p>&nbsp;</o:p><br />
+</div><div style="margin-left: 0.5in; text-indent: -0.25in;"><span style="font-family: Symbol; font-size: 10pt;">·<span style="font-family: &quot;Times New Roman&quot;; font-size-adjust: none; font-size: 7pt; font-stretch: normal; font-style: normal; font-variant: normal; font-weight: normal; line-height: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>The only project I've ever used my faith on deliberately and specifically was to get my dress shoes. Disappointments and misunderstandings robbed me of other growth the last few years. I am now turning to a new faith project. Specific and Concrete.<br />
+</div>

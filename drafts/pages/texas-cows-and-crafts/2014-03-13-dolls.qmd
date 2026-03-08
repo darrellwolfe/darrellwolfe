@@ -1,0 +1,38 @@
+---
+title: 'Dolls'
+date: '2014-03-13T05:16:00.0000000+00:00'
+draft: true
+blogger_type: 'PAGE'
+blogger_blog: 'Texas Cows and Crafts'
+blogger_status: 'LIVE'
+blogger_page_id: '2976180870289285062'
+blogger_filename: '/p/dolls.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Texas Cows and Crafts/feed.atom'
+---
+
+<br />
+My Homemade Dolls Collection<br />
+<br />
+<div style="background: #E06270; border-radius: 20px; box-shadow: inset 0 0px 10px rgba(0, 0, 0, 0.5), 0 1px 0 #000; text-align: center;">
+<embed flashvars="host=picasaweb.google.com&amp;hl=en_US&amp;feat=flashalbum&amp;RGB=0xE06270&amp;feed=https%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2F115276805483167457930%2Falbumid%2F5988483804293351713%3Falt%3Drss%26kind%3Dphoto%26hl%3Den_US" height="229" pluginspage="http://www.macromedia.com/go/getflashplayer" src="https://photos.gstatic.com/media/slideshow.swf" type="application/x-shockwave-flash" width="344"></embed></div>
+<br />
+<br />
+<div style="text-align: center;">
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://www.texascowsandcrafts.com/search/label/Yarn%20Dolls" target="_blank"><img height="216" src="/images/imported/blogger-googleusercontent-com/img-3010-e4b29c8b2ee8.jpg" width="288" /></a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<span style="font-family: Georgia, Times New Roman, serif; font-size: x-large; vertical-align: 200%;">&nbsp;<a href="http://www.texascowsandcrafts.com/search/label/Yarn%20Dolls" target="_blank">Yarn Dolls</a></span></div>
+</div>
+<br />
+<br />
+<div style="text-align: center;">
+<div class="separator" style="clear: both; text-align: center;">
+<a href="http://www.texascowsandcrafts.com/search/label/Yo%20Yo%20Dolls" style="font-family: Georgia, 'Times New Roman', serif; font-size: xx-large; vertical-align: 200%;" target="_blank">Yo Yo Dolls</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href="http://www.texascowsandcrafts.com/search/label/Yo%20Yo%20Dolls" target="_blank"><img height="211" src="/images/imported/blogger-googleusercontent-com/three-20fleece-20yoyo-20dolls-49e4678e91d6.jpg" width="288" /></a></div>
+</div>
+<br />
+<br />
+<div style="text-align: center;">
+<div class="separator" style="clear: both; text-align: center;">
+<img border="0" src="/images/imported/blogger-googleusercontent-com/rope-pots-c8a53f6221b0.jpg" height="210" width="320" />&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <span style="font-family: Georgia, Times New Roman, serif; font-size: x-large; vertical-align: 200%;"><a href="http://www.texascowsandcrafts.com/search/label/Stuffed%20Animal" target="_blank">Stuffed Animals</a></span></div>
+</div>
+<br />
+<br />
+<br />

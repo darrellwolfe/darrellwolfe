@@ -1,0 +1,278 @@
+---
+title: 'Business Entity Type & Name Research'
+date: '2018-02-22T01:27:00.0000000+00:00'
+draft: true
+blogger_blog: 'The Playground, LLC'
+blogger_status: 'LIVE'
+blogger_post_id: '3623814116276854166'
+blogger_filename: '/2018/02/business-entity-type-name-research.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/The Playground, LLC/feed.atom'
+categories:
+  - 'PreLaunchResearch'
+---
+
+<h4>
+Entity Filing</h4>
+<b>The Playground, LLC</b><br />
+<br />
+Principle Members:<br />
+<ul>
+<li>Flavia Wolfe, President &amp; Cheif Creative Officer (CCO)</li>
+<li>Darrell Wolfe, Vice President &amp; Chief Implementation Officer (CIO)</li>
+</ul>
+<div>
+File/Create:</div>
+<ol>
+<li>An LLC will be filed with the Idaho Secretary of State (SOS).</li>
+<li>An Operating Agreement will be created for the current principle members.</li>
+<li>An Annual Report will be filed once a year with Idaho SOS.</li>
+<li>Create a PO Box for the business</li>
+<li>Hire a Registered Agent? Maybe?</li>
+</ol>
+Changes to address, agent, members, or other changes can be made using a new Operating Agreement &amp; forms on the Idaho SOS website (most with no fees).<br />
+<br />
+<h4>
+Entity Filing - Idaho Secretary of State</h4>
+<b><a href="https://sos.idaho.gov/general/general.html">Idaho Secretary of State Contact Information</a>:</b><br />
+Business Entities (Corporations, LLCs, ABNs, etc.)<br />
+(208) 334-2301<br />
+(208) 334-2080<br />
+business@sos.idaho.gov<br />
+<br />
+<b>Business Forms &amp; Fees Index</b><br />
+<ul>
+<li><a href="https://sos.idaho.gov/corp/abn_form.html">Assumed Business Name (ABN)</a></li>
+<li><a href="https://sos.idaho.gov/corp/llc_form.html">Limited Liability Company</a></li>
+<ul>
+<li><a href="https://sos.idaho.gov/corp/2015/LLC%20Cert%20org%202015%20FILL.pdf">Certificate of Organization Limited Liability Company</a>&nbsp;$100.00</li>
+<li><a href="https://sos.idaho.gov/corp/2015/LLC%20Amend%202015%20FILL.pdf">Amendment to Certificate of Organization of Limited Liability Company</a>&nbsp;$30.00</li>
+<li>Filing an Annual Report No Fee</li>
+<li><a href="https://sos.idaho.gov/corp/2015/changeRA_RO2015%20Fillable.pdf">Statement of Change of Registered Office or Registered Agent, or both</a>&nbsp;No Fee</li>
+<li><a href="https://sos.idaho.gov/corp/acro4/change_bus_address.pdf">Statement of Change of Business Mailing Address</a>&nbsp;No Fee</li>
+</ul>
+</ul>
+<div>
+<b><br /></b></div>
+<div>
+<b>On-Line Services</b><br />
+<ul>
+<li><a href="https://sos.idaho.gov/corpar/Default.aspx">File your Annual Report</a></li>
+<li><a href="https://www.accessidaho.org/public/sos/corp/search.html">Business Records Search</a></li>
+<li><a href="https://sos.idaho.gov/corp/2015/LLC.pdf">IDAHO UNIFORM BUSINESS ORGANIZATIONS CODE (IUBOC)</a></li>
+</ul>
+<div>
+<br /></div>
+</div>
+<div>
+<br /></div>
+<h4>
+<b>Registered Agent</b></h4>
+<br />
+It's helpful to have a registered agent (so we don't have to give out home addresses). They can also accept legal documents and other items for us. They'd also remind us when the Annual Report is due. I've seen business owners forget to file the Annual Report and it creates problems.<br />
+<br />
+<b>Idaho SOS: <a href="https://sos.idaho.gov/corp/registered_agents.html">Registered Agents</a></b><br />
+NOTE: <b>You can, as an individual, act as your own registered agent if you have an Idaho physical address.</b> Or, you may use another legal business entity who is filed with our office with an Idaho physical address, but not your own entity.<br />
+<br />
+<a href="https://www.sos.wa.gov/corps/what-addresses-to-use.aspx">WA State</a> website gives a description of the needs for the Principal Office Street Address. It seems that you cannot use a PO Box but you can use your Registered Agent's physical address.<br />
+<br />
+<br />
+There is a company called "<a href="https://www.idahoregisteredagent.com/">Idaho Registered Agent</a>" that will perform this service for $35.00/Annually. And they are right here in CDA: 424 E Sherman Ave, Coeur d'Alene, ID, 83814 | (208) 415-0650.<br />
+<br />
+There is another company called "<a href="https://www.northwestregisteredagent.com/idaho-registered-agent.html">Northwest, Registered Agent</a>". They are more $125.00/year but their brand is impressive, manifesto worth reading, and they sound like my type of company.<br />
+<br />
+<h4>
+Name Conflict Research:</h4>
+There are variations of the word "playground" used on business filings within the state of Idaho; such as:&nbsp;"All Around Playground, LLC." None of these pose any potential conflict.<br />
+<br />
+There are only two filings that could pose any potential conflict with The Playground we intend to file under.<br />
+<br />
+The Playground, Inc. (Filed in 1983, FORFEITED 1987).<br />
+Idaho Playground, Inc (Administratively Dissolved 2000), not a direct conflict, but a similar name.<br />
+<br />
+<a href="https://www.accessidaho.org/public/sos/corp/C73815.html">PLAYGROUND, INC. (THE) [View Details]</a><br />
+Organizational ID / Filing number: C73815<br />
+Filed 12 Sep 1983<br />
+PO BOX 144<br />
+CHALLIS, ID 83226<br />
+CORPORATION<br />
+<a href="https://sos.idaho.gov/corp/corp_faq.html#question22">FORFEITED</a><br />
+<br />
+<br />
+<a href="https://www.accessidaho.org/public/sos/corp/C91295.html">IDAHO PLAYGROUND, INC. [View Details]</a><br />
+Organizational ID / Filing number: C91295<br />
+Filed 23 Jan 1990<br />
+PO BOX 2354<br />
+IDAHO FALLS, ID 83401<br />
+CORPORATION<br />
+ADMIN DISSOLVED<br />
+<br />
+<br />
+<b>The decision on Entity Type:</b><br />
+<br />
+After researching and reviewing the options, an LLC is the correct entity type for our needs. This business will not have ownership outside of The Wolfe Family (Darrell, Flavia, and eventually other family members like the kids). No stock will be issued to investors and it will never be publically traded. The Liability protection is no different for Corporations and LLC's can choose their tax structure (disregarded or Pass-Through, S-Corp, C-Corp). There are requirements placed on Corps that are not placed on LLCs.<br />
+<br />
+Name research found that one similar corporation was filed with the state of Idaho in 1983 and forfeited in 1986; "The Playground, Inc.". It has been decades since the name was used, and the State of Idaho confirmed xxxxxxxxx.<br />
+<br />
+<div>
+<h4>
+Entity Type Research:</h4>
+<br />
+<a href="https://www.bizfilings.com/toolkit/tools/incorporation-wizard">BizFilings Entity Type Questionaire</a>:<br />
+<br />
+Based on your answers, an LLC may be best. <i>This result does not substitute for the advice of an attorney and/or accountant familiar with your unique circumstances</i>.<br />
+<br />
+Advantages of an LLC<br />
+<br />
+<ul>
+<li>Owners (members) are typically not personally responsible for business debts and liabilities.</li>
+<li>LLCs allow for pass-through taxation.</li>
+<li>There are no restrictions on number of owners or who can be owners.</li>
+<li>Owners have flexibility in structuring company management.</li>
+</ul>
+More research to consider<br />
+<ul>
+<li><a href="https://www.bizfilings.com/learn/creating-llc.aspx">Benefits of Creating an LLC</a></li>
+<li><a href="https://www.bizfilings.com/learn/forming-llc.aspx">Requirements for Forming a Limited Liability Company (LLC)</a></li>
+<li><a href="https://www.bizfilings.com/learn/llc-vs-s-corp.aspx">LLC vs. S Corp: Which Makes Sense for Me?</a></li>
+<li><a href="https://www.bizfilings.com/learn/business-checklist.aspx">Steps to Take After Incorporation</a></li>
+</ul>
+Differences in ownership and formalities<br />
+<br />
+<b>Ownership</b>. The IRS restricts S corporation ownership, but not that of limited liability companies. IRS restrictions include the following:<br />
+<ul>
+<li>LLCs can have an unlimited number of members; S corps can have no more than 100 shareholders (owners).</li>
+<li>Non-U.S. citizens/residents can be members of LLCs; S corps may not have non-U.S. citizens/residents as shareholders.</li>
+<li>S corporations cannot be owned by C corporations, other S corporations, LLCs, partnerships or many trusts. This is not the case for LLCs.</li>
+<li>LLCs are allowed to have subsidiaries without restriction.</li>
+</ul>
+<br />
+<b>Ongoing formalities</b>. S corporations face more extensive internal formalities. LLCs are recommended, but not required, to follow internal formalities.<br />
+<ul>
+<li><b>Required formalities for S corporations include: </b>Adopting bylaws, issuing stock, holding initial and annual director and shareholder meetings, and keeping meeting minutes with corporate records.</li>
+<li><b>Recommended formalities for LLCs include:</b> Adopting an operating agreement, issuing membership shares, holding and documenting annual member meetings (and manager meetings, if the LLC is manager-managed), and documenting all major company decisions.</li>
+</ul>
+<b>Differences in management</b><br />
+<ul>
+<li>Owners of an LLC can choose to have members (owners) or managers manage the LLC. When members manage an LLC, the LLC is much like a partnership. If run by managers, the LLC more closely resembles a corporation; members will not be involved in the daily business decisions.</li>
+<li>S corps have directors and officers. The board of directors oversees corporate affairs and handles major decisions but not daily operations. Instead, directors elect officers who manage daily business affairs.</li>
+</ul>
+<br />
+<br />
+<b>Incorporate.com: <a href="https://www.incorporate.com/comparing_corporations_llcs.html">LLC vs. Corporation: What's the Difference?</a></b><br />
+<div>
+<b><br /></b>
+<br />
+<div>
+<table class="table table-bordered" style="background-color: white; border-collapse: collapse; border-spacing: 0px; border: 1px solid rgb(221, 221, 221); box-sizing: border-box; color: #3c3c3c; font-family: FuturaRound-Book, sans-serif; font-size: 16px; margin-bottom: 20px; max-width: 100%; width: 772.8px;"><thead style="box-sizing: border-box;">
+<tr style="box-sizing: border-box;"><td style="border-bottom-color: rgb(221, 221, 221); border-bottom-style: solid; border-bottom-width: 0px !important; border-image: initial; border-left-color: rgb(221, 221, 221); border-left-style: solid; border-left-width: 1px !important; border-right-color: rgb(221, 221, 221); border-right-style: solid; border-right-width: 0px !important; border-top: 0px; box-sizing: border-box; line-height: 1.42857; padding: 10px 25px !important; vertical-align: top;" width="50%"><span style="box-sizing: border-box; color: #d1344f; font-family: , sans-serif; font-size: 22px;">Advantages of an LLC</span></td><td style="border-bottom-color: rgb(221, 221, 221); border-bottom-style: solid; border-bottom-width: 0px !important; border-image: initial; border-left-color: rgb(221, 221, 221); border-left-style: solid; border-left-width: 1px !important; border-right-color: rgb(221, 221, 221); border-right-style: solid; border-right-width: 0px !important; border-top: 0px; box-sizing: border-box; line-height: 1.42857; padding: 10px 25px !important; vertical-align: top;"><span style="box-sizing: border-box; color: #d1344f; font-family: , sans-serif; font-size: 22px;">Advantages of a Corporation</span></td></tr>
+</thead><tbody bgcolor="#f6f6f6" style="box-sizing: border-box;">
+<tr style="box-sizing: border-box;"><td style="border-color: rgb(221, 221, 221); border-image: initial; border-style: solid; border-width: 0px 0px 0px 1px !important; box-sizing: border-box; line-height: 1.42857; padding: 10px 25px !important; vertical-align: top;"><span class="glyphicon glyphicon-tcc-checkmark3 text-teal" style="box-sizing: border-box; color: rgb(209 , 52 , 79); display: inline-block; line-height: 1; position: relative; top: 1px;"></span>&nbsp;No limit on the number of owners</td><td style="border-color: rgb(221, 221, 221); border-image: initial; border-style: solid; border-width: 0px 0px 0px 1px !important; box-sizing: border-box; line-height: 1.42857; padding: 10px 25px !important; vertical-align: top;"><span class="glyphicon glyphicon-tcc-checkmark3 text-teal" style="box-sizing: border-box; color: rgb(209 , 52 , 79); display: inline-block; line-height: 1; position: relative; top: 1px;"></span>&nbsp;May issue shares of stock to attract investors</td></tr>
+<tr style="box-sizing: border-box;"><td style="border-color: rgb(221, 221, 221); border-image: initial; border-style: solid; border-width: 0px 0px 0px 1px !important; box-sizing: border-box; line-height: 1.42857; padding: 10px 25px !important; vertical-align: top;"><span class="glyphicon glyphicon-tcc-checkmark3 text-teal" style="box-sizing: border-box; color: rgb(209 , 52 , 79); display: inline-block; line-height: 1; position: relative; top: 1px;"></span>&nbsp;Profit and loss are passed through to the owners' individual tax returns</td><td style="border-color: rgb(221, 221, 221); border-image: initial; border-style: solid; border-width: 0px 0px 0px 1px !important; box-sizing: border-box; line-height: 1.42857; padding: 10px 25px !important; vertical-align: top;"><span class="glyphicon glyphicon-tcc-checkmark3 text-teal" style="box-sizing: border-box; color: rgb(209 , 52 , 79); display: inline-block; line-height: 1; position: relative; top: 1px;"></span>&nbsp;Corporate income splitting may help lower overall tax liability</td></tr>
+<tr style="box-sizing: border-box;"><td style="border-color: rgb(221, 221, 221); border-image: initial; border-style: solid; border-width: 0px 0px 0px 1px !important; box-sizing: border-box; line-height: 1.42857; padding: 10px 25px !important; vertical-align: top;"><span class="glyphicon glyphicon-tcc-checkmark3 text-teal" style="box-sizing: border-box; color: rgb(209 , 52 , 79); display: inline-block; line-height: 1; position: relative; top: 1px;"></span>&nbsp;No annual meeting or minute book requirements</td><td style="border-color: rgb(221, 221, 221); border-image: initial; border-style: solid; border-width: 0px 0px 0px 1px !important; box-sizing: border-box; line-height: 1.42857; padding: 10px 25px !important; vertical-align: top;"></td></tr>
+</tbody></table>
+<table class="table table-bordered" style="background-color: white; border-collapse: collapse; border-spacing: 0px; border: 1px solid rgb(221, 221, 221); box-sizing: border-box; color: #3c3c3c; font-family: FuturaRound-Book, sans-serif; font-size: 16px; margin-bottom: 20px; max-width: 100%; width: 772.8px;"><thead style="box-sizing: border-box;">
+<tr style="box-sizing: border-box;"><td style="border-bottom-color: rgb(221, 221, 221); border-bottom-style: solid; border-bottom-width: 0px !important; border-image: initial; border-left-color: rgb(221, 221, 221); border-left-style: solid; border-left-width: 1px !important; border-right-color: rgb(221, 221, 221); border-right-style: solid; border-right-width: 0px !important; border-top: 0px; box-sizing: border-box; line-height: 1.42857; padding: 10px 25px !important; vertical-align: top;" width="50%"><span style="box-sizing: border-box; color: #d1344f; font-family: , sans-serif; font-size: 22px;">Disadvantages of an LLC</span></td><td style="border-bottom-color: rgb(221, 221, 221); border-bottom-style: solid; border-bottom-width: 0px !important; border-image: initial; border-left-color: rgb(221, 221, 221); border-left-style: solid; border-left-width: 1px !important; border-right-color: rgb(221, 221, 221); border-right-style: solid; border-right-width: 0px !important; border-top: 0px; box-sizing: border-box; line-height: 1.42857; padding: 10px 25px !important; vertical-align: top;"><span style="box-sizing: border-box; color: #d1344f; font-family: , sans-serif; font-size: 22px;">Disadvantages of a Corporation</span></td></tr>
+</thead><tbody bgcolor="#f6f6f6" style="box-sizing: border-box;">
+<tr style="box-sizing: border-box;"><td style="border-color: rgb(221, 221, 221); border-image: initial; border-style: solid; border-width: 0px 0px 0px 1px !important; box-sizing: border-box; line-height: 1.42857; padding: 10px 25px !important; vertical-align: top;"><span class="glyphicon glyphicon-tcc-checkmark3 text-teal" style="box-sizing: border-box; color: rgb(209 , 52 , 79); display: inline-block; line-height: 1; position: relative; top: 1px;"></span>&nbsp;Cannot engage in corporate income splitting to lower tax liability</td><td style="border-color: rgb(221, 221, 221); border-image: initial; border-style: solid; border-width: 0px 0px 0px 1px !important; box-sizing: border-box; line-height: 1.42857; padding: 10px 25px !important; vertical-align: top;"><span class="glyphicon glyphicon-tcc-checkmark3 text-teal" style="box-sizing: border-box; color: rgb(209 , 52 , 79); display: inline-block; line-height: 1; position: relative; top: 1px;"></span>&nbsp;C corp tax structure requires double taxation of corporate profits (s corp's does not)</td></tr>
+<tr style="box-sizing: border-box;"><td style="border-color: rgb(221, 221, 221); border-image: initial; border-style: solid; border-width: 0px 0px 0px 1px !important; box-sizing: border-box; line-height: 1.42857; padding: 10px 25px !important; vertical-align: top;"><span class="glyphicon glyphicon-tcc-checkmark3 text-teal" style="box-sizing: border-box; color: rgb(209 , 52 , 79); display: inline-block; line-height: 1; position: relative; top: 1px;"></span>&nbsp;Cannot issue stock</td><td style="border-color: rgb(221, 221, 221); border-image: initial; border-style: solid; border-width: 0px 0px 0px 1px !important; box-sizing: border-box; line-height: 1.42857; padding: 10px 25px !important; vertical-align: top;"><span class="glyphicon glyphicon-tcc-checkmark3 text-teal" style="box-sizing: border-box; color: rgb(209 , 52 , 79); display: inline-block; line-height: 1; position: relative; top: 1px;"></span>&nbsp;Must hold annual meetings and record minutes</td></tr>
+<tr style="box-sizing: border-box;"><td style="border-color: rgb(221, 221, 221); border-image: initial; border-style: solid; border-width: 0px 0px 0px 1px !important; box-sizing: border-box; line-height: 1.42857; padding: 10px 25px !important; vertical-align: top;"></td><td style="border-color: rgb(221, 221, 221); border-image: initial; border-style: solid; border-width: 0px 0px 0px 1px !important; box-sizing: border-box; line-height: 1.42857; padding: 10px 25px !important; vertical-align: top;"><span class="glyphicon glyphicon-tcc-checkmark3 text-teal" style="box-sizing: border-box; color: rgb(209 , 52 , 79); display: inline-block; line-height: 1; position: relative; top: 1px;"></span>&nbsp;<a href="https://www.incorporate.com/s_corporation.html" style="background-color: transparent; box-sizing: border-box; color: #d1344f; text-decoration-line: none;">S corporations</a>&nbsp;have restrictions on the number of owners</td></tr>
+</tbody></table>
+<br />
+<b>LegalZoom.com: <a href="https://www.legalzoom.com/articles/llc-vs-inc-which-is-better-for-your-business">LLC vs. Inc. Which Is Better for Your Business?</a></b><br />
+<div>
+<div>
+<br /></div>
+<div>
+LLCs do not have their own tax classification. Usually, single-member LLCS pay LLC taxes as though they were sole proprietorships, and multi-member LLCs are taxed as though they were partnerships. The LLC's income and expenses are reported on the members' personal income tax returns, and each member pays tax on his or her share of the profits. However, an LLC can also choose to be taxed as either an S corporation (if it qualifies) or a C corporation.</div>
+<div>
+<br /></div>
+</div>
+<div>
+<div>
+Corporations must have an annual shareholders' meeting, and most states require corporations to keep minutes of their meetings and records of important resolutions. This is true even if the corporation has only one or two owners. Corporations also must keep shareholder records, and in many states they must file an annual report and pay an annual fee to the state.</div>
+<div>
+<br /></div>
+<div>
+LLCs also should keep good records, but in most states the actual requirements are more minimal than the requirements placed on corporations. LLCs do not have to hold annual meetings, and they are less likely to have an annual report requirement. This is appealing to small business owners who don't want the hassle of additional paperwork.</div>
+</div>
+<br />
+<br />
+<b>SBA.gov: <a href="https://www.sba.gov/blogs/better-choice-entity-selection-llc-or-s-corporation">The Better Choice for Entity Selection: LLC or S Corporation?</a></b></div>
+<div>
+<br />
+<div>
+Basis rules</div>
+<div>
+<br /></div>
+<div>
+Owners can write-off business losses passed through to them from the business only to the extent of “basis.” The term has different meaning for purposes of LLCs and S corporations.</div>
+<div>
+<ul>
+<li>LLCs—basis is the owner’s capital investment in the business and his or her share of the business’ debts. For example, if the business borrows $100,000 to buy property and there is one LLC member, he or she can add this $100,000 to basis.</li>
+<li>S corporations—basis is the owner’s basis in stock (what he or she paid for the stock) plus basis in debt (what he or she loaned to the corporation). Third-party loans to the corporation do not impact the owner’s basis. Third-party loans to the corporation that the owner guarantees become part of basis only when and to the extent the owner must make good on the guarantee.</li>
+</ul>
+</div>
+<div>
+<i>Which is better: For businesses involving real estate investments, the LLC provides a greater basis advantage.</i></div>
+<br />
+<a href="https://www.northwestregisteredagent.com/LLC.html"><br /></a> <a href="https://www.northwestregisteredagent.com/LLC.html">Taxes: According to Northwest Registered Agent</a><br />
+<br />
+If you don’t elect anything with an LLC, you’ll automatically be taxed either as a sole proprietor and a disregarded entity if you’re a single member, or as a partnership if there are multiple members. This is generally speaking the easiest option for new businesses just starting out. <b>Once you start having net taxable income around $30-40,000 a year, it would be cheaper for you to elect the S corporation </b>status with the IRS, and take some of that net taxable income as a dividend to avoid the Medicare and social security tax, otherwise known as self-employment tax.<br />
+<br />
+<br />
+<h4>
+Members, Managers, Officers, Executives, and Business Titles</h4>
+<a href="http://smallbusiness.chron.com/llc-president-ceo-17385.html">Chron.Com: Small Business</a><br />
+<br />
+The management and operation of a business largely depends on the type of business entity. Corporations, by law, must have a board of directors and other officers, such as a president or chief executive officer: Other business entities, like limited liability companies or LLCs, have more flexibility. LLCs can choose to operate like a corporation, complete with using officers and directors, but it is not required to do so.<br />
+<br />
+<b>LLC Management</b><br />
+<b>The owners of an LLC are called members</b>. State business laws are very flexible with regard to LLC management. In general, the LLC operates like a partnership: each member in the LLC has an equal say in the operation of the company and an equal right to company profits, unless the members agree to other terms. If the LLC chooses, it can operate like a corporation.<br />
+<br />
+<b>Corporate Officers</b><br />
+Using corporate officers is advantageous. The duties are delineated and each officer has a clearly defined role. An LLC is not required to use officers, but it can choose to do so. If the members agree, they can create corporate officer positions and appoint someone to act as president or CEO. The president or CEO is the driving force behind the company’s mission or objectives. Other officers include a vice president, treasurer and secretary.<br />
+<br />
+<b>Manager-Managed</b><br />
+Another option available to LLCs is to be manager-managed. In a manager-managed LLC, the ownership is bifurcated into two classes: members and managers. The members have no say in the operation of the business; they are largely investors who are not interested in day-to-day duties. The managers run the company. Manager-managed LLCs can have one or several managers, depending on how the business wants to operate.<br />
+<br />
+<br />
+<br />
+<br />
+<a href="https://www.legalzoom.com/articles/llc-officer-titles-explained">LegalZoom.com: LLC Officer Titles Explained</a><br />
+<div>
+<br /></div>
+<b>LLC Manager or Managing Members</b><br />
+<br />
+While most LLCs are member-managed, in some cases a manager-managed LLC may be the more appropriate choice. In a manager-managed LLC, the management of the company is delegated to either a third-party manager, or to a member or group of members who are known as managing members.<br />
+<br />
+When an LLC is a manager-managed LLC, members who have not been designated as managing members do not participate in the day-to-day management of the company, nor do they have the authority to bind the company contractually. These powers and responsibilities belong instead to the LLC managers or managing members. The rights and obligations of LLC managers or managing members should be documented in the LLC operating agreement.<br />
+<br />
+<b>Other Titles</b><br />
+<br />
+You may also have come across some other titles which sound corporate or businesslike. Are these titles important to the running of your LLC?<br />
+<br />
+<ul>
+<li><b>Shareholders</b>. LLCs have LLC members rather than LLC shareholders. A shareholder is someone who holds stock or shares in a corporation. At first glance a shareholder might seem very similar to an LLC member, but in reality the two are very different. While a shareholder may have voting rights—this will depend on the type of share held—unlike an LLC member, he or she won’t have a right to participate in the management of the company or the authority to bind the company contractually.</li>
+<li><b>Directors</b>. The title of director applies within the context of a corporation. Corporations are run by a board of directors who are elected by the shareholders. Within an LLC, however, either members (in a member-managed LLC) or managers or managing members (in a manager-managed LLC) are responsible for the management of the company, rather than a board of directors.</li>
+<li><b>Corporate officers</b>. As an LLC, your company may decide to appoint corporate officers such as president, vice-president, or treasurer to handle certain jobs or tasks within the company. These corporate titles can be useful in designating who does what within your LLC, but overall management and the authority to bind the company still rests with the LLC’s members or managing members (depending on the structure of your LLC).</li>
+<li><b>Sole proprietor.</b> A sole proprietor is someone who owns and operates his or her own business. An LLC cannot be a sole proprietorship, as they are two different business structures. However, an individual can decide to register as an LLC instead of running his or her business as a sole proprietor.</li>
+<li><b>Registered agent</b>. An LLC registered agent is a third-party, registered in the same state in which the LLC is established, who has been designated to receive official government notices or documents on the LLC’s behalf. Most states will require LLCs to have a registered agent, but even if one isn’t required by your state, there are many benefits to having a registered agent which you should consider.</li>
+</ul>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br /></div>
+</div>
+</div>

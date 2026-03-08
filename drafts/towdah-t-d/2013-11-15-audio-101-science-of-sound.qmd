@@ -1,0 +1,69 @@
+---
+title: 'Audio 101 The Science of Sound;  Sine and Phase'
+date: '2013-11-15T06:01:00.0020000+00:00'
+draft: true
+blogger_blog: 'Towdah: tō·dä'''
+blogger_status: 'LIVE'
+blogger_post_id: '3132032009348212941'
+blogger_filename: '/2013/11/audio-101-science-of-sound.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Towdah_ tō·dä_/feed.atom'
+categories:
+  - 'Audio 101'
+---
+
+<h4 style="text-align: center;">
+Audio 101 Class Notes</h4>
+<h4 style="text-align: center;">
+Science of Sound</h4>
+<h4 style="text-align: center;">
+Sine Waves and Phase Relationships</h4>
+<br />
+<br />
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;"><a href="http://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Interference_of_sine_waves.JPG/313px-Interference_of_sine_waves.JPG" imageanchor="1" style="margin-left: auto; margin-right: auto;" target="_blank"><img border="0" height="320" src="http://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Interference_of_sine_waves.JPG/313px-Interference_of_sine_waves.JPG" width="166" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">Wiki Image</td></tr>
+</tbody></table>
+<h4>
+&nbsp;Sine Wave</h4>
+&nbsp;The sine wave is the most basic component of understanding the science of sound. Sine wave images are a graphical representation of mathematical understanding of how sound pressure waves interact in an environment.<br />
+<br />
+As it is graphed you find three points. From start to mid point is half a cycle and from the midpoint to end is half a cycle. In the real world picture a loudspeaker. The cone moves out and in and that completes one cycle. As the cone pushes air out it compresses the air in front of the speaker which in turn compresses the air in front of that air and so on. The cone then pulls back and sucks in the air behind the compression and this is called decompression/expansion phase. Another example of this in nature is a pendulum. <br />
+<br />
+Take a YoYo completely uncoiled, hanging down, still holding onto the end of the string. In your other hand take the YoYo itself and hold it out to your side. Let go. As the YoYo swings down it doesn't stop at the middle by your feet, it swings past and up again, level to the other side from where you were holding it out.<br />
+<br />
+The energy released by dropping the YoYo from one end has to fully expend, then it returns down and back toward where you let it go in the first place. But it doesn't quite come all the way back. Some energy from raising up to the opposite side and dropping again caused it swing back. With each swing it does not raise as high as it did before. Each swing has less energy than it did before. Until eventually it stops swinging as the energy is expended completely. <br />
+<br />
+In the case of a speaker cone the initial push compresses the air, similar to releasing the YoYo. The cone returns back to normal but the speaker cone is pulled back as far in as far as it was pushed out, this pulls the air back in. The series of compression and de-compression creates sound. The push of the cone, and the drop of the YoYo, is represented as the first half of the sine wave on the graph. This is the curve going up to the right on the graph ending at a point even with the start. This is half of one cycle. The retraction of the cone, and the return of the YoYo, is the other half of the cycle.<br />
+<h4>
+Cycles</h4>
+<br />
+A series of these sound cycles together represent the sounds that you and I can hear and recognize. They are measured in what is known as Hertz. Hertz are a measurement of cycles per second. One Hertz is equal to One of these cycles per second. If the speaker cone moved out, back, and returned to normal sitting position once per second, this would be equal to 1-Hertz, also seen as 1Hz.<br />
+<br />
+Audible sound, for most humans, and the sound that we deal with as Audio Engineers on sound boards, is measured as 20 Hz to 20,000 Hz. 1,000 Hz is also known as 1kHz. So most often you will see the measurement represented as 20 Hz to 20kHz.&nbsp; <br />
+<h4>
+&nbsp;Phase</h4>
+If you were to invert the sine wave, meaning that it went down first then went up, or the speaker cone pulled back first, then pushed out, it would have NO effect on what you hear. The speaker would produce the same sound. It doesn't matter if compression hits you first or decompression, the sound is audible due to its pattern, and the pattern would be the same.<br />
+<br />
+However, phase creates interesting effects in an environment when it interacts with other sounds. If a speaker is creating a sound and a paired speaker creates the same sound inverted, it will have a canceling effect. This is because the compression from one is hitting as the other speaker is sending decompression, then they both switch. Mathematically these cause total cancellation. <br />
+<br />
+In the real world there is seldom any such things as total cancellation because of the many variables and factors involved in real world environments. First, in a 3D environment air can simply move up or down or around itself so some cancellation will be overcome. Second, Speaker A may have started compression micro seconds before Speaker B started decompression and therefore it is not exactly the inverse timing.<br />
+<br />
+This type of cancellation though can have profound effects. You could be working speakers to the point of blowing them, sending WAY too much energy through and still not getting noticeable increase in volume that you expected. If one of your speakers is out of phase this could be the reason and your "turning it up" could blow the system and not solve the issue. <br />
+<br />
+<h4>
+Reflections</h4>
+Phase in the real world can also happen in a room, even if both speakers are set up right. There is a phenomena known as reflection. The sound wave bounces off of a wall, ceiling, floor, maybe hits another surface, wall to wall, ceiling to wall to floor and back up. As the sound waves begin to bounce and reflect they hit the new originating waves from the speakers. This can induce partial cancellations around different parts of the room. Due to the nature of sound waves being of different length, the cancellations could occur only at certain frequencies, and not simply across the entire sound. So you could be getting highs and lows but no mids, for example. <br />
+<h4>
+Phase Shift Alterations</h4>
+Complete Phase Cancellation happens when a sine wave is confronted in time with it's exact inverse in perfect timing. This is actually rare. What is more likely is that the partial inverse confrontations will happen. Due, for example, to a reflection having to bounce off of the wall and another wall and back again it will not come back at the same point in time as the originating sound. They may meet micro seconds or longer. This creates what is known as constructive or destructive combination.<br />
+<br />
+As waves combine milliseconds apart from each other, in and out of phase they can combine to create portions of a wave that is stronger and portions that are weaker. This then begins to make up the environment in which we are to start mixing sound. Some of this can be seen on the diagram above found on Wiki's website.<br />
+<br />
+When you have a sound input coming in through your system there may be times that you want to reverse the waves, invert them. This is known as reversing the polarity. Again, there is no difference in how you hear a sound when it's inverted unless it's acting on a sound equal to itself but inverted from itself. This can be used to our benefit.<br />
+<br />
+Example: Two singers, each holding a microphone a few feet apart from each other. Singer A holding Mic A will be loudest in Mic A. But Singer B will be picked up by Mic A too, just at a lower volume. As Mic B comes into the system it will have picked up Singer B louder in Mic B than Mic A naturally because Singer B is closer to Mic B. Now, if you invert Mic B (reverse the polarity) when the two Mics (A Plus B) are combined the reverse phase of the lower sound of Singer B in Mic A will electronically be canceled out by the louder Singer B in Mic B. The result is less system noise and a clearer Singer A and Singer B. (Remember the same thing is happening with Singer A's voice in Mic B and it's naturally reverse from Mic A too.)<br />
+<br />
+<a href="http://towdahaudio.blogspot.com/2013/11/audio-101-science-of-sound-harmonics.html" target="_blank">Part Two</a><br />
+<br />
+Darrell G. Wolfe<br />
+<a href="http://towdahaudio.blogspot.com/">http://towdahaudio.blogspot.com</a>

@@ -1,0 +1,42 @@
+---
+title: 'Facebook News Feeds for Dallas and Fort Worth'
+date: '2015-02-09T04:17:00.0000000+00:00'
+draft: true
+blogger_type: 'PAGE'
+blogger_blog: 'The Life In Fort Worth Blog'
+blogger_status: 'LIVE'
+blogger_page_id: '4255732954887635133'
+blogger_filename: '/p/news.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/The Life In Fort Worth Blog/feed.atom'
+---
+
+<br />
+Twitter and Facebook Feeds from around the Dallas Fort Worth Area<br />
+<br />
+<ul>
+<li><a href="https://twitter.com/DarrellWolfe/lists/fort-worth-tx-news-feed" target="_blank">Twitter Feed: Fort Worth Texas Area Tweets</a></li>
+<li><a href="https://www.facebook.com/Ft.Worth" target="_blank">Facebook: Visit Fort Worth</a></li>
+<li><a href="https://www.facebook.com/DallasObserver" target="_blank">Facebook: Dallas Observer</a></li>
+</ul>
+<br />
+<br />
+<div style="text-align: center;">
+.&nbsp;<a class="twitter-timeline" data-widget-id="418641964557291520" href="https://twitter.com/DarrellWolfe/news">Tweets from https://twitter.com/DarrellWolfe/news</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+<div style="text-align: center;">
+.</div>
+<br />
+<div style="text-align: center;">
+<iframe allowtransparency="true" frameborder="0" scrolling="no" src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FFt.Worth&amp;width&amp;height=427&amp;colorscheme=light&amp;show_faces=false&amp;header=true&amp;stream=true&amp;show_border=true&amp;appId=272647732784155" style="border: none; height: 427px; overflow: hidden;"></iframe><br />
+<div style="text-align: center;">
+<br /></div>
+<br />
+<div style="text-align: center;">
+<iframe allowtransparency="true" frameborder="0" scrolling="no" src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FDallasObserver&amp;width&amp;height=427&amp;colorscheme=light&amp;show_faces=false&amp;header=true&amp;stream=true&amp;show_border=true&amp;appId=272647732784155" style="border: none; height: 427px; overflow: hidden;"></iframe><br />
+<div style="text-align: center;">
+<br /></div>
+<div style="text-align: center;">
+<br /></div>
+</div>
+</div>

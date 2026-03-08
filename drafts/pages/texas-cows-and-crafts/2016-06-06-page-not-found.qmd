@@ -1,0 +1,37 @@
+---
+title: 'Page Not Found'
+date: '2016-06-06T01:09:00.0000000+00:00'
+draft: true
+blogger_type: 'PAGE'
+blogger_blog: 'Texas Cows and Crafts'
+blogger_status: 'LIVE'
+blogger_page_id: '8854873789924778562'
+blogger_filename: '/p/page-not-found.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Texas Cows and Crafts/feed.atom'
+---
+
+<h3 style="text-align: center;">
+<span style="font-size: medium;">You got a 404 Error? Can't find the page you were looking for?</span></h3>
+<h4 style="text-align: center;">
+<span style="font-size: medium;"><i>I'm sorry about that.&nbsp;</i></span></h4>
+<div>
+<div style="text-align: center;">
+<span style="font-size: medium;"><i><br /></i></span></div>
+</div>
+<div style="text-align: center;">
+You can search this site for the right page, or email ***** and tell me what you were trying to find.</div>
+<div style="text-align: center;">
+<br /></div>
+<div style="text-align: center;">
+Click <span style="background-color: white;"><a href="http://www.texascowsandcrafts.com/" target="_blank"><i><span style="font-family: &quot;helvetica neue&quot; , &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">Here</span></i></a> </span>if you're new here, or **<a href="http://www.darrellwolfe.com/p/by-darrell.html" target="_blank">*</a><i><span style="font-family: &quot;helvetica neue&quot; , &quot;arial&quot; , &quot;helvetica&quot; , sans-serif;">here</span></i>*** for a list of all my sites.</div>
+<div style="text-align: center;">
+<br /></div>
+<div style="text-align: center;">
+Or just watch this <a href="https://www.youtube.com/watch?v=705OzYq7cXU" style="background-color: #38761d;" target="_blank"><i style="background-color: white;"><span style="color: #38761d;">cat in slow motion</span></i></a>&nbsp;by The Slow Mo Guys (just for fun) as my gift to you for finding this secret page, thanks for stopping by!</div>
+<br />
+<br />
+<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/V3bAOhEwIws" width="560"></iframe>
+
+<br />
+<br />
+<br />

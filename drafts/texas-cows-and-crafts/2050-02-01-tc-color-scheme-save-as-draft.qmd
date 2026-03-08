@@ -1,0 +1,79 @@
+---
+title: 'TC&C Color Scheme Save as Draft'
+date: '2050-02-01T16:59:00.0000000+00:00'
+draft: true
+blogger_blog: 'Texas Cows and Crafts'
+blogger_status: 'SCHEDULED'
+blogger_post_id: '960189096180425999'
+blogger_filename: '/2050/02/tc-color-scheme-save-as-draft.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Texas Cows and Crafts/feed.atom'
+---
+
+The TC&amp;C Color Scheme<br />
+<br />
+Page<br />
+<br />
+<div>
+<ul>
+<li>Beige Background</li>
+<ul>
+<li>#cbb48b</li>
+<li>#7a6b51</li>
+</ul>
+<li>Blue Text</li>
+<ul>
+<li>#04085b</li>
+</ul>
+</ul>
+</div>
+<div>
+Header</div>
+<div>
+<ul>
+<li>Header Blue&nbsp;#04085b</li>
+<li>Description Blue&nbsp;#0b1194</li>
+<li>Tabs</li>
+<ul>
+<li>Tab Text Blue&nbsp;#0b1194</li>
+<li>Tab Text Selected Red&nbsp;#990000</li>
+<li>Tab Background Color&nbsp;#cbb48b</li>
+<li>Tab Background Selected&nbsp;#7a6b51</li>
+<li>Tab Background Border/Bevel&nbsp;#94766e</li>
+</ul>
+</ul>
+</div>
+<div>
+Posts</div>
+<div>
+<ul>
+<li>Post Title Text&nbsp;#610a0a</li>
+<li>Post Background &nbsp;#fefcfc</li>
+<li>Border/Bevel &nbsp;#bc5825</li>
+</ul>
+</div>
+<div>
+Alternate Light Red/Orange&nbsp;#994215</div>
+<div>
+<br /></div>
+<div>
+Links</div>
+<div>
+<ul>
+<li>Link</li>
+<ul>
+<li>Dark Red #990000</li>
+</ul>
+<li>Visited</li>
+<ul>
+<li>Blue #0b1194</li>
+</ul>
+<li>Hover</li>
+<ul>
+<li>Gold #f1c232</li>
+</ul>
+</ul>
+</div>
+<div>
+<br /></div>
+<div>
+<br /></div>

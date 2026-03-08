@@ -1,0 +1,144 @@
+---
+title: 'Audio 101 Class Notes System Design Basics'
+date: '2013-11-21T18:36:00.0010000+00:00'
+draft: true
+blogger_blog: 'Towdah: tÅÂ·dÃ¤'''
+blogger_status: 'LIVE'
+blogger_post_id: '5736580269871249701'
+blogger_filename: '/2013/11/audio-101-class-notes-system-design.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Towdah_ tÅÂ·dÃ¤_/feed.atom'
+categories:
+  - 'Audio 101'
+---
+
+<h4>
+<div style="text-align: center;">
+Audio 101 Class Notes</div>
+<div style="text-align: center;">
+<br /></div>
+<div style="text-align: center;">
+System Design Basics</div>
+</h4>
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;"><a href="/images/imported/blogger-googleusercontent-com/img-20131108-150118-7396d22bf103.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" src="/images/imported/blogger-googleusercontent-com/img-20131108-150118-c6c9d5c6405a.jpg" height="298" width="400" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;">Myers Sound Seminar with Buford Jones</td></tr>
+</tbody></table>
+<h4>
+System Basics&nbsp;</h4>
+In any <a href="http://en.wikipedia.org/wiki/Sound_reinforcement_system" target="_blank">Sound Reinforcement System</a> there are many complicated ways to hook up a sound system and layers and layers of products you can learn about. The better you understand these things the better you will be able to set up a system to optimize the room. However, the basics are the basics. ALL the complicated systems in the world boil down to multiple connections of the basic things.<br />
+<br />
+There are three categories of things to consider in a basic sound system.<br />
+<br />
+<br />
+<ul>
+<li><b>Inputs</b></li>
+<ul>
+<li>Devices that put sound signals INTO the system.</li>
+<li>Ex: Microphones, DI Boxes, Pickups</li>
+</ul>
+<li><b>Signal Processors</b></li>
+<ul>
+<li>Devices that process the sound signals.</li>
+<li>They may lower the amplitude, raise the amplitude, or add alterations to the signal itself.</li>
+<li>Ex: Amplifiers, Sound Boards, Signal Alternators (Compressors, Gates, Limiters, Effects Devices, Etc), Crossovers</li>
+</ul>
+<li><b>Output</b></li>
+<ul>
+<li>Devices that deliver the sound back into the environment to the human ear.</li>
+<li>Ex: Loudspeakers of various kinds.&nbsp;</li>
+</ul>
+</ul>
+<div>
+</div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="/images/imported/www-mediacollege-com/system02-933503f40ac0.gif" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/imported/www-mediacollege-com/system02-933503f40ac0.gif" height="114" width="320" /></a></div>
+<ul>
+<li>Bonus Category -<b> Delivery System</b></li>
+<ul>
+<li>Things that carry sound signals.</li>
+<li>Ex: Cables and Connectors</li>
+</ul>
+</ul>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="/images/imported/blogger-googleusercontent-com/pa-basics10-bbd04735ff88.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/imported/blogger-googleusercontent-com/pa-basics10-8c31982b2613.png" height="435" width="640" /></a></div>
+<a href="http://en.wikipedia.org/wiki/Transducer" target="_blank"><b>Transducers</b> </a>are devices that convert one kind of signal into another kind. In the case of Audio Engineering the signal is converted from audible sound pressure into electronic signal. It literally turns the sound pressure waves into their electrical voltage representation and then back into audible sound pressure again. Microphones and Pickups are transducers that turn sound pressure into electrical voltage. Loudspeakers are transducers that turn electrical voltage back into sound pressure.<br />
+<br />
+<h4>
+Primary Components&nbsp;</h4>
+Microphones, Pre-Amps, Sound Board, Amps, Crossovers, Loudspeakers.<br />
+<br />
+<br />
+<h4>
+Secondary Components&nbsp;</h4>
+Compressors, Limiters, Gates, Effects, Outboard EQ,<br />
+<br />
+<h4>
+Consoles</h4>
+The tool that gets the most attention on a day to day basis. Although there are many things you can do in the set up of your system, the Console is where you will spend most of your time. Microphones, DI boxes, and other inputs head into the board, sometimes assisted by a preamplifier to get the signal strong enough for the board to use, through a snake. That snake in analogue systems is comprised of a whole bunch of chords that are linked directly to each input. That snake in modern digital systems is often a simple <a href="http://en.wikipedia.org/wiki/Category_5_cable" target="_blank">Cat5</a>(<a href="http://en.wikipedia.org/wiki/Category_6_cable" target="_blank">or6</a>) cable.<br />
+<a href="/images/imported/essentialdecibels-com/pa-signal-flow-diagram-38f37a76bcfb.jpg" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" src="/images/imported/essentialdecibels-com/pa-signal-flow-diagram-38f37a76bcfb.jpg" height="400" width="272" /></a><br />
+After arriving at the Console the input signal strength can be adjusted up or down. Each input channel has adjustments that can be made to the incoming signal before it is passed through to the outgoing flow into the speakers. The MIXING CONSOLE allows adjustments to be made to the signal for either scientific or artistic reasons to make the sound pleasant to the hearers in the audience.<br />
+<br />
+The first adjustment on the board channel is the <b>GAIN (also known as Pot or Trim although these can mean different things too)</b>. If the signal is not strong enough it can be "gained" up and if it is too strong it can be "gained" down. This allows the operator to have a "usable signal", which is one that can be adjusted through other means and sent off to places it needs to go. Many times these adjustments can cause the outgoing signal to be stronger or weaker than the input signal so the gain must be adjusted to accommodate. Related to gain may be a small button that says "<b>PAD</b>" followed by a number (-15 or-20, etc). This button when activated will decrease the incoming signal strength by a dBu. PAD-15 will decrease the signal by 15 dBu. This is helpful when the incoming signal is so strong that the gain knob doesn't allow you to get a usable signal by simply turning it down.<br />
+<br />
+<h4>
+EQ</h4>
+<a href="http://en.wikipedia.org/wiki/Equalization_(audio)" target="_blank">Next in the line of adjusters is generally <b>EQ</b>.&nbsp;</a><br />
+<br />
+The first EQ adjustment is often a <b>High Pass and/or Low Pass</b> filter. A HIGH Pass filter could also be called a LOW Cut filter. It prevents lower frequencies from coming through and <b>allows higher ones to pass through</b>. A LOW PASS filter could also be called a HIGH Cut filter. It allows signals lower than chosen to pass through but prevents anything higher. Much of the signal below or above a certain range is barely audible and may not even be musical. For example, especially with low frequencies, the frequency may be coming through as noise introduced to the system from electrical connections or nearby instruments or other inputs foreign to the actual things being mic'd. Electrical interference, from free electrons jumping wires into the Mic cables will produce a hum at <a href="http://en.wikipedia.org/wiki/Mains_electricity" target="_blank">50-60 Hz</a>, because the frequency of electricity in the USA operates at this frequency. So by putting a High Pass and setting it above 60 Hz you bypass this problem even if it is present in the originating signal. Often seen as simply HP/LP.<br />
+<br />
+Other EQ functions will allow you to make adjustments to more specific frequencies, for example: Lowering a chosen frequency (say 250 Hz, 1 kHz, 8 kHz) while leaving those above and below it in tact. There could be up to three sets of adjusters. The following explanation is based on a decently expensive board that has all the right tools.<br />
+<br />
+<a href="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Equaliser-section.jpg/100px-Equaliser-section.jpg" imageanchor="1" style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Equaliser-section.jpg/100px-Equaliser-section.jpg" /></a><b>dBu:</b> There is one adjuster that will turn up/down that frequency. This will be the one present even if the other two are not. In the event that it is the only selector possible, this will usually be a fixed point in the frequency range. (Which means that if you want to duck/cut down a little of 800 Hz and all you have is a knob that gives you 1000 Hz and 500 Hz you'll have to decide which one or a mix of both, works better).<br />
+<br />
+<b>Hz</b>: There is another button that allows you to select the specific frequency to be adjusted. So if you need to duck that 800 Hz you can dial it over to 800 Hz and be more specific with your adjustments.<br />
+<br />
+<b>Bell</b>: This is the lease likely to be present, but helpful when it is. The Bell allows you to choose how narrow or wide the selection is. Without the bell adjustment the chosen frequency, when adjusted, will impact the others around it as well (which you may want, or may not want). By narrowing the bell you are able to pick a specific problem without taking out things you do want. Or you can boost a specific thing you want to add flavor, say the attack of the beater on a kick drum or attack of the symbol, without boosting other things you didn't want inside.<br />
+<br />
+<h4>
+Aux's&nbsp;</h4>
+Another path is the auxiliary. The most layman way to say this is that Aux's create sub copies of signals and send them other places, other than the main outs to the speakers. You can often select whether this Aux will be sent prior to or after the EQ adjustments have been made and/or prior to or after the adjustments of the slider. The "Aux Send" may be sent to the hallway speakers, the mothers room, the band monitors, the recorder, or other places the signal is needed besides the main speakers. The other uses for Aux Sends might be to take a copy of the signal and change it somehow, compression, effects, etc, and then feed them back into the board through the same or different channel, often through an "Effects Return" or "Aux Return".<br />
+<br />
+Similar but not the same is an "Insert". The insert actually takes the signal away from the board, adds some prepossessing to it, and then feeds it back into the board to complete it's journey at the same point you interrupted it. This signal, for example, but have effects or compression or other things added to it, BEFORE you add your EQ and adjustments. This may be what you need and may not, so think through what you want and then decide if an Aux or Insert works better for your application.<br />
+<br />
+<h4>
+PAN</h4>
+PAN typically just means sending it to the right or left or a mix of both. If you turn the PAN knob to the left half way, but not all the way, you are sending MORE signal to the left then right by that much. On smaller boards this can be used to determine Busses or Subgroups as well.<br />
+<br />
+PAN can be used creatively to create stereo imaging. Seeing PAN used by<a href="http://www.meyersound.com/about/people/buford_jones/" target="_blank"> Buford Jones</a> at an Audio Seminar I took recently opened my eyes to the possibilities of PAN. There is every reason to use the PAN selectively on nearly every channel. Nearly none of the PAN selectors ought to be straight up for most inputs. Moving sound around the room opens up room for other sound in different parts of your audible perception. Kick, Bass, Snare and Lead Vocal ought to be straight down the middle, nearly everything else can be PAN'd to it's appropriate place, typically as it stands visually.<br />
+<br />
+At the same time you don't PAN everything hard right or left either. You choose degrees. If you are getting a stereo input from a keyboard, and the keyboard is on your far left. Try panning the left hard left and the right &nbsp;just left of center. If you have a variety of cymbal mics and tom mics, pan them each left to right, or right to left, from each other as they stand visually. This was when a tom walk down occurs the sound moves across your face.<br />
+<br />
+You can also PAN things together.<br />
+<br />
+<ul>
+<li>Snare and <a href="http://en.wikipedia.org/wiki/Tambourine" target="_blank">Tambourine</a>&nbsp;serve the same (similar) function musically. Pan them both center. Place the volume of the snare where you want it, and then bring up the Tambourine until you feel it adding to the snare without overpowering it.&nbsp;</li>
+<li>Acoustic Guitar and Organs/Pianos can play well off each other. Pan them both opposite each other and similar volume, try panning them the same, see what hears/feels right.&nbsp;</li>
+<li>Basically think of the entire piece musically and see what things work together</li>
+<li>Side Note: Buford typically puts the BASS right next to the KICK on the board since they serve a symbiotic relationship to each other.&nbsp;</li>
+</ul>
+<br />
+<h4>
+Outward Bound:</h4>
+From this point you will find things are grouped, bussed, muted, fader-ed and that is all sent to the output. From the output they go to<br />
+<br />
+<ul>
+<li><b>Outboard Graphic Equalizer</b> to set the room EQ. This EQ is often set up when the room is set up and never/hardly changed again, unless the room changes.&nbsp;</li>
+<li><b>Limiters </b>keep the signal from passing the safe zone and blowing the speakers or amplifiers.&nbsp;</li>
+<li><b>Crossovers </b>will break up this outgoing signal and send it to various specialized loudspeakers. The signal is most often broke up into two or three. Lows and High/Mids or Lowe, Mids, and Highs.&nbsp;</li>
+<li><b>Amplifiers</b>/Line Drivers (amplifiers that drive the signal to the place it needs to be for the loudspeakers to produce them.&nbsp;</li>
+<li><b>Loudspeakers </b>produce the signal back into an audible sound pressure wave and send that to the audience.&nbsp;</li>
+</ul>
+<br />
+<br />
+I hope that helped...<br />
+<br />
+DW<br />
+<br />
+Towdah!<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />

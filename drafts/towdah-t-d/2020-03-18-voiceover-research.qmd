@@ -1,0 +1,440 @@
+---
+title: 'Voiceover Research'
+date: '2020-03-18T23:46:00.0010000+00:00'
+draft: true
+blogger_blog: 'Towdah: tō·dä'''
+blogger_status: 'LIVE'
+blogger_post_id: '2282877529024510516'
+blogger_filename: '/2020/03/voiceover-research.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Towdah_ tō·dä_/feed.atom'
+categories:
+  - 'Voiceover'
+---
+
+<br />
+<div class="MsoNormal">
+<b><span style="font-size: 14.0pt;"><a href="https://manual.audacityteam.org/index.html">Audacity 2.3.3 Manual</a><o:p></o:p></span></b></div>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+<b><u><span style="font-size: 14.0pt;">Voiceover Research<o:p></o:p></span></u></b></div>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+<a href="https://www.voices.com/blog/soundproof-your-space/">Voice
+Over Home Studio – How to Soundproof a Room</a><o:p></o:p></div>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+YouTube: <a href="https://youtu.be/JPYt10zrclQ">How Sound
+Works (In Rooms)</a><o:p></o:p></div>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+<b>1. Mattress Covers.</b> Egg crate mattress covers are an
+economical way to obtain soundproofing and work similarly to acoustic foam.
+They can be found at many discount supply stores and often in thrift stores.
+They can easily be installed by gluing or stapling them to your walls.<o:p></o:p></div>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+<b>2. Carpeting. </b>The thicker the better! It’s not just
+for flooring either. You can attach carpet to your walls or cut strips of
+carpeting and attach them to the seams around windows and doors to dampen the
+noise coming in from outside. Go to your local flooring company and ask about
+purchasing their miscuts.<o:p></o:p></div>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+<b>3. Sound Baffles. </b>These are barriers that stop the
+reverberation in a room. Attach sheets or pieces of foam at various points
+across your ceiling to reduce airborne sound. They don’t need to touch the
+floor to make significant impact and are extra items you likely have around
+your home.<o:p></o:p></div>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+YouTube: <a href="https://youtu.be/N_bAzj7zdDk">How to Mix a
+Voice Over with Music without Ducking</a><o:p></o:p></div>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+<a href="https://www.voices.com/blog/presets_and_templates_for_audio_recording_voice-overs/">4
+Recommended settings for DAW Templates:</a> <o:p></o:p></div>
+<ul style="margin-top: 0in;" type="disc">
+<li class="MsoNormal" style="mso-list: l1 level1 lfo1; tab-stops: list .5in;"><span style="mso-fareast-font-family: &quot;Times New Roman&quot;;">Have an empty track
+     ready to go with preset plugins already set up<o:p></o:p></span></li>
+<li class="MsoNormal" style="mso-list: l1 level1 lfo1; tab-stops: list .5in;"><span style="mso-fareast-font-family: &quot;Times New Roman&quot;;">Presets may include some
+     light EQ to bring out the best qualities in your voice<o:p></o:p></span></li>
+<li class="MsoNormal" style="mso-list: l1 level1 lfo1; tab-stops: list .5in;"><span style="mso-fareast-font-family: &quot;Times New Roman&quot;;">Light compression to
+     ensure your voice isn’t varying too much in volume<o:p></o:p></span></li>
+<li class="MsoNormal" style="mso-list: l1 level1 lfo1; tab-stops: list .5in;"><span style="mso-fareast-font-family: &quot;Times New Roman&quot;;">Perhaps even a little
+     de-ess if the sibilance in your voice comes off a little intense after
+     some light compression<o:p></o:p></span></li>
+</ul>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+<a href="https://www.voices.com/blog/budgeting-home-recording-studio-equipment/">5.
+Home Recording Studio Gear Tip: Buy Used!</a><o:p></o:p></div>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+There is no shortage of second-hand equipment looking for a
+good home. Cut down some of your costs by purchasing gently used recording
+studio equipment.<o:p></o:p></div>
+<div class="MsoNormal">
+Here’s a few ways you can tell if the equipment is worth the
+asking price and will happily meet your needs:<o:p></o:p></div>
+<ul style="margin-top: 0in;" type="disc">
+<li class="MsoNormal" style="mso-list: l4 level1 lfo2; tab-stops: list .5in;"><b><span style="mso-fareast-font-family: &quot;Times New Roman&quot;;">Check physical condition
+     in the ad: </span></b><span style="mso-fareast-font-family: &quot;Times New Roman&quot;;">Always
+     assess the physical condition in the ad or ask the seller to describe the
+     condition. <o:p></o:p></span></li>
+<li class="MsoNormal" style="mso-list: l4 level1 lfo2; tab-stops: list .5in;"><b><span style="mso-fareast-font-family: &quot;Times New Roman&quot;;">Ensure the item is as
+     described: </span></b><span style="mso-fareast-font-family: &quot;Times New Roman&quot;;">Check
+     for scratches, dents, loose items, and quality. <o:p></o:p></span></li>
+<li class="MsoNormal" style="mso-list: l4 level1 lfo2; tab-stops: list .5in;"><b><span style="mso-fareast-font-family: &quot;Times New Roman&quot;;">Pay attention to brand
+     name: </span></b><span style="mso-fareast-font-family: &quot;Times New Roman&quot;;">It’s
+     worthwhile to note that brand names the likes of Shure, Neumann, and
+     Digi002 are high-end, and may command a higher price. <o:p></o:p></span></li>
+<li class="MsoNormal" style="mso-list: l4 level1 lfo2; tab-stops: list .5in;"><b><span style="mso-fareast-font-family: &quot;Times New Roman&quot;;">Get an idea of how the
+     equipment has been used: </span></b><span style="mso-fareast-font-family: &quot;Times New Roman&quot;;">Ask where the item was purchased, how much it was
+     purchased for, and when it was purchased.<o:p></o:p></span></li>
+</ul>
+<div class="MsoNormal">
+Knowing these variables will give you the leverage you need
+to decide whether the the equipment is priced fairly. You can also request a
+copy of the original receipt. Ask for original boxes, warranties, and user
+guides. <o:p></o:p></div>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+<b><u>Bill DeWees<o:p></o:p></u></b></div>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+<a href="https://www.youtube.com/watch?v=_hBVkpHaDQU&amp;feature=emb_rel_end">Home
+Voice Over Studio . . . on the cheap! </a><o:p></o:p></div>
+<ul style="margin-top: 0in;" type="disc">
+<li class="MsoListParagraph" style="margin-left: 0in; mso-list: l4 level1 lfo2; tab-stops: list .5in;">Foam Mattress Toppers<o:p></o:p></li>
+<li class="MsoListParagraph" style="margin-left: 0in; mso-list: l4 level1 lfo2; tab-stops: list .5in;">Moving Blankets<o:p></o:p></li>
+<li class="MsoListParagraph" style="margin-left: 0in; mso-list: l4 level1 lfo2; tab-stops: list .5in;">Microphone<o:p></o:p></li>
+<ul style="margin-top: 0in;" type="circle">
+<li class="MsoListParagraph" style="margin-left: 0in; mso-list: l4 level2 lfo2; tab-stops: list 1.0in;">Large Diaphragm Studio Mic / USB Mics work for
+      Auditions but not final product. <o:p></o:p></li>
+<ul style="margin-top: 0in;" type="square">
+<li class="MsoListParagraph" style="margin-left: 0in; mso-list: l4 level3 lfo2; tab-stops: list 1.5in;">Marshall MXL 2001 $60.00<o:p></o:p></li>
+</ul>
+</ul>
+<li class="MsoListParagraph" style="margin-left: 0in; mso-list: l4 level1 lfo2; tab-stops: list .5in;">Small Mixer with PreAmp<o:p></o:p></li>
+<li class="MsoListParagraph" style="margin-left: 0in; mso-list: l4 level1 lfo2; tab-stops: list .5in;">Digital Audio Interface (DAI) <o:p></o:p></li>
+<ul style="margin-top: 0in;" type="circle">
+<li class="MsoListParagraph" style="margin-left: 0in; mso-list: l4 level2 lfo2; tab-stops: list 1.0in;">Lexicon Alpha<o:p></o:p></li>
+</ul>
+<li class="MsoListParagraph" style="margin-left: 0in; mso-list: l4 level1 lfo2; tab-stops: list .5in;">Computer Fan Noise can interfere, remove from
+     recording space.<o:p></o:p></li>
+<li class="MsoListParagraph" style="margin-left: 0in; mso-list: l4 level1 lfo2; tab-stops: list .5in;">Audacity (Free)<o:p></o:p></li>
+<li class="MsoListParagraph" style="margin-left: 0in; mso-list: l4 level1 lfo2; tab-stops: list .5in;">Headphones (cheap is fine, don’t worry about it). <o:p></o:p></li>
+<li class="MsoListParagraph" style="margin-left: 0in; mso-list: l4 level1 lfo2; tab-stops: list .5in;">Record Audio Books, it’s the fastest way to get
+     going.<o:p></o:p></li>
+</ul>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+<a href="https://www.youtube.com/watch?v=-eRLVGoCAq8">DON'T
+Get Into the Voice Over Business! (...until you've watched this video) </a><o:p></o:p></div>
+<ul style="margin-top: 0in;" type="disc">
+<li class="MsoListParagraph" style="margin-left: 0in; mso-list: l4 level1 lfo2; tab-stops: list .5in;">It’s WORK, not just play. <o:p></o:p></li>
+</ul>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+<span style="font-size: 16.0pt;"><a href="https://www.youtube.com/watch?v=j3DczOxOh7Q">How to Build a Voice Over
+Business - Webinar Recording </a>&nbsp;<o:p></o:p></span></div>
+<div class="MsoNormal">
+Notes: 30:31<o:p></o:p></div>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+<b><u><span style="font-size: 20.0pt;">Tech<o:p></o:p></span></u></b></div>
+<ul style="margin-top: 0in;" type="disc">
+<li class="MsoListParagraph" style="margin-left: 0in; mso-list: l4 level1 lfo2; tab-stops: list .5in;">Bad Audio kills business. Expensive Microphone does
+     not equal great audio. <o:p></o:p></li>
+<li class="MsoListParagraph" style="margin-left: 0in; mso-list: l4 level1 lfo2; tab-stops: list .5in;">A great space creates great audio. Treat your Audio
+     Space.<o:p></o:p></li>
+<ul style="margin-top: 0in;" type="circle">
+<li class="MsoListParagraph" style="margin-left: 0in; mso-list: l4 level2 lfo2; tab-stops: list 1.0in;"><b>Sound Proofing</b> (Outside Noise/Laundry
+      Machine/Traffic/Kids Playing, noise from outside of the room). <o:p></o:p></li>
+<li class="MsoListParagraph" style="margin-left: 0in; mso-list: l4 level2 lfo2; tab-stops: list 1.0in;"><b>Sound Treatment</b> (Room Noise/Echo)<o:p></o:p></li>
+</ul>
+<li class="MsoListParagraph" style="margin-left: 0in; mso-list: l4 level1 lfo2; tab-stops: list .5in;">Microphone: <o:p></o:p></li>
+<ul style="margin-top: 0in;" type="circle">
+<li class="MsoListParagraph" style="margin-left: 0in; mso-list: l4 level2 lfo2; tab-stops: list 1.0in;"><b>Fifine K670</b><o:p></o:p></li>
+</ul>
+<li class="MsoListParagraph" style="margin-left: 0in; mso-list: l4 level1 lfo2; tab-stops: list .5in;">Aliso Creek Voice Over Classes: <a href="https://www.youtube.com/watch?v=v5pLly8m-nA">USB Microphones for
+     Voice Over Recording</a> <o:p></o:p></li>
+<ul style="margin-top: 0in;" type="circle">
+<li class="MsoListParagraph" style="margin-left: 0in; mso-list: l4 level2 lfo2; tab-stops: list 1.0in;">All Sound is Analog.<o:p></o:p></li>
+<li class="MsoListParagraph" style="margin-left: 0in; mso-list: l4 level2 lfo2; tab-stops: list 1.0in;">All Audio is Digital.<o:p></o:p></li>
+<li class="MsoListParagraph" style="margin-left: 0in; mso-list: l4 level2 lfo2; tab-stops: list 1.0in;">Interface Converts Analog to Digital and Back.<o:p></o:p></li>
+<li class="MsoListParagraph" style="margin-left: 0in; mso-list: l4 level2 lfo2; tab-stops: list 1.0in;">USB Mics in the old days didn’t record well. New
+      ones are sufficient for most recording. <o:p></o:p></li>
+<li class="MsoListParagraph" style="margin-left: 0in; mso-list: l4 level2 lfo2; tab-stops: list 1.0in;">Large Diaphragm <o:p></o:p></li>
+<li class="MsoListParagraph" style="margin-left: 0in; mso-list: l4 level2 lfo2; tab-stops: list 1.0in;">20Hz-20Khz<o:p></o:p></li>
+<li class="MsoListParagraph" style="margin-left: 0in; mso-list: l4 level2 lfo2; tab-stops: list 1.0in;">Gain Control<o:p></o:p></li>
+<li class="MsoListParagraph" style="margin-left: 0in; mso-list: l4 level2 lfo2; tab-stops: list 1.0in;">Zero Latency Monitoring (Headphone Jack on Mic)<o:p></o:p></li>
+<li class="MsoListParagraph" style="margin-left: 0in; mso-list: l4 level2 lfo2; tab-stops: list 1.0in;">24 Bit Mic Chipset<o:p></o:p></li>
+<li class="MsoListParagraph" style="margin-left: 0in; mso-list: l4 level2 lfo2; tab-stops: list 1.0in;">Aliso Creek Voice Over Classes: FREE ebook: Your
+      Voice Over GPS: <a href="http://alisocreek.net/voiceover.html">http://alisocreek.net/voiceover.html</a>
+      Should you use a USB mic for voice over recording? With the latest in
+      technology available, the answer may surprise. you!<o:p></o:p></li>
+</ul>
+<li class="MsoListParagraph" style="margin-left: 0in; mso-list: l4 level1 lfo2; tab-stops: list .5in;"><a href="https://www.bluedesigns.com/products/yeti/">BLUE
+     Yeti USB Specs</a><o:p></o:p></li>
+</ul>
+<div class="MsoNormal" style="text-indent: .5in;">
+<!--[if gte vml 1]><v:shapetype
+ id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
+ path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
+ <v:stroke joinstyle="miter"/>
+ <v:formulas>
+  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+  <v:f eqn="sum @0 1 0"/>
+  <v:f eqn="sum 0 0 @1"/>
+  <v:f eqn="prod @2 1 2"/>
+  <v:f eqn="prod @3 21600 pixelWidth"/>
+  <v:f eqn="prod @3 21600 pixelHeight"/>
+  <v:f eqn="sum @0 0 1"/>
+  <v:f eqn="prod @6 1 2"/>
+  <v:f eqn="prod @7 21600 pixelWidth"/>
+  <v:f eqn="sum @8 21600 0"/>
+  <v:f eqn="prod @7 21600 pixelHeight"/>
+  <v:f eqn="sum @10 21600 0"/>
+ </v:formulas>
+ <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+ <o:lock v:ext="edit" aspectratio="t"/>
+</v:shapetype><v:shape id="Picture_x0020_1" o:spid="_x0000_i1025" type="#_x0000_t75"
+ alt="" style='width:497.25pt;height:285.75pt'>
+ <v:imagedata src="file:///C:/Users/darre/AppData/Local/Temp/msohtmlclip1/01/clip_image001.jpg"
+  o:href="cid:image001.jpg@01D5FC6B.4C5903E0"/>
+</v:shape><![endif]--><!--[if !vml]--><img border="0" height="381" src="file:///C:/Users/darre/AppData/Local/Temp/msohtmlclip1/01/clip_image001.jpg" style="height: 3.968in; width: 6.895in;" v:shapes="Picture_x0020_1" width="663" /><!--[endif]--><o:p></o:p></div>
+<div class="MsoNormal">
+<br /></div>
+<ul style="margin-top: 0in;" type="disc">
+<li class="MsoListParagraph" style="margin-left: 0in; mso-list: l4 level1 lfo2; tab-stops: list .5in;">Ns1 Plugin by Waves.com<o:p></o:p></li>
+<li class="MsoListParagraph" style="margin-left: 0in; mso-list: l4 level1 lfo2; tab-stops: list .5in;"><a href="https://www.waves.com/plugins/ns1-noise-suppressor#How-to-Clean-Up-Noisy-Audio-in-Videos">NS1
+     Noise Suppressor</a><o:p></o:p></li>
+<li class="MsoListParagraph" style="margin-left: 0in; mso-list: l4 level1 lfo2; tab-stops: list .5in;">Reg. $149 66% OFF On Sale $49.99<o:p></o:p></li>
+<li class="MsoListParagraph" style="margin-left: 0in; mso-list: l4 level1 lfo2; tab-stops: list .5in;">The most intuitive professional noise suppression
+     plugin ever created, Waves NS1 Noise Suppressor intelligently
+     differentiates between dialog and unwanted noise. Perfect for post
+     production, audio forensics and musical applications alike, NS1 instantly
+     analyzes and adapts to your signal in real-time, bringing the foreground
+     into focus as it eliminates unnecessary background noise. Controlled by a
+     simple single fader, NS1 also features an attenuation meter which shows
+     you just how much overall energy is being removed from your input signal.
+     With NS1, noise suppression is as easy as fading away.<o:p></o:p></li>
+</ul>
+<div class="MsoNormal" style="text-indent: .5in;">
+<!--[if gte vml 1]><v:shape id="Picture_x0020_2"
+ o:spid="_x0000_i1026" type="#_x0000_t75" alt="" style='width:381pt;height:212.25pt'>
+ <v:imagedata src="file:///C:/Users/darre/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg"
+  o:href="cid:image002.jpg@01D5FC6B.4C5903E0"/>
+</v:shape><![endif]--><!--[if !vml]--><img border="0" height="283" src="file:///C:/Users/darre/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg" style="height: 2.947in; width: 5.291in;" v:shapes="Picture_x0020_2" width="508" /><!--[endif]--><o:p></o:p></div>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+<b><u><span style="font-size: 20.0pt;">Performance<o:p></o:p></span></u></b></div>
+<div class="MsoNormal">
+<br /></div>
+<ul style="margin-top: 0in;" type="disc">
+<li class="MsoListParagraph" style="margin-left: 0in; mso-list: l4 level1 lfo2; tab-stops: list .5in;">Real People, Guy/Girl Next Door. Natural Voice. No
+     Announcers. Upbeat. Not Sales. Genuine. Authentic. <o:p></o:p></li>
+</ul>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+<b><u><span style="font-size: 20.0pt;">Business (Marketing)<o:p></o:p></span></u></b></div>
+<div class="MsoNormal">
+<br /></div>
+<ul style="margin-top: 0in;" type="disc">
+<li class="MsoListParagraph" style="margin-left: 0in; mso-list: l4 level1 lfo2; tab-stops: list .5in;">You are responsible for Marketing yourself. Don’t
+     rely on an agent or agency. Market yourself. Create your own brand. Build
+     a website, get a Demo Reel, etc.<o:p></o:p></li>
+</ul>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+<b><span style="font-size: 20.0pt;"><a href="https://www.voices.com/help/beginners-guide-to-voice-acting">Beginner's
+Guide to Voice Acting</a><o:p></o:p></span></b></div>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+1. Get to Know Your Voice Through Voice Acting Practice<o:p></o:p></div>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+2. Learn and Try the 5 Basic Types of Characters in Voice
+Acting Roles<o:p></o:p></div>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+3. Regularly Get Voice Acting Practice with Sample Scripts <o:p></o:p></div>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+Let's explore the roles in detail. <o:p></o:p></div>
+<ol start="1" style="margin-top: 0in;" type="1">
+<li class="MsoNormal" style="mso-list: l3 level1 lfo3; tab-stops: list .5in;"><b><span style="mso-fareast-font-family: &quot;Times New Roman&quot;;">The Instructor </span></b><span style="mso-fareast-font-family: &quot;Times New Roman&quot;;"><o:p></o:p></span></li>
+</ol>
+<div class="MsoNormal">
+When teaching someone, for example, in a corporate training
+video or children's game, the voice over best suited for this kind of project
+is a straightforward, educated, and instructional voice. The role of this
+particular voice talent is to teach or provide information to fulfill a
+specific goal or purpose. Anyone who has had the opportunity to run a class,
+guide presentations, or has managed a team will likely find this role
+comfortable. <o:p></o:p></div>
+<ol start="2" style="margin-top: 0in;" type="1">
+<li class="MsoNormal" style="mso-list: l3 level1 lfo3; tab-stops: list .5in;"><b><span style="background: yellow; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-highlight: yellow;">The Real Person </span></b><span style="background: yellow; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-highlight: yellow;"><o:p></o:p></span></li>
+</ol>
+<div class="MsoNormal">
+<span style="background: yellow; mso-highlight: yellow;">Projects
+requiring a more casual approach often benefit from relatable, genuine voice
+overs. These are referred to as ‘real person’ voice overs, commonly known as
+the ‘regular guy’ or the ‘girl next door.’ This character is homegrown,
+sensible, and friendly, with a touch of familiarity, providing a more intimate
+interpretation of the script that instills trust. <o:p></o:p></span></div>
+<div class="MsoNormal">
+<span style="background: yellow; mso-highlight: yellow;">While
+this role may seem like it should suit everyone, it is harder than one might
+think to read a script and still sound like you're having a regular
+conversation with a friend or loved one. <o:p></o:p></span></div>
+<div class="MsoNormal">
+<span style="background: yellow; mso-highlight: yellow;">Former
+radio personalities tend to need help in this area because they've worked for
+so long in an industry that’s challenged them to change the timbre of their
+voices to sound like an announcer (see more about the announcer below).</span> <o:p></o:p></div>
+<ol start="3" style="margin-top: 0in;" type="1">
+<li class="MsoNormal" style="mso-list: l3 level1 lfo3; tab-stops: list .5in;"><b><span style="mso-fareast-font-family: &quot;Times New Roman&quot;;">The Spokesperson </span></b><span style="mso-fareast-font-family: &quot;Times New Roman&quot;;"><o:p></o:p></span></li>
+</ol>
+<div class="MsoNormal">
+A spokesperson can be on-camera or off-camera, depending on
+the medium you are using. The role of a spokesperson is generally played by a
+confident, charismatic person able to promote a cause, product, or service with
+ease and authority. <o:p></o:p></div>
+<div class="MsoNormal">
+A voice over of this nature needs to be driven, optimistic
+and assured. If you've ever been in sales, these traits probably sound
+familiar. Many people who gravitate to voice overs from sales positions tend to
+feel right at home in this role. <o:p></o:p></div>
+<ol start="4" style="margin-top: 0in;" type="1">
+<li class="MsoNormal" style="mso-list: l3 level1 lfo3; tab-stops: list .5in;"><b><span style="background: yellow; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-highlight: yellow;">The Narrator </span></b><span style="background: yellow; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-highlight: yellow;"><o:p></o:p></span></li>
+</ol>
+<div class="MsoNormal">
+<span style="background: yellow; mso-highlight: yellow;">Storytelling
+is where the Narrator is most at home. Omniscient, unbiased, courteous and
+honest, a narrator's job is to provide an audio landscape for a listener,
+briefing them on background information, posing questions, and providing
+solutions as they guide their audience through a program or documentary.
+Narrators can be male or female, and the most important factors are that they
+can communicate clearly and engagingly. If people hang on your every word while
+listening to you tell a story then this is likely your comfort zone.</span> <o:p></o:p></div>
+<ol start="5" style="margin-top: 0in;" type="1">
+<li class="MsoNormal" style="mso-list: l3 level1 lfo3; tab-stops: list .5in;"><b><span style="mso-fareast-font-family: &quot;Times New Roman&quot;;">The Announcer </span></b><span style="mso-fareast-font-family: &quot;Times New Roman&quot;;"><o:p></o:p></span></li>
+</ol>
+<div class="MsoNormal">
+The announcer, often heard live at events, on commercials,
+promos or introducing segments for radio or podcasts, is a product of the
+broadcast age, most celebrated at its height in the Golden Age of Radio and
+early television broadcasts. Announcers can introduce an idea and assertively
+make a call for action at the conclusion of a commercial advertisement or short
+video. <o:p></o:p></div>
+<div class="MsoNormal">
+If you were in radio broadcasting and you're now pursuing a
+career in voice over, then you may find this voice over character fits you like
+a glove. <o:p></o:p></div>
+<div class="MsoNormal">
+<br /></div>
+<ul style="margin-top: 0in;" type="disc">
+<li class="MsoNormal" style="mso-list: l0 level1 lfo4; tab-stops: list .5in;"><b><span style="mso-fareast-font-family: &quot;Times New Roman&quot;;">Character information:</span></b><span style="mso-fareast-font-family: &quot;Times New Roman&quot;;"> <o:p></o:p></span></li>
+</ul>
+<div class="MsoNormal">
+Who is the character? What’s the character’s age, background
+and&nbsp;history? <o:p></o:p></div>
+<ul style="margin-top: 0in;" type="disc">
+<li class="MsoNormal" style="mso-list: l0 level1 lfo4; tab-stops: list .5in;"><b><span style="mso-fareast-font-family: &quot;Times New Roman&quot;;">Plot information: </span></b><span style="mso-fareast-font-family: &quot;Times New Roman&quot;;"><o:p></o:p></span></li>
+</ul>
+<div class="MsoNormal">
+What happened or will happen to the character? Who else is
+with them in the scene? Where is the action taking&nbsp;place? <o:p></o:p></div>
+<ul style="margin-top: 0in;" type="disc">
+<li class="MsoNormal" style="mso-list: l0 level1 lfo4; tab-stops: list .5in;"><b><span style="mso-fareast-font-family: &quot;Times New Roman&quot;;">Voice over style and
+     tone:</span></b><span style="mso-fareast-font-family: &quot;Times New Roman&quot;;"> <o:p></o:p></span></li>
+</ul>
+<div class="MsoNormal">
+How should the character’s voice sound? Is the voice over
+role for a child or adult? What are the character’s&nbsp;emotions? <o:p></o:p></div>
+<ul style="margin-top: 0in;" type="disc">
+<li class="MsoNormal" style="mso-list: l0 level1 lfo4; tab-stops: list .5in;"><b><span style="mso-fareast-font-family: &quot;Times New Roman&quot;;">Artistic directions: </span></b><span style="mso-fareast-font-family: &quot;Times New Roman&quot;;"><o:p></o:p></span></li>
+</ul>
+<div class="MsoNormal">
+Look for artistic directions that let you know more about
+the setting, your character’s position, etc. Are certain words meant to be
+emphasized? You must carefully read the lines to look for italicized or bold
+words and understand what they&nbsp;mean. <o:p></o:p></div>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+The Top 3 Tips for Reading a Voice Acting&nbsp;Script <o:p></o:p></div>
+<ol start="1" style="margin-top: 0in;" type="1">
+<li class="MsoNormal" style="mso-list: l2 level1 lfo5; tab-stops: list .5in;"><b><span style="mso-fareast-font-family: &quot;Times New Roman&quot;;">Stay relaxed: </span></b><span style="mso-fareast-font-family: &quot;Times New Roman&quot;;"><o:p></o:p></span></li>
+</ol>
+<div class="MsoNormal">
+It is crucial to stay relaxed while reading and performing
+with a script. This doesn’t necessarily mean that you should read more slowly,
+but rather with a calm and focused mind. This will help you reduce loud
+breathing sounds and silly&nbsp;mistakes. <o:p></o:p></div>
+<ol start="2" style="margin-top: 0in;" type="1">
+<li class="MsoNormal" style="mso-list: l2 level1 lfo5; tab-stops: list .5in;"><b><span style="mso-fareast-font-family: &quot;Times New Roman&quot;;">Read the script first:</span></b><span style="mso-fareast-font-family: &quot;Times New Roman&quot;;"> <o:p></o:p></span></li>
+</ol>
+<div class="MsoNormal">
+Needless to say, if you get the script before hand, you
+should always go through it a few times before the recording session. This way,
+you’ll be familiar with the lines and not miss important stylistic notes
+and&nbsp;pauses. <o:p></o:p></div>
+<ol start="3" style="margin-top: 0in;" type="1">
+<li class="MsoNormal" style="mso-list: l2 level1 lfo5; tab-stops: list .5in;"><b><span style="mso-fareast-font-family: &quot;Times New Roman&quot;;">Move freely: </span></b><span style="mso-fareast-font-family: &quot;Times New Roman&quot;;"><o:p></o:p></span></li>
+</ol>
+<div class="MsoNormal">
+If your recording space allows you to stand and move around
+in the booth, that’s excellent. Standing helps you breathe more clearly. It
+also helps you get into character and make natural movements while
+voice&nbsp;acting. <o:p></o:p></div>
+<div class="MsoNormal">
+<br /></div>
+<div class="MsoNormal">
+........ TBC</div>

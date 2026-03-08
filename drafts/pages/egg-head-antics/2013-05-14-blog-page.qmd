@@ -1,0 +1,25 @@
+---
+title: 'Store'
+date: '2013-05-14T02:30:00.0000000+00:00'
+draft: true
+blogger_type: 'PAGE'
+blogger_blog: 'Egg Head Antics'
+blogger_status: 'LIVE'
+blogger_page_id: '8122846340525729861'
+blogger_filename: '/p/blog-page.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Egg Head Antics/feed.atom'
+---
+
+<h4 style="text-align: center;">
+Egg Head Antics Store</h4>
+<div style="text-align: center;">
+By N2 Good Success</div>
+<div style="text-align: center;">
+<br /></div>
+<div style="text-align: center;">
+<embed flashvars="feedId=0&amp;path=http://www.zazzle.com/assets/swf/zp/skins" height="300" src="http://www.zazzle.com/utl/getpanel?tl=My%20Zazzle%20Panel&amp;at=238174440691742196&amp;cn=238174440691742196&amp;st=date_created" type="application/x-shockwave-flash" width="450" wmode="transparent"></embed><br /></div>
+<div style="text-align: center;">
+<a href="http://www.zazzle.com/">create &amp; buy custom products</a> at <a href="http://www.zazzle.com/">Zazzle</a>
+</div>
+<div style="text-align: center;">
+<br /></div>

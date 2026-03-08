@@ -1,0 +1,57 @@
+---
+title: '404 Error Page'
+date: '1994-01-02T07:39:00.0000000+00:00'
+draft: true
+blogger_blog: 'Darrell Wolfe, Storyteller'
+blogger_status: 'LIVE'
+blogger_post_id: '204892069548167569'
+blogger_filename: '/1994/01/404-error-page.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Darrell Wolfe, Storyteller/feed.atom'
+categories:
+  - 'TechSetUp'
+---
+
+<h3>
+<span style="font-size: medium;">You got a 404 Error? Can't find the page you were looking for?</span></h3>
+<span style="font-size: medium;"><br /></span>
+<span style="font-size: medium;"><i><br /></i></span>
+<br />
+<h4>
+<span style="font-size: medium;"><i>I'm sorry about that.&nbsp;</i></span></h4>
+<br />
+<br />
+<br />
+You can search this site for the right page, or email Me@DarrellWolfe.com and tell me what you were trying to find.<br />
+<br />
+<br />
+Click <a href="http://www.darrellwolfe.com/p/start-here-about.html" target="_blank">Start Here</a> if you're new here, or <a href="http://www.darrellwolfe.com/p/by-darrell.html" target="_blank">The Hub</a> for a list of all my sites.<br />
+<br />
+<br />
+<br />
+Or just watch this <a href="https://www.youtube.com/watch?v=705OzYq7cXU" target="_blank">cat in slow motion</a>&nbsp;by The Slow Mo Guys (just for fun) as my gift to you for finding this secret page, thanks for stopping by!<br />
+<span style="font-size: medium;"><br /></span>
+<br />
+<br />
+<br />
+<br />
+<iframe allowfullscreen="" frameborder="0" height="300" src="https://www.youtube.com/embed/705OzYq7cXU" width="550"></iframe>
+
+<br />
+<br />
+<br />
+<br />
+<br />
+Oh by the way... would you like a Hippopotas for Christmas? I do!<br />
+<br />
+<br />
+<br />
+<br />
+<iframe allowfullscreen="" frameborder="0" height="360" src="https://www.youtube.com/embed/tlVPdfaD4Wc" width="480"></iframe>
+
+<br />
+<br />
+<br />
+<br />
+Thanks for stopping by!<br />
+<br />
+Darrell

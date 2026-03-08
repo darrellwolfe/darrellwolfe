@@ -1,0 +1,14 @@
+---
+title: 'Inspiration'
+date: '2013-03-24T21:14:00.0010000+00:00'
+draft: true
+blogger_blog: 'Towdah: tō·dä'''
+blogger_status: 'LIVE'
+blogger_post_id: '5374364318517021606'
+blogger_filename: '/2013/03/inspiration.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Towdah_ tō·dä_/feed.atom'
+categories:
+  - 'Insight'
+---
+
+<span style="color: #333333; font-family: Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif; font-size: 13px; line-height: 19px;">Is it possible that all this time I was trying to run from being a "Musician" or "performing Artist", when all the time I was called to the more technical aspects of composing. My love and passion of Excel, Blogs, and other technical creative works combined with a never-ending background desire to do something with music seems a natural fit for this direction... Hmm... interesting thought... DW</span>

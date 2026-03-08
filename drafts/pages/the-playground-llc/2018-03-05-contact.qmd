@@ -1,0 +1,36 @@
+---
+title: 'Contact Us'
+date: '2018-03-05T05:23:00.0000000+00:00'
+draft: true
+blogger_type: 'PAGE'
+blogger_blog: 'The Playground, LLC'
+blogger_status: 'LIVE'
+blogger_page_id: '1591035059697162785'
+blogger_filename: '/p/contact.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/The Playground, LLC/feed.atom'
+---
+
+The Playground, LLC is in Pre-Launch phase at this time.<br />
+<br />
+If you'd like to reach us for any reason, you may contact us at:<br />
+<br />
+Darrell &amp; Flavia Wolfe<br />
+9030 N Hess St, #564<br />
+Hayden, ID 83835<br />
+<br />
+208-907-1617<br />
+<br />
+<a href="mailto:Me@DarrellWolfe.com">Me@DarrellWolfe.com</a><br />
+<br />
+<a href="https://www.facebook.com/ThePlaygroundLLC/">Facebook.com/ThePlaygroundLLC</a><br />
+<br />
+<a href="https://theplaygroundllc.blogspot.com/">https://theplaygroundllc.blogspot.com/</a><br />
+<br />
+To help fund our startup:<br />
+<ul>
+<li><a href="https://www.gofundme.com/theplaygroundllc" target="_blank">GoFundMe</a></li>
+</ul>
+<br />
+Thank you for stopping by!<br />
+<div>
+<br /></div>

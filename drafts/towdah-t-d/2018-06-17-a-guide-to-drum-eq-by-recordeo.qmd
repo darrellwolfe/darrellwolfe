@@ -1,0 +1,49 @@
+---
+title: 'A Guide To Drum EQ - By Recordeo'
+date: '2018-06-17T21:47:00.0000000+00:00'
+draft: true
+blogger_blog: 'Towdah: tō·dä'''
+blogger_status: 'LIVE'
+blogger_post_id: '7742633230326666740'
+blogger_filename: '/2018/06/a-guide-to-drum-eq-by-recordeo.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Towdah_ tō·dä_/feed.atom'
+categories:
+  - 'Instruments'
+  - 'Techniques'
+  - 'Audio 101'
+  - 'Sound'
+---
+
+<a href="https://www.drumeo.com/blog/a-guide-to-drum-eq/" target="_blank">A Guide To Drum EQ - By Recordeo</a><br />
+<br />
+<br />
+1. High Pass Filter: The engineer suggests adding a High Pass Filter to each and every mic.<br />
+<br />
+2. Cuts vs Boosts: He said you'll get a lot more fidelity if you cut the unpleasant frequencies (freeqs) instead of boosting the parts you like.<br />
+<b><br /></b>
+<b>Notes:</b><br />
+<br />
+Even the bass drum can have a High Pass Filter but set it lower, around 30-50 Hz.<br />
+<br />
+It's okay to boost here and there, but there should be more cutting than boosting. Listen for things bleeding through, or things conflicting with each other, or ringing.<br />
+<br />
+****<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />

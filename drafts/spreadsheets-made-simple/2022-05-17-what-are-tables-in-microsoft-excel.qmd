@@ -1,0 +1,14 @@
+---
+title: 'What are Tables, in Microsoft Excel?'
+date: '2022-05-17T03:08:00.0010000+00:00'
+draft: true
+blogger_blog: 'Spreadsheets Made Simple'
+blogger_status: 'LIVE'
+blogger_post_id: '8737154162423404766'
+blogger_filename: '/2022/05/what-are-tables-in-microsoft-excel.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Spreadsheets Made Simple/feed.atom'
+categories:
+  - 'Tables'
+---
+
+<p>&nbsp;^TBC</p>

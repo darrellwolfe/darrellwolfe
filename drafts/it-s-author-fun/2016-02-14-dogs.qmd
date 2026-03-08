@@ -1,0 +1,12 @@
+---
+title: 'Dogs'
+date: '2016-02-14T20:31:00.0010000+00:00'
+draft: true
+blogger_blog: 'It''s Author Fun'
+blogger_status: 'DRAFT'
+blogger_post_id: '5217538138600685043'
+blogger_filename: '/2016/02/dogs.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/It_s Author Fun/feed.atom'
+---
+
+Horses, Stars, Stripes, President, First Lady... the pack of secret service dogs.

@@ -1,0 +1,254 @@
+---
+title: 'Credit Scores 101: Everything you need to know about credit scores'
+date: '2018-03-30T06:42:00.0030000+00:00'
+draft: true
+blogger_blog: 'your Credit Crash Course'
+blogger_status: 'LIVE'
+blogger_post_id: '1205136258356663543'
+blogger_filename: '/2018/03/credit-scores-101.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/your Credit Crash Course/feed.atom'
+---
+
+<b>Here's the basics in a nutshell:</b><br />
+<br />
+As we covered in "<a href="https://goodcreditbadcredit101.blogspot.com/2018/03/what-is-credit-score.html" target="_blank">What is a Credit Score?</a>", there are primarily two credit scoring companies.<br />
+<br />
+The websites are linked here:<br />
+<ul>
+<li><a href="https://www.myfico.com/credit-education/whats-in-your-credit-score/" target="_blank">myFICO</a></li>
+<li><a href="https://your.vantagescore.com/score-influences" target="_blank">Your.VantageScore</a></li>
+</ul>
+<br />
+We're not going to get into the weeds here, but just so you know, there are many many specific models within each company. There are older models, newer models, some models aimed specifically at your auto loans.<br />
+<i><br /></i>
+<i>And none of that matters.</i><br />
+<br />
+The bottom line is the bottom line. If you are hitting the mark on the major catagories they use to determine your score then you will be in good shape regardless of which specific formula they choose to use.<br />
+<br />
+Here's a look at the two models and there differences, then we'll explain the basics you need to know.<br />
+<br />
+<b><br /></b>
+<b>Comparing the models</b><br />
+<br />
+As you'll see in the model images below, there are some differences in the models. However, in the grand scheme of things, if you are doing the right things it will create positive results in both models. The wrong things will impact you differently.<br />
+<br />
+The primary differences are in how these catagories weight certain items:<br />
+<br />
+<ul>
+<li>The <b>Amounts Owed</b>&nbsp;in the FICO model, is roughly equivilant to the <b>% of credit limit used </b>and the <b>available credit</b> section of the Vantage model.</li>
+<li>The <b>Amounts Owed</b> &amp; <b>Length of Credit Hisotry</b> are unequal in the FICO model, but the same catagories <b>Age and type of credit</b> &amp; <b>% of credit limit used</b> are equal in the Vantage Model.</li>
+</ul>
+<br />
+You can get the gist of these types of differences by staring at both models side by side for a while.<br />
+<b><br /></b>
+<b>The FICO Model (<a href="https://www.myfico.com/credit-education/whats-in-your-credit-score/" target="_blank">link here, image from their site</a>):</b><br />
+<br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="/images/imported/blogger-googleusercontent-com/the-fico-score-model-0fdae56c798f.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="348" data-original-width="466" height="476" src="/images/imported/blogger-googleusercontent-com/the-fico-score-model-edff88ed54ac.png" width="640" /></a></div>
+<div class="separator" style="clear: both; text-align: center;">
+<br /></div>
+<br />
+<b><br /></b>
+<b>The Vantage Score Model (<a href="https://your.vantagescore.com/score-influences" target="_blank">link here, image fromm their site</a>):</b><br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="/images/imported/blogger-googleusercontent-com/the-vantage-sccore-model-fb800a5859da.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="507" data-original-width="688" height="470" src="/images/imported/blogger-googleusercontent-com/the-vantage-sccore-model-04acffe8aff5.png" width="640" /></a></div>
+<br />
+<br />
+<b><br /></b>
+<b>What each section means</b><br />
+<br />
+What's more important than the differences in the models is what each section means. Let's use the FICO model, since it's still the most common.<br />
+<br />
+<b>The Catagories are:</b><br />
+<br />
+<ul>
+<li><b>Payment History (35% of the score)</b></li>
+<li><b>Amounts Owed (30% of the score)</b></li>
+<li><b>Length of Credit History (15% of the score)</b></li>
+<li><b>Credit Mix (10% of the score)</b></li>
+<li><b>New Credit (10% of the score)</b></li>
+</ul>
+<div>
+<br /></div>
+<div>
+<br /></div>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="/images/imported/blogger-googleusercontent-com/the-fico-score-model-de96f6740c03.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em; text-align: center;"><img border="0" data-original-height="348" data-original-width="466" height="148" src="/images/imported/blogger-googleusercontent-com/the-fico-score-model-5dcbc6828d3b.png" width="200" /></a></div>
+<br />
+<b><u><br /></u></b>
+<b><u>Payment History (35%)</u></b><br />
+<br />
+This is simply: "How you paid". This does not reference your rent, utilities, or cell phone. It only refers to payments on Credit Products (credit cards and loans). There are instances where a cell phone bill or utility company will show up on your report, but only as a collections item. It's important that you pay these to prevent collections, but paying them does nothing to build your score.<br />
+<br />
+Credit Products (credit cards and loans) report your payment history. This shows up as a "C" for current or sometimes a "1".<br />
+<br />
+To get a "C":<br />
+<br />
+<ul>
+<li>Something must be due</li>
+<li>At least what's due must be paid (minimum payment)</li>
+</ul>
+<div>
+<br /></div>
+<div>
+If both of these are true, you get a "C". If nothing was due, therefore you paid nothing, it'll be a nuetral month for you in this particular catagory. Having nothing due isn't negative, but it's not positive either. It's nuetral. The more C's the more your credit score goes up for this catagory.</div>
+<div>
+<br /></div>
+<div>
+<b><i>*The following is important later when we discuss The Starbucks Plan.</i></b></div>
+<div>
+<b><br /></b></div>
+<div>
+<b>It doesn't matter if you pay:</b></div>
+<div>
+<ul>
+<li><b>The $25 minimum payment on your $600 balance.</b></li>
+<li><b>The full $600 balance completely paid off.</b></li>
+<li><b>A $3 payment on your $3 balance.&nbsp;</b></li>
+</ul>
+<div>
+<b>For this catagory, the amount is irrelevant. As long as you paid what's owed, you get a C.&nbsp;</b></div>
+</div>
+<br />
+<br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="/images/imported/blogger-googleusercontent-com/the-fico-score-model-de96f6740c03.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em; text-align: center;"><img border="0" data-original-height="348" data-original-width="466" height="148" src="/images/imported/blogger-googleusercontent-com/the-fico-score-model-5dcbc6828d3b.png" width="200" /></a></div>
+<br />
+<br />
+<b><u>Amounts Owed (30%)</u></b><br />
+<br />
+This can refer to loans, like paying a loan off early. However, it mostly affects your score in the form of your credit card balances.<br />
+<b><br /></b>
+<b>Balance &lt; 30% of Credit Limit</b><br />
+<br />
+Your balance should never be higher than 30% of your credit limit to ace this catagory. Never. Exceptions exist, but they aren't worth the risk.<br />
+<br />
+This catagory refers to individual accounts and the average of the whole. It takes into account all your balances on cards/revolving accounts and all your limits and comes up with a total blance to limit ratio as well.<br />
+<br />
+This is one of the dangers in closing cards prematurely. You want to make sure you individual balances are below 30% for a few months before closing any one card.<br />
+<br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="/images/imported/blogger-googleusercontent-com/the-fico-score-model-de96f6740c03.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em; text-align: center;"><img border="0" data-original-height="348" data-original-width="466" height="148" src="/images/imported/blogger-googleusercontent-com/the-fico-score-model-5dcbc6828d3b.png" width="200" /></a></div>
+<br />
+<br />
+<b><u>Length of Credit History (15%)</u></b><br />
+<br />
+This is an average of how long your acccounts have been open. Caution: It's not how long the oldest account has been open. It's an average of all of them.<br />
+<br />
+Back to basic math, averages. You take the age of each account, divided by the number of accounts, and get an average age.<br />
+<b><br /></b>
+<b>Example One:</b><br />
+<br />
+So you have four accounts that are one year old and one account that is 4 years old. That's five accounts total. Your average age is 1.6 years.<br />
+<br />
+<ul>
+<li>1+1+1+1+4=8</li>
+<li>8/5= 1.6</li>
+</ul>
+<br />
+<b>Example Two:</b><br />
+<br />
+Let's say you have four accounts that are four years old and one account that is 1 year old. That's five accounts total. Your average age is 3.4 years.<br />
+<br />
+<ul>
+<li>4+4+4+4+1=17</li>
+<li>17/5= 3.4</li>
+</ul>
+<br />
+This is why opening four credit cards in the same year will bring your score down (for this catagory) in the short term, because it reduces the average age of your account dramatically. However, if you keep those accounts open, then long term it could help your score too.<br />
+<br />
+Credit Cards are important for average age because they are "ever green". They typically don't close. Loans close. Eventually, you'll pay off your mortgage or car, or refinance it. Cards are the only product that can get a long age on them. So find two card companies you like and keep them forever, don't open and close frequently.<br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="/images/imported/blogger-googleusercontent-com/the-fico-score-model-de96f6740c03.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em; text-align: center;"><img border="0" data-original-height="348" data-original-width="466" height="148" src="/images/imported/blogger-googleusercontent-com/the-fico-score-model-5dcbc6828d3b.png" width="200" /></a></div>
+<br />
+<br />
+<b><u>Credit Mix (10%)</u></b><br />
+<br />
+Credit Mix is literally what it sounds like. A mix of credit product types. Typically, this just means having a mix of:<br />
+<br />
+<ul>
+<li>Revolving (open ended) Credit, like credit cards</li>
+<li>Installment (closed ended) Credit, like loans.</li>
+</ul>
+<br />
+If you have some of each, you have a mix. Having different loan types (auto/mortgage) is also considered having a mix. There's really not a lot of important things to say about this catagory.<br />
+<br />
+It's generally advised to have three tradelines/accounts, two Credit Cards and a Loan, to get you started.<br />
+<br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="/images/imported/blogger-googleusercontent-com/the-fico-score-model-de96f6740c03.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em; text-align: center;"><img border="0" data-original-height="348" data-original-width="466" height="148" src="/images/imported/blogger-googleusercontent-com/the-fico-score-model-5dcbc6828d3b.png" width="200" /></a></div>
+<br />
+<b><u><br /></u></b>
+<b><u>New Credit (10%)</u></b><br />
+<div>
+<br /></div>
+New Credit is exactly what it sounds like. This is where new accounts and inquiries play into your score.<br />
+<br />
+The great news here, is that <b>new is only new as long as it's new</b>.<br />
+<br />
+So something that is three months old has less weight on your score than something that is 3 days old. Something that is 1 year old matters less than something 3 months old.<br />
+<br />
+Generally, anything over two years old is no longer weighted into this catagory. If you consider the Length of Credit History catagory, this is actually a counter-balance to that.<br />
+<br />
+Two items play a role in New Credit:<br />
+<br />
+<ul>
+<li><b>New Accounts</b>: A new account is any new credit product that shows up on your reports.&nbsp;</li>
+</ul>
+<ul>
+<li><b>Inquiries</b>: an Inquiry is usually shown in it's own section of the report. This is when a lender (or someone else) requests a copy of your credit report.</li>
+</ul>
+<br />
+<br />
+<b><i>*Note about Inquiries</i></b>: FICO has an entire page dedicated to the topic of <a href="https://www.myfico.com/credit-education/credit-checks/credit-report-inquiries/" target="_blank">Inquiries/Credit Checks</a>. The bottom line, is that normal inquiries won't affect your score by much (only ten perecent of your sccore) and they won't afffect it for long (it's only new as long as it's new).<br />
+<br />
+<b>You can check your own report without worry!</b> FICO says: "<i>As long as you order your credit reports through an organization authorized to provide credit reports to consumers, such as myFICO, your own inquiries will not affect your FICO Scores.</i>"<br />
+<br />
+<br />
+So let's put all of that together and get a strategy in place to get you started!<br />
+<b><br /></b>
+<br />
+<h4>
+<b><u>The Starbucks Plan!</u></b></h4>
+<br />
+Having said all of that, here's my advice for those who are starting out (or restarting). Go on what I call, The Starbucks Plan. I put my dad on this plan with GREAT success, it works.<br />
+<b><br /></b>
+<b>The Starbucks Plan / Interest Free Credit Building</b><br />
+<br />
+<ol>
+<li><b>Get two credit cards</b> (they need to be cards with a VISA/Master/Discover logo that you can use anywhere).&nbsp;</li>
+<li><b>Keep these cards open forever</b> (or not, but plan to get age on any new ones before closing these).</li>
+<li><b>Buy ONE Starbucks Coffee</b> (or purchaes of your choosing, but keep it rediculously small, less than $15).&nbsp;</li>
+<li><b>Wait until you get your statement</b> (so something shows due).</li>
+<li><b>Pay it IN FULL before the due date</b> (so you don't pay any interest).&nbsp;</li>
+<li><b>Do it again next month.</b></li>
+</ol>
+<div>
+Don't use the cards for anything else. At least, not until you are a seasoned disciplined credit card user. Never put a balance on the card over 30%. Never carry the balance past the due date. Wait until you get your statement to pay it, but, pay it in full before the due date so you never pay interest.&nbsp;</div>
+<div>
+<br /></div>
+<div>
+This plan creates all the right markers on the catagories above. You can then build around these with your loans.</div>
+<div>
+<br /></div>
+<div>
+<b><i>*Note about Rewards:</i></b></div>
+<div>
+You might be tempted to use the cards for Rewards. That's fine for veterans, but not if you are a credit builder/rebuilder. If you are just getting started or restarted, stick to the plan. Only after you have a good three years of habit built up should you venture out into the world of more than one purchase and getting rewards. Trust me, it's not worth the risk prematurely. I'm not actually sure it's ever worth the risk, but some people really like their rewards. Proceed with caution.</div>
+<div>
+<br /></div>
+<div>
+<br /></div>
+<div>
+I hope that helped clear up some things. See you around in the next article,</div>
+<div>
+<br /></div>
+<div>
+Darrell Wolfe</div>

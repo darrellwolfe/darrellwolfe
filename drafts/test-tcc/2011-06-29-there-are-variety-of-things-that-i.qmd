@@ -1,0 +1,19 @@
+---
+title: 'Me'
+date: '2011-06-29T19:10:00.0000000+00:00'
+draft: true
+blogger_blog: 'TEST TCC'
+blogger_status: 'LIVE'
+blogger_post_id: '8386175662804201767'
+blogger_filename: '/2011/06/there-are-variety-of-things-that-i.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/TEST TCC/feed.atom'
+categories:
+  - 'How To'
+  - 'Notes'
+---
+
+<div style="text-align: left;">
+<span style="font-size: 100%;">There are a variety of things that I enjoys making and they will all be posted here soon. Thank you for visiting. Have a blessed day. </span><br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="/images/imported/blogger-googleusercontent-com/tcc-logo-2012-d44aa9da3309.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="38" src="/images/imported/blogger-googleusercontent-com/tcc-logo-2012-52fecb61ac19.jpg" width="320" /></a></div>
+<br /></div>

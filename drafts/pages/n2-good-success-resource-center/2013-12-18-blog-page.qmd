@@ -1,0 +1,101 @@
+---
+title: 'Links'
+date: '2013-12-18T06:32:00.0000000+00:00'
+draft: true
+blogger_type: 'PAGE'
+blogger_blog: 'N2 Good Success Resource Center'
+blogger_status: 'LIVE'
+blogger_page_id: '5097275813043729329'
+blogger_filename: '/p/blog-page.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/N2 Good Success Resource Center/feed.atom'
+---
+
+The following are links to a storehouse of other great resources I've found and used personally and professionally.<br />
+<ul>
+</ul>
+<div class="widget LinkList" id="LinkList2">
+<h4>
+Life Success</h4>
+<div class="widget-content">
+<ul>
+<li>Health: </li>
+<ul>
+<li><a href="http://www.drcolbert.com/">Health - Dr Don Colbert</a></li>
+</ul>
+<li>Web </li>
+<ul>
+<li><a href="http://www.knightsquest.org/">Internet - Knights Quest - Protection for Children Online</a></li>
+<li><a href="http://www.w3schools.com/">Internet - W3 Schools Online Web Building Tutorials</a></li>
+</ul>
+<li>Job Skills </li>
+<ul>
+<li><a href="http://www.adlerconcepts.com/resources/2001/06/the_best_interview_question_of.php">Job - Interviews - Adler Interview Technique</a></li>
+<li><a href="http://www.quintcareers.com/sample_behavioral.html">Job - Interviews - Behavioral Interview Questions</a></li>
+<li><a href="http://www.resumedictionary.com/resume-communication-skills/">Job - Resume Dictionary</a></li>
+<li><a href="http://www.quintcareers.com/job_skills_values.html">Job - Resume' Skills List</a></li>
+</ul>
+<li>Money and Finances </li>
+<ul>
+<li><a href="http://forums.about.com/n/pfx/forum.aspx?webtag=ab-banking">Money - Banking Forums</a></li>
+<li><a href="http://www.crown.org/LIBRARY/ViewArticle.aspx?ArticleId=107">Money - Bible Principles on Borrowing and Lending</a></li>
+<li><a href="http://www.crown.org/">Money - Crown Financial Concepts</a></li>
+<li><a href="http://www.daveramsey.com/home/?link_id=10&amp;s_kwcid=TC%7c6886%7cdaveramsey%2520com%7c%7cS%7cb%7c19008136946&amp;gclid=CP62h8jYsrYCFetAMgodlyIAJg">Money - Dave Ramsey (Wise Money Management)</a></li>
+<li><a href="http://www.handsonbanking.org/en/">Money - Hands on Banking - Financial Education</a></li>
+<li><a href="http://www.huttonfinancial.com/">Money - Hutton Financial Advisors (Investments)</a></li>
+<li><a href="http://www.myfico.com/CreditEducation/articles/">Money - My FICO</a></li>
+<li><a href="http://www.investortrip.com/how-to-avoid-overdraft-fees/">Money - Overdraft Documentary</a></li>
+<li><a href="http://www.practicalmoneyskills.com/">Money - PracticalMoneySkills.Com</a></li>
+<li><a href="http://www.taxact.com/">Money - Tax - Tax Act - Online Tax Filling</a></li>
+<li><a href="http://turbotax.intuit.com/">Money - Tax - Turbo Tax Online Tax Filling</a></li>
+</ul>
+<li>Relationships and Personal Growth </li>
+<ul>
+<li><a href="http://www.personalstrengths.us/index.php/en/ra-theory/theory-overview">Personal - SDI Relational Personality Test</a></li>
+</ul>
+<li>Impact the World </li>
+<ul>
+<li><a href="http://www.josephcenter.com/">School - Joseph Center - Faith Based Business Center</a></li>
+<li><a href="http://schooloftecharts.com/" target="_blank">School - School of the Tech Arts - Audio School </a></li>
+<li><a href="http://www.wallbuilders.com/ABTbioDB.asp">Social-Political-History - Wall Builders by David Barton</a> </li>
+</ul>
+</ul>
+<span class="widget-item-control">
+<span class="item-control blog-admin">
+<a class="quickedit" href="http://www.blogger.com/rearrange?blogID=1439151656287635991&amp;widgetType=LinkList&amp;widgetId=LinkList2&amp;action=editWidget&amp;sectionId=sidebar-right-2-1" target="configLinkList2" title="Edit">
+
+</a>
+</span>
+</span>
+
+</div>
+</div>
+<h4>
+Faith Building</h4>
+<ul>
+<li><b>Churches: </b></li>
+<ul>
+<li><a href="http://gatewaypeople.com/content/media" target="_blank">Gateway Church</a></li>
+<li><a href="http://emic.org/">Eagle Mountain Intl Church</a></li>
+<li><a href="http://wordchurchfinder.blogspot.com/">Find a Church near you!</a></li>
+</ul>
+<li><b>Teachers - Ministries </b></li>
+<ul>
+<li><a href="http://www.pearsonsministries.com/">Pearsons Ministries</a></li>
+<li><a href="http://www.impactministries.com/Resources/FreeStuff.aspx">Dr James B Richards (Impact Ministries)</a> </li>
+<li><a href="http://www.moorelife.org/freedownloads.php">Keith Moore</a></li>
+<li><a href="http://www.kcm.org/bvov-media">Kenneth Copeland Ministries</a></li>
+<li><a href="http://www.terricopelandpearsons.com/">Terri Copeland Pearsons</a></li>
+<li><a href="http://www.billwinston.org/archives/">Bill Winston</a></li>
+<li><a href="http://www.jerrysavelle.org/">Jerry Savelle Ministries</a></li>
+<li><a href="http://www.jdm.org/jdmDefault.aspx">Jesse Duplantis Ministries</a></li>
+</ul>
+</ul>
+<h4>
+My Resources For You</h4>
+<ul>
+<li><a href="http://wordchurchfinder.blogspot.com/">Church Finder - Find a Faith Filled Church Near You.</a></li>
+<li><a href="http://astore.amazon.com/your0f4d-20">N2GS Amazon Store</a></li>
+<li><a href="http://www.zazzle.com/n2goodsuccess">N2GS Zazzle Store</a></li>
+</ul>
+<br />
+<br />

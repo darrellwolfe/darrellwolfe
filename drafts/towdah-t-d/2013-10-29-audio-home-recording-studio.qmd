@@ -1,0 +1,36 @@
+---
+title: 'Audio Home Recording Studio'
+date: '2013-10-29T18:54:00.0000000+00:00'
+draft: true
+blogger_blog: 'Towdah: tō·dä'''
+blogger_status: 'LIVE'
+blogger_post_id: '3243174166053637088'
+blogger_filename: '/2013/10/audio-home-recording-studio.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Towdah_ tō·dä_/feed.atom'
+categories:
+  - 'Equipment'
+  - 'Misc Research'
+---
+
+Found a great book at the Library, want to buy it: <a href="http://www.amazon.com/The-Home-Recording-Handbook-Youve/dp/087930958X/ref=sr_1_1?ie=UTF8&amp;qid=1383071895&amp;sr=8-1&amp;keywords=home+recording+handbook+dave+hunter" target="_blank">Home Recording Handbook, by Dave Hunter</a>. <br />
+<br />
+Things you need:<br />
+<ul>
+<li>&nbsp;<strong>Computer</strong> with enough RAM and Hardrive Space, I'm thinking 16-32 Gig's RAM and a seperate Hard Drive just for Audio Recordings and Audio files and programs. </li>
+<li><strong>Interface</strong>: Either a two input (or four or eight, etc) interface, or a whole mixing board or both. </li>
+<li><strong>Inputs</strong> You'll need DI boxes AND Mics. I want a large diaphram condensor mic, a few small condensors, a few Shure SM57's. (I also want an Acustic Guitar, Electronic Drum Set). Also Stands and Cables, both XLR and 1/4 and 1/8 inch inserts. </li>
+<li><strong>Digital Audio Workstation (DAW)</strong> software to actually do the mixing and fixing on the computer. AVID's Pro Tools is the most popular, also Propellerheads Reason is good. May be some freeware versions I could start with. </li>
+<li><strong>Studio/High Quality Speakers</strong> with seperate Woofer, Mids, and Tweeters built in. Possibly a smaller subwoofer spereately. Also high quality <strong>Headphones</strong>. &nbsp;</li>
+<li>Sound Proofing Padding to place stragegically around the room to quite down the workspace. </li>
+<li><strong>Desk and Shelving</strong> to set up the space. </li>
+</ul>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />

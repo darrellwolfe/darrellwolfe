@@ -1,0 +1,38 @@
+---
+title: 'How To Embed Flicker'
+date: '2050-01-02T23:10:00.0000000+00:00'
+draft: true
+blogger_blog: 'Texas Cows and Crafts'
+blogger_status: 'SCHEDULED'
+blogger_post_id: '2899013076002318949'
+blogger_filename: '/2050/01/how-to-embed-flicker.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Texas Cows and Crafts/feed.atom'
+---
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<ol>
+<li>Upload Photos</li>
+<ol>
+<li>Upload Photos to Flicker</li>
+<li>Assign to a Set</li>
+<li>Click on the Set and then copy the URL for that set</li>
+</ol>
+<li>Go to:&nbsp;<a href="http://flickrslidr.com/index.php" target="_blank">http://flickrslidr.com/index.php</a></li>
+<ol>
+<li>Paste the SET URL from Flicker</li>
+<li>Choose Settings</li>
+<li>"Create Slideshow!"</li>
+<li>Copy HTML</li>
+</ol>
+<li>Go to TexasCowsandCrafts Blogger Dashboard</li>
+<ol>
+<li>Open the page you want the feed on</li>
+<li>HTML View</li>
+<li>Paste the HTML from Flickrslidr</li>
+<li>Done</li>
+</ol>
+</ol>

@@ -1,0 +1,49 @@
+---
+title: 'What is Egg Head Antics?'
+date: '2013-05-06T01:28:00.0010000+00:00'
+draft: true
+blogger_blog: 'Egg Head Antics'
+blogger_status: 'LIVE'
+blogger_post_id: '7045403866625912300'
+blogger_filename: '/2013/05/what-is-egg-head-antics.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Egg Head Antics/feed.atom'
+categories:
+  - 'About'
+---
+
+<h4 style="text-align: center;">
+What is Egg Head Antics?</h4>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="/images/imported/blogger-googleusercontent-com/ehaintro-f8ae3ab4d47c.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="287" src="/images/imported/blogger-googleusercontent-com/ehaintro-dc1d7d29ba05.png" width="400" /></a></div>
+<div class="separator" style="clear: both; text-align: center;">
+</div>
+<br />
+<h4>
+Why produce this comic?</h4>
+Well, I just realized, yesterday in fact, that the wide&nbsp;weird&nbsp;world of Call Centers is FUNNY! People who do and do not work in a call center all laugh at the crazy escapades I tell them about. So I thought I'd put it all down on paper. And what better than a simple comic. I'm not a hand-drawn artist by ANY means. So I make my comics in PowerPoint and transfer them to PNG using <a href="http://wiki.inkscape.org/wiki/index.php/FAQ#What_is_Inkscape.3F" target="_blank">Inkscape</a>.<br />
+<br />
+I'll take the 80,000+ phone calls of my own, and more from others, and show you a peak inside the weird world of the Call Center. Please note, that although none of these will depict any one actual phone call or reveal customer information in any way, these TYPES of calls are common, and most call center people will be able to say " HA HA HA.. I JUST had that call the other day!" or "Oh! I'm glad I never had THAT call?!" These do not represent any one company or customer. They are common in all companies and across all genres of Call Centers: Banks, Phone Companies, Retail Stores, Tech Support, Etc... It's all so sad, it's funny!<br />
+<br />
+<h4>
+What IS an Egg Head?</h4>
+<a href="http://www.urbandictionary.com/define.php?term=egghead">http://www.urbandictionary.com/define.php?term=egghead</a><br />
+<br />
+<table id="entries" style="border-collapse: collapse; color: #333333; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; line-height: 16px; margin-bottom: 5px; width: 600px;"><tbody>
+<tr><td class="text" colspan="3" id="entry_1553897" style="line-height: 1.8; padding-bottom: 10px; padding-right: 15px; vertical-align: top;"><div class="definition">
+1. A person who is considered intellectually gifted in the field of academics. "Egghead" is usually used as college-speak to describe a brainiac.<br />
+<br />
+2. A person's whose head is shaped like an egg.<br />
+<br />
+Most people however, will use this word interchangeably as a pun. It has also been known that people whose heads are shaped like an egg are usually large at the top, which explains the larger brain-size.</div>
+<div class="example" style="font-style: italic; margin-bottom: 5pt; margin-top: 5pt;">
+Jackie will probably do well in that PhD program. She has always been known to be a bit of an egghead from elementary school all the way through college.</div>
+<div class="example" style="font-style: italic; margin-bottom: 5pt; margin-top: 5pt;">
+<br /></div>
+<div class="example" style="font-style: italic; margin-bottom: 5pt; margin-top: 5pt;">
+<div class="definition" style="background-color: white; font-style: normal;">
+3. <b><u>A person who spends unlimted amounts of time on the computer or internet.</u></b></div>
+<div class="example" style="background-color: white; margin-bottom: 5pt; margin-top: 5pt;">
+Eugene is always online, what an egghead!</div>
+</div>
+</td></tr>
+</tbody></table>

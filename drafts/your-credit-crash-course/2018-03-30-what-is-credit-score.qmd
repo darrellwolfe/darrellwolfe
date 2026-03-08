@@ -1,0 +1,100 @@
+---
+title: 'What is a credit score?'
+date: '2018-03-30T03:39:00.0010000+00:00'
+draft: true
+blogger_blog: 'your Credit Crash Course'
+blogger_status: 'LIVE'
+blogger_post_id: '4517266141193683373'
+blogger_filename: '/2018/03/what-is-credit-score.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/your Credit Crash Course/feed.atom'
+---
+
+<b>Your Credit Score Is Not</b><br />
+<br />
+First, let's get this out of the way. Your credit score is not a "how much money I make the bank score". It's a "risk score". There is a difference.<br />
+<br />
+<i>Example</i>: Often, people are surprised when they find out the balance on your credit cards should ALWAYS be less than 30% of your credit limit. They've been using the card for larger purchases, maybe even maxing the card and then paying it off. Why? Because they thought that would demonstrate they could pay off larger balances.<br />
+<br />
+Wrong.<br />
+<br />
+The lower the balance to limit ratio the less risk; because, statistically, those who carry lower balances have a lower default ratio on all thier products.<br />
+<br />
+<b><br /></b>
+<b>Your Credit Score is a Risk Assessment</b><br />
+<br />
+So the scoring model uses your history to create a risk assessment, then tells the bank what kind of risk you pose based on that history by assigning you a score number. The higher the score the lower risk you pose.<br />
+<br />
+This is why lower credit scores get higher interest rates. It's called <b>"Risk Based Pricing"</b>. There are several credit score companies and models. There are also several credit reporting companies.<br />
+<br />
+<b><br /></b>
+<b>Credit Reports / Credit Reporting Companies / "The Buckets"</b><br />
+<br />
+There are, primarily, three companies that gather credit information on consumers.<br />
+<ul>
+<li><a href="https://www.experian.com/credit-report-partner/index-g.html?bcd=ad_c_sem_427_216403839339&amp;k_id=0dea4605-d816-4cd1-8cac-eb050d998250&amp;k_kw=kwd-42835646&amp;k_mt=e&amp;pc=sem_exp_google&amp;cc=sem_exp_google_ad_360793029_25001290749_216403839339_kwd-42835646_e_1t1_0dea4605-d816-4cd1-8cac-eb050d998250&amp;ref=compterm&amp;awsearchcpc=1&amp;gclid=Cj0KCQjwnfLVBRCxARIsAPvl82FShhAdF1_sY1nwrVxuIglYbbJkt_XzDkldvvyQ_9Jw9PktCyKFmZIaAq3XEALw_wcB" target="_blank">Experian</a></li>
+<li><a href="https://www.equifax.com/personal/" target="_blank">Equifax</a></li>
+<li><a href="https://www.transunion.com/ppc-credit-report.page?&amp;channel=paid&amp;cid=ppc:GOOGLE:c:TU_B_Core_Exact:transunion:cid1&amp;kwid=43700005558504739&amp;opti_ca=166306141&amp;opti_ag=12095795341&amp;opti_ad=251180552634&amp;opti_key=kwd-62835570&amp;gclid=Cj0KCQjwnfLVBRCxARIsAPvl82FyO8U5tUXVoHzPcc0vzXiy-09cdT-q_ZswSAOXUGrD3Zcv36bg_3kaAt7XEALw_wcB&amp;gclsrc=aw.ds&amp;dclid=CIyIo_uOk9oCFYoYAQodgTsAAQ" target="_blank">TransUnion</a></li>
+</ul>
+<div>
+Also, there are two primary companies that gather credit information on businesses.</div>
+<ul>
+<li><a href="http://www.experian.com/small-business/small-business-credit.jsp" target="_blank">Experian Business</a></li>
+<li><a href="http://www.dnb.com/duns-number/what-is-duns.html" target="_blank">Dunn and Bradstreet (D&amp;B) for Business</a></li>
+</ul>
+<br />
+Consider these companies "buckets". They are private companies to which lenders voluntarily report your payment history. These companies store this information and report it to any lender that asks.<br />
+<br />
+These companies charge the lenders to report to them and to get reports from them.<br />
+<br />
+Because there is a fee to report, some lenders chose to only report to one or two but not all three. Larger lenders, with deeper pockets, often report to all three. This is why you get different information on the three reports.<br />
+<br />
+Maybe one company reports to TransUnion. Another company reports to Equifax. A third company reports to all three. Then you end up with three different mixes or sets of information. Three different sets of payment histories that all differ from each other.<br />
+<b><br /></b>
+<b>Credit Scores / Credit Scoring Companies / "The Algorithm"&nbsp;</b><br />
+<br />
+Totally seperate from any of these buckets is the scoring model itself. The scoring model is a "proprietary" model; meaning, the company doesn't share the score with anyone (not even the banks). Nobody actually knows the formula used to create your score except the people who created it.<br />
+<br />
+They do; however, show statistics about how their scores are better than other company's scores. They also provide the main details you need to know to get a good score.<br />
+<br />
+At this time, there are two big Credit Scoring Companies in common use.<br />
+<br />
+<ul>
+<li><b>FICO</b></li>
+</ul>
+<ul>
+<li><b>Vantage</b></li>
+</ul>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="/images/imported/blogger-googleusercontent-com/fico-website-9cbfd14cc047.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="260" data-original-width="1447" height="56" src="/images/imported/blogger-googleusercontent-com/fico-website-383d001607e0.png" width="320" /></a></div>
+<br />
+The Fair Isaac Corporation (FICO) was the first kid on the block. They created the credit score we know today. To date, they still create 90% of the credit scores used in lending decisions. There's a HIGH chance that the next score you get judged by will be a FICO score.<br />
+<br />
+Also, FICO is the name of the company. As with any company, there are various products the company sells. So the FICO V2 model is different from the FICO Beacon model, for example.<br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="/images/imported/blogger-googleusercontent-com/vantage-website-ca8b1108cf29.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="587" data-original-width="1600" height="117" src="/images/imported/blogger-googleusercontent-com/vantage-website-f7584a93e6e9.png" width="320" /></a></div>
+<br />
+However, the new kid on the block is Vantage. Up until recently, they were primarily used as a cheaper alternative by the credit reporting/credit monitoring companies. Such as Identity Theft Protection products, and later Credit Karma or Credit Sesame, and more.<br />
+<br />
+Each of these two have a website dedicated to educating consumers about the things they use to create your score. You do not have to create a username/password, or sign up to get this free information. You do to get the score, but not the free information.<br />
+<br />
+The websites are linked here:<br />
+<ul>
+<li><a href="https://www.myfico.com/credit-education/whats-in-your-credit-score/" target="_blank">myFICO</a></li>
+<li><a href="https://your.vantagescore.com/score-influences" target="_blank">Your.VantageScore</a></li>
+</ul>
+<br />
+See Also:<br />
+<br />
+<ul>
+<li><a href="https://www.investopedia.com/terms/b/beacon-score.asp" target="_blank">Beacon/Pinnacle Scores</a></li>
+<li>For a deeper dive into scoring models, see <a href="https://www.mybanktracker.com/credit-cards/credit-score/what-beacon-credit-score-254924" target="_blank">this link</a>.</li>
+</ul>
+<br />
+<b><br /></b>
+<b>Clear as Mud?</b><br />
+<br />
+Don't worry, this article was to give you an overview of the topic. We'll dive into the things you need to know in another article.<br />
+<br />
+Darrell Wolfe

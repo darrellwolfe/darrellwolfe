@@ -1,0 +1,27 @@
+---
+title: 'Goals'
+date: '2011-09-17T13:07:00.0010000+00:00'
+draft: true
+blogger_blog: '(My Journal) Fed By Faith'
+blogger_status: 'LIVE'
+blogger_post_id: '3947283163255991786'
+blogger_filename: '/2011/09/goals.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/(My Journal) Fed By Faith/feed.atom'
+categories:
+  - '2nd Car'
+  - 'House'
+  - 'Ministry'
+  - 'Clothing'
+  - 'Book'
+---
+
+Goals should be:<br />
+<br />
+<ul>
+<li>Specific</li>
+<li>Attainable</li>
+<li>Measurable</li>
+<li>Meaningful</li>
+</ul>
+<div>
+<br /></div>

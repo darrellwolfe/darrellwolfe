@@ -1,0 +1,364 @@
+---
+title: 'Audio 101 Definitions'
+date: '2013-11-21T17:10:00.0000000+00:00'
+draft: true
+blogger_blog: 'Towdah: tÅÂ·dÃ¤'''
+blogger_status: 'LIVE'
+blogger_post_id: '3076112442674412191'
+blogger_filename: '/2013/11/audio-101-definitions.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Towdah_ tÅÂ·dÃ¤_/feed.atom'
+categories:
+  - 'Audio 101'
+---
+
+<h4>
+<div style="text-align: center;">
+Audio 101&nbsp;</div>
+<div style="text-align: center;">
+<br /></div>
+<div style="text-align: center;">
+Definitions Study</div>
+</h4>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<b><span lang="EN">Transducer</span></b><span lang="EN">: refers to any device which changes one kind of energy into another. A&nbsp;</span><b>Microphone
+</b>changes sound pressure waves (Acoustical Energy) into equivalent audio
+signal (Electrical Energy). A <b>Loudspeaker </b>does the opposite.</div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<b><span lang="EN"><br /></span></b>
+<b><span lang="EN">Sources</span></b><span lang="EN">: Anything that supplies sound to an environment.</span><br />
+<span lang="EN"><br /></span></div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<b><span lang="EN">Amplifier</span></b><span lang="EN">: makes an electrical copy of an electronic signal (technically it need not
+be a stronger copy to be termed an amplifier, but it usually is.) A <b>Preamp </b>amplifies
+the signal before being sent down the road to the mixer or other devices. Some
+input signals, like dynamic mics, may have such a small signal that they
+require amplification to make the journey and be usable in the mixer. <o:p></o:p></span></div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<b><span lang="EN"><br /></span></b></div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<b><span lang="EN">Gain</span></b><span lang="EN">: is an increase in signal strength having sent an input signal through one
+or more amplifiers. In some cases the original input signal could be as much as
+1 Trillion or more times stronger as it reaches the loudspeakers. <o:p></o:p></span></div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<b><span lang="EN"><br /></span></b></div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<b><span lang="EN">Signal Processing:</span></b><span lang="EN"> a sound is converted into an equivalent signal and manipulated. There are
+numerous possible ways in which it can be mixed, reshaped, split apart, and
+otherwise manipulated these accumulate into signal processing. <o:p></o:p></span></div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<b><span lang="EN"><br /></span></b></div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<b><span lang="EN">Equalizers</span></b><span lang="EN">: are tools used to adjust the frequency of an incoming-outgoing signal.
+This may consist of a few basic knobs (like the treble/bass knobs in a car
+stereo) or fully adjustable system across multiple frequencies. <b>Sweepable EQ</b>
+is generally a knob that can be turned to a specific frequency in order to cut
+or boost that frequency. <b>Switchable EQ </b>allows the operator to simply
+choose between two or more preset frequencies, but not pick exactly what they
+want. (Ex: You may see a preset at 100Hz and 250Hz but if you wanted 180Hz you
+have to choose which of the two presets gets you closest) <b>Parametric EQ</b>
+allows the operator to adjust the BELL of the frequency adjustment. A wider
+bell will grab more frequencies surrounding the one you pick; a narrower bell
+will aim to slice the exact point you need without taking out the others around
+it. <b>Graphic EQ</b> is a series of up and down knobs at preset frequencies
+that you can adjust; typically a wide range of EQ is present in Graphic EQ. <o:p></o:p></span></div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<b><span lang="EN"><br /></span></b></div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<b><span lang="EN">Monitors</span></b><span lang="EN">: signal copies are sent to stage speakers for performers/speakers to
+monitor themselves. Many times in modern sound these are In Ear monitors so
+that no stage speaker is present. <o:p></o:p></span></div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<b><span lang="EN"><br /></span></b></div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<b><span lang="EN">Microphones </span></b><span lang="EN">are a form of transducer. Types can include <b>contact pickups </b>which
+are used for hollow bodied acoustic instruments, <b>magnetic pickups </b>as in
+electric guitars, or in more traditional microphones:&nbsp; <b>Dynamic Microphones</b> have a moving coil
+which creates magnetic electrical representations of the sound and are very
+durable, <b>Condenser Microphones</b> use electricity to create a magnetic
+field and can be quite sensitive which can be great for picking up sound but
+more sensitive to feedback, and these require power to create the field.<o:p></o:p></span></div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<b><span lang="EN"><br /></span></b></div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<b><span lang="EN">Compressors</span></b><span lang="EN">: (also limiters and gates) adjust the levels of input signals are allow
+only certain amounts through.&nbsp; <o:p></o:p></span></div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<b><span lang="EN"><br /></span></b></div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<b><span lang="EN">Sound Wave</span></b><span lang="EN">: Sound is created by compression and expansion. If you take a close look
+at any speaker you will find a movement in and out repeatedly. As a speaker
+moves out the air in front is compressed adding pressure on the air in front of
+it compressing that air and so forth until the energy is dissipated. As the
+speaker moves inward (further back from its starting place) this creates an
+area of low pressure, vacuum, expansion. This sucks back on the air near it
+into the vacuum and so forth. A series of compression and expansion happening
+over and over creates pressure on the air. This pressure can be felt in the
+body, it can create heat, it can cause windows to vibrate, wine glasses to
+shatter, or it can be perceived by the ear. One movement of the speaker out, in
+and return to its starting place would create a compression, then expansion, and
+then return to normal. This would be ONE CYCLE of a sound wave.</span></div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<b><span lang="EN"><br /></span></b></div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<b><span lang="EN">Wavelength</span></b><span lang="EN">: The mathematical and graphical representation of the length of a wave is
+from the beginning the curve up the return the curve down and return. That is
+once complete cycle. This can be calculated. As Wavelength ( L ) = Speed of
+Sound divided by Frequency (Hz). <o:p></o:p></span></div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<b><span lang="EN"><br /></span></b></div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<b><span lang="EN">Amplitude</span></b><span lang="EN">: the strength or intensity of a wave at a given instant in time is called
+the amplitude. This is related to Volume, Loudness, and Sound Pressure Level.
+Graphically the wave is larger vertically, while taking the same space
+horizontally. In essence it's adding MORE pressure to the air around you
+without hitting in more cycles per second. <o:p></o:p></span></div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<b><span lang="EN"><br /></span></b></div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<b><span lang="EN">Sound Wave Graphically</span></b><span lang="EN">: Visually on a graph the sound wave is represented as a curve up, a return
+to normal, a curve down and ending as a return to normal. If X Hz is happens
+exactly two times in the amount of time it takes Y Hz to happen once, X Hz
+would be half the frequency. If you were to take the curve and pull it up/down
+so that it is taking up more space vertically on the page, but it still hits
+the save points the frequency hasn't changed, only the amplitude has. <o:p></o:p></span></div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<b><span lang="EN"><br /></span></b>
+<b><span lang="EN">Reverberation (Reflection):</span></b><span lang="EN"> As sound waves leave a speaker in an enclosed room (or you clap really
+loudly or yell or whistle...) the sound leaves its <b>SOURCE </b>and travels to
+the walls, ceiling, and floor and bounces (<b>is reflected</b>) at a variety of
+angles and some of it returns to the hearer. This is akin to the way water
+waves move as you drop a pebble in water in an enclosed container, or how light
+works in a room lined with mirrors. <o:p></o:p></span></div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<b><span lang="EN"><br /></span></b>
+<b>Frequency Response</b>: a components ability to produce audio output within a particular frequency range, that is to respond to certain frequencies. Ex: 20Hz to 20kHz +/_ 3dB<br />
+<br />
+<b>Inverse Square Law</b>: each doubling of distance from the sound results in a fourfold reduction of sound power (equal to about 6 dB).<br />
+<b><span lang="EN"><br /></span></b></div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<b><span lang="EN">Hertz (Hz): </span></b><span lang="EN">We measure sound in Hertz. One hertz is one cycle of compression, expansion
+and back to normal. The average human at birth with perfect hearing can hear,
+perceive as audible, sounds as low as 20 Hz or as high as 20,000 Hz (20kHz).
+This could be identified as PITCH.</span></div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<b><span lang="EN"><br /></span></b></div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<b><a href="http://en.wikipedia.org/wiki/Logarithmic_scale" target="_blank">Logarithmic Scales:</a></b>&nbsp;are scales that are based on exponents. Without going into all the math behind this the basic idea, for our purposes, is that the scale is not linear. We do not HEAR linear, we hear logarithmically. Which is why audibly the half way point between 20 Hz and 20 kHz is 640 Hz (not 10 kHz).&nbsp;</div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<b><span lang="EN"><br /></span></b></div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<b><span lang="EN">Octaves:</span></b><span lang="EN"> The audio spectrum (sound we can hear as humans) spans approximately ten
+octaves, or ten doublings of frequency. The octave represents a portion (the
+ratio 2:1) and it is the portions between different frequencies that the
+hearing process recognizes, rather than the actual number-values between
+frequencies. If you were to take 20,000 and divide it in half the number would
+be 10,000. However 10 kHz is not half way through audibly the spectrum. We perceive
+sound logarithmically. Half way from 20 Hz to 20,000 Hz is actually 640 Hz.
+It's half the number of octaves. <o:p></o:p></span></div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<b><span lang="EN"><br /></span></b></div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<b><span lang="EN">Decades:</span></b><span lang="EN"> the entire spectrum can be divided into three decades. <b>Bass</b>: 20 Hz
+to 200 Hz, <b>Mid</b>: 200 Hz to 2,000 Hz, and <b>High</b>: 2,000 Hz to 20,000
+Hz. <b><o:p></o:p></b></span></div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<span lang="EN"><br /></span></div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<span lang="EN"><b><a href="http://en.wikipedia.org/wiki/Decibel" target="_blank">Decibel</a>&nbsp;(dB)</b>: The science of logarithmic scale helped to develop the <a href="http://en.wikipedia.org/wiki/Decibel" target="_blank">Decibel</a>. Decibel is actually not a set unit of volume. In other words you cannot walk into a room and say that something it exactly 35 dB. This is because the decibel is more about ratios than actual set figures. If you turn something down by 6 dB you are controlling things in ratio to where it is now.</span></div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<b><span lang="EN"><br /></span></b></div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<b><span lang="EN">Sine Wave</span></b><span lang="EN">: is the simplest form of sound wave. It is a clear, distinct sound. Sound
+is essentially caused by the vibrations of a sound source. Consider a tuning
+fork. You strike the fork and the bars vibrate causing the air between them to
+compress and expand at the same cycles/second (frequency/hertz) as the forks
+bars. This constant production of one pitch over time is a sine wave. It is one
+frequency. A piano turning fork set to A440 is 440Hz. A tuning fork produces a
+sine wave. <b>When the terms frequency or wavelength are used they are
+generally assumed to refer to a given since wave component in a sound (The
+Fundamental).<o:p></o:p></b></span></div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<b><span lang="EN"><br /></span></b></div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<b><span lang="EN">Complex Waveforms</span></b><span lang="EN">: when multiple sine waves combine they create complex waveforms. Different
+types of combinations create different results. A perfect <b>square </b>wave is
+the combination of odd numbered harmonics (3rd, 5th, 7th) going way past the
+audible hearing range. Another complex wave is a single note played on a grand
+piano is built from these harmonics. An "A" 220Hz, which is the
+"A" below concert "A", will produce a fundamental of 880 Hz
+(f)(1). It will also produce harmonics of the 2nd, 3rd, 4th, 5th, 6th, 7th, and
+8th. This results in three octaves. (Octave doubles the 'f'). 880*2=1760Hz
+which is f2, 1760*2 is 3520 Hz which is f4, and 3520*2 is 7040Hz which is f8.
+This one note played on a piano produces one fundamental and at least 7
+overtones totaling 8 sine waves of diminishing strengths hitting you at once. <b><o:p></o:p></b></span></div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<b><span lang="EN"><br /></span></b></div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<b><span lang="EN">The Simple Harmonic:</span></b><span lang="EN"> is produces when other frequencies which are whole number multiples of the
+original sine wave are produced simultaneously. The most common example of this
+is a single guitar string. The string is struck and a note a frequency is
+produced and <b>this base note is called the fundamental (f). </b>But other
+sine waves are produced as well. The amount of them is dependent on the size
+and type of string. The first overtone (2nd harmonic) would be equal to f X 2.
+The 3rd harmonic (2nd overtone) is equal to f X 3. <o:p></o:p></span></div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<b><span lang="EN"><br /></span></b></div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<b><span lang="EN">Resonance</span></b><span lang="EN">: when a particular material has a natural tendency to react and vibrate at
+a particular frequency (or more than one). Like a grand piano or acoustic
+guitar. <o:p></o:p></span></div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<span lang="EN">(This one is such a good example that it's straight from the book!) <o:p></o:p></span></div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<span lang="EN">"The sound produced by a tuning fork itself is barely audible -
+capable of being heard only when held very close to the human ear. In order to
+be more readily heard it must be coupled to something more efficient at
+radiating its particular frequency. The tines of a tuning fork have an
+extremely slim surface in comparison to the wavelength they produce. A 440Hz
+sound wave, for example, has a wavelength of 2.5 feet (0.75 meters) which is
+overwhelming compared to the thickness of the tines. Consequently, air slips
+around the sides of the vibrating tines with ease and very little of the
+mechanical energy involved in the fork's motion is given to the air in the form
+of acoustical energy (sound waves). When the stem of a vibrating tuning fork is
+placed against an object with a larger surface capable of vibrating at the same
+frequency, more air is set into motion, resulting in a louder sound. Some of
+the energy imparted to the fork in striking it thus is used to power a more
+efficient sound-source. This is an example of resonance. <o:p></o:p></span></div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<b><span lang="EN"><br /></span></b></div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<b><span lang="EN">Timbre (Pronounced Tamber): </span></b><span lang="EN">The result of vibrating elements and resonating bodies combining to reinforce
+certain frequencies. A guitar body has certain resonant characteristics and
+naturally reinforces certain frequencies more than others. The string will
+produce vibrations which cause frequencies (fundamental and harmonics). The
+Timbre of each guitar will be different based on the strings used, material and
+construction of the guitar body. Etc. <o:p></o:p></span></div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<br /></div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<span lang="EN"><b>The Ear:</b> inside the ear is the Cochlea which is a coiled sea shell shaped bone, resembling a snail. Inside that coil is a basilar membrane. As different frequencies interact with this membrane it perceives them as different. This is how the ear tells the brain to interpret sound. In other words, the ear is the very first Transducer! It turns audible sound pressure into electro-chemical signal to the brain.&nbsp;</span></div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<br /></div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<a href="http://en.wikipedia.org/wiki/Precedence_effect" target="_blank"><b>Precedence Effect</b></a>: has to do with the amount of time delay between the arrival of sound from two separate sources. If someone speaks to you on one side the sound of their voice reaches your far ear fractions of a second later than the closer ear. This doesn't appear to be two voices to you because your ear and mind know to interpret this as having been from the same source. You can tune speakers so that there are two up front and two closer to the middle of an audience, delay the speakers that are closer to hit the ear fractions of a second after the ones up front hit the ear and the sound will appear to have originated up front even though the closer speakers are in fact producing sound. This way you can add volume so that the hearer is into straining to hear but preserve the affect of the speaker/band originating the sound and not the nearby speaker.&nbsp;</div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<br /></div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<b>Phase:</b> (Read <a href="http://www.uaudio.com/blog/understanding-audio-phase/" target="_blank">Here </a>and <a href="http://www.soundonsound.com/sos/apr08/articles/phasedemystified.htm" target="_blank">Here</a>) When two (or more) sine waves interact out of time, or affect each other. The most basic example is when the right speaker plays a sound and the left speaker plays the same sound but in exact opposite timing. Even partial timing issues can have the result of making a sound louder or quieter or totally disappearing.<br />
+<br />
+<b>Instrument Frequency Ranges</b>: (<a href="http://www.independentrecording.net/irn/resources/freqchart/main_display.htm" target="_blank">Coolest Frequency Chart</a>)<br />
+<br />
+<b><a href="http://en.wikipedia.org/wiki/Standing_wave" target="_blank">Standing Waves</a>: </b>are when the sine wave fundamental (or it's harmonics) are equal to the distance from loudspeaker to wall and begin fold back in on themselves.&nbsp;</div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<br /></div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<a href="http://en.wikipedia.org/wiki/Chromatic_scale" target="_blank"><b>12 Tone Scale</b></a>: The musical scale of A -F# that we use today in most modern music.<br />
+<br />
+<a href="http://www.sweetwater.com/shop/live-sound/8_steps_pa_system.php" target="_blank"><b>System Configuration:&nbsp;</b></a>&nbsp;The set up of a sound PA system from input sources to signal processors to output. From Mic to Mixer to Loudspeaker.<br />
+<br />
+<a href="http://en.wikipedia.org/wiki/Electrical_impedance" target="_blank"><b>Impedance</b></a>:&nbsp;<b style="background-color: white; font-family: sans-serif; font-size: 13px; line-height: 19.1875px;">Electrical impedance</b><span style="background-color: white; font-family: sans-serif; font-size: 13px; line-height: 19.1875px;">&nbsp;is the measure of the opposition that a&nbsp;</span><a class="mw-redirect" href="http://en.wikipedia.org/wiki/Electrical_circuit" style="background-color: white; background-image: none; color: #0b0080; font-family: sans-serif; font-size: 13px; line-height: 19.1875px; text-decoration: none;" title="Electrical circuit">circuit</a><span style="background-color: white; font-family: sans-serif; font-size: 13px; line-height: 19.1875px;">&nbsp;presents to a&nbsp;</span><a class="mw-redirect" href="http://en.wikipedia.org/wiki/Electrical_current" style="background-color: white; background-image: none; color: #0b0080; font-family: sans-serif; font-size: 13px; line-height: 19.1875px; text-decoration: none;" title="Electrical current">current</a><span style="background-color: white; font-family: sans-serif; font-size: 13px; line-height: 19.1875px;">&nbsp;when a&nbsp;</span><a href="http://en.wikipedia.org/wiki/Voltage" style="background-color: white; background-image: none; color: #0b0080; font-family: sans-serif; font-size: 13px; line-height: 19.1875px; text-decoration: none;" title="Voltage">voltage</a><span style="background-color: white; font-family: sans-serif; font-size: 13px; line-height: 19.1875px;">&nbsp;is applied.</span><br />
+<br />
+<b><a href="http://en.wikipedia.org/wiki/Ohm" target="_blank">Ohm</a></b>: Refers to resistance in a circuit. A speaker may be listed as requiring 8 Ohms. It must be set up correctly or risk damaging the system.<br />
+<br />
+<b><a href="http://science.howstuffworks.com/electricity8.htm" target="_blank">Current (AC/DC)</a></b>:&nbsp;<a href="http://electronics.howstuffworks.com/everyday-tech/battery.htm" style="color: #005288; font-family: arial, helvetica, clean, sans-serif; font-size: 13px; line-height: 20px; text-decoration: none;">Batteries</a><span style="background-color: white; color: #333333; font-family: arial, helvetica, clean, sans-serif; font-size: 13px; line-height: 20px;">,</span><span style="background-color: white; color: #333333; font-family: arial, helvetica, clean, sans-serif; font-size: 13px; line-height: 20px;">&nbsp;</span><a href="http://auto.howstuffworks.com/fuel-efficiency/alternative-fuels/fuel-cell.htm" style="color: #005288; font-family: arial, helvetica, clean, sans-serif; font-size: 13px; line-height: 20px; text-decoration: none;">fuel</a><span style="background-color: white; color: #333333; font-family: arial, helvetica, clean, sans-serif; font-size: 13px; line-height: 20px;">&nbsp;</span><a href="http://auto.howstuffworks.com/fuel-efficiency/alternative-fuels/fuel-cell.htm" style="color: #005288; font-family: arial, helvetica, clean, sans-serif; font-size: 13px; line-height: 20px; text-decoration: none;">cells</a><span style="background-color: white; color: #333333; font-family: arial, helvetica, clean, sans-serif; font-size: 13px; line-height: 20px;">&nbsp;</span><span style="background-color: white; color: #333333; font-family: arial, helvetica, clean, sans-serif; font-size: 13px; line-height: 20px;">and</span><span style="background-color: white; color: #333333; font-family: arial, helvetica, clean, sans-serif; font-size: 13px; line-height: 20px;">&nbsp;</span><a href="http://science.howstuffworks.com/environmental/energy/solar-cell.htm" style="color: #005288; font-family: arial, helvetica, clean, sans-serif; font-size: 13px; line-height: 20px; text-decoration: none;">solar</a><span style="background-color: white; color: #333333; font-family: arial, helvetica, clean, sans-serif; font-size: 13px; line-height: 20px;">&nbsp;</span><a href="http://science.howstuffworks.com/environmental/energy/solar-cell.htm" style="color: #005288; font-family: arial, helvetica, clean, sans-serif; font-size: 13px; line-height: 20px; text-decoration: none;">cells</a><span style="background-color: white; color: #333333; font-family: arial, helvetica, clean, sans-serif; font-size: 13px; line-height: 20px;">&nbsp;</span><span style="background-color: white; color: #333333; font-family: arial, helvetica, clean, sans-serif; font-size: 13px; line-height: 20px;">all produce something called</span><span style="background-color: white; color: #333333; font-family: arial, helvetica, clean, sans-serif; font-size: 13px; line-height: 20px;">&nbsp;</span><strong style="color: #333333; font-family: arial, helvetica, clean, sans-serif; font-size: 13px; font-style: inherit; line-height: 20px;">direct current</strong><span style="background-color: white; color: #333333; font-family: arial, helvetica, clean, sans-serif; font-size: 13px; line-height: 20px;">&nbsp;</span><span style="background-color: white; color: #333333; font-family: arial, helvetica, clean, sans-serif; font-size: 13px; line-height: 20px;">(</span><strong style="color: #333333; font-family: arial, helvetica, clean, sans-serif; font-size: 13px; font-style: inherit; line-height: 20px;">DC</strong><span style="background-color: white; color: #333333; font-family: arial, helvetica, clean, sans-serif; font-size: 13px; line-height: 20px;">). The positive and negative terminals of a battery are always, respectively, positive and negative. Current always flows in the same direction between those two terminals.</span><span style="background-color: white; color: #333333; font-family: arial, helvetica, clean, sans-serif; font-size: 13px; line-height: 20px;">The power that comes from a power plant, on the other hand, is called</span><span style="background-color: white; color: #333333; font-family: arial, helvetica, clean, sans-serif; font-size: 13px; line-height: 20px;">&nbsp;</span><strong style="color: #333333; font-family: arial, helvetica, clean, sans-serif; font-size: 13px; font-style: inherit; line-height: 20px;">alternating current</strong><span style="background-color: white; color: #333333; font-family: arial, helvetica, clean, sans-serif; font-size: 13px; line-height: 20px;">&nbsp;</span><span style="background-color: white; color: #333333; font-family: arial, helvetica, clean, sans-serif; font-size: 13px; line-height: 20px;">(</span><strong style="color: #333333; font-family: arial, helvetica, clean, sans-serif; font-size: 13px; font-style: inherit; line-height: 20px;">AC</strong><span style="background-color: white; color: #333333; font-family: arial, helvetica, clean, sans-serif; font-size: 13px; line-height: 20px;">). The direction of the current reverses, or alternates, 60 times per second (in the U.S.) or 50 times per second (in</span><span style="background-color: white; color: #333333; font-family: arial, helvetica, clean, sans-serif; font-size: 13px; line-height: 20px;">&nbsp;</span><a href="http://geography.howstuffworks.com/europe/geography-of-europe.htm" style="color: #005288; font-family: arial, helvetica, clean, sans-serif; font-size: 13px; line-height: 20px; text-decoration: none;">Europe</a><span style="background-color: white; color: #333333; font-family: arial, helvetica, clean, sans-serif; font-size: 13px; line-height: 20px;">, for example). The power that is available at a wall socket in the</span><span style="background-color: white; color: #333333; font-family: arial, helvetica, clean, sans-serif; font-size: 13px; line-height: 20px;">&nbsp;</span><a href="http://geography.howstuffworks.com/united-states/geography-of-united-states.htm" style="color: #005288; font-family: arial, helvetica, clean, sans-serif; font-size: 13px; line-height: 20px; text-decoration: none;">United States</a><span style="background-color: white; color: #333333; font-family: arial, helvetica, clean, sans-serif; font-size: 13px; line-height: 20px;">&nbsp;</span><span style="background-color: white; color: #333333; font-family: arial, helvetica, clean, sans-serif; font-size: 13px; line-height: 20px;">is 120-volt, 60-cycle AC power.</span><br />
+<br /></div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<b><a href="http://hyperphysics.phy-astr.gsu.edu/hbase/electric/elevol.html" target="_blank">Voltage</a></b>: Voltage is electric potential energy per unit charge, measured in joules per coulomb ( = volts)<br />
+<br />
+<b><a href="http://science.howstuffworks.com/environmental/energy/question501.htm" target="_blank">Watt</a></b>: Electrical power is measured in watts. In an electrical system power (P) is equal to the voltage multiplied by the current.<br />
+<br />
+<a href="http://simple.wikipedia.org/wiki/Electrical_circuit" target="_blank"><b>Circuit</b></a>:&nbsp;<span style="background-color: white; font-family: sans-serif; font-size: 13px; line-height: 19.1875px;">An&nbsp;</span><b style="background-color: white; font-family: sans-serif; font-size: 13px; line-height: 19.1875px;">electrical circuit</b><span style="background-color: white; font-family: sans-serif; font-size: 13px; line-height: 19.1875px;">&nbsp;is a path in which&nbsp;</span><a class="mw-redirect" href="http://simple.wikipedia.org/wiki/Electrons" style="background-color: white; background-image: none; color: #0b0080; font-family: sans-serif; font-size: 13px; line-height: 19.1875px; text-decoration: none;" title="Electrons">electrons from</a><span style="background-color: white; font-family: sans-serif; font-size: 13px; line-height: 19.1875px;">&nbsp;a&nbsp;</span><a href="http://simple.wikipedia.org/wiki/Voltage" style="background-color: white; background-image: none; color: #0b0080; font-family: sans-serif; font-size: 13px; line-height: 19.1875px; text-decoration: none;" title="Voltage">voltage</a><span style="background-color: white; font-family: sans-serif; font-size: 13px; line-height: 19.1875px;">&nbsp;or&nbsp;</span><a href="http://simple.wikipedia.org/wiki/Electric_current" style="background-color: white; background-image: none; color: #0b0080; font-family: sans-serif; font-size: 13px; line-height: 19.1875px; text-decoration: none;" title="Electric current">current</a><span style="background-color: white; font-family: sans-serif; font-size: 13px; line-height: 19.1875px;">&nbsp;source flow.&nbsp;</span><a href="http://simple.wikipedia.org/wiki/Electric_current" style="background-color: white; background-image: none; color: #0b0080; font-family: sans-serif; font-size: 13px; line-height: 19.1875px; text-decoration: none;" title="Electric current">Electric current</a><span style="background-color: white; font-family: sans-serif; font-size: 13px; line-height: 19.1875px;">&nbsp;flows in a closed path called an electric circuit. The point where those electrons enter an electrical circuit is called the "source" of electrons. The point where the electrons leave an electrical circuit is called the "return" or "earth ground". The exit point is called the "return" because electrons always end up at the source when they complete the path of an electrical circuit. The part of an electrical circuit that is between the electrons' starting point and the point where they return to the source is called an electrical circuit's "load".</span><br />
+<br />
+<b><a href="http://en.wikipedia.org/wiki/Audio_signal" target="_blank">Signal Types</a></b>:&nbsp;<span style="background-color: white; font-family: sans-serif; font-size: 13px; line-height: 19.1875px;">An&nbsp;</span><b style="background-color: white; font-family: sans-serif; font-size: 13px; line-height: 19.1875px;">audio signal</b><span style="background-color: white; font-family: sans-serif; font-size: 13px; line-height: 19.1875px;">&nbsp;is a representation of&nbsp;</span><a href="http://en.wikipedia.org/wiki/Sound" style="background-color: white; background-image: none; color: #0b0080; font-family: sans-serif; font-size: 13px; line-height: 19.1875px; text-decoration: none;" title="Sound">sound</a><span style="background-color: white; font-family: sans-serif; font-size: 13px; line-height: 19.1875px;">, typically as an electrical&nbsp;</span><a href="http://en.wikipedia.org/wiki/Voltage" style="background-color: white; background-image: none; color: #0b0080; font-family: sans-serif; font-size: 13px; line-height: 19.1875px; text-decoration: none;" title="Voltage">voltage</a><span style="background-color: white; font-family: sans-serif; font-size: 13px; line-height: 19.1875px;">. Audio signals have frequencies in the&nbsp;</span><a href="http://en.wikipedia.org/wiki/Audio_frequency" style="background-color: white; background-image: none; color: #0b0080; font-family: sans-serif; font-size: 13px; line-height: 19.1875px; text-decoration: none;" title="Audio frequency">audio frequency</a><span style="background-color: white; font-family: sans-serif; font-size: 13px; line-height: 19.1875px;">&nbsp;range of roughly 20 to 20,000&nbsp;Hz (the limits of human hearing).</span><br />
+<br />
+<b>Balanced vs Unbalanced wiring connectors:</b> Balanced means that the connectors and wires are built to handle three connections (or more). Load/Positive, Neutral/Negative, and Ground/Shield. Unbalanced will carry the Load-Positive and Neutral-Negative (these complete a DC Circuit) but not the Ground-Shield.&nbsp;</div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<br /></div>
+<div class="MsoNormal" style="margin-right: .5in; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">
+<b>DC (Direct Current):</b> electrical current that flows in ONE direction, positve to negative connections.<i>Nine Battery.</i><br />
+<br />
+<b>Alernating Current (AC):</b> Electrical current flowing with both phase and reverse phase current. <i>Outlet.&nbsp;</i><br />
+<br />
+<b>Decibel (dB):</b><br />
+<br />
+<b>dB SPL</b> is about sound pressure level. The minimum level is established at .0002 Dynes/Square Inch at 1kHz in a young child.<br />
+<br />
+<b>dBu</b> is a measurement based on voltage used to quote normal operating levels and maximum capabilities of components. 0dBu is equal to 0.775 volts RMS.<br />
+<br />
+<b>dBm</b> is based on computation of power. 0dBm is equal to 1 milliwat (0,001 watt) RMS.<br />
+<br />
+<br />
+<b>Harmonic distortion</b> is the addition of frequencies not present in the original waveform which bear harmonic relationship to the frequencies in the input waveform. Commonly associated with overloading circuits although it can occure below clipping range.<br />
+<br />
+<b>Transient distortion</b>: is the inability of component of efficiently reproduce rapid changes in the intensity of a signal. This type of distortion results from a delay in the time the output waveform takes to accomplish an intensity change equivalent to that of the input waveform. A higher degree of transient response means a lower degree of transient distortion.<br />
+<br />
+<b>Intermodulation distortion</b> occurs as a result widely different frequencies being produced simultaneously and usually occurs in the amplifiers and loudspeakers.<br />
+<br />
+<b>Phase distortion</b>: is any alteration of the phase relationship of frequencies by a component. Phase distortion is possibly the least insidious of all the forms of distortion.<br />
+<br />
+<div style="text-align: center;">
+Direct Quotes from Yale University</div>
+<div style="text-align: center;">
+<a href="http://www.yale.edu/ynhti/curriculum/units/1989/7/89.07.01.x.html" target="_blank">http://www.yale.edu/ynhti/curriculum/units/1989/7/89.07.01.x.html</a></div>
+<blockquote class="tr_bq">
+<i>&nbsp;Definition &nbsp;VOLTAGE = (think the height of the water in a tank) the source pressure that pressures electrons to flow through a wire or other conductor<br />Discussion &nbsp;We generally hear of the word ?voltage? used to refer to batteries such as the standard d-cell that provides 1.5 volts, or to power lines in homes that are 110 to 220 volt wires. In these cases we are referring to the voltage source which is either a battery or the voltage delivered to buildings through wires from the generator in a central power plant. We think of this type of voltage as the pressure applied that pushes electricity through the circuit.<br />The word ?volts? is also seen on light bulbs, and in this case there is a different meaning implied. What this means is the voltage rating of the bulb, that is, the voltage needed to make the bulb light up. This will lead us to the next lesson, Ohm?s Law, which is defined as:<br />Voltage = current x resistance, or<br />V=I x R<br />Definition &nbsp;CURRENT = (think flows like water) the flow of electrons through conductive materials such as a circuit<br />Students should always think of current as a through quantity, that is, current flows through a wire. Voltage is an across quantity, that is, a voltage exists across a circuit.<br />The formula for current is current equals voltage (or the measure of source pressure) divided by resistance (or things that offer resistance to the flow of electricity):<br />Current = voltage/resistance, or<br />I=V/R<br />The unit used to measure current is the ampere.<br /><br /><br />&nbsp;Definitions &nbsp;INSULATOR = anything that electricity cannot move easily through; anything that offers a lot of resistance to electric flow<br />CONDUCTOR = a thing electricity can easily pass through; metals and electrolytes (The word ?electrolytes? should be memorized in this context even if time doesn?t allow more than the defining of this word).<br />ELECTROLYTE = a liquid or moist substance that can conduct electricity<br />Lesson VII: WHAT IS OHM?S LAW?<br />We have already mentioned Ohm?s Law in the above lessons in its three forms: V = I x R, I = V/ R, and R = V/ I. This means that there is a linear relationship between the voltage, V, and current, I, in a circuit, and the proportionality constant is the resistance, R. The first equation means that in any circuit, the current is equal to the voltage divided by the resistance:<br />________ &nbsp;voltage (volts)<br /><span class="Apple-tab-span" style="white-space: pre;"> </span>current (amperes) = <span class="Apple-tab-span" style="white-space: pre;"> </span>resistance (ohms)<br />This is the way in which Ohm?s Law is most often presented, and the definitions of voltage and resistance are derived from this one. One example of this law is if the voltage across a resistor is doubled, the current through it must also be doubled. Ohm?s Law can be used to derive the currents and voltages in series and parallel circuits, as will be seen below.<br />Discussion of Circuit &nbsp;A circuit is a series of conductors, or things through which electricity can flow. It is a closed circuit when all of its parts are connected by conductive materials. It is an open circuit when there is either an opening in the pathway or there is a non-conductive material in the pathway such as plastic, air, or any electricity resistant material. A circuit must have the following parts:<br />&nbsp; &nbsp; 1) a source of electric current such as a dry cell, a battery or electricity from a wall socket. This source of electricity is called the source.<br />&nbsp; &nbsp; 2) a load = the thing that works because of the current such as a light, a bell, a motor, etc.<br />&nbsp; &nbsp; 3) one wire that goes<br />&nbsp; &nbsp; ____a) from the source to the load and<br />&nbsp; &nbsp; ____b) a second wire that goes from the load to the source.<br />A circuit may have more than one source and more than one load and any number of wires to complete the pathways between them, but every circuit must have one of each of these three elements.<br />Definitions &nbsp;SOURCE = the source of electricity; the place where work is done to separate charge; a battery or current from the wall<br />LOAD = the thing that works because of the flow of electricity; a light, a bulb, a buzzer, a motor, etc.<br />CIRCUIT = (think ?circle? or ?circulatory system?); the pathway through which electric current flows; made up of conductive materials<br />&nbsp; &nbsp; A) CLOSED CIRCUIT = a complete, circle-like pathway through which electricity moves<br />&nbsp; &nbsp; B) OPEN CIRCUIT = a circuit with either a break in it (from an open switch or a loose wire etc.) or with a nonconductor interrupting the pathway through which electricity normally flows<br />Demonstration of the fact that electricity flows through a simple circuit</i></blockquote>
+<i><br /></i>
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;"><a href="/images/imported/essentialdecibels-com/pa-signal-flow-diagram-38f37a76bcfb.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" src="/images/imported/essentialdecibels-com/pa-signal-flow-diagram-38f37a76bcfb.jpg" height="640" width="436" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;"><a href="http://essentialdecibels.com/blog/articles/live-sound-explained-3-the-pa-system/" target="_blank">http://essentialdecibels.com/blog/articles/live-sound-explained-3-the-pa-system/</a></td></tr>
+</tbody></table>
+<i><br /></i>
+<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody>
+<tr><td style="text-align: center;"><a href="/images/imported/essentialdecibels-com/channel-strip-2b667e960f5e.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" src="/images/imported/essentialdecibels-com/channel-strip-2b667e960f5e.jpg" height="640" width="28" /></a></td></tr>
+<tr><td class="tr-caption" style="text-align: center;"><a href="http://essentialdecibels.com/blog/articles/live-sound-explained-3-the-pa-system/" target="_blank">http://essentialdecibels.com/blog/articles/live-sound-explained-3-the-pa-system/</a></td></tr>
+</tbody></table>
+<br /></div>
+<b>MATH:&nbsp;</b><br />
+<br />
+<b>CURRENT</b><br />
+(V) voltage / (R or Z) Resistance or Impedence in Ohms (O) = (I) Induced Current in Amperes.<br />
+<br />
+<div style="text-align: center;">
+<b>Voltage/Ohms=Amperes</b></div>
+<br />
+<b>POWER</b><br />
+(V) Voltage X (I) Current in Amperes = (P) Power Watts<br />
+<br />
+<div style="text-align: center;">
+<b>Voltage X Amperes = Watts</b></div>
+<br />
+Power is related to the square of pressure.<br />
+<br />
+<b><span lang="EN">SPEED OF SOUND: 1126 Feet per Second</span></b><br />
+<br />
+<b>WAVELENGTH</b><br />
+<b><br /></b>
+<span style="background-color: white; color: #333333; font-family: 'Trebuchet MS', Trebuchet, sans-serif; font-size: 13px; line-height: 18px;">The formula for calculating the wave distance,&nbsp;</span><a href="http://en.wikipedia.org/wiki/Wavelength" style="background-color: white; color: #8ce0f5; font-family: 'Trebuchet MS', Trebuchet, sans-serif; font-size: 13px; line-height: 18px; text-decoration: none;" target="_blank">Wavelength</a><span style="background-color: white; color: #333333; font-family: 'Trebuchet MS', Trebuchet, sans-serif; font-size: 13px; line-height: 18px;">, is:</span><br style="background-color: white; color: #333333; font-family: 'Trebuchet MS', Trebuchet, sans-serif; font-size: 13px; line-height: 18px;" /><br style="background-color: white; color: #333333; font-family: 'Trebuchet MS', Trebuchet, sans-serif; font-size: 13px; line-height: 18px;" /><span style="background-color: white; color: #333333; font-family: 'Trebuchet MS', Trebuchet, sans-serif; font-size: 13px; line-height: 18px;">Wave (Î») = Speed (v) of wave in feet (Feet per second) divided by the number of feet (f).</span><br />
+<div style="background-color: white; color: #333333; font-family: 'Trebuchet MS', Trebuchet, sans-serif; font-size: 13px; line-height: 18px; text-align: center;">
+<b>&nbsp;Î» = v/f</b></div>
+<br style="background-color: white; color: #333333; font-family: 'Trebuchet MS', Trebuchet, sans-serif; font-size: 13px; line-height: 18px;" />
+<div style="background-color: white; color: #333333; font-family: 'Trebuchet MS', Trebuchet, sans-serif; font-size: 13px; line-height: 18px; text-align: center;">
+<img alt="\lambda = \frac{v}{f}" class="tex" src="/images/imported/upload-wikimedia-org/0152a6d4d6bd46b7471954f72a74efa3-583bd78117bc.png" style="-webkit-box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 20px; border-bottom-left-radius: 0px; border-bottom-right-radius: 0px; border-top-left-radius: 0px; border-top-right-radius: 0px; border: none; box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 20px; font-family: sans-serif; line-height: 19.1875px; padding: 8px; vertical-align: middle;" /><span style="font-family: sans-serif; line-height: 19.1875px;">,</span></div>
+<div style="background-color: white; color: #333333; font-family: 'Trebuchet MS', Trebuchet, sans-serif; font-size: 13px; line-height: 18px;">
+<br /></div>
+<div style="background-color: white; color: #333333; font-family: 'Trebuchet MS', Trebuchet, sans-serif; font-size: 13px; line-height: 18px;">
+So if you know the frequency (Î») and you know the Speed (v) you can always find out how long the wave is. For example: A4 is 440Hz.= (Î»). Sound travels at 1126 f/s = (v).<br /><br />Therefore:<br /><blockquote class="tr_bq">
+<div style="text-align: center;">
+440 = 1126 / f &nbsp; which turns into&nbsp;</div>
+<div style="text-align: center;">
+1126/440 = f &nbsp; which turns into&nbsp;</div>
+<div style="text-align: center;">
+2.56 feet.<span style="text-align: left;">&nbsp;</span></div>
+</blockquote>
+<blockquote class="tr_bq">
+<div style="text-align: center;">
+A single cycle of a 440 Hz sound wave is 2.56 feet long</div>
+</blockquote>
+</div>
+<div style="text-align: center;">
+<b>Wavelength = Speed of Sound (1126 F/S) / Frequency (Hz)</b></div>
+<div style="text-align: center;">
+<br /></div>
+DW<br />
+<br />
+Towdah!

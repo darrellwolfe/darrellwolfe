@@ -1,0 +1,20 @@
+---
+title: 'Untitled Post'
+date: '2024-02-27T18:48:00.0000000+00:00'
+draft: true
+blogger_blog: 'Topos Creative, LLC'
+blogger_status: 'DRAFT'
+blogger_post_id: '8958475673197785410'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Topos Creative, LLC/feed.atom'
+---
+
+<div><br /> <br /> <br /><br /><br /><br />Review of various statistics and markers for national health. <br /><br />Unemployment statistics are a crucial indicator of the economic health of a country, reflecting the percentage of the labor force that is jobless and actively seeking employment. Here’s a brief overview to get started, Darrell:<br />Key Concepts:Labor Force: The total number of people employed plus those unemployed but seeking work.<br />Unemployment Rate: The percentage of the labor force that is unemployed and actively seeking employment.<br />Types of Unemployment:Cyclical Unemployment: Related to the cyclical trends in the economy.<br />Frictional Unemployment: Short-term unemployment as people move between jobs, careers, and locations.<br />Structural Unemployment: Occurs when there's a mismatch between the skills of the unemployed and the skills needed for available jobs.<br />Measurement:Survey Methods: Countries typically measure unemployment through household surveys, asking individuals about their employment status.<br />Administrative Data: Data collected from unemployment insurance programs can also provide insights.<br />Interpretation:Not Just the Rate: While the unemployment rate is important, understanding the context, such as the types of unemployment and the reasons behind them, is crucial.<br />Underemployment: This refers to people working less than they would like or in jobs that don't utilize their skills fully.<br />Labor Force Participation Rate: The percentage of the working-age population that is part of the labor force. This can impact the unemployment rate because it doesn't count those who have stopped looking for work.<br />Limitations:Excludes Discouraged Workers: Those who have stopped looking for work are not counted in the unemployment rate.<br />Informal Economy: In some countries, a significant portion of the economy is informal, which can lead to underreporting of unemployment.<br /><br />Understanding these stats involves looking beyond the headline numbers to grasp the underlying economic conditions and labor market dynamics. <br /><br /><br /><br />Key BLS Publications and Data Sources:<br /><br /><a href="https://www.census.gov/programs-surveys/cps.html" target="_blank">The Current Population Survey (CPS)</a>: This is the primary source of labor force statistics, including the unemployment rate. It's a monthly survey of about 60,000 households conducted by the Census Bureau for the BLS.<br /><br /><br /><a href="https://www.bls.gov/lau/" target="_blank">Local Area Unemployment Statistics (LAUS)</a>: This program provides monthly and annual employment, unemployment, and labor force data for Census regions and divisions, States, counties, metropolitan areas, and many cities.<br /><br /><br /><a href="https://www.bls.gov/jlt/" target="_blank">The Job Openings and Labor Turnover Survey (JOLTS)</a>: Offers data on job openings, hires, and separations, which can be useful for understanding the dynamics of the labor market.<br /><br /><br /><a href="https://www.bls.gov/respondents/ncs/" target="_blank">The National Compensation Survey (NCS)</a>: Provides comprehensive measures of occupational earnings, employment cost trends, and benefit incidence and detailed plan provisions.<br /><br /> <br /><br />
+<br />
+<br />
+<br />
+<span style="font-family: &quot;tempus sans itc&quot;;">Shalom&nbsp;<span face="sans-serif" style="background-color: white; color: #202122; font-size: 14px;">שָׁלוֹם</span>: Live Long and Prosper!</span><br />
+<div class="MsoNormal">
+<span style="font-family: &quot;tempus sans itc&quot;; font-size: 18pt;">Darrell Wolfe</span></div>
+
+Storyteller | Writer | Thinker | Consultant | Freelancer
+<div><br /></div></div>

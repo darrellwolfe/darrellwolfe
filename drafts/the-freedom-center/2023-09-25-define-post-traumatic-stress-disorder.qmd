@@ -1,0 +1,35 @@
+---
+title: 'Define: Post-Traumatic Stress Disorder (PTSD)'
+date: '2023-09-25T01:02:00.0010000+00:00'
+draft: true
+blogger_blog: 'The Freedom Center'
+blogger_status: 'LIVE'
+blogger_post_id: '5188541510485260353'
+blogger_filename: '/2023/09/define-post-traumatic-stress-disorder.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/The Freedom Center/feed.atom'
+categories:
+  - 'Define: Post-Traumatic Stress Disorder (PTSD)'
+---
+
+<p>&nbsp;</p><h3>Post-Traumatic Stress Disorder (PTSD):</h3>
+<p>Post-Traumatic Stress Disorder (PTSD) is a mental health condition triggered by experiencing or witnessing a traumatic event. PTSD can affect anyone, regardless of age, nationality, or gender.</p>
+<h3>Primary Diagnostic Criteria:</h3>
+<ol>
+<li><strong>Intrusive Thoughts</strong>: Recurrent, unwanted distressing memories or thoughts related to the traumatic event, including flashbacks and nightmares.</li>
+<li><strong>Avoidance</strong>: Efforts to avoid thoughts, feelings, or physical reminders that arouse recollections of the traumatic event.</li>
+<li><strong>Negative Changes in Thoughts and Mood</strong>: These can include persistent and distorted blame of self or others, estrangement from others, or a diminished interest in activities.</li>
+<li><strong>Changes in Physical and Emotional Reactions</strong>: Also known as "arousal symptoms," these include being easily startled, feeling tense, difficulty sleeping, and irritability or aggressive behavior.</li>
+</ol>
+<h3>Additional Criteria:</h3>
+<ul>
+<li><strong>Duration</strong>: Symptoms must last for more than a month and cause significant disruption to daily functioning.</li>
+<li><strong>Not Attributable</strong>: Symptoms must not be due to medication, substance abuse, or other illnesses.</li>
+</ul>
+<h3>Implications:</h3>
+<ol>
+<li><strong>Social and Occupational Functioning</strong>: PTSD can severely impair social interactions and occupational commitments, leading to broken relationships and job loss.</li>
+<li><strong>Comorbidities</strong>: PTSD often occurs alongside other mental health conditions like depression, anxiety, and substance abuse disorders.</li>
+<li><strong>Treatment</strong>: Various treatment options are available, including medication like SSRIs and psychotherapy approaches like cognitive behavioral therapy (CBT).</li>
+</ol>
+<h3>Weight of Evidence:</h3>
+<p>The understanding and treatment of PTSD have significantly advanced over the years, with a plethora of research substantiating its diagnostic criteria and treatment methods. However, because of the subjective nature of traumatic experiences and the wide variance in individual responses, diagnosing and treating PTSD can be complex.</p>

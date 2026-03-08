@@ -1,0 +1,91 @@
+---
+title: 'Mommy... I''m bored! Things to do for the whole family.'
+date: '2015-02-09T04:16:00.0000000+00:00'
+draft: true
+blogger_type: 'PAGE'
+blogger_blog: 'The Life In Fort Worth Blog'
+blogger_status: 'LIVE'
+blogger_page_id: '2527234034028260749'
+blogger_filename: '/p/blog-page.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/The Life In Fort Worth Blog/feed.atom'
+---
+
+<h3>
+Mommy... I'm bored!</h3>
+<div>
+There are generally two things people ask when they are new to an area. Where should we eat, and what should we do. The following are a collection of blog reviews I've done from around Dallas-Fort Worth Texas. As a family man myself, these posts will be primarily geared to families (those with kids and those who are kids at heart). There might be other reviews from other parts of Texas as I make my rounds on days off and vacations. I'll also post links to places I think you should try but haven't had time to write about yet. Enjoy and&nbsp;<a href="http://www.bonappetit.com/restaurants-travel/article/austin-texas-travel-guide" target="_blank">Bon Appetit</a>!<br />
+<br /></div>
+<h3>
+</h3>
+<h3>
+This is about "What should we do today?"</h3>
+<h4>
+Fort Worth</h4>
+<ul>
+<li><a href="http://www.fortworth.com/about-fort-worth/top-12/" target="_blank">FortWorth.Com's Top Twelve Lists</a></li>
+<li><a href="http://texaslivinginfo.blogspot.com/2012/02/fort-worth-stockyards.html" target="_blank">Fort Worth Stockyards</a></li>
+<li><a href="http://www.fwmuseum.org/" target="_blank">Fort Worth Museum of Science and History</a></li>
+<li><a href="http://www.fortworthzoo.org/" target="_blank">Fort Worth Zoo</a></li>
+<li><br /></li>
+</ul>
+<h4>
+Dallas</h4>
+<ul>
+<li><a href="http://www.perotmuseum.org/" target="_blank">Perot Museum of Nature and Science</a></li>
+<li><a href="http://www.dallaszoo.com/" target="_blank">Dallas Zoo</a></li>
+<li><a href="http://www.dallasarboretum.org/children" target="_blank">Dallas Arboretum</a></li>
+<li><br /></li>
+</ul>
+<h4>
+Other Suburbs in DFW</h4>
+<ul>
+<li><a href="http://texaslivinginfo.blogspot.com/2012/02/going-bonkers-lewisville.html" target="_blank">Going Bonkers, Lewisville Texas</a></li>
+<li><a href="http://rebounderzhurst.com/" target="_blank">Rebounderz: Trampoline Park</a></li>
+<li><a href="http://texaslivinginfo.blogspot.com/2013/12/lego-land-discovery-center-grapevine.html" target="_blank">Legoland Discovery Center</a></li>
+<li><br /></li>
+</ul>
+<br />
+<h3>
+Review Affiliates</h3>
+<br />
+<ul>
+<li>Twitter Feed: <a href="https://twitter.com/DarrellWolfe/lists/fun-and-food-in-dfw-tx" target="_blank">Fun and Food in DFW TX</a></li>
+<li>Yelp:&nbsp;<a href="http://texaslivinginfo.yelp.com/" target="_blank">TexasLivingInfo.yelp.com/</a></li>
+<li>FortWorth.Com's<a href="http://www.fortworth.com/about-fort-worth/top-12/" target="_blank">: Top Twelve Lists</a></li>
+</ul>
+<br />
+<h3>
+<div style="font-size: medium; font-weight: normal;">
+<div style="font-family: arial; font-size: 12px; line-height: 1px; text-align: center;">
+<div style="background-image: url(http://embed.yelpcdn.com/bling_borders?color=FC7E08&amp;width=200&amp;BGcolor=CCCCCC&amp;position=top&amp;height=40); height: 40px; line-height: 12px; overflow: hidden; width: 200px;">
+<div style="text-align: left;">
+<a href="http://www.yelp.com/"><br /><img alt="" src="/images/imported/embed-yelpcdn-com/p-a773d118ea49.gif" style="border: none; height: 20px; margin-left: 80px; margin-top: 2px; width: 40px;" /></a></div>
+<div>
+<a href="http://www.yelp.com/user_details?userid=cTKxXw0DCNA-pP-SHk_Gqw" style="color: white; display: block; margin: 0px 10px; overflow: hidden; text-align: left; text-overflow: ellipsis; white-space: nowrap; width: 180px;">Recent reviews by Darrell W.</a></div>
+</div>
+<div style="text-align: left;">
+<iframe frameborder="0" height="295" scrolling="no" src="http://www.yelp.com/blogbadgemap?v=2&amp;userid=cTKxXw0DCNA-pP-SHk_Gqw&amp;width=200&amp;height=295&amp;uicolor=FC7E08&amp;textcolor=FFFFFF&amp;type=latest&amp;speed=5" width="200"></iframe></div>
+<div style="background-image: url(http://embed.yelpcdn.com/bling_borders?color=FC7E08&amp;width=200&amp;BGcolor=CCCCCC&amp;position=bottom&amp;height=15); height: 15px; line-height: 12px; overflow: hidden; width: 200px;">
+<div style="text-align: left;">
+<a href="http://www.yelp.com/bling" style="color: white;">What's this?</a></div>
+</div>
+</div>
+</div>
+<div style="font-size: medium; font-weight: normal;">
+</div>
+<div style="font-size: medium; font-weight: normal;">
+<br />
+<a class="twitter-timeline" data-widget-id="420269550211330048" href="https://twitter.com/DarrellWolfe/fun-and-food-in-dfw-tx">Tweets from https://twitter.com/DarrellWolfe/fun-and-food-in-dfw-tx</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+
+
+</div>
+</h3>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />

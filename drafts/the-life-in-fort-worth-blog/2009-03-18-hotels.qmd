@@ -1,0 +1,22 @@
+---
+title: 'Hotels'
+date: '2009-03-18T20:55:00.0000000+00:00'
+draft: true
+blogger_blog: 'The Life In Fort Worth Blog'
+blogger_status: 'LIVE'
+blogger_post_id: '5082728220356674344'
+blogger_filename: '/2009/03/hotels.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/The Life In Fort Worth Blog/feed.atom'
+categories:
+  - 'Navigate'
+  - 'Discover'
+---
+
+<br />
+<div style="color: #333333; font-family: Helvetica, Arial, 'Lucida Grande', Verdana, sans-serif; font-size: 16px; margin-bottom: 24px;">
+There are many&nbsp;<strong style="color: black;"><a data-mce-href="http://maps.google.com/maps?q=hotels&amp;sll=32.984188,-97.487675&amp;sspn=0.037505,0.00706&amp;near=14355+Morris+Dido+Road,+Newark,+TX+76071+(Kenneth+Copeland+Ministries)&amp;geocode=CZ-lNhWEugqrFXxM9wEdxXQw-iFzeK4cHip3AQ&amp;dq=Kenneth+Copeland+Ministries,+loc:+Newark,+TX&amp;t=h&amp;z=11&amp;vpsrc=0" href="http://maps.google.com/maps?q=hotels&amp;sll=32.984188,-97.487675&amp;sspn=0.037505,0.00706&amp;near=14355+Morris+Dido+Road,+Newark,+TX+76071+(Kenneth+Copeland+Ministries)&amp;geocode=CZ-lNhWEugqrFXxM9wEdxXQw-iFzeK4cHip3AQ&amp;dq=Kenneth+Copeland+Ministries,+loc:+Newark,+TX&amp;t=h&amp;z=11&amp;vpsrc=0" style="color: #743399;" target="_blank" title="Hotels near DFW">hotels in the DFW area</a></strong>. DFW is among the largest airports in the country and a major hub for connecting flights. For a better idea of the hotels in the area you are looking for, please check out this map.</div>
+<div style="color: #333333; font-family: Helvetica, Arial, 'Lucida Grande', Verdana, sans-serif; font-size: 16px; margin-bottom: 24px;">
+<iframe frameborder="0" height="350" marginheight="0" marginwidth="0" scrolling="no" src="https://maps.google.com/maps?near=Kenneth+Copeland+Ministries,+14355+Morris+Dido+Road,+Newark,+TX+76071&amp;geocode=CY4d1KDCOiznFXxM9wEdxXQw-inry8xb-eZNhjFzeK4cHip3AQ&amp;q=hotels&amp;f=l&amp;hl=en&amp;dq=Kenneth+Copeland+Ministries,+loc:+14355+Morris+Dido+Road,+Newark,+TX&amp;sll=32.984188,-97.487675&amp;sspn=0.07275,0.007015&amp;ie=UTF8&amp;hq=hotels&amp;hnear=&amp;ll=32.928399,-97.409105&amp;spn=0.301609,0.322226&amp;t=m&amp;output=embed" width="425"></iframe><br />
+<small><a href="https://maps.google.com/maps?near=Kenneth+Copeland+Ministries,+14355+Morris+Dido+Road,+Newark,+TX+76071&amp;geocode=CY4d1KDCOiznFXxM9wEdxXQw-inry8xb-eZNhjFzeK4cHip3AQ&amp;q=hotels&amp;f=l&amp;hl=en&amp;dq=Kenneth+Copeland+Ministries,+loc:+14355+Morris+Dido+Road,+Newark,+TX&amp;sll=32.984188,-97.487675&amp;sspn=0.07275,0.007015&amp;ie=UTF8&amp;hq=hotels&amp;hnear=&amp;ll=32.928399,-97.409105&amp;spn=0.301609,0.322226&amp;t=m&amp;source=embed" style="color: blue; text-align: left;">View Larger Map</a></small>
+</div>
+<br />

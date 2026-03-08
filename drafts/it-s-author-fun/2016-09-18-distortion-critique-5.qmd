@@ -1,0 +1,464 @@
+---
+title: 'Distortion Critique 5'
+date: '2016-09-18T04:57:00.0010000+00:00'
+draft: true
+blogger_blog: 'It''s Author Fun'
+blogger_status: 'LIVE'
+blogger_post_id: '3300089310669613885'
+blogger_filename: '/2016/09/distortion-critique-5.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/It_s Author Fun/feed.atom'
+categories:
+  - 'critique'
+  - 'White Noise'
+---
+
+<br />
+<br />
+So I put out scene one from Distortion for a writer's critique. Here was the result:<br />
+<br />
+It's amazing how awesome this feedback was. You can live with your stuff long enough that you become blind to it. I have a lot of work to do (first novel) but I've studied the craft long enough to understand everything everyone is saying. Besides all the specific points, the two themes I noticed were a lack of emotional/physical reaction (nothing to keep you in Ash's head) and the Great Sin (show don't tell). I also changed tense and didn't notice (no that was not on purpose). There were many other great points, and I have a lot of work to do. Thanks again to&nbsp;<a href="http://www.scribophile.com/" target="_blank">http://www.scribophile.com/&nbsp;</a>for making a community for writers.<br />
+<br />
+<br />
+<br />
+<div class="user" style="background-color: white; color: #222222; font-family: Verdana, sans-serif; font-size: 14px; position: relative; z-index: 10;">
+<div style="font-weight: bold; text-align: center; word-wrap: break-word;">
+<a href="http://www.scribophile.com/authors/s-m-savoy/" style="color: #c70c14; outline: 0px; text-decoration: none;">S. M. Savoy</a></div>
+</div>
+<div class="bubble" style="background-color: white; border-radius: 8px; border: 2px solid rgb(221, 221, 221); color: #222222; font-family: Verdana, sans-serif; font-size: 14px; margin-left: 90px; position: relative;">
+<div class="comment" style="padding: 10px;">
+<h4 style="border-bottom: 2px solid rgb(238, 238, 238); color: #353e34; font-size: 16px; line-height: 22px; margin: 0px 0px 10px; padding-bottom: 5px;">
+Inline Critique</h4>
+<div class="inline-comment-body" id="inline-comment-651533">
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important;">
+<mark style="-webkit-print-color-adjust: exact; background-color: #fff293; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">Out of</mark><br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">From</ins>the corner of his eye, through the window of The Grounded Cafe, Ash saw two men dressed in black combat gear duck behind a car.</div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">scrib is doing weird things with your spacing . I'm seeing big gaps between text.</ins></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+Coolness rushed down his spine, and his muscles tensed.</div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+He reached for his sidearm<br />
+<del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">.</del><ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">,</ins></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">He</del>&nbsp;shook his head, and looked again, they were gone.</div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+Ash relaxed and sank back into the leather bound chair; alone, in the corner of his favorite coffee shop.<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">try as show like Relieved, he stretched and settled back in his seat, alone in the corner booth of his favorite coffee shop.</ins></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<mark style="-webkit-print-color-adjust: exact; background-color: #fff293; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">Always keep your back to the wall, be near the most exits, but never too visible. It was like breathing, it never stopped... even in civilian life.</mark><br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">italic though</ins>Post-Traumatic Stress Disorder, PTSD. That was the diagnosis&nbsp;<mark style="-webkit-print-color-adjust: exact; background-color: #fff293; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">they’d</mark><br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">clarify this they</ins>assigned him.<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">(If you are diagnosed with PTSD you're license to carry a fire arm is revoked)</ins></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">your thoughts are jumping around here. can you add a segue sentence to get from PTSD to a job description?</ins></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+As Dean of Military Science, Ash's job primarily lay in administrative work and policy these days, plus a few sessions counseling the younger cadets, and would-be trouble makers. He was quite overqualified for the position, but he ran a tight unit.</div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+He stared at the faces of the pedestrians as they passed by the window. Hurried. Busy. Buried in their smartphones. So oblivious to the world around them, or the little clouds that float around their shoulders.</div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">again big jump. if you make the observation personal it will 'flow' better. you need to connect the seprete thoughts a hair. he ran a tight unit --what the connecting thought to the faces and then leaves? maybe the leaves remind him of happier times or the faces remind him how he used to be oblivious too. but add the connecting thoughts</ins></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+The leaves began to fall<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">this is a hair too much as it seeems like they literally fell from the trees right then maybe try dreid leaves swirled past the window or something which implies a few not all</ins>, most turning shades of orange and yellow, matching perfectly the Pumpkins that<br />
+<del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">were dotting</del><ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">dotted</ins>&nbsp;porches and windows through the city the past few weeks.</div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">Some</del><br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">A</ins>commotion outside broke his train of thought...<mark style="-webkit-print-color-adjust: exact; background-color: #fff293; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">&nbsp;Everyone</mark><br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">to vague say who like the couple passing stooped or Two businessmen  or whoever they are</ins><br />
+<del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">was stopping</del><ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">stopped</ins>, turn<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">ed</ins><del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">ing</del>, and star<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">ed</ins><del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">ing</del>&nbsp;in the same direction, a&nbsp;<mark style="-webkit-print-color-adjust: exact; background-color: #fff293; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">few moving toward the distraction</mark>.<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">too many vague words. take your time and describe the scene so we can see it.like An older man motioned motioned the gray haired woman who accompanied to stand back and forward following the two suited men.</ins></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+Ash stepped outside to see what was happening, turned a corner, and nearly ran into a bystander. A brisk evening breeze broke past his collar<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">and...finish the thought caused him to shiver/made him tighten his jacket/woke him up/ etc</ins>.</div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+A man in a tattered<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">,</ins><br />
+<del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">and</del>&nbsp;dirty suit with a graying beard<br />
+<del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">was standing</del><br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">stood (use tense words where applicable)</ins>on top of a pickup truck screaming<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">maybe add what he screamed insults or gosspel</ins>at nobody in particular.</div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+"You always did love Mother best... I know...<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">elipses are trailing off I think you want the mdash here for short pauses</ins>That's why... You couldn't keep your mouth shut..." On he went, incoherently.</div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+Just as Ash took a step closer<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">to the bystander or screamer</ins>, the<mark style="-webkit-print-color-adjust: exact; background-color: #fff293; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">&nbsp;man</mark><br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">I assume you mean the screamer but clarify</ins>&nbsp;turned to stare him directly in the eye.</div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+In a deeper, gravelly voice: "You... What do you want with us?"</div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+Ash took a step back.<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">cool but better if you tell the reader how it freak it him out.like-- A shiver of unease replaced the cold chill.</ins></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<mark style="-webkit-print-color-adjust: exact; background-color: #fff293; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">Then the</mark><br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">try to avoid using THEN and instead describe what he did as he did it.</ins>man turned back to his one-sided conversation.</div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">Ash could see&nbsp;</del><ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">(scratched for filtering)</ins>a large creature<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">stood/crouched/hulked/lurked</ins>&nbsp;behind the man. The bottom half<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">of the creature</ins>was more mist than form, as though it were made of smoke. The top half was like a man, with the head of a bull. It was charcoal, and streaks of white painted across the chest.<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">&lt;--try these as ACTIVE sentences. (without the lazy was were) like --Formed of mist, the top half of the creature resembled a man with the head of a bull. A smokey charcoal color, streaks of white lined its chest.</ins></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+Ash<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">'s</ins><br />
+<del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">could feel his</del>&nbsp;palms turn<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">ed</ins>&nbsp;cold, and<br />
+<del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">he felt as though he couldn't move</del>his legs<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">froze</ins>.</div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+A smaller creature<br />
+<del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">was</del><br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">sat/crouched/lurked</ins>on the homeless man's shoulders, screaming into his ears. He couldn't<br />
+<del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">hear&nbsp;</del><ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">understand(changed to match screaming. if the little creature is making no noise change screaming)</ins>the<br />
+<del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">conversation</del><ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">words</ins>, but<br />
+<del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">Ash could tell tha</del>t the homeless man<br />
+<del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">was responding</del><ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">nodded in response</ins><br />
+<del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">and that he had only been hearing one-half of the conversation</del>. Ash looked around and nobody else seemed too<mark style="-webkit-print-color-adjust: exact; background-color: #fff293; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">&nbsp;surprised</mark><br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">off word freaked out/to notice/</ins><del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">,</del><br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">mdash for a bigger more dramatic pause</ins>as usual.</div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+The large creature stared directly at Ash, cocked his head to one side and disappeared&nbsp;<mark style="-webkit-print-color-adjust: exact; background-color: #fff293; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">along with the smaller one</mark>.<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">did it take the smaller with it? take your time and really describe this.</ins>&nbsp;The homeless man<br />
+<del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">was</del><br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">stood</ins>by himself again<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">.</ins><del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">, then</del>&nbsp;his eyes narrowed<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">and</ins><del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">.</del>&nbsp;He leapt off the truck and ran at Ash.<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">add a hair more description. show us the mans body language and face. is face contorted with hate is he snarling? what are the bystanders doing through all this?</ins></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+It took all his training to keep from being pinned down.<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">show the fight first, you need to blend the scene. and build it</ins>&nbsp;The old man was wiry but stronger than he looked.</div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">like--Claw like hands gripped his shoulders. Foul breath&nbsp;panted in his face as the man grunted,trying to force him to the ground. Ash twisted his body in a move learned in basic and forced the grasping hands from his shoulders. (feel frree to keep/discard any of this. I dont mean to change your voice. I use it as example of what I mean.)</ins></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+Ash let out a cry, "Jesus!"<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">Jesus!" he exclaimed as he pushed his attacker away, gagging on the scent of unwashed skin and rotten teeth.</ins></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+The wiry man stepped back<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">.</ins>, his eyes darted around, as though<br />
+<del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">he looked</del>confused.</div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+That was all Ash needed. In 30<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">thirty(always spell numbers)</ins>seconds he hog-tied the man with his own belt.</div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">The police were just arriving</del>.<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">&lt;---too fast. your rushing again. Show us the car arrive like--&nbsp;A police car pulled up with sirens blaring. the crowd began to disperse. A few of the spectators held cellphones p, filming the encounter. new para</ins>&nbsp;"Charlie's at it again... Let's take him in<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">,</ins>."<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">the officer said as he exited from the passenger side.</ins></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+Three big men in uniform put cuffs&nbsp;<mark style="-webkit-print-color-adjust: exact; background-color: #fff293; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">and a muzzle</mark><br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">? never saw or heard of this. maybe describe so we can 'see' it</ins>&nbsp;on the old man, and threw him, rather harshly, into the back of the squad car.</div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<mark style="-webkit-print-color-adjust: exact; background-color: #fff293; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">Ash heard someone behind him</mark><br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">avoid filtering wherever you can. instead describe WHAT he heard. like rapid footsteps approached.</ins>, "Those were some moves, Marine."</div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+"Airman. Uh... Thanks. No harm done."<br />
+<del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">Ash noticed</del><br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">filtering-</ins><del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">his</del><br />
+<del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">cup</del>&nbsp;crushed beneath him, the ice, coffee, and cream covered the sidewalk, and his jeans. "Well... Almost no harm anyway."</div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+"Why don't you let me get you another… on me."<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">a balding man said. He shifted the pile of paper in his arms to offer his hand, covering the logo with two E’s overlapping on his yellow polo.</ins></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<mark style="-webkit-print-color-adjust: exact; background-color: #fff293; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">Ash looked up to see&nbsp;</mark><br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">Filtering --if this the speaker attach the tag to the dialouge</ins><del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">a balding man in blue slacks, yellow polo, and a pile of papers in his arms. A logo with two E’s overlapping bore prominently on his chest</del>.</div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+"The least I could do for a man who'd be willing to step into a situation like that,<mark style="-webkit-print-color-adjust: exact; background-color: #fff293; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">protect all these people</mark>.<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">a tad off. he didnt step in he was attacked. maybe handlea situation before it got out of hand</ins>&nbsp;What's your name<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">,</ins>&nbsp;son?"</div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+"Ash. I need to<br />
+<del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">get some new&nbsp;</del><ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">change my</ins>clothes. I don't think I need any more caffeine right now. But thanks for the offer." With a wave, he set off toward home<br />
+<del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">.</del></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">Ash headed</del>&nbsp;down the sidewalk, past the shops and restaurants.&nbsp;<mark style="-webkit-print-color-adjust: exact; background-color: #fff293; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">There is</mark><br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">csratch and instead say where she is</ins>a girl crying, typing away on the phone. A little red frog on her shoulder<br />
+<del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">was yelling</del><br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">yelled</ins>into her ear. Ash could only imagine what it must be saying.</div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+A little old lady<br />
+<del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">is</del><mark style="-webkit-print-color-adjust: exact; background-color: #fff293; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;"></mark><br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">wrong tense you were in past perfect now your in present so change all the is to was</ins><br />
+<del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">sitting&nbsp;</del><ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">sat behind</ins><del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">inside</del>&nbsp;a window at the nursing home<br />
+<del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">. She is&nbsp;</del>knitting something, probably a blanket. A large man<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">, wearing</ins><br />
+<del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">in</del>&nbsp;all white, stands behind her, smiling. He&nbsp;<mark style="-webkit-print-color-adjust: exact; background-color: #fff293; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">looks&nbsp;</mark>up at Ash, his smile fades slightly, and then returns. He&nbsp;<mark style="-webkit-print-color-adjust: exact; background-color: #fff293; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">looks</mark><br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">is a perfectly good word but generic there are many more descriptive words that can be used in its place.&nbsp; use them when appropriate. like /peered/gazed/ stared/etc</ins>down to her again.</div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">Ash could not see&nbsp;</del>the figure<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">s</ins>&nbsp;accompanying each person<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">remained mostly indistinct with only a few recognizable as animals</ins><del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">, only certain ones, here and there. Most were just clouds or mist.</del></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+"Don't worry so much<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">,</ins><del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">.</del>" His doctor told him<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">.when did this happen? Now? or is this flashback? add the sentences to calrify it</ins><del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">,</del>&nbsp;"<br />
+<del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">These</del><ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">Hallucinations</ins>&nbsp;may be after effects of the war. We’re just beginning to understand PTSD. The mind is a marvelous adapter to stress. As long as these phantoms<br />
+<del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">do not</del><br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">don't</ins>interrupt your daily work, or cause you to want to harm yourself or others, you should be fine. Consider yourself lucky. Just think of them as a construct of your active imagination, an amusing distraction from the mundane realities of life."</div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">add his feeling to that. did he think it utter bullshit or did he grasp the idea hopefully?</ins></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+He turned off the street into an alley between two old buildings, and up a well-worn path into the woods, his refuge from the masses.</div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">Ash opened the door of his cabin.</del></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">It&nbsp;</del><ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">you need to describe it. Like Nestled between a tall stand of pines his nine hundred square foot log cabin sat alone on a forested hillside. A small pine island seperated the gally kitchen from the rest of the living space. ... you get the idea. take a few sentences and show his home include the ambiaence-how he feels about it- and use at least one other sense what it smells like or sounds etc</ins>wasn't a mansion by any means, but it was more than sufficient for him. 900 sq. ft., one large open room, a loft, and a balcony.</div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<mark style="-webkit-print-color-adjust: exact; background-color: #fff293; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">Yes sir, he owned one fine cabin in the woods.</mark><br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">this is a hair odd. direct narator to reader aside. make ith thought for it to blend. italic it and add he thought somewhere</ins>All to himself. How he'd managed to live here eight years and still not have a single friend invited over was a mystery, even to himself. Then again, you'd have to have a friend to invite one.</div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+He liked things just so<br />
+<del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">. He liked&nbsp;</del><ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">and</ins>the solitude.</div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+At least that's what he told himself.</div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+Ash took a seat on his balcony<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">back when your describing his house tell us if the balcony is off the back or front. and make sure it is a balcony not a porch-balcony is second floor</ins>, overlooking the hills and lake. He stared at the expansive forests, lost in time. The clock read:<br />
+<del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">6:00</del><ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">Six</ins>pm, he laid down in his hammock, bundled in the overpriced winter resistant sleeping bag, and watched the stars from the balcony until he drifted off.</div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+As sleep overtook him, he thought to himself "Yes sir, this is one fine cabin."<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">already stated. say something new never repeat. you could add an emotion to it to make it new but don't restate for no new info</ins></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+***</div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+An explosion knocks him against a wall.&nbsp;<mark style="-webkit-print-color-adjust: exact; background-color: #fff293; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">He barely sees, through the smoke,</mark><br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">wordy try--Smoke clouds his vision of</ins>&nbsp;troops running about, hauling rubble off of bodies, checking pulses.&nbsp;<mark style="-webkit-print-color-adjust: exact; background-color: #fff293; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">Some</mark><br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">Vague be specific, some what?</ins>&nbsp;are screaming in pain. Others<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">are</ins>&nbsp;shouting<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">what? insults directions curses?</ins>&nbsp;to one another. Half the mess hall is completely gone, all that is left is fire and rubble.</div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">Ash can feel the beat of his heart in his neck</del>,<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">His pulse thuds in his neck.</ins>&nbsp;his forehead rushed with sweat. He sees&nbsp;<mark style="-webkit-print-color-adjust: exact; background-color: #fff293; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">them all&nbsp;</mark><br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">be specific--trust me it ill add depth to this</ins>running around, but all he hears is intense ringing.</div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+As the numbness subsides from his brain, shock waves hit his chest as more buildings&nbsp;<mark style="-webkit-print-color-adjust: exact; background-color: #fff293; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">are getting hit nearby</mark>.<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">explode nearby/ or as missiles impact the nearby buildings</ins></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+Ash uses the wall to steady himself and works to stand on his feet.<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">show instead</ins></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+Others will tend to the wounded. This band of Jihadist miscreants found upgraded weapons; Russian no doubt.</div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+Ash&nbsp;<mark style="-webkit-print-color-adjust: exact; background-color: #fff293; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">shoots</mark><br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">consider changing as i think you mean run but you might mean shoot</ins>out the building, down the road to the artillery unit. He grabs his rifle and heads for the highest structure, a radio tower toward the side of the camp.</div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+He can see the launch area where the rockets are being fired from.&nbsp;<mark style="-webkit-print-color-adjust: exact; background-color: #fff293; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">He</mark><br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">you have too many sentences starting the same and too many with the same subject. reword for reader intrest so it doesnt feel like a list of actions</ins>takes a few quick breaths, hyperventilating<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">,</ins>&nbsp;flood<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">ing</ins><del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">s</del>&nbsp;the lungs with oxygen, one last deep breath in and hold, steadies his body.</div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+Through the scope, he can see<br />
+<del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">about 10</del><br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">ten</ins>of&nbsp;<mark style="-webkit-print-color-adjust: exact; background-color: #fff293; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">them</mark><br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">clarify</ins>.</div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+They only have two missile launchers. They have very little cover, firing from open desert, mostly hiding behind their Jeep and a few large outcroppings of fallen mountainside.<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">see how every sentence here starts with a pronoun? that's an indication that this section lacks show. change some of these up to add the show. pronouns by there nature are all tell. you are telling us what happens not showing us. this is show--two men clutch missles launchers agianst their chests as they scan the camp. a jeep and crumbled mountainside hide the rest of the attackers. bullets rip through the air. gunsmoke hands thick, clouding his vision and burning his throat.</ins></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+He fires two rounds back to back, taking out both missile launchers, one<br />
+<del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">exploding</del><br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">launcher explodes</ins>in the handlers face.<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">DESCRIBE how that looks and feels to him</ins>&nbsp;Ash<br />
+<del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">then</del>&nbsp;begins firing one round after another as the attackers fall like<br />
+<del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">Coke</del><ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">soad</ins>&nbsp;cans on a fence post. The rounds hit their targets with extreme prejudice.</div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+Three<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">armed men/ assailiants</ins>&nbsp;remain, cowering behind the Jeep. Jeeps are great vehicles for driving through tough terrain quickly, but they<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">'re</ins><br />
+<del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">are</del>&nbsp;built light, not armored.<br />
+<del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">He sees</del>&nbsp;one peek<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">s</ins>&nbsp;through the glass,<mark style="-webkit-print-color-adjust: exact; background-color: #fff293; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">&nbsp;gone</mark>.<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">I get he shoots him but SHOW us</ins></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+The other two<br />
+<del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">attempt to</del>&nbsp;climb in the vehicle<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">,</ins>&nbsp;keeping their heads down<br />
+<del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">&nbsp;and drive away</del><ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">scratched for POV error</ins><del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">. The problem with that is that</del>&nbsp;both seats are occupied<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">by?</ins>. He doesn't need to see them. Two. One.</div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">okay making a few changes to match the next sentnace. they dont attempt to they do so scratch that. I also get what you meant know about the seats being occupied so he knows where to aim but it was really obscure as worded consder a small rewrite therer for clarity</ins></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+The Jeep speeds up as it drives erratically<br />
+<del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">, then crashes</del><ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">before crashing</ins>&nbsp;into a mound of rocks.</div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+***</div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+Ash woke up... another nightmare, if you can call a memory a nightmare.</div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+He rubbed his eyes and glanced at his wrist.</div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+Red numbers flooded his vision,<br />
+<del style="-webkit-print-color-adjust: exact; background-color: #ec6f6f; color: #111111; font-style: inherit !important; font-weight: inherit !important; line-height: 26px !important;">3:00</del><br />
+<ins style="-webkit-print-color-adjust: exact; background-color: #98e187; color: #111111; font-family: Verdana, sans-serif !important; font-size: 14px !important; line-height: 26px !important; padding: 0px 5px; text-decoration: none !important; white-space: pre-wrap;">three</ins>am.</div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+<br /></div>
+<div style="font-family: Georgia, serif !important; font-size: 16px !important; line-height: 26px !important; margin-top: 10px;">
+He rolled over and went back to sleep.</div>
+</div>
+<h4 style="border-bottom: 2px solid rgb(238, 238, 238); color: #353e34; font-size: 16px; line-height: 22px; margin: 40px 0px 10px; padding-bottom: 5px;">
+Closing Comments</h4>
+<div style="margin-top: 10px;">
+Scrib academy has a great article on filtering-what it is, why you don't want it, and how to fix it.</div>
+<div style="margin-top: 10px;">
+you want to make sure you don't have to many sentence starts in a row identical. more then two and the reader will be bored.</div>
+<div style="margin-top: 10px;">
+Try to describe whats happening not tell it. H<u>e slammed the door angrily!</u>--The door rebounded off the wall with a thud. See, we know he did it angrily, but it's more interesting. It also helps fix the, he did this, he did that, he did this other thing, that makes a story boring.</div>
+<div style="margin-top: 10px;">
+<a href="http://hubpages.com/literature/The-Secret-of-How-to-Write-a-Book-and-Get-It-Published-Part-2" style="color: #c70c14; outline: 0px; text-decoration: none;">http://hubpages.com/literature/The-Secret-of-How-to-Write-a-Book-and-Get-It-Published-Part-2</a></div>
+<div style="margin-top: 10px;">
+the above site can explain better than I why you don't want all those pronoun starts and how to fix them, basically you change the subject of the sentence.</div>
+<div style="margin-top: 10px;">
+To correct the pronoun starts put the noun first. example--He got in a car.--fixed--The car he got in was red.---fixed better -- The red car he rode in smelled of cigarettes. In the last example the sentence went from passive to active with the removal of was got in was tightened to rode and interesting sensory detail was added with a smell.</div>
+<div style="margin-top: 10px;">
+go through the entire thing and replace all the was, were. could, would, and put in the correct tenses. by that I mean was and were should denote tense not be used because you cant think of a correct verb. but that being said sometimes word have a tense like--could hear=heard was wearing=wore were going=gone was running=ran etc lots of words have tenses so use then when applicable. I make a list of my common mistakes and when I think I'm done with a piece I run a scan for them.</div>
+<div style="margin-top: 10px;">
+replacing generic words for more descriptive ones will add depth. common generic words are--Look, watch, came, went, took, walk, basically action words. instead of having the charter walk have them stride pace amble march slink limp etc picture in your head HOW they do the action and use that word.</div>
+<div style="margin-top: 10px;">
+replacing the vague words will add clarity and flow. common vague words are --Area people everyone them it they stuff someone something everything things all some</div>
+<div style="margin-top: 10px;">
+it isn't unusual to have to do major rewrites, sometimes even more than once so don't let this discourage you. this is a solid first draft that just requires fleshing out and tightening.</div>
+<div style="margin-top: 10px;">
+Don't rush through the scenes, take your time and write them so we can see them.</div>
+<div style="margin-top: 10px;">
+Sorry if I offended, it wasn't my intent. Writing is so personal that any criticism can feel like an attack. all these things I mention are minor tweaks easily done. you've already done the hard part--the good idea. now polish till it shines.</div>
+<div style="margin-top: 10px;">
+If you aren't sure if you have to many pronoun starts try a software editor.&nbsp;&nbsp;prowriting aid has a paid addin for Microsoft Word and google docs but they have a free version too. autocrit is good but costs alot more money. I highly recommend you try the free version of prowriting aid</div>
+<div style="margin-top: 10px;">
+S.</div>
+</div>
+</div>
+<br />
+<blockquote class="tr_bq" style="background-color: white; color: #333333; font-family: Verdana, Geneva, sans-serif; font-size: 15.4px; line-height: 19.6px;">
+<div>
+<br /></div>
+</blockquote>
+<h4 style="background-color: white; color: #333333; font-family: Verdana, Geneva, sans-serif; font-size: 15.4px; line-height: 19.6px; margin: 0px; position: relative;">
+By&nbsp;<a href="https://plus.google.com/+DarrellWolfe/posts" style="color: #149adf; text-decoration: none;" target="_blank">Darrell Wolfe</a></h4>
+<blockquote class="tr_bq" style="background-color: white; color: #333333; font-family: Verdana, Geneva, sans-serif; font-size: 15.4px; line-height: 19.6px;">
+<i>Storyteller | Creative | <a href="http://www.16personalities.com/infj-personality" style="color: #149adf; text-decoration: none;" target="_blank">INFJ</a>&nbsp;|&nbsp;<a href="https://www.gallupstrengthscenter.com/Purchase/en-US/Product?Path=Clifton%20StrengthsFinder" style="color: #149adf; text-decoration: none;" target="_blank">Intellection</a>&nbsp;|&nbsp;Ideation | Input | Learner | Achiever | Multipotentialite</i></blockquote>
+<ul>
+<li><i>See my full about page and disclosures: <a href="http://authorfun.blogspot.com/p/what-is-this.html" target="_blank">Click Here</a>.&nbsp;</i></li>
+<li><i>Also check out my <a href="http://authorfun.blogspot.com/p/affiliate-store.html" target="_blank">Resources and Suggestions </a>for writers (<a href="http://authorfun.blogspot.com/p/affiliate-store.html" target="_blank">here</a>).&nbsp;</i></li>
+<li><i>To Subscribe to the <a href="http://feeds.feedburner.com/AuthorFun" target="_blank">RSS: Click Here</a></i></li>
+<li><i>For Non-Fiction writing by <a href="http://www.darrellwolfe.com/" target="_blank">Darrell Wolfe: Click Here</a></i></li>
+</ul>
+<ul>
+</ul>

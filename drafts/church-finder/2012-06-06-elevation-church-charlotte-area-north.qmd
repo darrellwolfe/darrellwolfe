@@ -1,0 +1,20 @@
+---
+title: 'Elevation Church - Charlotte Area, North Carolina'
+date: '2012-06-06T07:15:00.0010000+00:00'
+draft: true
+blogger_blog: 'Church Finder'
+blogger_status: 'LIVE'
+blogger_post_id: '6076415506247738142'
+blogger_filename: '/2012/06/elevation-church-charlotte-area-north.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Church Finder/feed.atom'
+categories:
+  - 'North Carolina'
+---
+
+<a href="http://www.elevationchurch.org/" target="_blank">Elevation Church</a><br />
+<a href="http://www.stevenfurtick.com/" target="_blank">Pastor Steven Furtick</a><br />
+<br />
+<a href="http://www.elevationchurch.org/">http://www.elevationchurch.org/</a>
+<br />
+<br />
+Located in several locations in and around the Charlotte North Carolina Area.

@@ -1,0 +1,66 @@
+---
+title: 'About'
+date: '2014-03-13T03:35:00.0010000+00:00'
+draft: true
+blogger_type: 'PAGE'
+blogger_blog: 'Texas Cows and Crafts'
+blogger_status: 'LIVE'
+blogger_page_id: '8741308012503800818'
+blogger_filename: '/p/about-us.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Texas Cows and Crafts/feed.atom'
+---
+
+<h4 style="border-bottom: medium none; border-left: medium none; border-right: medium none; border-top: medium none; text-align: left;">
+<a href="/images/imported/blogger-googleusercontent-com/trade-mark-2-76f606c9275d.jpg" imageanchor="1" style="clear: right; cssfloat: right; float: right; margin-bottom: 1em; margin-left: 1em;"><img border="0" src="/images/imported/blogger-googleusercontent-com/trade-mark-2-7890df81811b.jpg" height="171" width="320" /></a>About TC&amp;C</h4>
+<div style="border-bottom: medium none; border-left: medium none; border-right: medium none; border-top: medium none;">
+<br /></div>
+<div style="border-bottom: medium none; border-left: medium none; border-right: medium none; border-top: medium none;">
+I am a wife of a great man and mother of two happy boys, Connor and Preston. Creators of messes, fun times and distractions. I have always enjoyed creating new things and learning how to work with new materials. And I have a craft room full of things to prove it. <span style="background-color: magenta;">****insert pic of room here ***** </span>When I decided that I wanted to start this crafting business I was not sure what to call it. We went through a number of names and my husband <a href="http://www.darrellwolfe.com/">Darrell</a> (<a href="http://www.darrellwolfe.com/">darrellwolfe.com</a>) came up with Texas Cows and Crafts. I think this came about for 2 reasons: 1. My husband really truly enjoys the cheeseburger, and 2. There are a lot of cows here in Texas. I do go to the ocaasional Farmers Market or crafts show, when time allows. This website is where I will post pictures of things I've made or worked on, posts of things I have learned and updates. &nbsp;And every month I will try to post new items for sale on <a href="http://www.etsy.com/shop/TexasCowsAndCrafts" target="_blank">Etsy</a>, &nbsp;and if you see a picture of an item you want on my website that is not for sale in my <a href="http://www.etsy.com/shop/TexasCowsAndCrafts" target="_blank">Etsy</a> store please contact me and I can see if it is still available, or if can make one for you.</div>
+<br />
+<h4>
+Subscribe By Email</h4>
+To get updates when I post a new article or item, subscribe by email here:<br />
+<br />
+<!-- Begin MailChimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css"></link>
+<style type="text/css">
+ #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;  width:225px;}
+ /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+    We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<br />
+<div id="mc_embed_signup">
+<form action="http://texascowsandcrafts.us3.list-manage2.com/subscribe/post?u=e901edd7b9186d7a9bfdb2ce0&amp;id=c52c5972df" class="validate" id="mc-embedded-subscribe-form" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank">
+<label for="mce-EMAIL">Subscribe By Email</label>
+ <input class="email" id="mce-EMAIL" name="EMAIL" placeholder="email address" required="" type="email" value="" />
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <br />
+<div style="left: -5000px; position: absolute;">
+<input name="b_e901edd7b9186d7a9bfdb2ce0_c52c5972df" type="text" value="" /></div>
+<div class="clear">
+<input class="button" id="mc-embedded-subscribe" name="subscribe" type="submit" value="Subscribe" /></div>
+</form>
+</div>
+<br />
+<br />
+Thank you for visiting Texas Cows and Crafts!<br />
+<br />
+Please contact me with any questions or special&nbsp;requests: <a href="http://www.texascowsandcrafts.com/p/about-us.html">Click here.</a><br />
+<br />
+By&nbsp;<a href="https://plus.google.com/u/3/101167437852518119732/posts" target="_blank">FlaviaWolfe</a><br />
+<br />
+<a href="http://www.texascowsandcrafts.com/">http://www.texascowsandcrafts.com</a>
+<br />
+<br />
+<a href="http://www.etsy.com/shop/TexasCowsAndCrafts" target="_blank">Connect and Shop on &nbsp;our Etsy Store</a><br />
+<br />
+<a href="https://www.facebook.com/pages/Texas-Cows-Crafts/298135563538323" target="_blank">Connect on Facebook</a><br />
+<br />
+<a href="https://plus.google.com/b/118156879240088112738/118156879240088112738/posts" target="_blank">Connect on Google+</a><br />
+<br />
+<iframe allowtransparency="true" frameborder="0" scrolling="no" src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FTexas-Cows-and-Crafts%2F298135563538323&amp;width=292&amp;height=62&amp;colorscheme=light&amp;show_faces=false&amp;border_color&amp;stream=false&amp;header=true" style="border: none; height: 100px; overflow: hidden; width: 250px;"></iframe><br />
+<br />
+<br />
+<br />
+<br />
+<br />

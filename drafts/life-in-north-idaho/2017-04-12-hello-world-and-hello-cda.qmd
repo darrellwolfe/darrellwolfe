@@ -1,0 +1,24 @@
+---
+title: 'Hello World and Hello CDA!'
+date: '2017-04-12T07:05:00.0010000+00:00'
+draft: true
+blogger_blog: 'Life In North Idaho'
+blogger_status: 'LIVE'
+blogger_post_id: '2450330286147054315'
+blogger_filename: '/2017/04/hello-world-and-hello-cda.html'
+blogger_source: 'takeout-20260223T235336Z-3-001.zip:Takeout/Blogger/Blogs/Life In North Idaho/feed.atom'
+---
+
+This is a test post for the new site.<br />
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="/images/imported/blogger-googleusercontent-com/img-20170325-183629220-hdr-e8792f67c00a.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="211" src="/images/imported/blogger-googleusercontent-com/img-20170325-183629220-hdr-0e809959da2b.jpg" width="400" /></a></div>
+<br />
+<br />
+We just moved to Coeur d'Alene (North Idaho) from Fort Worth (North Texas). A new area can be confusing so I'm setting this site up as a one-stop shop for links and important information around town. I hope you benefit from this content as well.<br />
+<br />
+Also, if you need information and you can't find it. Let me know. Research is a speciality of mine and I'd love to help you out and add that content to this site.<br />
+<br />
+See you around town,<br />
+<br />
+Darrell
