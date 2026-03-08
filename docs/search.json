@@ -21,123 +21,11 @@
     "text": "This writing hub separates personal, biblical studies, and creative writing into distinct pages while keeping search unified across the whole website.\n\n\nPersonal\nReflections, lessons learned, and progress updates.\n\n\nBiblical Studies\nStudy notes, interpretation work, and long-form scripture-focused writing.\n\n\nWriting / Creative Writing\nDrafts, short creative pieces, and writing process notes.\n\n\nUse the search box in the top navigation to find content across every section."
   },
   {
-    "objectID": "posts/biblical/2026-02-23-sample-biblical.html",
-    "href": "posts/biblical/2026-02-23-sample-biblical.html",
-    "title": "Sample Study Note: Reading with Context",
+    "objectID": "posts/biblical/2026-03-07-ModernBeitMidrash.html",
+    "href": "posts/biblical/2026-03-07-ModernBeitMidrash.html",
+    "title": "A Modern Beit Midrash: Engaging Scripture in Community",
     "section": "",
-    "text": "This sample post models how I plan to publish biblical studies notes with clear structure and references.\nFuture posts will include passage observations, context notes, and practical application points."
-  },
-  {
-    "objectID": "portfolio/index.html",
-    "href": "portfolio/index.html",
-    "title": "Portfolio",
-    "section": "",
-    "text": "This portfolio is organized into two tracks: data work and author/creative work.\n\n\nData Development + Visualization\nDashboards, analytics workflows, SQL/R/Python projects, and reproducible case-study writeups.\n\n\nAuthor Portfolio\nCreative and narrative projects, including live interactive experiences built with static deployment.\n\n\nLive Project: Couples Connection Game\nPublished with VS Code + GitHub + GitHub Pages and now included as a portfolio project."
-  },
-  {
-    "objectID": "portfolio/author/index.html",
-    "href": "portfolio/author/index.html",
-    "title": "Author Portfolio",
-    "section": "",
-    "text": "This section highlights creative and narrative-centered projects, including interactive experiences published as static sites."
-  },
-  {
-    "objectID": "portfolio/author/index.html#featured-projects",
-    "href": "portfolio/author/index.html#featured-projects",
-    "title": "Author Portfolio",
-    "section": "Featured Projects",
-    "text": "Featured Projects\nAuthor-focused featured projects will be published here as this portfolio expands."
-  },
-  {
-    "objectID": "portfolio/author/index.html#author-track-notes",
-    "href": "portfolio/author/index.html#author-track-notes",
-    "title": "Author Portfolio",
-    "section": "Author Track Notes",
-    "text": "Author Track Notes\nThis portfolio track is for writing-adjacent projects: interactive story concepts, creative tools, narrative experiments, and published digital pieces."
-  },
-  {
-    "objectID": "demos/index.html",
-    "href": "demos/index.html",
-    "title": "Demos",
-    "section": "",
-    "text": "Interactive demos live here as standalone static pages.\n\nParcel Map Demo\n\nNote: demos using fetch() must run through a local server. Use quarto preview (or any local static server) during development."
-  },
-  {
-    "objectID": "author/index.html",
-    "href": "author/index.html",
-    "title": "Author",
-    "section": "",
-    "text": "Creative Writer\n\n\n\nI write stories and essays about people, place, conviction, and change. This page is the central home for my creative writing identity.\n\nRead Writing Sections View Portfolio"
-  },
-  {
-    "objectID": "author/index.html#darrell-wolfe",
-    "href": "author/index.html#darrell-wolfe",
-    "title": "Author",
-    "section": "",
-    "text": "I write stories and essays about people, place, conviction, and change. This page is the central home for my creative writing identity.\n\nRead Writing Sections View Portfolio"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome",
-    "section": "",
-    "text": "Author + Analyst\n\n\n\nThis site is my one-stop home for creative writing, biblical studies, and practical data storytelling.\n\nAuthor Page Writing Hub Portfolio"
-  },
-  {
-    "objectID": "index.html#darrell-wolfe-storyteller",
-    "href": "index.html#darrell-wolfe-storyteller",
-    "title": "Welcome",
-    "section": "",
-    "text": "This site is my one-stop home for creative writing, biblical studies, and practical data storytelling.\n\nAuthor Page Writing Hub Portfolio"
-  },
-  {
-    "objectID": "index.html#author",
-    "href": "index.html#author",
-    "title": "Welcome",
-    "section": "Author",
-    "text": "Author\nI write to think clearly, document what I am learning, and publish work that is useful to other people."
-  },
-  {
-    "objectID": "index.html#data-visualization-bi",
-    "href": "index.html#data-visualization-bi",
-    "title": "Welcome",
-    "section": "Data Visualization / BI",
-    "text": "Data Visualization / BI\nI build practical dashboards and data stories using SQL, Python, R, Tableau, and Power BI."
-  },
-  {
-    "objectID": "index.html#biblical-studies",
-    "href": "index.html#biblical-studies",
-    "title": "Welcome",
-    "section": "Biblical Studies",
-    "text": "Biblical Studies\nI publish study notes and reflections focused on careful reading, context, and application."
-  },
-  {
-    "objectID": "index.html#explore",
-    "href": "index.html#explore",
-    "title": "Welcome",
-    "section": "Explore",
-    "text": "Explore\n\n\nPortfolio\nWriting\nDemos"
-  },
-  {
-    "objectID": "portfolio/data/index.html",
-    "href": "portfolio/data/index.html",
-    "title": "Data Development + Visualization Portfolio",
-    "section": "",
-    "text": "This section focuses on analytics, BI, and technical implementation work."
-  },
-  {
-    "objectID": "portfolio/data/index.html#featured-writeup-format",
-    "href": "portfolio/data/index.html#featured-writeup-format",
-    "title": "Data Development + Visualization Portfolio",
-    "section": "Featured Writeup Format",
-    "text": "Featured Writeup Format\n\nProject Template\n\nUse this template for full project documentation from problem to reproducible results."
-  },
-  {
-    "objectID": "portfolio/data/index.html#repository-highlights",
-    "href": "portfolio/data/index.html#repository-highlights",
-    "title": "Data Development + Visualization Portfolio",
-    "section": "Repository Highlights",
-    "text": "Repository Highlights\n\nCouples_Connection_Game (Repo) - source repository for the published Couples Connection Game. Live version: darrellwolfe.github.io/Couples_Connection_Game.\nDemo_Code_DarrellWolfe - general code samples and demonstrations.\nDemo_Skills_SampleCode - technical skill examples and implementation snippets.\nCourseNotes_Learning_R_Analysis - R learning notes and analysis practice.\nSkillsDemo_UK_RoadSafety_Agust_2023 - road safety analysis demonstration project.\nCourseNotes_Learning_Coursera_DataAnalytics_Capstone_Project - capstone notes and project artifacts."
+    "text": "I’ve had a dream of starting something akin to Beit Midrash (בית מדרש), House of Study.\nI want something of a smash between an A.A. meeting and a Book Study, where we come to hear the biblical texts read and interpreted in their own ancient contexts, focus on what those contexts were, and then ask as a group what wisdom was operating for them back then, and as a group (in group discussion, not sermon) come to some conclusion about what wisdom it might have for us today.\nAll the while, there is food for everyone (actual meals, not a thimble of grape juice) and places for kids to play, and song times campfire style. And then throughout the week, the facility (or homes or coffee shops or whatever) would be places where people can gather in smaller groups or 1:1 to do life together, share struggles, help each other accomplish things.\nIf someone needs a new roof, we all go make it happen as a group. If we hear of someone in the larger community needing help, we go help, regardless of whether they’re “one of us” or not.\nWe regularly find the most needy in the region and meet their real needs in meaningful ways, not in token ways. Etc.\nIt’s ironic, because I’m the least likely person to (1) start anything like this and (2) go find other humans to be human with. But the dream won’t die, it only grows every year.\nIf anyone wants to start this, I’ll help. 🙂\nJust thinking out loud.\nDarrell Wolfe, Storyteller."
   },
   {
     "objectID": "portfolio/projects/project-template.html",
@@ -196,11 +84,130 @@
     "text": "Tech Used\n\nSQL\nPython or R\nQuarto\nTableau or Power BI"
   },
   {
+    "objectID": "portfolio/data/index.html",
+    "href": "portfolio/data/index.html",
+    "title": "Data Development + Visualization Portfolio",
+    "section": "",
+    "text": "This section focuses on analytics, BI, and technical implementation work."
+  },
+  {
+    "objectID": "portfolio/data/index.html#featured-writeup-format",
+    "href": "portfolio/data/index.html#featured-writeup-format",
+    "title": "Data Development + Visualization Portfolio",
+    "section": "Featured Writeup Format",
+    "text": "Featured Writeup Format\n\nProject Template\n\nUse this template for full project documentation from problem to reproducible results."
+  },
+  {
+    "objectID": "portfolio/data/index.html#repository-highlights",
+    "href": "portfolio/data/index.html#repository-highlights",
+    "title": "Data Development + Visualization Portfolio",
+    "section": "Repository Highlights",
+    "text": "Repository Highlights\n\nCouples_Connection_Game (Repo) - source repository for the published Couples Connection Game. Live version: darrellwolfe.github.io/Couples_Connection_Game.\nDemo_Code_DarrellWolfe - general code samples and demonstrations.\nDemo_Skills_SampleCode - technical skill examples and implementation snippets.\nCourseNotes_Learning_R_Analysis - R learning notes and analysis practice.\nSkillsDemo_UK_RoadSafety_Agust_2023 - road safety analysis demonstration project.\nCourseNotes_Learning_Coursera_DataAnalytics_Capstone_Project - capstone notes and project artifacts."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Author + Analyst\n\n\n\nThis site is my one-stop home for creative writing, biblical studies, and practical data storytelling.\n\nAuthor Page Writing Hub Portfolio"
+  },
+  {
+    "objectID": "index.html#darrell-wolfe-storyteller",
+    "href": "index.html#darrell-wolfe-storyteller",
+    "title": "Welcome",
+    "section": "",
+    "text": "This site is my one-stop home for creative writing, biblical studies, and practical data storytelling.\n\nAuthor Page Writing Hub Portfolio"
+  },
+  {
+    "objectID": "index.html#author",
+    "href": "index.html#author",
+    "title": "Welcome",
+    "section": "Author",
+    "text": "Author\nI write to think clearly, document what I am learning, and publish work that is useful to other people."
+  },
+  {
+    "objectID": "index.html#data-visualization-bi",
+    "href": "index.html#data-visualization-bi",
+    "title": "Welcome",
+    "section": "Data Visualization / BI",
+    "text": "Data Visualization / BI\nI build practical dashboards and data stories using SQL, Python, R, Tableau, and Power BI."
+  },
+  {
+    "objectID": "index.html#biblical-studies",
+    "href": "index.html#biblical-studies",
+    "title": "Welcome",
+    "section": "Biblical Studies",
+    "text": "Biblical Studies\nI publish study notes and reflections focused on careful reading, context, and application."
+  },
+  {
+    "objectID": "index.html#explore",
+    "href": "index.html#explore",
+    "title": "Welcome",
+    "section": "Explore",
+    "text": "Explore\n\n\nPortfolio\nWriting\nDemos"
+  },
+  {
+    "objectID": "author/index.html",
+    "href": "author/index.html",
+    "title": "Author",
+    "section": "",
+    "text": "Creative Writer\n\n\n\nI write stories and essays about people, place, conviction, and change. This page is the central home for my creative writing identity.\n\nRead Writing Sections View Portfolio"
+  },
+  {
+    "objectID": "author/index.html#darrell-wolfe",
+    "href": "author/index.html#darrell-wolfe",
+    "title": "Author",
+    "section": "",
+    "text": "I write stories and essays about people, place, conviction, and change. This page is the central home for my creative writing identity.\n\nRead Writing Sections View Portfolio"
+  },
+  {
+    "objectID": "demos/index.html",
+    "href": "demos/index.html",
+    "title": "Demos",
+    "section": "",
+    "text": "Interactive demos live here as standalone static pages.\n\nParcel Map Demo\n\nNote: demos using fetch() must run through a local server. Use quarto preview (or any local static server) during development."
+  },
+  {
+    "objectID": "portfolio/author/index.html",
+    "href": "portfolio/author/index.html",
+    "title": "Author Portfolio",
+    "section": "",
+    "text": "This section highlights creative and narrative-centered projects, including interactive experiences published as static sites."
+  },
+  {
+    "objectID": "portfolio/author/index.html#featured-projects",
+    "href": "portfolio/author/index.html#featured-projects",
+    "title": "Author Portfolio",
+    "section": "Featured Projects",
+    "text": "Featured Projects\nAuthor-focused featured projects will be published here as this portfolio expands."
+  },
+  {
+    "objectID": "portfolio/author/index.html#author-track-notes",
+    "href": "portfolio/author/index.html#author-track-notes",
+    "title": "Author Portfolio",
+    "section": "Author Track Notes",
+    "text": "Author Track Notes\nThis portfolio track is for writing-adjacent projects: interactive story concepts, creative tools, narrative experiments, and published digital pieces."
+  },
+  {
+    "objectID": "portfolio/index.html",
+    "href": "portfolio/index.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "This portfolio is organized into two tracks: data work and author/creative work.\n\n\nData Development + Visualization\nDashboards, analytics workflows, SQL/R/Python projects, and reproducible case-study writeups.\n\n\nAuthor Portfolio\nCreative and narrative projects, including live interactive experiences built with static deployment.\n\n\nLive Project: Couples Connection Game\nPublished with VS Code + GitHub + GitHub Pages and now included as a portfolio project."
+  },
+  {
+    "objectID": "posts/biblical/2026-02-23-sample-biblical.html",
+    "href": "posts/biblical/2026-02-23-sample-biblical.html",
+    "title": "Sample Study Note: Reading with Context",
+    "section": "",
+    "text": "This sample post models how I plan to publish biblical studies notes with clear structure and references.\nFuture posts will include passage observations, context notes, and practical application points."
+  },
+  {
     "objectID": "posts/biblical/index.html",
     "href": "posts/biblical/index.html",
     "title": "Biblical Studies",
     "section": "",
-    "text": "Notes and essays focused on scripture study, interpretation, and context.\n\n\n\n\n\n\n\n\n\nSample Study Note: Reading with Context\n\n\n\nbiblical-studies\n\n\n\n\n\n\nFeb 23, 2026\n\n\n\n\n\nNo matching items"
+    "text": "Notes and essays focused on scripture study, interpretation, and context.\n\n\n\n\n\n\n\n\n\nA Modern Beit Midrash: Engaging Scripture in Community\n\n\n\nbiblical-studies\n\n\n\n\n\n\nMar 7, 2026\n\n\n\n\n\n\n\nSample Study Note: Reading with Context\n\n\n\nbiblical-studies\n\n\n\n\n\n\nFeb 23, 2026\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/personal/2026-02-23-sample-personal.html",
