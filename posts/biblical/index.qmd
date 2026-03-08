@@ -7,5 +7,4 @@ listing:
   fields: [title, date, categories]
 ---
 
-Notes and essays focused on scripture study, interpretation, and context.
-
+I am a biblical studies major and I write about the Bible by dragging it out of modern Churchianity and back into its ancient world, reading it within its Ancient Near East (ANE) and Second Temple Jewish contexts, and asking the kinds of questions that polished religion usually tries to avoid. I’m especially interested in the Bible’s worldview, its systems of meaning, and the way it shapes identity, perception, and power. I have little interest in church tradition, church fathers, or what your pastor thinks the Bible says. The biblical authors had their own worldview, their own questions, and their own answers, and I want to understand those on their own terms. This page is for biblical studies rooted in context, worldview, close reading, and the kind of questions polished religion usually tries to avoid. 

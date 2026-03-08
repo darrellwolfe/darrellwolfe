@@ -11,7 +11,7 @@ Creative Writer
 
 ## Darrell Wolfe {.hero-title}
 
-I write stories and essays about people, place, conviction, and change. This page is the central home for my creative writing identity.
+I write speculative fiction shaped by wonder, strangeness, and the stubborn human search for meaning. This page is the central home for my creative writing life: projects, reflections, and the worlds I’m building one story at a time.
 
 ::: {.hero-actions}
 [Read Writing Sections](../posts/index.qmd){.btn .btn-primary}
