@@ -2,7 +2,6 @@
   {
     "listing": "/posts/writing/index.html",
     "items": [
-      "/posts/writing/2026-02-23-sample-writing.html",
       "/posts/writing/2026-02-09-msb-rufus-fangborn-half-wolf-half.html",
       "/posts/writing/2026-02-08-msb-cosmo-valentine-is-mastiffarian.html",
       "/posts/writing/2026-02-08-msb-gwendol-of-wetlands-pride-is-leonid.html",
@@ -32,20 +31,19 @@
     ]
   },
   {
-    "listing": "/posts/personal/index.html",
-    "items": [
-      "/posts/personal/2026-02-23-sample-personal.html"
-    ]
+    "listing": "/posts/data-nerd/index.html",
+    "items": []
   },
   {
     "listing": "/posts/biblical/index.html",
     "items": [
-      "/posts/biblical/2026-03-07-ModernBeitMidrash.html",
-      "/posts/biblical/2026-02-23-sample-biblical.html"
+      "/posts/biblical/2026-03-07-ModernBeitMidrash.html"
     ]
   },
   {
-    "listing": "/posts/data-nerd/index.html",
-    "items": []
+    "listing": "/posts/personal/index.html",
+    "items": [
+      "/posts/personal/2026-02-23-sample-personal.html"
+    ]
   }
 ]

@@ -7,5 +7,4 @@ listing:
   fields: [title, date, categories]
 ---
 
-Personal reflections, updates, and practical lessons.
-
+This page is for the randomness in my head that refuses to fit neatly into the other categories: reflections, rabbit trails, rants, weird connections, and the occasional thought that showed up uninvited but made a compelling case for itself.

@@ -7,4 +7,4 @@ listing:
   fields: [title, date, categories]
 ---
 
-Data notes, SQL deep-dives, visualization experiments, and analytics thinking.
+By day, I wrangle data for a living. This page is where I write about SQL, dashboards, automation, reporting, and the deeply satisfying work of forcing chaotic information to sit down, behave, and tell the truth.
