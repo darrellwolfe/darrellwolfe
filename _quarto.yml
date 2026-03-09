@@ -24,6 +24,8 @@ website:
         href: index.qmd
       - text: Author Bio
         href: author/index.qmd
+      - text: NYPB
+        href: /nypb/
       - text: Portfolio
         menu:
           - text: Portfolio Home
