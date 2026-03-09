@@ -1621,7 +1621,7 @@
     "href": "demos/index.html",
     "title": "Demos",
     "section": "",
-    "text": "Interactive demos live here as standalone static pages.\n\nParcel Map Demo\nAssessor Dashboard Demo: Information\nAssessor Dashboard Demo: Maps\nAssessor Dashboard Demo: Graphs\nAssessor Dashboard Demo: Tables\n\nNote: demos using fetch() must run through a local server. Use quarto preview (or any local static server) during development."
+    "text": "Interactive demos live here as standalone static pages.\n\nAssessor Dashboard\n\nNote: demos using fetch() must run through a local server. Use quarto preview (or any local static server) during development."
   },
   {
     "objectID": "author/index.html",

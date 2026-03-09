@@ -16,15 +16,13 @@
       <div class="hero-copy">
         <h1>Assessor Parcels Demo</h1>
         <p>
-          This is a smaller, static recreation of the larger DataViz concept: parcel geometry from the county
-          shapefile, metrics from local CSV exports, and a clean split between Information, Maps, Graphs, and Tables.
+          This is a static parcel dashboard built from local assessor CSV exports and county parcel geometry, with one
+          shared dashboard page for maps, graphs, and tables.
         </p>
       </div>
       <nav class="dashboard-nav">
         <a class="active" href="index.html">Information</a>
-        <a href="maps.html">Maps</a>
-        <a href="graphs.html">Graphs</a>
-        <a href="tables.html">Tables</a>
+        <a href="maps.html">Dashboard</a>
       </nav>
     </header>
 
@@ -46,31 +44,41 @@
           </p>
         </article>
         <article>
-          <h3>How The Pages Split Up</h3>
-          <p><strong>Maps</strong> colors parcels by District and highlights AIN or PIN partial matches in bright yellow.</p>
-          <p><strong>Graphs</strong> counts parcels by District and GEO using the same filter state.</p>
-          <p><strong>Tables</strong> shows the parcel rows behind the map and graph views.</p>
+          <h3>How The Dashboard Is Organized</h3>
+          <p><strong>Maps</strong>, <strong>Graphs</strong>, and <strong>Tables</strong> each live in their own section inside one page.</p>
+          <p>Each section has its own dropdown so you can swap in new views later without changing the shell around it.</p>
+          <p>The current modules are parcel polygons by District, parcel counts by District and GEO, and a parcel detail table.</p>
         </article>
         <article>
           <h3>Shared Filters</h3>
           <p>
-            The Maps, Graphs, and Tables pages all share the same District, GEO, AIN, and PIN filters through browser
-            storage so you can move between pages without re-entering them each time.
+            The unified dashboard uses one shared filter state across all sections. District stays as button chips, GEO
+            uses a multi-select control, and AIN/PIN partial searches feed the same scope everywhere.
+          </p>
+        </article>
+        <article>
+          <h3>Full Dataset Scope</h3>
+          <p>
+            This dashboard now uses the full parcel CSV dataset. The map joins parcel geometry to the parcel records by
+            <code>lrsn</code>, while the graphs and table work directly from the full parcel frame.
           </p>
         </article>
       </section>
 
       <section class="panel">
-        <h2>Sample GEO Groups In This Demo</h2>
+        <h2>Data Notes</h2>
         <p class="muted">
-          The demo uses a compact multi-district sample rather than the full county parcel set, so filters and charts stay useful without becoming heavy.
+          The dashboard is static. It does not connect to a live database, and it reads only the locally prepared JSON
+          and GeoJSON files generated from your CSV and shapefile exports.
         </p>
-        <ul class="sample-list" id="sample-geo-list"></ul>
+        <p class="muted">
+          The live dashboard uses dropdown-selected modules so additional maps, graphs, and tables can slot into the
+          existing layout instead of forcing another page split.
+        </p>
       </section>
     </main>
   </div>
 
-  <script src="data/demo-data.js"></script>
   <script src="js/common.js"></script>
   <script src="js/information.js"></script>
 </body>

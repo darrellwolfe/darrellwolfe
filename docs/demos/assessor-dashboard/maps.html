@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Assessor Dashboard Demo - Maps</title>
+  <title>Assessor Dashboard Demo</title>
   <link
     rel="stylesheet"
     href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
@@ -13,39 +13,48 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <div class="dashboard-shell">
+  <div class="dashboard-shell dashboard-shell-wide">
     <header class="dashboard-header">
       <div class="header-topline">
         <a class="back-link" href="../index.html">Back to Demos</a>
-        <span class="project-tag">Static Parcel Dashboard Demo</span>
+        <span class="project-tag">Unified Parcel Dashboard Demo</span>
       </div>
       <div class="hero-copy">
-        <h1>Assessor Parcels - Maps</h1>
+        <h1>Assessor Dashboard</h1>
         <p>
-          Parcels are colored by District. AIN and PIN partial matches stay visible on the map and are highlighted in bright yellow.
+          One dashboard shell for parcel maps, graphs, and tables. District filters stay as buttons, GEOs use a
+          multi-select control, and each section is chosen from a dropdown so new modules can be added without another
+          layout rewrite.
         </p>
       </div>
       <nav class="dashboard-nav">
         <a href="index.html">Information</a>
-        <a class="active" href="maps.html">Maps</a>
-        <a href="graphs.html">Graphs</a>
-        <a href="tables.html">Tables</a>
+        <a class="active" href="maps.html">Dashboard</a>
       </nav>
     </header>
 
-    <main class="page-grid columns-2">
-      <section class="panel filter-panel">
-        <h2>Filters</h2>
-        <p>District and GEO narrow the visible parcel set. AIN and PIN searches highlight matches in yellow.</p>
+    <main class="workspace">
+      <aside class="panel sidebar-panel">
+        <div class="panel-header">
+          <h2>Controls</h2>
+          <p class="muted">Shared across every map, graph, and table module.</p>
+        </div>
+
         <form class="filter-stack" data-filter-form>
           <div class="filter-block">
             <h3>District</h3>
             <div class="chip-list" data-filter-group="districts"></div>
           </div>
+
           <div class="filter-block">
             <h3>GEO</h3>
-            <div class="chip-list" data-filter-group="geos"></div>
+            <label class="field-stack">
+              <span>Select one or more GEOs</span>
+              <select class="multi-select-field" name="geos" multiple size="12"></select>
+            </label>
+            <p class="filter-note">Use Ctrl/Cmd-click on Windows or Command-click on Mac to select multiple GEOs.</p>
           </div>
+
           <div class="filter-block">
             <h3>Search</h3>
             <div class="search-grid">
@@ -59,20 +68,66 @@
               </label>
             </div>
           </div>
+
           <div class="button-row">
             <button class="primary" type="button" data-reset-filters>Reset filters</button>
           </div>
         </form>
-      </section>
 
-      <section class="panel">
-        <div class="panel-header">
-          <h2>Parcel Map</h2>
-          <span class="highlight-note"><span class="highlight-dot"></span> AIN/PIN matches</span>
-        </div>
-        <p class="status-line" id="map-stats">Loading parcel map...</p>
-        <div id="parcel-map" class="map-canvas" aria-label="Parcel map"></div>
-        <div id="district-legend"></div>
+        <section class="scope-panel">
+          <div class="panel-header">
+            <h3>Current Scope</h3>
+            <p class="muted">Live summary of the shared filter state.</p>
+          </div>
+          <div class="scope-list" id="scope-summary"></div>
+        </section>
+      </aside>
+
+      <section class="content-stack">
+        <article class="panel" id="map-section">
+          <div class="module-header">
+            <div>
+              <h2>Maps</h2>
+              <p class="muted">Select which map module to render inside this dashboard section.</p>
+            </div>
+            <label class="field-stack compact-field">
+              <span>Map view</span>
+              <select id="map-view-select"></select>
+            </label>
+          </div>
+          <p class="status-line" id="map-stats">Loading map...</p>
+          <div class="module-stage" id="map-view-host"></div>
+        </article>
+
+        <article class="panel" id="graphs-section">
+          <div class="module-header">
+            <div>
+              <h2>Graphs</h2>
+              <p class="muted">Select which graph module to render inside this dashboard section.</p>
+            </div>
+            <label class="field-stack compact-field">
+              <span>Graph view</span>
+              <select id="graph-view-select"></select>
+            </label>
+          </div>
+          <p class="status-line" id="graph-stats">Loading graph...</p>
+          <div class="module-stage" id="graph-view-host"></div>
+        </article>
+
+        <article class="panel" id="tables-section">
+          <div class="module-header">
+            <div>
+              <h2>Tables</h2>
+              <p class="muted">Select which table module to render inside this dashboard section.</p>
+            </div>
+            <label class="field-stack compact-field">
+              <span>Table view</span>
+              <select id="table-view-select"></select>
+            </label>
+          </div>
+          <p class="status-line" id="table-stats">Loading table...</p>
+          <div class="module-stage" id="table-view-host"></div>
+        </article>
       </section>
     </main>
   </div>
@@ -82,8 +137,8 @@
     integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
     crossorigin=""
   ></script>
-  <script src="data/demo-data.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.2/dist/chart.umd.min.js"></script>
   <script src="js/common.js"></script>
-  <script src="js/maps.js"></script>
+  <script src="js/dashboard.js"></script>
 </body>
 </html>

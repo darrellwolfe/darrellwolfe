@@ -2,93 +2,21 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
+  <meta http-equiv="refresh" content="0; url=maps.html#tables-section">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Assessor Dashboard Demo - Tables</title>
+  <title>Redirecting to Assessor Dashboard</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <div class="dashboard-shell">
-    <header class="dashboard-header">
-      <div class="header-topline">
-        <a class="back-link" href="../index.html">Back to Demos</a>
-        <span class="project-tag">Static Parcel Dashboard Demo</span>
-      </div>
-      <div class="hero-copy">
-        <h1>Assessor Parcels - Tables</h1>
-        <p>
-          This table shows the parcel rows driving the demo. District, GEO, AIN, and PIN filters apply directly to the table output.
-        </p>
-      </div>
-      <nav class="dashboard-nav">
-        <a href="index.html">Information</a>
-        <a href="maps.html">Maps</a>
-        <a href="graphs.html">Graphs</a>
-        <a class="active" href="tables.html">Tables</a>
-      </nav>
-    </header>
-
-    <main class="page-grid columns-2">
-      <section class="panel filter-panel">
-        <h2>Filters</h2>
-        <p>Use the same parcel filters here that you use on the map and graph pages.</p>
-        <form class="filter-stack" data-filter-form>
-          <div class="filter-block">
-            <h3>District</h3>
-            <div class="chip-list" data-filter-group="districts"></div>
-          </div>
-          <div class="filter-block">
-            <h3>GEO</h3>
-            <div class="chip-list" data-filter-group="geos"></div>
-          </div>
-          <div class="filter-block">
-            <h3>Search</h3>
-            <div class="search-grid">
-              <label>
-                <span>AIN contains</span>
-                <input name="ainQuery" type="search" placeholder="Example: 117">
-              </label>
-              <label>
-                <span>PIN contains</span>
-                <input name="pinQuery" type="search" placeholder="Example: 53N05">
-              </label>
-            </div>
-          </div>
-          <div class="button-row">
-            <button class="primary" type="button" data-reset-filters>Reset filters</button>
-          </div>
-        </form>
-      </section>
-
-      <section class="panel">
-        <div class="panel-header">
-          <h2>Parcel Table</h2>
-          <p id="table-stats">Loading parcel rows...</p>
-        </div>
-        <div class="table-wrap">
-          <table>
-            <thead>
-              <tr>
-                <th>District</th>
-                <th>GEO</th>
-                <th>GEO Name</th>
-                <th>PIN</th>
-                <th>AIN</th>
-                <th>Class</th>
-                <th>Latest Year</th>
-                <th>Latest Assessed</th>
-                <th>Net Tax</th>
-              </tr>
-            </thead>
-            <tbody id="parcel-table-body"></tbody>
-          </table>
-        </div>
-        <div class="empty-state" id="table-empty" hidden>No parcel rows match the current filters.</div>
-      </section>
-    </main>
+  <div class="dashboard-shell redirect-shell">
+    <section class="panel">
+      <h1>Table Views Moved</h1>
+      <p>Table views now live inside the unified dashboard.</p>
+      <p><a class="back-link" href="maps.html#tables-section">Open the dashboard table section</a></p>
+    </section>
   </div>
-
-  <script src="data/demo-data.js"></script>
-  <script src="js/common.js"></script>
-  <script src="js/tables.js"></script>
+  <script>
+    window.location.replace("maps.html#tables-section");
+  </script>
 </body>
 </html>

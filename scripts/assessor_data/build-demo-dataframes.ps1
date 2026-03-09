@@ -1,5 +1,4 @@
 param(
-    [string[]]$SampleGeos = @("1820", "1818", "2802", "2145", "3804", "3998", "4801", "4851", "5021", "5825", "6039", "6805", "110", "10"),
     [string]$SourceDir = "assets/data/assessor_data",
     [string]$OutputDir = "demos/assessor-dashboard/data"
 )
@@ -36,13 +35,56 @@ function To-DoubleOrNull {
     return [double]$text
 }
 
+function Escape-JsonString {
+    param([string]$Value)
+    if ($null -eq $Value) { return "" }
+
+    $builder = New-Object System.Text.StringBuilder
+    foreach ($char in $Value.ToCharArray()) {
+        switch ($char) {
+            '"' { [void]$builder.Append('\"') }
+            '\' { [void]$builder.Append('\\') }
+            "`b" { [void]$builder.Append('\b') }
+            "`f" { [void]$builder.Append('\f') }
+            "`n" { [void]$builder.Append('\n') }
+            "`r" { [void]$builder.Append('\r') }
+            "`t" { [void]$builder.Append('\t') }
+            default {
+                $code = [int][char]$char
+                if ($code -lt 32) {
+                    [void]$builder.AppendFormat('\u{0:x4}', $code)
+                } else {
+                    [void]$builder.Append($char)
+                }
+            }
+        }
+    }
+
+    return $builder.ToString()
+}
+
+function ConvertTo-JsonLiteral {
+    param([object]$Value)
+    if ($null -eq $Value) { return "null" }
+
+    if ($Value -is [string]) {
+        return '"' + (Escape-JsonString $Value) + '"'
+    }
+
+    if ($Value -is [bool]) {
+        return $Value.ToString().ToLowerInvariant()
+    }
+
+    if ($Value -is [int] -or $Value -is [long] -or $Value -is [double] -or $Value -is [decimal]) {
+        return [System.Convert]::ToString($Value, [System.Globalization.CultureInfo]::InvariantCulture)
+    }
+
+    return '"' + (Escape-JsonString ([string]$Value)) + '"'
+}
+
 New-Item -ItemType Directory -Force -Path $OutputDir | Out-Null
 
-$geoSet = [System.Collections.Generic.HashSet[string]]::new()
-$SampleGeos | ForEach-Object { [void]$geoSet.Add([string]$_) }
-
 $parcels = Import-Csv (Join-Path $SourceDir "parcels.csv") |
-    Where-Object { $geoSet.Contains((Trim-Value $_.GEO)) } |
     ForEach-Object {
         [pscustomobject]@{
             lrsn = To-Int64OrNull $_.lrsn
@@ -52,140 +94,54 @@ $parcels = Import-Csv (Join-Path $SourceDir "parcels.csv") |
             pin = Trim-Value $_.PIN
             ain = Trim-Value $_.AIN
             pinCity = Trim-Value $_.PIN_City
-            classCd = Trim-Value $_.ClassCD
             propertyClassDescription = Trim-Value $_.Property_Class_Description
-            effStatus = Trim-Value $_.EffStatus
         }
     }
 
 $lrsnSet = [System.Collections.Generic.HashSet[string]]::new()
 $parcels | ForEach-Object { [void]$lrsnSet.Add([string]$_.lrsn) }
 
-$keyCatGroupCodes = Import-Csv (Join-Path $SourceDir "key_cat_group_codes.csv") |
-    ForEach-Object {
-        [pscustomobject]@{
-            catGroupCode = Trim-Value $_.Cat_Group_Code
-            catDescription = Trim-Value $_.Cat_Description
-        }
-    }
-
-$categoryKey = @{}
-$keyCatGroupCodes | ForEach-Object {
-    if ($null -ne $_.catGroupCode) {
-        $categoryKey[$_.catGroupCode] = $_.catDescription
-    }
-}
-
-$assessmentTrend = Import-Csv (Join-Path $SourceDir "values_assessed_ten_year.csv") |
-    Where-Object { $lrsnSet.Contains((Trim-Value $_.lrsn)) } |
-    ForEach-Object {
-        [pscustomobject]@{
-            lrsn = To-Int64OrNull $_.lrsn
-            district = Trim-Value $_.District
-            geo = Trim-Value $_.GEO
-            geoName = Trim-Value $_.GEO_Name
-            pinCity = Trim-Value $_.PIN_City
-            pin = Trim-Value $_.PIN
-            ain = Trim-Value $_.AIN
-            assessmentYear = To-Int32OrNull $_.AssessmentYear_TenYear
-            appraisalDate = Trim-Value $_.AppraisalDate
-            assessedValue = To-DoubleOrNull $_.AssessedValue
-        }
-    }
-
-$latestAssessment = $assessmentTrend |
-    Group-Object -Property lrsn |
-    ForEach-Object {
-        $_.Group |
-            Sort-Object assessmentYear, appraisalDate |
-            Select-Object -Last 1
-    }
-
 $latestAssessmentByLrsn = @{}
-$latestAssessment | ForEach-Object {
-    $latestAssessmentByLrsn[[string]$_.lrsn] = $_
-}
+Import-Csv (Join-Path $SourceDir "values_assessed_ten_year.csv") | ForEach-Object {
+    $lrsnText = Trim-Value $_.lrsn
+    if ($null -eq $lrsnText -or -not $lrsnSet.Contains($lrsnText)) { return }
 
-$netTaxValue = Import-Csv (Join-Path $SourceDir "values_net_tax_value.csv") |
-    Where-Object { $lrsnSet.Contains((Trim-Value $_.lrsn)) } |
-    ForEach-Object {
-        [pscustomobject]@{
-            lrsn = To-Int64OrNull $_.lrsn
-            netTaxValue = To-DoubleOrNull $_.CadValue_NetTax
+    $assessmentYear = To-Int32OrNull $_.AssessmentYear_TenYear
+    $appraisalDate = Trim-Value $_.AppraisalDate
+    $assessedValue = To-DoubleOrNull $_.AssessedValue
+    $current = $latestAssessmentByLrsn[$lrsnText]
+    $shouldReplace = $null -eq $current
+
+    if (-not $shouldReplace) {
+        $currentYear = $current.assessmentYear
+        $currentDate = [string]$current.appraisalDate
+
+        if ($null -ne $assessmentYear -and ($null -eq $currentYear -or $assessmentYear -gt $currentYear)) {
+            $shouldReplace = $true
+        } elseif ($assessmentYear -eq $currentYear -and [string]$appraisalDate -gt $currentDate) {
+            $shouldReplace = $true
         }
     }
+
+    if ($shouldReplace) {
+        $latestAssessmentByLrsn[$lrsnText] = [pscustomobject]@{
+            assessmentYear = $assessmentYear
+            appraisalDate = $appraisalDate
+            assessedValue = $assessedValue
+        }
+    }
+}
 
 $netTaxByLrsn = @{}
-$netTaxValue | ForEach-Object {
-    $netTaxByLrsn[[string]$_.lrsn] = $_
+Import-Csv (Join-Path $SourceDir "values_net_tax_value.csv") | ForEach-Object {
+    $lrsnText = Trim-Value $_.lrsn
+    if ($null -eq $lrsnText -or -not $lrsnSet.Contains($lrsnText)) { return }
+    $netTaxByLrsn[$lrsnText] = To-DoubleOrNull $_.CadValue_NetTax
 }
 
-$valuesAssessedByCategory = Import-Csv (Join-Path $SourceDir "values_assessed_by_category.csv") |
-    Where-Object { $lrsnSet.Contains((Trim-Value $_.lrsn)) } |
-    ForEach-Object {
-        $code = Trim-Value $_.FullGroupCode
-        [pscustomobject]@{
-            lrsn = To-Int64OrNull $_.lrsn
-            fullGroupCode = $code
-            catDescription = $categoryKey[$code]
-            categoryValue = To-DoubleOrNull $_.CadValue_ByCat
-        }
-    }
-
-$categoryTotals = $valuesAssessedByCategory |
-    Group-Object -Property fullGroupCode, catDescription |
-    ForEach-Object {
-        $first = $_.Group[0]
-        [pscustomobject]@{
-            fullGroupCode = $first.fullGroupCode
-            catDescription = $first.catDescription
-            parcelCount = ($_.Group | Select-Object -ExpandProperty lrsn | Sort-Object -Unique).Count
-            totalCategoryValue = [Math]::Round((($_.Group | Measure-Object -Property categoryValue -Sum).Sum), 2)
-        }
-    } |
-    Sort-Object -Property totalCategoryValue -Descending
-
-$landRates = Import-Csv (Join-Path $SourceDir "land_rates.csv") |
-    Where-Object { $lrsnSet.Contains((Trim-Value $_.lrsn)) } |
-    ForEach-Object {
-        [pscustomobject]@{
-            lrsn = To-Int64OrNull $_.lrsn
-            district = Trim-Value $_.District
-            geo = Trim-Value $_.GEO
-            geoName = Trim-Value $_.GEO_Name
-            pinCity = Trim-Value $_.PIN_City
-            pin = Trim-Value $_.PIN
-            ain = Trim-Value $_.AIN
-            totalMktValue = To-DoubleOrNull $_.TotalMktValue
-            landMethod = Trim-Value $_.LandMethod
-            landType = Trim-Value $_.LandType
-            landDetailType = Trim-Value $_.LandDetailType
-            legend = Trim-Value $_.Legend
-            baseRate = To-DoubleOrNull $_.BaseRate
-            soilIdent = Trim-Value $_.SoilIdent
-            ldAcres = To-DoubleOrNull $_.LDAcres
-            actualFrontage = To-DoubleOrNull $_.ActualFrontage
-        }
-    }
-
-$trendByYear = $assessmentTrend |
-    Group-Object -Property assessmentYear |
-    Sort-Object { [int]$_.Name } |
-    ForEach-Object {
-        $sum = ($_.Group | Measure-Object -Property assessedValue -Sum).Sum
-        $count = $_.Group.Count
-        [pscustomobject]@{
-            assessmentYear = [int]$_.Name
-            parcelCount = $count
-            totalAssessedValue = [Math]::Round($sum, 2)
-            averageAssessedValue = if ($count -gt 0) { [Math]::Round($sum / $count, 2) } else { 0 }
-        }
-    }
-
-$parcelMapFrame = $parcels | ForEach-Object {
+$parcelFrame = $parcels | ForEach-Object {
     $parcel = $_
     $latest = $latestAssessmentByLrsn[[string]$parcel.lrsn]
-    $netTax = $netTaxByLrsn[[string]$parcel.lrsn]
     [pscustomobject]@{
         lrsn = $parcel.lrsn
         district = $parcel.district
@@ -197,42 +153,88 @@ $parcelMapFrame = $parcels | ForEach-Object {
         propertyClassDescription = $parcel.propertyClassDescription
         latestAssessmentYear = if ($null -ne $latest) { $latest.assessmentYear } else { $null }
         latestAssessedValue = if ($null -ne $latest) { $latest.assessedValue } else { $null }
-        netTaxValue = if ($null -ne $netTax) { $netTax.netTaxValue } else { $null }
+        netTaxValue = $netTaxByLrsn[[string]$parcel.lrsn]
     }
 }
 
 $meta = [pscustomobject]@{
-    sampleGeos = $SampleGeos
-    sampleGeoCount = $SampleGeos.Count
-    parcelCount = $parcels.Count
-    assessmentTrendRowCount = $assessmentTrend.Count
-    landRatesRowCount = $landRates.Count
-    valuesAssessedByCategoryRowCount = $valuesAssessedByCategory.Count
+    datasetScope = "full"
+    parcelCount = $parcelFrame.Count
+    districtCount = ($parcelFrame | Select-Object -ExpandProperty district | Sort-Object -Unique).Count
+    geoCount = ($parcelFrame | Select-Object -ExpandProperty geo | Sort-Object -Unique).Count
+    latestAssessmentCount = $latestAssessmentByLrsn.Count
+    netTaxCount = $netTaxByLrsn.Count
     generatedAt = (Get-Date).ToString("s")
 }
 
-$payload = [pscustomobject]@{
-    meta = $meta
-    frames = [pscustomobject]@{
-        parcels = $parcels
-        assessmentTrend = $assessmentTrend
-        latestAssessment = $latestAssessment
-        netTaxValue = $netTaxValue
-        keyCatGroupCodes = $keyCatGroupCodes
-        valuesAssessedByCategory = $valuesAssessedByCategory
-        categoryBreakdown = $valuesAssessedByCategory
-        categoryTotals = $categoryTotals
-        landRates = $landRates
-        trendByYear = $trendByYear
-        parcelMapFrame = $parcelMapFrame
+$jsonPath = Join-Path $OutputDir "demo-data.json"
+$tempJsonPath = Join-Path $OutputDir "demo-data.tmp.json"
+$utf8NoBom = New-Object System.Text.UTF8Encoding($false)
+$writer = [System.IO.StreamWriter]::new($tempJsonPath, $false, $utf8NoBom)
+
+try {
+    $writer.Write('{"meta":{')
+    $writer.Write('"datasetScope":')
+    $writer.Write((ConvertTo-JsonLiteral $meta.datasetScope))
+    $writer.Write(',"parcelCount":')
+    $writer.Write((ConvertTo-JsonLiteral $meta.parcelCount))
+    $writer.Write(',"districtCount":')
+    $writer.Write((ConvertTo-JsonLiteral $meta.districtCount))
+    $writer.Write(',"geoCount":')
+    $writer.Write((ConvertTo-JsonLiteral $meta.geoCount))
+    $writer.Write(',"latestAssessmentCount":')
+    $writer.Write((ConvertTo-JsonLiteral $meta.latestAssessmentCount))
+    $writer.Write(',"netTaxCount":')
+    $writer.Write((ConvertTo-JsonLiteral $meta.netTaxCount))
+    $writer.Write(',"generatedAt":')
+    $writer.Write((ConvertTo-JsonLiteral $meta.generatedAt))
+    $writer.Write('},"frames":{"parcels":[')
+
+    $firstRecord = $true
+    foreach ($record in $parcelFrame) {
+        if (-not $firstRecord) {
+            $writer.Write(',')
+        }
+
+        $writer.Write('{')
+        $writer.Write('"lrsn":')
+        $writer.Write((ConvertTo-JsonLiteral $record.lrsn))
+        $writer.Write(',"district":')
+        $writer.Write((ConvertTo-JsonLiteral $record.district))
+        $writer.Write(',"geo":')
+        $writer.Write((ConvertTo-JsonLiteral $record.geo))
+        $writer.Write(',"geoName":')
+        $writer.Write((ConvertTo-JsonLiteral $record.geoName))
+        $writer.Write(',"pin":')
+        $writer.Write((ConvertTo-JsonLiteral $record.pin))
+        $writer.Write(',"ain":')
+        $writer.Write((ConvertTo-JsonLiteral $record.ain))
+        $writer.Write(',"pinCity":')
+        $writer.Write((ConvertTo-JsonLiteral $record.pinCity))
+        $writer.Write(',"propertyClassDescription":')
+        $writer.Write((ConvertTo-JsonLiteral $record.propertyClassDescription))
+        $writer.Write(',"latestAssessmentYear":')
+        $writer.Write((ConvertTo-JsonLiteral $record.latestAssessmentYear))
+        $writer.Write(',"latestAssessedValue":')
+        $writer.Write((ConvertTo-JsonLiteral $record.latestAssessedValue))
+        $writer.Write(',"netTaxValue":')
+        $writer.Write((ConvertTo-JsonLiteral $record.netTaxValue))
+        $writer.Write('}')
+
+        $firstRecord = $false
     }
+
+    $writer.Write(']}}')
+}
+finally {
+    $writer.Dispose()
 }
 
-$json = $payload | ConvertTo-Json -Depth 8 -Compress
-$jsonPath = Join-Path $OutputDir "demo-data.json"
+Move-Item -Path $tempJsonPath -Destination $jsonPath -Force
+
 $jsPath = Join-Path $OutputDir "demo-data.js"
+if (Test-Path $jsPath) {
+    Remove-Item $jsPath -Force
+}
 
-Set-Content -Path $jsonPath -Value $json -NoNewline
-Set-Content -Path $jsPath -Value ("window.ASSESSOR_DEMO_DATA = " + $json + ";") -NoNewline
-
-Write-Output "Wrote demo data bundle to $jsonPath and $jsPath"
+Write-Output "Wrote full parcel data bundle to $jsonPath"

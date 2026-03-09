@@ -15,7 +15,10 @@
     District_3: "#9c36b5",
     District_4: "#d97706",
     District_5: "#2b8a3e",
-    District_6: "#c0392b"
+    District_6: "#c0392b",
+    Manufactured_Homes: "#6b7280",
+    "Other (PP, OP, NA, Error)": "#8b5e3c",
+    Specialized_Cell_Towers: "#b45309"
   };
 
   let dataCache = null;
@@ -32,8 +35,18 @@
       .trim();
   }
 
+  function compareGeoValues(left, right) {
+    return String(left || "").localeCompare(String(right || ""), undefined, {
+      numeric: true,
+      sensitivity: "base"
+    });
+  }
+
   function geoLabel(record) {
-    return `${record.geo} | ${record.geoName}`;
+    if (record.geoName) {
+      return `${record.geo} | ${record.geoName}`;
+    }
+    return String(record.geo || "");
   }
 
   function escapeHtml(value) {
@@ -183,10 +196,10 @@
       .map((district) => ({ value: district, label: prettyLabel(district) }));
 
     const geos = [...new Map(records.map((record) => [String(record.geo), record])).values()]
-      .sort((left, right) => Number(left.geo) - Number(right.geo))
+      .sort((left, right) => compareGeoValues(left.geo, right.geo))
       .map((record) => ({
         value: String(record.geo),
-        label: `${record.geo} | ${record.geoName}`
+        label: geoLabel(record)
       }));
 
     return { districts, geos };
@@ -212,6 +225,17 @@
     });
   }
 
+  function renderMultiSelect(select, options, selectedValues) {
+    select.innerHTML = "";
+    options.forEach((option) => {
+      const item = document.createElement("option");
+      item.value = option.value;
+      item.textContent = option.label;
+      item.selected = selectedValues.includes(option.value);
+      select.appendChild(item);
+    });
+  }
+
   function readFilterForm(form) {
     const readGroup = (name) =>
       Array.from(form.querySelectorAll(`[data-filter-group="${name}"] input:checked`)).map(
@@ -219,7 +243,9 @@
       );
     return {
       districts: readGroup("districts"),
-      geos: readGroup("geos"),
+      geos: Array.from(form.querySelector('[name="geos"]').selectedOptions).map(
+        (option) => option.value
+      ),
       ainQuery: form.querySelector('[name="ainQuery"]').value.trim(),
       pinQuery: form.querySelector('[name="pinQuery"]').value.trim()
     };
@@ -231,11 +257,7 @@
       options.districts,
       state.districts
     );
-    renderCheckboxGroup(
-      form.querySelector('[data-filter-group="geos"]'),
-      options.geos,
-      state.geos
-    );
+    renderMultiSelect(form.querySelector('[name="geos"]'), options.geos, state.geos);
     form.querySelector('[name="ainQuery"]').value = state.ainQuery;
     form.querySelector('[name="pinQuery"]').value = state.pinQuery;
   }
@@ -248,7 +270,7 @@
     const emit = () => {
       state = normalizeStateForOptions(readFilterForm(form), options);
       saveFilterState(state);
-      onChange(state);
+      onChange(state, options);
     };
 
     form.addEventListener("change", emit);
@@ -257,10 +279,10 @@
       state = defaultState();
       saveFilterState(state);
       writeFilterForm(form, options, state);
-      onChange(state);
+      onChange(state, options);
     });
 
-    onChange(state);
+    onChange(state, options);
   }
 
   function buildFeatureCollection(features) {
@@ -302,7 +324,9 @@
 
   window.AssessorDashboard = {
     buildFeatureCollection,
+    compareGeoValues,
     createLegendMarkup,
+    defaultState,
     escapeHtml,
     filterByScope,
     filterRecords,

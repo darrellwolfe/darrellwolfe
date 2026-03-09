@@ -4,10 +4,6 @@ title: "Demos"
 
 Interactive demos live here as standalone static pages.
 
-- [Parcel Map Demo](parcel-map/index.html)
-- [Assessor Dashboard Demo: Information](assessor-dashboard/index.html)
-- [Assessor Dashboard Demo: Maps](assessor-dashboard/maps.html)
-- [Assessor Dashboard Demo: Graphs](assessor-dashboard/graphs.html)
-- [Assessor Dashboard Demo: Tables](assessor-dashboard/tables.html)
+- [Assessor Dashboard](assessor-dashboard/index.html)
 
 Note: demos using `fetch()` must run through a local server. Use `quarto preview` (or any local static server) during development.
