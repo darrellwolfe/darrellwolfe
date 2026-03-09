@@ -6,6 +6,11 @@ project:
     - "!drafts/**"
   resources:
     - images/**
+    - demos/**/*.html
+    - demos/**/*.css
+    - demos/**/*.js
+    - demos/**/*.json
+    - demos/**/*.geojson
 
 website:
   title: "Darrell Wolfe, Storyteller"

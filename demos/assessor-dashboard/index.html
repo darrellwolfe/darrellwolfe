@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Assessor Dashboard Demo - Information</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="dashboard-shell">
+    <header class="dashboard-header">
+      <div class="header-topline">
+        <a class="back-link" href="../index.html">Back to Demos</a>
+        <span class="project-tag">Static Parcel Dashboard Demo</span>
+      </div>
+      <div class="hero-copy">
+        <h1>Assessor Parcels Demo</h1>
+        <p>
+          This is a smaller, static recreation of the larger DataViz concept: parcel geometry from the county
+          shapefile, metrics from local CSV exports, and a clean split between Information, Maps, Graphs, and Tables.
+        </p>
+      </div>
+      <nav class="dashboard-nav">
+        <a class="active" href="index.html">Information</a>
+        <a href="maps.html">Maps</a>
+        <a href="graphs.html">Graphs</a>
+        <a href="tables.html">Tables</a>
+      </nav>
+    </header>
+
+    <main class="page-grid">
+      <section class="panel">
+        <div class="panel-header">
+          <h2>Demo Scope</h2>
+          <p class="muted">Static files only. No live database connections.</p>
+        </div>
+        <div class="stat-grid" id="info-summary"></div>
+      </section>
+
+      <section class="panel info-list">
+        <article>
+          <h3>What This Demo Uses</h3>
+          <p>
+            Parcel polygons are derived from the county shapefile and converted into GeoJSON. Parcel attributes and
+            metrics come from the local CSV extracts in <code>assets/data/assessor_data</code>.
+          </p>
+        </article>
+        <article>
+          <h3>How The Pages Split Up</h3>
+          <p><strong>Maps</strong> colors parcels by District and highlights AIN or PIN partial matches in bright yellow.</p>
+          <p><strong>Graphs</strong> counts parcels by District and GEO using the same filter state.</p>
+          <p><strong>Tables</strong> shows the parcel rows behind the map and graph views.</p>
+        </article>
+        <article>
+          <h3>Shared Filters</h3>
+          <p>
+            The Maps, Graphs, and Tables pages all share the same District, GEO, AIN, and PIN filters through browser
+            storage so you can move between pages without re-entering them each time.
+          </p>
+        </article>
+      </section>
+
+      <section class="panel">
+        <h2>Sample GEO Groups In This Demo</h2>
+        <p class="muted">
+          The demo uses a compact multi-district sample rather than the full county parcel set, so filters and charts stay useful without becoming heavy.
+        </p>
+        <ul class="sample-list" id="sample-geo-list"></ul>
+      </section>
+    </main>
+  </div>
+
+  <script src="data/demo-data.js"></script>
+  <script src="js/common.js"></script>
+  <script src="js/information.js"></script>
+</body>
+</html>
