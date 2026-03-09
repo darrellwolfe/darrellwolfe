@@ -44,11 +44,15 @@ Run the helper script directly (PowerShell):
 
 ```powershell
 ./scripts/site.ps1 -Action build
+./scripts/site.ps1 -Action quick
 ./scripts/site.ps1 -Action preview
 ./scripts/site.ps1 -Action check
 ```
 
-In VS Code, use `Ctrl+Shift+B` to run **Build All** (configured in `.vscode/tasks.json`).
+In VS Code:
+
+- Use `Ctrl+Shift+B` to run **Build All** (full clean render).
+- Use `Terminal > Run Build Task...` and choose **Build Quick (Changed Content)** for faster incremental renders while drafting.
 
 ## GitHub Pages Setup
 

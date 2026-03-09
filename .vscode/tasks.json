@@ -21,6 +21,24 @@
       "problemMatcher": []
     },
     {
+      "label": "Build Quick (Changed Content)",
+      "type": "shell",
+      "command": "powershell",
+      "args": [
+        "-NoProfile",
+        "-ExecutionPolicy",
+        "Bypass",
+        "-File",
+        "${workspaceFolder}/scripts/site.ps1",
+        "-Action",
+        "quick"
+      ],
+      "group": {
+        "kind": "build"
+      },
+      "problemMatcher": []
+    },
+    {
       "label": "Preview Site",
       "type": "shell",
       "command": "powershell",
