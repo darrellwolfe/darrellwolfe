@@ -11,7 +11,7 @@ Storyteller, Data Nerd, Biblical Studies Thinker, and Professional Collector of 
 Stories, systems, scripture, spreadsheets, and the strange overlap between them. This is the home for all of it: creative writing, biblical studies, data storytelling, and personal essays.
 
 ::: {.hero-actions}
-[Author](posts/writing/index.qmd){.btn .btn-primary}
+[Creative Writing](posts/writing/index.qmd){.btn .btn-primary}
 [Biblical Studies](posts/biblical/index.qmd){.btn .btn-outline-primary}
 [Data Nerd](posts/data-nerd/index.qmd){.btn .btn-outline-primary}
 [Personal](posts/personal/index.qmd){.btn .btn-outline-secondary}
