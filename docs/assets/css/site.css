@@ -427,3 +427,58 @@ main.content li a:not(.btn):hover {
 .card {
   animation: rise-fade 520ms ease both;
 }
+
+.post-share-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  align-items: center;
+  max-width: var(--content-max);
+  margin: 2.5rem auto 0;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--line);
+}
+
+.post-share-links[hidden] {
+  display: none !important;
+}
+
+.post-share-label {
+  color: var(--text-muted);
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.post-share-links a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 2.25rem;
+  padding: 0.35rem 0.85rem;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--surface) 90%, white 10%);
+  color: var(--teal-700);
+  font-weight: 600;
+  text-decoration: none;
+  transition: border-color 140ms ease, box-shadow 140ms ease, transform 140ms ease;
+}
+
+.post-share-links a:hover {
+  border-color: color-mix(in srgb, var(--teal-700) 50%, white 50%);
+  box-shadow: 0 8px 18px rgba(16, 43, 46, 0.1);
+  color: var(--teal-500);
+  transform: translateY(-1px);
+}
+
+@media (max-width: 575.98px) {
+  .post-share-links {
+    gap: 0.6rem;
+  }
+
+  .post-share-label {
+    width: 100%;
+  }
+}

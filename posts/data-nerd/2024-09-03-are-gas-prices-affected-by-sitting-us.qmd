@@ -34,14 +34,14 @@ for using the data, which includes instructions to download the <a href="https:/
 reference <a href="https://www.eia.gov/totalenergy/data/monthly/index.php#appendices">Excel</a> document that
 helps with conversion.<o:p></o:p></p>
 
-<p class="MsoBlockText">â€œTo obtain the
-historical prices from the SEDS data, use the CSV file for All Statesâ€”Prices.
+<p class="MsoBlockText">“To obtain the
+historical prices from the SEDS data, use the CSV file for All States—Prices.
 In the file, the code for gasoline prices for the transportation sector, in <span class="VerbatimChar"><span style="font-size: 11pt;">$/MMBtu</span></span>, is: State
 Abbreviation (in column A) and <span class="VerbatimChar"><span style="font-size: 11pt;">MGACD</span></span> (in column B). For
-example, the code for Alaska is <span class="VerbatimChar"><span style="font-size: 11pt;">AKâ€”MGACD</span></span>. Those prices, in
+example, the code for Alaska is <span class="VerbatimChar"><span style="font-size: 11pt;">AK—MGACD</span></span>. Those prices, in
 $/MMBtu, can be converted to approximate dollars per gallon using the heat
 contents in Table A3 Petroleum consumption and fuel ethanol. There are 42 U.S.
-gallons in a barrel.â€<o:p></o:p></p>
+gallons in a barrel.”<o:p></o:p></p>
 
 <p class="FirstParagraph">The CSV is
 downloaded from &gt; Section: Prices and expenditures &gt; Subsection: All
@@ -49,7 +49,7 @@ price and expenditure estimates &gt; SubSubsection: Prices &gt; 1970-2022 &gt;
 XLSX CSV ZIP<o:p></o:p></p>
 
 <p class="MsoBodyText">The following
-shows the barrel prices falling sharply well before 2016â€™s national election,
+shows the barrel prices falling sharply well before 2016’s national election,
 and remaining relatively stable until after the pandemic crashes of 2020.<o:p></o:p></p>
 
 
@@ -111,9 +111,9 @@ international dataset to review.<o:p></o:p></p>
 <p class="MsoBodyText">This dataframe set <span class="VerbatimChar"><span style="font-size: 11pt;">GasePrices_OWD_crude-oil-prices.csv</span></span> comes from the
 Our World in Data website as a downloadable CSV.<o:p></o:p></p>
 
-<p class="MsoBlockText">â€œData Page: Oil price - Crude
-prices since 1861â€, part of the following publication: Hannah Ritchie, Pablo
-Rosado and Max Roser (2023) - â€œEnergyâ€. Data adapted from Energy Institute.
+<p class="MsoBlockText">“Data Page: Oil price - Crude
+prices since 1861”, part of the following publication: Hannah Ritchie, Pablo
+Rosado and Max Roser (2023) - “Energy”. Data adapted from Energy Institute.
 Retrieved from https://ourworldindata.org/grapher/crude-oil-prices [online
 resource]<o:p></o:p></p>
 
@@ -193,6 +193,6 @@ Oil price - Crude prices since 1861 (current US$)</span><br />
 
 
 
-<h2><a name="placeholder-tbc">Placeholder TBCâ€¦<o:p></o:p></a></h2>
+<h2><a name="placeholder-tbc">Placeholder TBC…<o:p></o:p></a></h2>
 
 <p class="FirstParagraph">Text<o:p></o:p></p>

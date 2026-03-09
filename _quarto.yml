@@ -13,7 +13,9 @@ website:
   description: "Darrell Wolfe's central online home for creative writing, biblical studies, data storytelling, data analysis, and personal essays."
   favicon: images/favicon-dw.svg
   image: "https://darrellwolfe.github.io/darrellwolfe/images/DarrellWolfe_Profile.jpg"
-  open-graph: true
+  image-alt: "Portrait of Darrell Wolfe"
+  open-graph:
+    site-name: "Darrell Wolfe, Storyteller"
   twitter-card:
     card-style: summary_large_image
   search: true
@@ -53,5 +55,6 @@ format:
   html:
     theme: cosmo
     css: assets/css/site.css
+    include-after-body: assets/includes/post-share.html
     toc: false
     smooth-scroll: true

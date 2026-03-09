@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Untitled Post'
 date: '2019-02-22T18:08:00.0000000+00:00'
 draft: false
@@ -23,12 +23,4 @@ Submission brings maturity and favor that all the intellect in the world can't b
 Selah.<br />
 <br />
 <br />
-<span style="font-family: &quot;tempus sans itc&quot;;">Shalom: Live Long and Prosper!</span><br />
-<div class="MsoNormal">
-<span style="font-family: &quot;tempus sans itc&quot;; font-size: 18pt;">Darrell Wolfe (DG Wolfe)</span></div>
-<div class="MsoNormal">
-<span style="font-family: &quot;tempus sans itc&quot;;">Storyteller | Writer | Thinker | Consultant @&nbsp;<a href="http://www.darrellwolfe.com/p/start-here-about_12.html" target="_blank">DarrellWolfe.com</a></span></div>
-<div class="MsoNormal">
-<br /></div>
-<br />
-<br />
+<span style="font-family: &quot;tempus sans itc&quot;;">
