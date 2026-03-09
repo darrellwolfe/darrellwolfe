@@ -240,7 +240,7 @@ Just as the body is made up of cells working together, The Body of Christ is mad
 </div>
 <div>
 <div>
-<i>“… but speaking the truth in love, we are to grow up in all aspects into Him who is the head, even Christ, from whom the whole body, being fitted and held together by what every joint supplies, according to the proper working of each individual part, causes the growth of the body for the building up of itself in love.” Ephesians 4:15â€­-â€¬16 NASB https://bible.com/bible/100/eph.4.15-16.NASB</i>
+<i>“… but speaking the truth in love, we are to grow up in all aspects into Him who is the head, even Christ, from whom the whole body, being fitted and held together by what every joint supplies, according to the proper working of each individual part, causes the growth of the body for the building up of itself in love.” Ephesians 4:15‭-‬16 NASB https://bible.com/bible/100/eph.4.15-16.NASB</i>
 </div>
 </div>
 <div>
@@ -369,6 +369,52 @@ We must hurt with the hurting, and collectively yell: “Ouch! That’s my body!
 
 
 </main> <!-- /main -->
+<div class="post-share-links" data-share-widget="" hidden="">
+  <span class="post-share-label">Share this post:</span>
+  <a data-share="twitter" href="#" rel="noopener noreferrer" target="_blank">X</a>
+  <a data-share="facebook" href="#" rel="noopener noreferrer" target="_blank">Facebook</a>
+  <a data-share="linkedin" href="#" rel="noopener noreferrer" target="_blank">LinkedIn</a>
+</div>
+<script>
+(() => {
+  const shareWidget = document.querySelector("[data-share-widget]");
+  if (!shareWidget) return;
+
+  const pathname = window.location.pathname.replace(/\\/g, "/");
+  const pathSegments = pathname.split("/").filter(Boolean);
+  const postsIndex = pathSegments.indexOf("posts");
+  const postSubpath = postsIndex >= 0 ? pathSegments.slice(postsIndex) : [];
+  const lastSegment = postSubpath[postSubpath.length - 1] || "";
+  const isPostPage =
+    postSubpath.length >= 3 &&
+    lastSegment !== "index.html" &&
+    lastSegment !== "";
+  if (!isPostPage) return;
+
+  const canonicalUrl =
+    document.querySelector('meta[property="og:url"]')?.getAttribute("content") ||
+    document.querySelector('link[rel="canonical"]')?.getAttribute("href") ||
+    window.location.href;
+  const pageTitle =
+    document.querySelector('meta[property="og:title"]')?.getAttribute("content") ||
+    document.title;
+  const encodedUrl = encodeURIComponent(canonicalUrl);
+  const encodedTitle = encodeURIComponent(pageTitle);
+  const shareTargets = {
+    twitter: `https://twitter.com/intent/tweet?url=${encodedUrl}&text=${encodedTitle}`,
+    facebook: `https://www.facebook.com/sharer/sharer.php?u=${encodedUrl}`,
+    linkedin: `https://www.linkedin.com/sharing/share-offsite/?url=${encodedUrl}`
+  };
+
+  shareWidget.querySelectorAll("[data-share]").forEach((link) => {
+    const network = link.getAttribute("data-share");
+    if (!network || !shareTargets[network]) return;
+    link.setAttribute("href", shareTargets[network]);
+  });
+
+  shareWidget.hidden = false;
+})();
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

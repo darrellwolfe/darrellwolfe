@@ -78,10 +78,12 @@ ul.task-list li input[type="checkbox"] {
 <meta property="og:description" content="Darrell Wolfe’s central online home for creative writing, biblical studies, data storytelling, data analysis, and personal essays.">
 <meta property="og:image" content="https://darrellwolfe.github.io/darrellwolfe/images/DarrellWolfe_Profile.jpg">
 <meta property="og:site_name" content="Darrell Wolfe, Storyteller">
+<meta property="og:image:alt" content="Portrait of Darrell Wolfe">
 <meta name="twitter:title" content="A Modern Beit Midrash: Engaging Scripture in Community – Darrell Wolfe, Storyteller">
 <meta name="twitter:description" content="Darrell Wolfe’s central online home for creative writing, biblical studies, data storytelling, data analysis, and personal essays.">
 <meta name="twitter:image" content="https://darrellwolfe.github.io/darrellwolfe/images/DarrellWolfe_Profile.jpg">
 <meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image:alt" content="Portrait of Darrell Wolfe">
 </head>
 
 <body class="nav-fixed fullcontent quarto-light">
@@ -206,19 +208,65 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>I’ve had a dream of starting something akin to Beit Midrash (בית מדרש), House of Study.</p>
+<p>I’ve had a dream of starting something akin to Beit Midrash (×’×™×ª ×ž×“×¨×©), House of Study.</p>
 <p>I want something of a smash between an A.A. meeting and a Book Study, where we come to hear the biblical texts read and interpreted in their own ancient contexts, focus on what those contexts were, and then ask as a group what wisdom was operating for them back then, and as a group (in group discussion, not sermon) come to some conclusion about what wisdom it might have for us today.</p>
 <p>All the while, there is food for everyone (actual meals, not a thimble of grape juice) and places for kids to play, and song times campfire style. And then throughout the week, the facility (or homes or coffee shops or whatever) would be places where people can gather in smaller groups or 1:1 to do life together, share struggles, help each other accomplish things.</p>
 <p>If someone needs a new roof, we all go make it happen as a group. If we hear of someone in the larger community needing help, we go help, regardless of whether they’re “one of us” or not.</p>
 <p>We regularly find the most needy in the region and meet their real needs in meaningful ways, not in token ways. Etc.</p>
 <p>It’s ironic, because I’m the least likely person to (1) start anything like this and (2) go find other humans to be human with. But the dream won’t die, it only grows every year.</p>
-<p>If anyone wants to start this, I’ll help. 🙂</p>
+<p>If anyone wants to start this, I’ll help. ðŸ™‚</p>
 <p>Just thinking out loud.</p>
 <p>Darrell Wolfe, Storyteller.</p>
 
 
 
 </main> <!-- /main -->
+<div class="post-share-links" data-share-widget="" hidden="">
+  <span class="post-share-label">Share this post:</span>
+  <a data-share="twitter" href="#" rel="noopener noreferrer" target="_blank">X</a>
+  <a data-share="facebook" href="#" rel="noopener noreferrer" target="_blank">Facebook</a>
+  <a data-share="linkedin" href="#" rel="noopener noreferrer" target="_blank">LinkedIn</a>
+</div>
+<script>
+(() => {
+  const shareWidget = document.querySelector("[data-share-widget]");
+  if (!shareWidget) return;
+
+  const pathname = window.location.pathname.replace(/\\/g, "/");
+  const pathSegments = pathname.split("/").filter(Boolean);
+  const postsIndex = pathSegments.indexOf("posts");
+  const postSubpath = postsIndex >= 0 ? pathSegments.slice(postsIndex) : [];
+  const lastSegment = postSubpath[postSubpath.length - 1] || "";
+  const isPostPage =
+    postSubpath.length >= 3 &&
+    lastSegment !== "index.html" &&
+    lastSegment !== "";
+  if (!isPostPage) return;
+
+  const canonicalUrl =
+    document.querySelector('meta[property="og:url"]')?.getAttribute("content") ||
+    document.querySelector('link[rel="canonical"]')?.getAttribute("href") ||
+    window.location.href;
+  const pageTitle =
+    document.querySelector('meta[property="og:title"]')?.getAttribute("content") ||
+    document.title;
+  const encodedUrl = encodeURIComponent(canonicalUrl);
+  const encodedTitle = encodeURIComponent(pageTitle);
+  const shareTargets = {
+    twitter: `https://twitter.com/intent/tweet?url=${encodedUrl}&text=${encodedTitle}`,
+    facebook: `https://www.facebook.com/sharer/sharer.php?u=${encodedUrl}`,
+    linkedin: `https://www.linkedin.com/sharing/share-offsite/?url=${encodedUrl}`
+  };
+
+  shareWidget.querySelectorAll("[data-share]").forEach((link) => {
+    const network = link.getAttribute("data-share");
+    if (!network || !shareTargets[network]) return;
+    link.setAttribute("href", shareTargets[network]);
+  });
+
+  shareWidget.hidden = false;
+})();
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

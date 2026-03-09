@@ -216,10 +216,10 @@ What if suffering isn’t good or evil, it just is. And our response is what mat
 </div>
 <div>
 <div>
-“<i>When he saw the crowds, he went up the mountain. After he sat down his disciples came to him. Then he began to teach them by saying: â€œBlessed are the poor in spirit, for the kingdom of heaven belongs to them. â€œBlessed are those who mourn, for they will be comforted. â€œBlessed are the meek, for they will inherit the earth. â€œBlessed are those who hunger and thirst for righteousness, for they will be satisfied. â€œBlessed are the merciful, for they will be shown mercy. â€œBlessed are the pure in heart, for they will see God. â€œBlessed are the peacemakers, for they will be called the children of God. â€œBlessed are those who are persecuted for righteousness, for the kingdom of heaven belongs to them. â€œBlessed are you when people insult you and persecute you and say all kinds of evil things about you falsely on account of me. <b>Rejoice and be glad because your reward is great in heaven, for they persecuted the prophets before you in the same way</b>.”</i>
+“<i>When he saw the crowds, he went up the mountain. After he sat down his disciples came to him. Then he began to teach them by saying: “Blessed are the poor in spirit, for the kingdom of heaven belongs to them. “Blessed are those who mourn, for they will be comforted. “Blessed are the meek, for they will inherit the earth. “Blessed are those who hunger and thirst for righteousness, for they will be satisfied. “Blessed are the merciful, for they will be shown mercy. “Blessed are the pure in heart, for they will see God. “Blessed are the peacemakers, for they will be called the children of God. “Blessed are those who are persecuted for righteousness, for the kingdom of heaven belongs to them. “Blessed are you when people insult you and persecute you and say all kinds of evil things about you falsely on account of me. <b>Rejoice and be glad because your reward is great in heaven, for they persecuted the prophets before you in the same way</b>.”</i>
 </div>
 <div>
-<i>Matthew 5:1â€­-â€¬12 NET</i>
+<i>Matthew 5:1‭-‬12 NET</i>
 </div>
 <div>
 <i>https://bible.com/bible/107/mat.5.1-12.NET</i>
@@ -331,6 +331,52 @@ Selah
 
 
 </main> <!-- /main -->
+<div class="post-share-links" data-share-widget="" hidden="">
+  <span class="post-share-label">Share this post:</span>
+  <a data-share="twitter" href="#" rel="noopener noreferrer" target="_blank">X</a>
+  <a data-share="facebook" href="#" rel="noopener noreferrer" target="_blank">Facebook</a>
+  <a data-share="linkedin" href="#" rel="noopener noreferrer" target="_blank">LinkedIn</a>
+</div>
+<script>
+(() => {
+  const shareWidget = document.querySelector("[data-share-widget]");
+  if (!shareWidget) return;
+
+  const pathname = window.location.pathname.replace(/\\/g, "/");
+  const pathSegments = pathname.split("/").filter(Boolean);
+  const postsIndex = pathSegments.indexOf("posts");
+  const postSubpath = postsIndex >= 0 ? pathSegments.slice(postsIndex) : [];
+  const lastSegment = postSubpath[postSubpath.length - 1] || "";
+  const isPostPage =
+    postSubpath.length >= 3 &&
+    lastSegment !== "index.html" &&
+    lastSegment !== "";
+  if (!isPostPage) return;
+
+  const canonicalUrl =
+    document.querySelector('meta[property="og:url"]')?.getAttribute("content") ||
+    document.querySelector('link[rel="canonical"]')?.getAttribute("href") ||
+    window.location.href;
+  const pageTitle =
+    document.querySelector('meta[property="og:title"]')?.getAttribute("content") ||
+    document.title;
+  const encodedUrl = encodeURIComponent(canonicalUrl);
+  const encodedTitle = encodeURIComponent(pageTitle);
+  const shareTargets = {
+    twitter: `https://twitter.com/intent/tweet?url=${encodedUrl}&text=${encodedTitle}`,
+    facebook: `https://www.facebook.com/sharer/sharer.php?u=${encodedUrl}`,
+    linkedin: `https://www.linkedin.com/sharing/share-offsite/?url=${encodedUrl}`
+  };
+
+  shareWidget.querySelectorAll("[data-share]").forEach((link) => {
+    const network = link.getAttribute("data-share");
+    if (!network || !shareTargets[network]) return;
+    link.setAttribute("href", shareTargets[network]);
+  });
+
+  shareWidget.hidden = false;
+})();
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

@@ -209,7 +209,7 @@ Getting UnStuck - Story Structure Guiding The Path
 It quite common, especially for Pantsers (those who write by the seat of their pants with no real outline or plan ahead of time), to get stuck in your story. At some point, we hit a roadblock, writer’s block, and can’t think of what the story should be next.<br> <br> <b>Story Structure Clues</b><br> <br> This is, in part, because we don’t start with the outline that the stricture Outliners do. We can’t even comprehend where the story will be going in order to outline.<br> <br> However, if we have an idea of the path (the skeleton of the&nbsp;<a href="http://www.darrellwolfe.com/2017/10/the-w-story-structure-4-sequence-story.html?m=1" target="_blank">structure</a>), we can start to see a way through the hazy fog of the future. But even then, we can get stuck like I did last night.<br> <br> I’d written my&nbsp;way through and just couldn’t imagine what needed to happen next. I know where the next major plot point is going to be and what (generally) will happen (Destiny is caught by the FBI but Ash escapes). But it’s way to early to write that in the story timeline. If I write it now, it’ll be out of left field. Nothing has progressed and it’s just too early.<br> <br> <b>Scene Structure Clues</b><br> <br> Then, I had to go back and look at my scenes. Every scene is a natural reaction to the one before it. The reaction becomes the action the next reacts to.<br> <br> Even the very first/opening scene of the book is simply a reaction to events that took place before the reader arrived.<br> <br> So I had to go back and re-read the scene that preceded to see what the natural reaction would be.<br> <br> <i><b>Pro Note</b>: Bill Myers said that his routine is to start by editing whatever he wrote at the last writing session, then start the new writing. This allows you to become aware of the action and set up the reaction.</i><br> <br> Up until this point, every reaction flowed effortlessly. I just saw the movie in my head and wrote it. This time, I just didn’t see anything. Then two things happened.<br> <br> <b>#1. Questions: I asked questions about the previous scene and made notes of things to address.&nbsp;</b><br> <br> Small example, but, if Ash said he was hungry going to bed in the next scene doesn’t make sense unless we address that. Did he go to bed hungry, did he eat? Maybe that drives the action to a kitchen or even out of the house to a restaurant?<br> <br> My questions/items to address from the previous scene:<br> <br>
 <ul>
 <li>
-What did Chester read thatâ€™s not good?
+What did Chester read that’s not good?
 </li>
 <li>
 How do they react to a moment of closeness?
@@ -218,7 +218,7 @@ How do they react to a moment of closeness?
 Ash is Hungry
 </li>
 <li>
-Heâ€™s in the file so he wants to see it himself.&nbsp;
+He’s in the file so he wants to see it himself.&nbsp;
 </li>
 <li>
 He finds Eta in there, side note.
@@ -229,7 +229,7 @@ What else? What in there moves them forward?
 </ul>
 <br> So I’m starting the next scene with ONE simple reaction to the previous scene. One sentence. That will drive the next and the next until the movie reel starts to play.<br>
 <blockquote class="tr_bq blockquote">
-â€œWhatâ€™s not good?â€ Destiny sat a little straighter and leaned forward.
+“What’s not good?” Destiny sat a little straighter and leaned forward.
 </blockquote>
 <div>
 <b>#2. The Other Guy: I have two character’s to keep track of. What’s happening in the other guys world right now?</b>
@@ -272,6 +272,52 @@ What else? What in there moves them forward?
 
 
 </main> <!-- /main -->
+<div class="post-share-links" data-share-widget="" hidden="">
+  <span class="post-share-label">Share this post:</span>
+  <a data-share="twitter" href="#" rel="noopener noreferrer" target="_blank">X</a>
+  <a data-share="facebook" href="#" rel="noopener noreferrer" target="_blank">Facebook</a>
+  <a data-share="linkedin" href="#" rel="noopener noreferrer" target="_blank">LinkedIn</a>
+</div>
+<script>
+(() => {
+  const shareWidget = document.querySelector("[data-share-widget]");
+  if (!shareWidget) return;
+
+  const pathname = window.location.pathname.replace(/\\/g, "/");
+  const pathSegments = pathname.split("/").filter(Boolean);
+  const postsIndex = pathSegments.indexOf("posts");
+  const postSubpath = postsIndex >= 0 ? pathSegments.slice(postsIndex) : [];
+  const lastSegment = postSubpath[postSubpath.length - 1] || "";
+  const isPostPage =
+    postSubpath.length >= 3 &&
+    lastSegment !== "index.html" &&
+    lastSegment !== "";
+  if (!isPostPage) return;
+
+  const canonicalUrl =
+    document.querySelector('meta[property="og:url"]')?.getAttribute("content") ||
+    document.querySelector('link[rel="canonical"]')?.getAttribute("href") ||
+    window.location.href;
+  const pageTitle =
+    document.querySelector('meta[property="og:title"]')?.getAttribute("content") ||
+    document.title;
+  const encodedUrl = encodeURIComponent(canonicalUrl);
+  const encodedTitle = encodeURIComponent(pageTitle);
+  const shareTargets = {
+    twitter: `https://twitter.com/intent/tweet?url=${encodedUrl}&text=${encodedTitle}`,
+    facebook: `https://www.facebook.com/sharer/sharer.php?u=${encodedUrl}`,
+    linkedin: `https://www.linkedin.com/sharing/share-offsite/?url=${encodedUrl}`
+  };
+
+  shareWidget.querySelectorAll("[data-share]").forEach((link) => {
+    const network = link.getAttribute("data-share");
+    if (!network || !shareTargets[network]) return;
+    link.setAttribute("href", shareTargets[network]);
+  });
+
+  shareWidget.hidden = false;
+})();
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

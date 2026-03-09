@@ -78,10 +78,12 @@ ul.task-list li input[type="checkbox"] {
 <meta property="og:description" content="Darrell Wolfe’s central online home for creative writing, biblical studies, data storytelling, data analysis, and personal essays.">
 <meta property="og:image" content="https://darrellwolfe.github.io/darrellwolfe/images/DarrellWolfe_Profile.jpg">
 <meta property="og:site_name" content="Darrell Wolfe, Storyteller">
+<meta property="og:image:alt" content="Portrait of Darrell Wolfe">
 <meta name="twitter:title" content="The dangers of western American Christianity… and the real Gospel of the Kingdom of God. – Darrell Wolfe, Storyteller">
 <meta name="twitter:description" content="Darrell Wolfe’s central online home for creative writing, biblical studies, data storytelling, data analysis, and personal essays.">
 <meta name="twitter:image" content="https://darrellwolfe.github.io/darrellwolfe/images/DarrellWolfe_Profile.jpg">
 <meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image:alt" content="Portrait of Darrell Wolfe">
 </head>
 
 <body class="nav-fixed fullcontent quarto-light">
@@ -336,39 +338,57 @@ All are welcome but only those who remain loyal to Yahweh are welcome to stay. L
 <b>Simply Put:</b> You are invited to become a member of the Kingdom of God, it will cost you everything, even your life, but the rewards are membership in a Kingdom that has no end. Even after you die, you will receive a renewed body on a renewed earth in which Jesus is Lord and King. All who join this Kingdom will be there, including anyone you loved who is also a member. Come, join the Kingdom, and look forward to new creation. <br> <br> Selah
 </p>
 <p style="text-align: left;">
-<br> <br> Subscribe Now - Pursue a No Hiding Lifestyle
-</p>
-<div id="mc_embed_signup">
-<form action="https://darrellwolfe.us3.list-manage.com/subscribe/post?u=979cb0db6ca74343e82a059ba&amp;id=14df3ba97b" class="validate" id="mc-embedded-subscribe-form" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank">
-<div id="mc_embed_signup_scroll">
-<div class="fx-relay-email-input-wrapper">
-<input class="email" id="mce-EMAIL" name="EMAIL" required="" style="padding-right: 30px;" type="email" value="">
-<div class="fx-relay-icon" style="bottom: 0px; right: 2px; top: 0px;">
-<button class="fx-relay-button" id="fx-relay-button" style="height: 24px; min-width: 24px; width: 24px;" title="Generate new alias" type="button">
-</button>
-</div>
-</div>
-<br>
-<div aria-hidden="true" style="left: -5000px; position: absolute;">
-<input name="b_979cb0db6ca74343e82a059ba_14df3ba97b" tabindex="-1" type="text" value="">
-</div>
-<div class="clear">
-<input class="button" id="mc-embedded-subscribe" name="subscribe" type="submit" value="Subscribe">
-</div>
-</div>
-</form>
-</div>
-<br> <span style="font-family: &quot;tempus sans itc&quot;;">Shalom: Live Long and Prosper!</span><br>
-<div class="MsoNormal">
-<span style="font-family: &quot;tempus sans itc&quot;; font-size: 18pt;">Darrell Wolfe (DG Wolfe)</span>
-</div>
-<div class="MsoNormal">
-<span style="font-family: &quot;tempus sans itc&quot;;">Storyteller | Writer | Thinker | Consultant @&nbsp;<a href="http://www.darrellwolfe.com/p/start-here-about_12.html" target="_blank">DarrellWolfe.com</a></span><br> <br> <span style="font-family: &quot;tempus sans itc&quot;;"><a href="https://www.gallupstrengthscenter.com/" target="_blank">Clifton StrengthsFinder</a>: Intellection, Learner,&nbsp;</span><span style="font-family: &quot;tempus sans itc&quot;;">Ideation,</span><span style="font-family: &quot;tempus sans itc&quot;;">&nbsp;Achiever, Input</span><br> <span style="font-family: &quot;tempus sans itc&quot;;"><a href="https://www.16personalities.com/infj-personality" target="_blank">16Personalities</a> (Myers-Briggs Type): INFJ</span><br> <span style="font-family: &quot;tempus sans itc&quot;;"><br></span> <span style="font-family: &quot;tempus sans itc&quot;;"><br></span>
-</div>
+</p><p><br></p>
 
 
 
 </main> <!-- /main -->
+<div class="post-share-links" data-share-widget="" hidden="">
+  <span class="post-share-label">Share this post:</span>
+  <a data-share="twitter" href="#" rel="noopener noreferrer" target="_blank">X</a>
+  <a data-share="facebook" href="#" rel="noopener noreferrer" target="_blank">Facebook</a>
+  <a data-share="linkedin" href="#" rel="noopener noreferrer" target="_blank">LinkedIn</a>
+</div>
+<script>
+(() => {
+  const shareWidget = document.querySelector("[data-share-widget]");
+  if (!shareWidget) return;
+
+  const pathname = window.location.pathname.replace(/\\/g, "/");
+  const pathSegments = pathname.split("/").filter(Boolean);
+  const postsIndex = pathSegments.indexOf("posts");
+  const postSubpath = postsIndex >= 0 ? pathSegments.slice(postsIndex) : [];
+  const lastSegment = postSubpath[postSubpath.length - 1] || "";
+  const isPostPage =
+    postSubpath.length >= 3 &&
+    lastSegment !== "index.html" &&
+    lastSegment !== "";
+  if (!isPostPage) return;
+
+  const canonicalUrl =
+    document.querySelector('meta[property="og:url"]')?.getAttribute("content") ||
+    document.querySelector('link[rel="canonical"]')?.getAttribute("href") ||
+    window.location.href;
+  const pageTitle =
+    document.querySelector('meta[property="og:title"]')?.getAttribute("content") ||
+    document.title;
+  const encodedUrl = encodeURIComponent(canonicalUrl);
+  const encodedTitle = encodeURIComponent(pageTitle);
+  const shareTargets = {
+    twitter: `https://twitter.com/intent/tweet?url=${encodedUrl}&text=${encodedTitle}`,
+    facebook: `https://www.facebook.com/sharer/sharer.php?u=${encodedUrl}`,
+    linkedin: `https://www.linkedin.com/sharing/share-offsite/?url=${encodedUrl}`
+  };
+
+  shareWidget.querySelectorAll("[data-share]").forEach((link) => {
+    const network = link.getAttribute("data-share");
+    if (!network || !shareTargets[network]) return;
+    link.setAttribute("href", shareTargets[network]);
+  });
+
+  shareWidget.hidden = false;
+})();
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

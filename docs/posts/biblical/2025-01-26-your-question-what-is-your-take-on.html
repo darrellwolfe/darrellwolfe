@@ -78,10 +78,12 @@ ul.task-list li input[type="checkbox"] {
 <meta property="og:description" content="Darrell Wolfe’s central online home for creative writing, biblical studies, data storytelling, data analysis, and personal essays.">
 <meta property="og:image" content="https://darrellwolfe.github.io/darrellwolfe/images/DarrellWolfe_Profile.jpg">
 <meta property="og:site_name" content="Darrell Wolfe, Storyteller">
+<meta property="og:image:alt" content="Portrait of Darrell Wolfe">
 <meta name="twitter:title" content="Your Question: What is your take on Original Sin or the state of sinfulness of human beings? – Darrell Wolfe, Storyteller">
 <meta name="twitter:description" content="Darrell Wolfe’s central online home for creative writing, biblical studies, data storytelling, data analysis, and personal essays.">
 <meta name="twitter:image" content="https://darrellwolfe.github.io/darrellwolfe/images/DarrellWolfe_Profile.jpg">
 <meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image:alt" content="Portrait of Darrell Wolfe">
 </head>
 
 <body class="nav-fixed fullcontent quarto-light">
@@ -473,6 +475,52 @@ style='mso-element:field-end'></span><![endif]--><o:p></o:p>
 
 
 </main> <!-- /main -->
+<div class="post-share-links" data-share-widget="" hidden="">
+  <span class="post-share-label">Share this post:</span>
+  <a data-share="twitter" href="#" rel="noopener noreferrer" target="_blank">X</a>
+  <a data-share="facebook" href="#" rel="noopener noreferrer" target="_blank">Facebook</a>
+  <a data-share="linkedin" href="#" rel="noopener noreferrer" target="_blank">LinkedIn</a>
+</div>
+<script>
+(() => {
+  const shareWidget = document.querySelector("[data-share-widget]");
+  if (!shareWidget) return;
+
+  const pathname = window.location.pathname.replace(/\\/g, "/");
+  const pathSegments = pathname.split("/").filter(Boolean);
+  const postsIndex = pathSegments.indexOf("posts");
+  const postSubpath = postsIndex >= 0 ? pathSegments.slice(postsIndex) : [];
+  const lastSegment = postSubpath[postSubpath.length - 1] || "";
+  const isPostPage =
+    postSubpath.length >= 3 &&
+    lastSegment !== "index.html" &&
+    lastSegment !== "";
+  if (!isPostPage) return;
+
+  const canonicalUrl =
+    document.querySelector('meta[property="og:url"]')?.getAttribute("content") ||
+    document.querySelector('link[rel="canonical"]')?.getAttribute("href") ||
+    window.location.href;
+  const pageTitle =
+    document.querySelector('meta[property="og:title"]')?.getAttribute("content") ||
+    document.title;
+  const encodedUrl = encodeURIComponent(canonicalUrl);
+  const encodedTitle = encodeURIComponent(pageTitle);
+  const shareTargets = {
+    twitter: `https://twitter.com/intent/tweet?url=${encodedUrl}&text=${encodedTitle}`,
+    facebook: `https://www.facebook.com/sharer/sharer.php?u=${encodedUrl}`,
+    linkedin: `https://www.linkedin.com/sharing/share-offsite/?url=${encodedUrl}`
+  };
+
+  shareWidget.querySelectorAll("[data-share]").forEach((link) => {
+    const network = link.getAttribute("data-share");
+    if (!network || !shareTargets[network]) return;
+    link.setAttribute("href", shareTargets[network]);
+  });
+
+  shareWidget.hidden = false;
+})();
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

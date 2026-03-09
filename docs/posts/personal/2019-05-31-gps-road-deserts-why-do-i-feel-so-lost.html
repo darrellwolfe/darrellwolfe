@@ -248,17 +248,58 @@ What is one way you connect with God’s heart the easiest?
 What is one thing you could do to update your map, today?
 </li>
 </ul>
-<br><br><br><span style="font-family: &quot;tempus sans itc&quot;;">Shalom: Live Long and Prosper!</span><br>
-<div class="MsoNormal">
-<span style="font-family: &quot;tempus sans itc&quot;; font-size: 18pt;">Darrell Wolfe (DG Wolfe)</span>
+<br><br><br><span style="font-family: &quot;tempus sans itc&quot;;">
+</span></main></div>
+
+
+
+ <!-- /main -->
+<div class="post-share-links" data-share-widget="" hidden="">
+  <span class="post-share-label">Share this post:</span>
+  <a data-share="twitter" href="#" rel="noopener noreferrer" target="_blank">X</a>
+  <a data-share="facebook" href="#" rel="noopener noreferrer" target="_blank">Facebook</a>
+  <a data-share="linkedin" href="#" rel="noopener noreferrer" target="_blank">LinkedIn</a>
 </div>
-<div class="MsoNormal">
-<span style="font-family: &quot;tempus sans itc&quot;;">Storyteller | Writer | Thinker | Consultant @&nbsp;<a href="http://www.darrellwolfe.com/p/start-here-about_12.html" target="_blank">DarrellWolfe.com</a>&nbsp;&amp; <a href="http://topos.consulting/">Topos.Consulting</a></span><br><br><span style="font-family: &quot;tempus sans itc&quot;;"><a href="https://www.gallupstrengthscenter.com/" target="_blank">Clifton StrengthsFinder</a>: Intellection, Learner,&nbsp;</span><span style="font-family: &quot;tempus sans itc&quot;;">Ideation,</span><span style="font-family: &quot;tempus sans itc&quot;;">&nbsp;Achiever, Input</span><br><span style="font-family: &quot;tempus sans itc&quot;;"><a href="https://www.16personalities.com/infj-personality" target="_blank">16Personalities</a>&nbsp;(Myers-Briggs Type): INFJ</span>
-</div>
+<script>
+(() => {
+  const shareWidget = document.querySelector("[data-share-widget]");
+  if (!shareWidget) return;
 
+  const pathname = window.location.pathname.replace(/\\/g, "/");
+  const pathSegments = pathname.split("/").filter(Boolean);
+  const postsIndex = pathSegments.indexOf("posts");
+  const postSubpath = postsIndex >= 0 ? pathSegments.slice(postsIndex) : [];
+  const lastSegment = postSubpath[postSubpath.length - 1] || "";
+  const isPostPage =
+    postSubpath.length >= 3 &&
+    lastSegment !== "index.html" &&
+    lastSegment !== "";
+  if (!isPostPage) return;
 
+  const canonicalUrl =
+    document.querySelector('meta[property="og:url"]')?.getAttribute("content") ||
+    document.querySelector('link[rel="canonical"]')?.getAttribute("href") ||
+    window.location.href;
+  const pageTitle =
+    document.querySelector('meta[property="og:title"]')?.getAttribute("content") ||
+    document.title;
+  const encodedUrl = encodeURIComponent(canonicalUrl);
+  const encodedTitle = encodeURIComponent(pageTitle);
+  const shareTargets = {
+    twitter: `https://twitter.com/intent/tweet?url=${encodedUrl}&text=${encodedTitle}`,
+    facebook: `https://www.facebook.com/sharer/sharer.php?u=${encodedUrl}`,
+    linkedin: `https://www.linkedin.com/sharing/share-offsite/?url=${encodedUrl}`
+  };
 
-</main> <!-- /main -->
+  shareWidget.querySelectorAll("[data-share]").forEach((link) => {
+    const network = link.getAttribute("data-share");
+    if (!network || !shareTargets[network]) return;
+    link.setAttribute("href", shareTargets[network]);
+  });
+
+  shareWidget.hidden = false;
+})();
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -688,7 +729,7 @@ What is one thing you could do to update your map, today?
   }
   loadGiscus();
 </script>
-</div> <!-- /content -->
+ <!-- /content -->
 
 
 

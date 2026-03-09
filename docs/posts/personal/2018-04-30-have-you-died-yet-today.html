@@ -78,10 +78,12 @@ ul.task-list li input[type="checkbox"] {
 <meta property="og:description" content="Darrell Wolfe’s central online home for creative writing, biblical studies, data storytelling, data analysis, and personal essays.">
 <meta property="og:image" content="https://darrellwolfe.github.io/darrellwolfe/images/DarrellWolfe_Profile.jpg">
 <meta property="og:site_name" content="Darrell Wolfe, Storyteller">
+<meta property="og:image:alt" content="Portrait of Darrell Wolfe">
 <meta name="twitter:title" content="Have you died yet today? – Darrell Wolfe, Storyteller">
 <meta name="twitter:description" content="Darrell Wolfe’s central online home for creative writing, biblical studies, data storytelling, data analysis, and personal essays.">
 <meta name="twitter:image" content="https://darrellwolfe.github.io/darrellwolfe/images/DarrellWolfe_Profile.jpg">
 <meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image:alt" content="Portrait of Darrell Wolfe">
 </head>
 
 <body class="nav-fixed fullcontent quarto-light">
@@ -210,21 +212,57 @@ Recently, I said I wasn’t religious but I did have a relationship with Jesus. 
 <blockquote class="tr_bq blockquote">
 <i>…anyone who has died has been set free from sin… In the same way, count yourselves dead to sin but alive to God in Christ Jesus… Don’t you know that when you offer yourselves to someone as obedient slaves, you are slaves of the one you obey—whether you are slaves to sin, which leads to death, or to obedience, which leads to righteousness? <a href="https://www.biblestudytools.com/romans/6.html" target="_blank">Romans 6: 7,11,16</a></i>
 </blockquote>
-<br> Religion reads this and immediately says: “Try harder to do the Knowledge of Good”.<br> <br> Count refers to “accounting” as in business Profit and Loss statements and Taxes. When a business adds a line item to the P&amp;L they are accounting for something that has happened.<br> <br> I am to “account” or add my death to the balance sheet. When I account for the death I died through Jesus it allows me to account for the life I live through Him. That accounting frees me from death and gives me the freedom to live.<br> <br> An amputee will feel the limb that is missing until they activate the new nerve endings by constantly rubbing those nerve endings (the stump) with various materials. This retrains the brain and creates new neural pathways.<br> <br> I read this passage and realize that I only need to remember that I already died and decide which self (old or new) I will be feeding today. Will I scratch the new limb, or keep pretending the leg wasn’t amputated?<br> <br> Selah…<br> <br> <br> <span style="font-family: &quot;tempus sans itc&quot;;">Shalom: Live Long and Prosper!</span><br>
-<div class="MsoNormal">
-<span style="font-family: &quot;tempus sans itc&quot;; font-size: 18pt;">Darrell Wolfe (DG Wolfe)</span>
-</div>
-<div class="MsoNormal">
-<span style="font-family: &quot;tempus sans itc&quot;;">Storyteller | Writer | Thinker | Consultant @&nbsp;<a href="http://www.darrellwolfe.com/p/start-here-about_12.html" target="_blank">DarrellWolfe.com</a></span>
-</div>
-<div class="MsoNormal">
-<br>
-</div>
-<p><br> <br></p>
+<p><br> Religion reads this and immediately says: “Try harder to do the Knowledge of Good”.<br> <br> Count refers to “accounting” as in business Profit and Loss statements and Taxes. When a business adds a line item to the P&amp;L they are accounting for something that has happened.<br> <br> I am to “account” or add my death to the balance sheet. When I account for the death I died through Jesus it allows me to account for the life I live through Him. That accounting frees me from death and gives me the freedom to live.<br> <br> An amputee will feel the limb that is missing until they activate the new nerve endings by constantly rubbing those nerve endings (the stump) with various materials. This retrains the brain and creates new neural pathways.<br> <br> I read this passage and realize that I only need to remember that I already died and decide which self (old or new) I will be feeding today. Will I scratch the new limb, or keep pretending the leg wasn’t amputated?<br> <br> Selah…<br> <br> <br> <span style="font-family: &quot;tempus sans itc&quot;;"></span></p>
 
 
 
 </main> <!-- /main -->
+<div class="post-share-links" data-share-widget="" hidden="">
+  <span class="post-share-label">Share this post:</span>
+  <a data-share="twitter" href="#" rel="noopener noreferrer" target="_blank">X</a>
+  <a data-share="facebook" href="#" rel="noopener noreferrer" target="_blank">Facebook</a>
+  <a data-share="linkedin" href="#" rel="noopener noreferrer" target="_blank">LinkedIn</a>
+</div>
+<script>
+(() => {
+  const shareWidget = document.querySelector("[data-share-widget]");
+  if (!shareWidget) return;
+
+  const pathname = window.location.pathname.replace(/\\/g, "/");
+  const pathSegments = pathname.split("/").filter(Boolean);
+  const postsIndex = pathSegments.indexOf("posts");
+  const postSubpath = postsIndex >= 0 ? pathSegments.slice(postsIndex) : [];
+  const lastSegment = postSubpath[postSubpath.length - 1] || "";
+  const isPostPage =
+    postSubpath.length >= 3 &&
+    lastSegment !== "index.html" &&
+    lastSegment !== "";
+  if (!isPostPage) return;
+
+  const canonicalUrl =
+    document.querySelector('meta[property="og:url"]')?.getAttribute("content") ||
+    document.querySelector('link[rel="canonical"]')?.getAttribute("href") ||
+    window.location.href;
+  const pageTitle =
+    document.querySelector('meta[property="og:title"]')?.getAttribute("content") ||
+    document.title;
+  const encodedUrl = encodeURIComponent(canonicalUrl);
+  const encodedTitle = encodeURIComponent(pageTitle);
+  const shareTargets = {
+    twitter: `https://twitter.com/intent/tweet?url=${encodedUrl}&text=${encodedTitle}`,
+    facebook: `https://www.facebook.com/sharer/sharer.php?u=${encodedUrl}`,
+    linkedin: `https://www.linkedin.com/sharing/share-offsite/?url=${encodedUrl}`
+  };
+
+  shareWidget.querySelectorAll("[data-share]").forEach((link) => {
+    const network = link.getAttribute("data-share");
+    if (!network || !shareTargets[network]) return;
+    link.setAttribute("href", shareTargets[network]);
+  });
+
+  shareWidget.hidden = false;
+})();
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

@@ -10,7 +10,14 @@
   if (!shareWidget) return;
 
   const pathname = window.location.pathname.replace(/\\/g, "/");
-  const isPostPage = /\/posts\/[^/]+\/[^/]+\.html$/.test(pathname) && !/\/index\.html$/.test(pathname);
+  const pathSegments = pathname.split("/").filter(Boolean);
+  const postsIndex = pathSegments.indexOf("posts");
+  const postSubpath = postsIndex >= 0 ? pathSegments.slice(postsIndex) : [];
+  const lastSegment = postSubpath[postSubpath.length - 1] || "";
+  const isPostPage =
+    postSubpath.length >= 3 &&
+    lastSegment !== "index.html" &&
+    lastSegment !== "";
   if (!isPostPage) return;
 
   const canonicalUrl =
