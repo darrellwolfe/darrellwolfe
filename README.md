@@ -9,7 +9,7 @@ Figure out how to do data projects when several are on systems I cannot access h
 
 Update all draft posts to PNG/JPG issues, or, move the remaining posts you want move and run that on those, then delete what you're not going to use. 
 
-
+When rendering, I'm seeing lots of things like this: "[WARNING] Div at line 654 column 5 unclosed at line 706 column 1, closing implicitly. " let's fix those in all the posts. Or should we complete convert all the posts to .qmd markdown and get rid of any latent HTML from the original blogger import? 
 
 This repository is a static Quarto website for:
 

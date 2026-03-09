@@ -280,9 +280,13 @@ I might get more nuanced in the future, but that’s where I’m sitting with th
 </main> <!-- /main -->
 <div class="post-share-links" data-share-widget="" hidden="">
   <span class="post-share-label">Share this post:</span>
-  <a data-share="twitter" href="#" rel="noopener noreferrer" target="_blank">X</a>
   <a data-share="facebook" href="#" rel="noopener noreferrer" target="_blank">Facebook</a>
   <a data-share="linkedin" href="#" rel="noopener noreferrer" target="_blank">LinkedIn</a>
+  <a data-share="bluesky" href="#" rel="noopener noreferrer" target="_blank">Bluesky</a>
+  <a data-share="tumblr" href="#" rel="noopener noreferrer" target="_blank">Tumblr</a>
+  <a data-share="reddit" href="#" rel="noopener noreferrer" target="_blank">Reddit</a>
+  <a data-share="instagram" data-share-mode="copy-and-open" data-fallback-url="https://www.instagram.com/" href="https://www.instagram.com/" rel="noopener noreferrer" target="_blank">Instagram</a>
+  <a data-share="xiaohongshu" data-share-mode="copy-and-open" data-fallback-url="https://www.xiaohongshu.com/explore" href="https://www.xiaohongshu.com/explore" rel="noopener noreferrer" target="_blank">Xiaohongshu</a>
 </div>
 <script>
 (() => {
@@ -307,18 +311,79 @@ I might get more nuanced in the future, but that’s where I’m sitting with th
   const pageTitle =
     document.querySelector('meta[property="og:title"]')?.getAttribute("content") ||
     document.title;
+  const pageDescription =
+    document.querySelector('meta[property="og:description"]')?.getAttribute("content") ||
+    document.querySelector('meta[name="description"]')?.getAttribute("content") ||
+    "";
   const encodedUrl = encodeURIComponent(canonicalUrl);
   const encodedTitle = encodeURIComponent(pageTitle);
+  const encodedDescription = encodeURIComponent(pageDescription);
+  const blueskyText = `${pageTitle} ${canonicalUrl}`.trim();
+  const truncatedBlueskyText =
+    blueskyText.length <= 300
+      ? blueskyText
+      : `${pageTitle.slice(0, Math.max(0, 297 - canonicalUrl.length)).trim()} ${canonicalUrl}`.trim();
+  const encodedBlueskyText = encodeURIComponent(truncatedBlueskyText);
   const shareTargets = {
-    twitter: `https://twitter.com/intent/tweet?url=${encodedUrl}&text=${encodedTitle}`,
     facebook: `https://www.facebook.com/sharer/sharer.php?u=${encodedUrl}`,
-    linkedin: `https://www.linkedin.com/sharing/share-offsite/?url=${encodedUrl}`
+    linkedin: `https://www.linkedin.com/sharing/share-offsite/?url=${encodedUrl}`,
+    bluesky: `https://bsky.app/intent/compose?text=${encodedBlueskyText}`,
+    tumblr: `https://www.tumblr.com/widgets/share/tool?posttype=link&canonicalUrl=${encodedUrl}&title=${encodedTitle}&caption=${encodedDescription}`,
+    reddit: `https://old.reddit.com/submit?url=${encodedUrl}&title=${encodedTitle}`
   };
+  const copyAndOpenNetworks = new Set(["instagram", "xiaohongshu"]);
+
+  async function copyShareText(text) {
+    if (navigator.clipboard?.writeText) {
+      await navigator.clipboard.writeText(text);
+      return;
+    }
+
+    const textarea = document.createElement("textarea");
+    textarea.value = text;
+    textarea.setAttribute("readonly", "");
+    textarea.style.position = "fixed";
+    textarea.style.top = "-9999px";
+    document.body.appendChild(textarea);
+    textarea.select();
+    document.execCommand("copy");
+    textarea.remove();
+  }
+
+  function showCopyFeedback(link) {
+    const originalLabel = link.dataset.originalLabel || link.textContent;
+    link.dataset.originalLabel = originalLabel;
+    link.textContent = "Copied link";
+    window.setTimeout(() => {
+      link.textContent = originalLabel;
+    }, 1600);
+  }
 
   shareWidget.querySelectorAll("[data-share]").forEach((link) => {
     const network = link.getAttribute("data-share");
-    if (!network || !shareTargets[network]) return;
-    link.setAttribute("href", shareTargets[network]);
+    if (!network) return;
+
+    if (shareTargets[network]) {
+      link.setAttribute("href", shareTargets[network]);
+    }
+
+    if (!copyAndOpenNetworks.has(network)) return;
+
+    link.addEventListener("click", async (event) => {
+      event.preventDefault();
+
+      try {
+        await copyShareText(canonicalUrl);
+        showCopyFeedback(link);
+      } catch (_) {
+        // Ignore clipboard failures and still open the destination.
+      }
+
+      const fallbackUrl = link.dataset.fallbackUrl || link.getAttribute("href");
+      if (fallbackUrl) {
+        window.open(fallbackUrl, "_blank", "noopener,noreferrer");
+      }
+    });
   });
 
   shareWidget.hidden = false;
