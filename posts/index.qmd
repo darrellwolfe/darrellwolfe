@@ -1,5 +1,6 @@
 ---
 title: "Writing"
+comments: false
 ---
 
 This writing hub separates personal, biblical studies, and creative writing into distinct pages while keeping search unified across the whole website.

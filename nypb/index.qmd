@@ -2,6 +2,10 @@
 title: "Not Your Pastor’s Bible"
 ---
 
+# Not Your Pastor's Bible (NYPB)
+
+![](/images/NYPB Logos.png){width="164"}
+
 ## Reading the Bible in Its Own World
 
 Not Your Pastor’s Bible is a project dedicated to reading the Bible the way its authors and earliest readers understood it, within the Ancient Near Eastern and Second Temple Jewish world in which it was written.
@@ -22,11 +26,11 @@ Understanding that environment dramatically reshapes how the texts are read.
 
 This project explores ideas such as:
 
-- the worldview of the Ancient Near East
-- the religious imagination of Israelite authors
-- the development of Jewish thought during the Second Temple period
-- how the Jewish authors of the B’rit Chadashah (New Testament) read the Hebrew Scriptures
-- how identity, power, covenant, and cosmic order are described in biblical texts
+-   the worldview of the Ancient Near East
+-   the religious imagination of Israelite authors
+-   the development of Jewish thought during the Second Temple period
+-   how the Jewish authors of the B’rit Chadashah (New Testament) read the Hebrew Scriptures
+-   how identity, power, covenant, and cosmic order are described in biblical texts
 
 Many modern readings flatten the Bible into modern theological arguments. This project instead asks:
 
@@ -36,10 +40,10 @@ What did these texts mean within the intellectual universe that produced them?
 
 This project is not:
 
-- devotional material
-- church sermons
-- denominational theology
-- apologetics meant to defend modern religious systems
+-   devotional material
+-   church sermons
+-   denominational theology
+-   apologetics meant to defend modern religious systems
 
 It is not interested in defending the assumptions of modern Christianity or modern Judaism, both of which developed centuries after the biblical texts and often interpret those texts through later traditions.
 
@@ -59,11 +63,11 @@ The Hebrew Bible emerged from the cultural environment of the Ancient Near East.
 
 Topics explored include:
 
-- cosmic geography
-- divine council imagery
-- temple cosmology
-- ancient creation imagery
-- kingship and sacred authority
+-   cosmic geography
+-   divine council imagery
+-   temple cosmology
+-   ancient creation imagery
+-   kingship and sacred authority
 
 Many passages become far clearer when read within the symbolic world familiar to ancient audiences.
 
@@ -73,10 +77,10 @@ Between the return from exile and the Roman period, Jewish thought developed a r
 
 This period produced:
 
-- apocalyptic literature
-- expanding ideas about angels and heavenly beings
-- sectarian movements such as the Pharisees, Sadducees, and Essenes
-- debates about covenant identity and law
+-   apocalyptic literature
+-   expanding ideas about angels and heavenly beings
+-   sectarian movements such as the Pharisees, Sadducees, and Essenes
+-   debates about covenant identity and law
 
 These developments form the intellectual environment of the Jewish authors of the B’rit Chadashah (New Testament).
 
@@ -88,12 +92,12 @@ The writers of the New Testament were Jewish thinkers living within the Second T
 
 Their writings assume a worldview shaped by ideas such as:
 
-- the unseen spiritual realm
-- the identity and calling of Israel
-- covenant membership
-- messianic expectations
-- resurrection and new creation
-- cosmic conflict between divine and rebellious powers
+-   the unseen spiritual realm
+-   the identity and calling of Israel
+-   covenant membership
+-   messianic expectations
+-   resurrection and new creation
+-   cosmic conflict between divine and rebellious powers
 
 When those assumptions are ignored, their writings are often misread.
 
@@ -123,20 +127,20 @@ A Discord server allows readers and viewers to discuss topics, ask questions, an
 
 Channels include:
 
-- general discussion
-- biblical studies questions
-- reading groups
-- research and resource sharing
+-   general discussion
+-   biblical studies questions
+-   reading groups
+-   research and resource sharing
 
 ### Research Library
 
 A curated research library will be available here, featuring books and academic resources related to:
 
-- Ancient Near Eastern studies
-- Second Temple Judaism
-- biblical scholarship
+-   Ancient Near Eastern studies
+-   Second Temple Judaism
+-   biblical scholarship
 
-(Zotero library embed placeholder)
+See the [Zotero](https://www.zotero.org/groups/5737919/nohiding_scholarslibrary/library "Link to Zotero research libary") research library for books, journal articles, and research recommendations.
 
 ## Launch Roadmap
 
@@ -144,23 +148,22 @@ The project begins with a foundational video series introducing the framework be
 
 ### First Ten Videos
 
-1. What This Project Is
-2. What the Bible Is (and Isn’t)
-3. The Ancient Near Eastern World of the Bible
-4. The Divine Council Worldview
-5. Temple Cosmology
-6. The Second Temple Jewish World
-7. How the New Testament Authors Read Scripture
-8. What "Context" Actually Means
-9. Why Modern Christianity Often Misreads the Bible
+1.  What This Project Is
+2.  What the Bible Is (and Isn’t)
+3.  The Ancient Near Eastern World of the Bible
+4.  The Divine Council Worldview
+5.  Temple Cosmology
+6.  The Second Temple Jewish World
+7.  How the New Testament Authors Read Scripture
+8.  What "Context" Actually Means
+9.  Why Modern Christianity Often Misreads the Bible
 10. How to Start Reading the Bible Differently
 
 ## Community
 
 Readers and viewers who enjoy digging into ideas are invited to join the discussion.
 
-Discord server:  
-(Invite link placeholder)
+Discord server: for [NYPB](https://discord.gg/nqP4s9s5 "link to NYPB Discord Server")\
 
 ## About the Author
 
@@ -174,7 +177,7 @@ His approach treats the Bible as a collection of texts emerging from a particula
 
 Other sections of this site explore different aspects of Darrell’s work:
 
-- [Biblical Studies](../posts/biblical/index.qmd) - research and essays
-- [Data Nerd](../posts/data-nerd/index.qmd) - data visualization, analysis, and technical projects
-- [Storyteller](../posts/writing/index.qmd) - fiction and worldbuilding
-- [Personal](../posts/personal/index.qmd) - ideas and reflections that do not fit neatly into the other categories
+-   [Biblical Studies](../posts/biblical/index.qmd) - research and essays
+-   [Data Nerd](../posts/data-nerd/index.qmd) - data visualization, analysis, and technical projects
+-   [Storyteller](../posts/writing/index.qmd) - fiction and worldbuilding
+-   [Personal](../posts/personal/index.qmd) - ideas and reflections that do not fit neatly into the other categories
