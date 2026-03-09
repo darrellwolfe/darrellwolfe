@@ -70,6 +70,9 @@ document.addEventListener("DOMContentLoaded", async () => {
   let districtOrder = [];
   let geoLabels = null;
   let geoDistrictLookup = null;
+  const hasMapPage = Boolean(elements.mapViewSelect && elements.mapHost && elements.mapStats);
+  const hasGraphPage = Boolean(elements.graphViewSelect && elements.graphHost && elements.graphStats);
+  const hasTablePage = Boolean(elements.tableViewSelect && elements.tableHost && elements.tableStats);
 
   try {
     const data = await app.loadDemoData();
@@ -81,40 +84,57 @@ document.addEventListener("DOMContentLoaded", async () => {
       records.map((record) => [String(record.geo), String(record.district)])
     );
 
-    populateViewSelect(elements.mapViewSelect, mapViews, selectionState.mapView);
-    populateViewSelect(elements.graphViewSelect, graphViews, selectionState.graphView);
-    populateViewSelect(elements.tableViewSelect, tableViews, selectionState.tableView);
+    if (hasMapPage) {
+      populateViewSelect(elements.mapViewSelect, mapViews, selectionState.mapView);
+      elements.mapViewSelect.addEventListener("change", () => {
+        selectionState.mapView = elements.mapViewSelect.value;
+        renderSelectedMap();
+      });
+    }
 
-    elements.mapViewSelect.addEventListener("change", () => {
-      selectionState.mapView = elements.mapViewSelect.value;
-      renderSelectedMap();
-    });
+    if (hasGraphPage) {
+      populateViewSelect(elements.graphViewSelect, graphViews, selectionState.graphView);
+      elements.graphViewSelect.addEventListener("change", () => {
+        selectionState.graphView = elements.graphViewSelect.value;
+        renderSelectedGraph();
+      });
+    }
 
-    elements.graphViewSelect.addEventListener("change", () => {
-      selectionState.graphView = elements.graphViewSelect.value;
-      renderSelectedGraph();
-    });
-
-    elements.tableViewSelect.addEventListener("change", () => {
-      selectionState.tableView = elements.tableViewSelect.value;
-      tableState.currentPage = 1;
-      renderSelectedTable();
-    });
+    if (hasTablePage) {
+      populateViewSelect(elements.tableViewSelect, tableViews, selectionState.tableView);
+      elements.tableViewSelect.addEventListener("change", () => {
+        selectionState.tableView = elements.tableViewSelect.value;
+        tableState.currentPage = 1;
+        renderSelectedTable();
+      });
+    }
 
     app.initFilters(elements.filterForm, records, (state) => {
       filterState = state;
       tableState.currentPage = 1;
       renderScopeSummary();
-      renderSelectedMap();
-      renderSelectedGraph();
-      renderSelectedTable();
+      if (hasMapPage) {
+        renderSelectedMap();
+      }
+      if (hasGraphPage) {
+        renderSelectedGraph();
+      }
+      if (hasTablePage) {
+        renderSelectedTable();
+      }
     });
   } catch (error) {
     console.error(error);
     elements.scopeSummary.innerHTML = `<div class="empty-state">Could not load dashboard data.</div>`;
-    elements.mapStats.textContent = "Could not load map data.";
-    elements.graphStats.textContent = "Could not load graph data.";
-    elements.tableStats.textContent = "Could not load table data.";
+    if (elements.mapStats) {
+      elements.mapStats.textContent = "Could not load map data.";
+    }
+    if (elements.graphStats) {
+      elements.graphStats.textContent = "Could not load graph data.";
+    }
+    if (elements.tableStats) {
+      elements.tableStats.textContent = "Could not load table data.";
+    }
   }
 
   function populateViewSelect(select, views, selectedId) {
@@ -133,16 +153,25 @@ document.addEventListener("DOMContentLoaded", async () => {
   }
 
   function renderSelectedMap() {
+    if (!hasMapPage) {
+      return;
+    }
     const view = getSelectedView(mapViews, selectionState.mapView);
     return view.render(filterState);
   }
 
   function renderSelectedGraph() {
+    if (!hasGraphPage) {
+      return;
+    }
     const view = getSelectedView(graphViews, selectionState.graphView);
     return view.render(filterState);
   }
 
   function renderSelectedTable() {
+    if (!hasTablePage) {
+      return;
+    }
     const view = getSelectedView(tableViews, selectionState.tableView);
     return view.render(filterState);
   }

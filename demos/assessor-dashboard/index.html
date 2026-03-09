@@ -16,13 +16,15 @@
       <div class="hero-copy">
         <h1>Assessor Parcels Demo</h1>
         <p>
-          This is a static parcel dashboard built from local assessor CSV exports and county parcel geometry, with one
-          shared dashboard page for maps, graphs, and tables.
+          This is a static parcel dashboard built from local assessor CSV exports and county parcel geometry, with
+          separate dashboard pages for maps, graphs, and tables.
         </p>
       </div>
       <nav class="dashboard-nav">
         <a class="active" href="index.html">Information</a>
-        <a href="maps.html">Dashboard</a>
+        <a href="maps.html">Maps</a>
+        <a href="graphs.html">Graphs</a>
+        <a href="tables.html">Tables</a>
       </nav>
     </header>
 
@@ -44,23 +46,38 @@
           </p>
         </article>
         <article>
-          <h3>How The Dashboard Is Organized</h3>
-          <p><strong>Maps</strong>, <strong>Graphs</strong>, and <strong>Tables</strong> each live in their own section inside one page.</p>
-          <p>Each section has its own dropdown so you can swap in new views later without changing the shell around it.</p>
-          <p>The current modules are parcel polygons by District, parcel counts by District and GEO, and a parcel detail table.</p>
+          <h3><a href="maps.html">Maps</a></h3>
+          <p>Parcel polygons are colored by District, filtered by the shared District/GEO/AIN/PIN controls, and AIN/PIN matches stay highlighted in bright yellow.</p>
+          <p>The page also includes a map view dropdown so more map modules can be added later without changing the layout.</p>
+        </article>
+        <article>
+          <h3><a href="graphs.html">Graphs</a></h3>
+          <p>
+            Graphs use the same shared filter state as the map and table pages, and summarize parcel counts by District
+            and GEO from the full parcel frame.
+          </p>
+          <p>The graph view dropdown is where additional chart modules can be slotted in later.</p>
+        </article>
+        <article>
+          <h3><a href="tables.html">Tables</a></h3>
+          <p>
+            Tables show the parcel rows behind the current shared filter scope, with paging so the full dataset stays
+            readable instead of trying to render every row at once.
+          </p>
+          <p>The table view dropdown is ready for more table modules later.</p>
         </article>
         <article>
           <h3>Shared Filters</h3>
           <p>
-            The unified dashboard uses one shared filter state across all sections. District stays as button chips, GEO
-            uses a multi-select control, and AIN/PIN partial searches feed the same scope everywhere.
+            All dashboard pages share the same filter state through browser storage. District stays as button chips,
+            GEO uses a multi-select control, and AIN/PIN partial searches move with you from page to page.
           </p>
         </article>
         <article>
           <h3>Full Dataset Scope</h3>
           <p>
             This dashboard now uses the full parcel CSV dataset. The map joins parcel geometry to the parcel records by
-            <code>lrsn</code>, while the graphs and table work directly from the full parcel frame.
+            <code>lrsn</code>, while graphs and tables work directly from the full parcel frame.
           </p>
         </article>
       </section>
@@ -72,8 +89,8 @@
           and GeoJSON files generated from your CSV and shapefile exports.
         </p>
         <p class="muted">
-          The live dashboard uses dropdown-selected modules so additional maps, graphs, and tables can slot into the
-          existing layout instead of forcing another page split.
+          You can reach each viz type either from the top menu on every dashboard page or from the linked descriptions
+          here on the information page.
         </p>
       </section>
     </main>

@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Assessor Dashboard Demo</title>
+  <title>Assessor Dashboard Demo - Maps</title>
   <link
     rel="stylesheet"
     href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
@@ -17,19 +17,20 @@
     <header class="dashboard-header">
       <div class="header-topline">
         <a class="back-link" href="../index.html">Back to Demos</a>
-        <span class="project-tag">Unified Parcel Dashboard Demo</span>
+        <span class="project-tag">Assessor Dashboard Demo</span>
       </div>
       <div class="hero-copy">
-        <h1>Assessor Dashboard</h1>
+        <h1>Assessor Dashboard - Maps</h1>
         <p>
-          One dashboard shell for parcel maps, graphs, and tables. District filters stay as buttons, GEOs use a
-          multi-select control, and each section is chosen from a dropdown so new modules can be added without another
-          layout rewrite.
+          The map page is its own dashboard view. Use the top menu to switch to graph or table pages, or use the map
+          view dropdown here when more map modules are added.
         </p>
       </div>
       <nav class="dashboard-nav">
         <a href="index.html">Information</a>
-        <a class="active" href="maps.html">Dashboard</a>
+        <a class="active" href="maps.html">Maps</a>
+        <a href="graphs.html">Graphs</a>
+        <a href="tables.html">Tables</a>
       </nav>
     </header>
 
@@ -37,7 +38,7 @@
       <aside class="panel sidebar-panel">
         <div class="panel-header">
           <h2>Controls</h2>
-          <p class="muted">Shared across every map, graph, and table module.</p>
+          <p class="muted">Shared filter state carries across Maps, Graphs, and Tables.</p>
         </div>
 
         <form class="filter-stack" data-filter-form>
@@ -84,11 +85,11 @@
       </aside>
 
       <section class="content-stack">
-        <article class="panel" id="map-section">
+        <article class="panel">
           <div class="module-header">
             <div>
               <h2>Maps</h2>
-              <p class="muted">Select which map module to render inside this dashboard section.</p>
+              <p class="muted">Choose which map module to render on this page.</p>
             </div>
             <label class="field-stack compact-field">
               <span>Map view</span>
@@ -97,36 +98,6 @@
           </div>
           <p class="status-line" id="map-stats">Loading map...</p>
           <div class="module-stage" id="map-view-host"></div>
-        </article>
-
-        <article class="panel" id="graphs-section">
-          <div class="module-header">
-            <div>
-              <h2>Graphs</h2>
-              <p class="muted">Select which graph module to render inside this dashboard section.</p>
-            </div>
-            <label class="field-stack compact-field">
-              <span>Graph view</span>
-              <select id="graph-view-select"></select>
-            </label>
-          </div>
-          <p class="status-line" id="graph-stats">Loading graph...</p>
-          <div class="module-stage" id="graph-view-host"></div>
-        </article>
-
-        <article class="panel" id="tables-section">
-          <div class="module-header">
-            <div>
-              <h2>Tables</h2>
-              <p class="muted">Select which table module to render inside this dashboard section.</p>
-            </div>
-            <label class="field-stack compact-field">
-              <span>Table view</span>
-              <select id="table-view-select"></select>
-            </label>
-          </div>
-          <p class="status-line" id="table-stats">Loading table...</p>
-          <div class="module-stage" id="table-view-host"></div>
         </article>
       </section>
     </main>
@@ -137,7 +108,6 @@
     integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
     crossorigin=""
   ></script>
-  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.2/dist/chart.umd.min.js"></script>
   <script src="js/common.js"></script>
   <script src="js/dashboard.js"></script>
 </body>
