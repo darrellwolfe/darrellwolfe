@@ -1,0 +1,484 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;500;600;700&display=swap");
+
+:root {
+  --site-bg: #f7f5ef;
+  --surface: #fffdfa;
+  --surface-soft: #f2efea;
+  --teal-700: #0f5e63;
+  --teal-600: #1a747b;
+  --teal-500: #2b8d95;
+  --text-main: #213034;
+  --text-muted: #5b6b70;
+  --line: #d2dddb;
+  --shadow-soft: 0 12px 28px rgba(16, 42, 45, 0.08);
+  --content-max: 860px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Source Sans 3", "Segoe UI", Tahoma, sans-serif;
+  background:
+    radial-gradient(circle at 12% -8%, rgba(43, 141, 149, 0.08), transparent 38%),
+    radial-gradient(circle at 95% -10%, rgba(26, 116, 123, 0.08), transparent 32%),
+    var(--site-bg);
+  color: var(--text-main);
+}
+
+#quarto-header.headroom.fixed-top {
+  position: relative;
+}
+
+body.nav-fixed {
+  padding-top: 0 !important;
+}
+
+#quarto-header .navbar {
+  background: color-mix(in srgb, var(--site-bg) 92%, white 8%) !important;
+  border-bottom: 1px solid var(--line);
+  backdrop-filter: blur(10px);
+  padding-top: 0.85rem;
+  padding-bottom: 0.55rem;
+}
+
+#quarto-header .navbar-container {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  row-gap: 0.45rem;
+  align-items: center;
+}
+
+#quarto-header .navbar-brand-container {
+  grid-column: 1 / -1;
+  width: 100%;
+  margin: 0;
+}
+
+#quarto-header .navbar-brand {
+  display: block;
+  width: 100%;
+  padding: 0.2rem 0.6rem 0.65rem;
+  text-align: center;
+  color: var(--teal-700);
+  white-space: normal;
+}
+
+#quarto-header .navbar-title {
+  display: block;
+  color: #1a2553;
+  font-family: "Book Antiqua", "Palatino Linotype", "Times New Roman", Times, serif;
+  font-size: clamp(1.85rem, 4.2vw, 3.15rem);
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  line-height: 1.05;
+  text-wrap: balance;
+  white-space: normal;
+  overflow-wrap: anywhere;
+}
+
+#quarto-header .navbar-brand::after {
+  content: "Storyteller | Thinker | Data Viz Nerd | SQL Geek | INFP | AuDHD | Science Fantasy Fan";
+  display: block;
+  width: min(100%, 62rem);
+  margin: 0.7rem auto 0;
+  padding-top: 0.55rem;
+  border-top: 1px solid var(--line);
+  color: var(--text-muted);
+  font-family: "Source Sans 3", "Segoe UI", Tahoma, sans-serif;
+  font-size: clamp(0.82rem, 0.74rem + 0.7vw, 1.1rem);
+  font-weight: 500;
+  line-height: 1.4;
+  white-space: normal;
+  overflow-wrap: anywhere;
+}
+
+#quarto-header #quarto-search {
+  grid-column: 1;
+  grid-row: 2;
+  justify-self: start;
+}
+
+#quarto-header #quarto-search .aa-DetachedSearchButton {
+  border: 1px solid color-mix(in srgb, var(--teal-700) 38%, white 62%);
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--surface) 90%, white 10%);
+  box-shadow: 0 4px 14px rgba(16, 43, 46, 0.08);
+  padding: 0.3rem 0.78rem;
+  min-height: 2.1rem;
+  transition: box-shadow 140ms ease, border-color 140ms ease, transform 140ms ease;
+}
+
+#quarto-header #quarto-search .aa-DetachedSearchButton:hover {
+  border-color: color-mix(in srgb, var(--teal-700) 58%, white 42%);
+  box-shadow: 0 8px 18px rgba(16, 43, 46, 0.13);
+  transform: translateY(-1px);
+}
+
+#quarto-header #quarto-search .aa-DetachedSearchButtonIcon {
+  color: var(--teal-700);
+}
+
+#quarto-header #quarto-search .aa-DetachedSearchButtonPlaceholder::after {
+  content: "Search Site";
+  margin-left: 0.45rem;
+  color: var(--teal-700);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+#quarto-header .navbar-toggler {
+  grid-column: 2;
+  grid-row: 2;
+  margin-left: auto;
+}
+
+#quarto-header .navbar-collapse {
+  grid-column: 1 / -1;
+  margin-top: 0.1rem;
+  padding-top: 0.45rem;
+  border-top: 1px solid var(--line);
+}
+
+#quarto-header .navbar-nav {
+  width: 100%;
+  justify-content: center;
+  gap: 0.1rem 0.5rem;
+}
+
+#quarto-header .navbar-nav .nav-link,
+#quarto-header .navbar-nav .dropdown-item {
+  color: var(--teal-700);
+  font-size: 0.92rem;
+  font-weight: 650;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+#quarto-header .navbar-nav .nav-link:hover,
+#quarto-header .navbar-nav .dropdown-item:hover {
+  color: var(--teal-500);
+}
+
+@media (max-width: 991.98px) {
+  #quarto-header .navbar {
+    padding-top: 0.7rem;
+    padding-bottom: 0.45rem;
+  }
+
+  #quarto-header .navbar-brand {
+    padding-bottom: 0.55rem;
+  }
+
+  #quarto-header .navbar-title {
+    font-size: clamp(1.55rem, 7.2vw, 2.3rem);
+    line-height: 1.1;
+  }
+
+  #quarto-header .navbar-brand::after {
+    font-size: clamp(0.78rem, 3.4vw, 0.96rem);
+  }
+
+  #quarto-header .navbar-collapse {
+    padding-top: 0.3rem;
+  }
+
+  #quarto-header .navbar-nav {
+    align-items: flex-start;
+  }
+
+  #quarto-header .navbar-nav .nav-link {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+@media (max-width: 575.98px) {
+  #quarto-header .navbar-brand {
+    padding-left: 0.35rem;
+    padding-right: 0.35rem;
+  }
+
+  #quarto-header .navbar-brand::after {
+    margin-top: 0.55rem;
+    padding-top: 0.45rem;
+  }
+}
+
+#quarto-content {
+  padding-top: 0.5rem;
+  background-color: var(--site-bg);
+}
+
+#quarto-content .page-navigation,
+.nav-footer {
+  background-color: var(--site-bg);
+}
+
+main.content {
+  max-width: var(--content-max);
+  margin: 0 auto;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: "Times New Roman", Times, serif;
+  color: var(--teal-700);
+  letter-spacing: 0.01em;
+}
+
+p,
+li {
+  line-height: 1.72;
+}
+
+#title-block-header {
+  border-left: 4px solid var(--teal-600);
+  background: color-mix(in srgb, var(--surface) 88%, var(--surface-soft) 12%);
+  border-radius: 0.8rem;
+  padding: 1rem 1.15rem;
+  margin-bottom: 1.5rem;
+}
+
+.hero-shell {
+  background: linear-gradient(170deg, rgba(255, 255, 255, 0.9), rgba(243, 241, 235, 0.9));
+  border: 1px solid var(--line);
+  border-radius: 1rem;
+  padding: 1.3rem 1.3rem 1.1rem;
+  box-shadow: var(--shadow-soft);
+  margin-bottom: 1.3rem;
+}
+
+.hero-kicker {
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  font-size: 0.78rem;
+  color: var(--teal-500);
+  font-weight: 700;
+}
+
+h1.hero-title {
+  margin-top: 0.25rem;
+  margin-bottom: 0.75rem;
+  font-size: clamp(2rem, 4.8vw, 2.9rem);
+}
+
+.hero-actions {
+  display: flex;
+  gap: 0.65rem;
+  flex-wrap: wrap;
+  margin-top: 0.7rem;
+}
+
+.section-panel {
+  border: 1px solid var(--line);
+  background: var(--surface);
+  border-radius: 0.9rem;
+  padding: 1rem 1.1rem;
+  margin: 0.95rem 0;
+  box-shadow: 0 5px 18px rgba(12, 38, 41, 0.05);
+}
+
+.quick-links {
+  margin: 0;
+}
+
+.quick-links ul,
+.quick-links li {
+  margin-bottom: 0.35rem;
+}
+
+.card-grid {
+  display: grid;
+  gap: 0.9rem;
+  grid-template-columns: 1fr;
+  margin: 0.9rem 0 1.6rem;
+}
+
+.card {
+  border: 1px solid var(--line);
+  background: var(--surface);
+  border-radius: 0.85rem;
+  padding: 1rem;
+  box-shadow: 0 8px 22px rgba(14, 43, 46, 0.06);
+  transition: transform 160ms ease, box-shadow 160ms ease, border-color 160ms ease;
+}
+
+.card:hover {
+  transform: translateY(-2px);
+  border-color: color-mix(in srgb, var(--line) 70%, var(--teal-500) 30%);
+  box-shadow: 0 14px 30px rgba(11, 35, 38, 0.12);
+}
+
+.card h3 {
+  margin-top: 0;
+}
+
+.btn {
+  border-radius: 999px;
+  font-weight: 700;
+  padding: 0.45rem 1rem;
+  letter-spacing: 0.01em;
+}
+
+.btn-primary {
+  background: var(--teal-700);
+  border-color: var(--teal-700);
+  color: #ffffff !important;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active {
+  background: var(--teal-600);
+  border-color: var(--teal-600);
+  color: #ffffff !important;
+}
+
+.btn-outline-primary {
+  color: var(--teal-700);
+  border-color: color-mix(in srgb, var(--teal-700) 70%, #ffffff 30%);
+}
+
+.btn-outline-primary:hover {
+  background: var(--teal-700);
+  border-color: var(--teal-700);
+}
+
+.btn-outline-secondary {
+  color: var(--teal-600);
+  border-color: color-mix(in srgb, var(--teal-500) 60%, #ffffff 40%);
+}
+
+.btn-outline-secondary:hover {
+  color: white;
+  background: var(--teal-500);
+  border-color: var(--teal-500);
+}
+
+main.content p a:not(.btn),
+main.content li a:not(.btn) {
+  color: var(--teal-700);
+  text-decoration: none;
+  background-image: linear-gradient(currentColor, currentColor);
+  background-repeat: no-repeat;
+  background-size: 0% 1px;
+  background-position: 0 100%;
+  transition: background-size 200ms ease;
+}
+
+main.content p a:not(.btn):hover,
+main.content li a:not(.btn):hover {
+  background-size: 100% 1px;
+}
+
+.quarto-listing .quarto-post {
+  border: 1px solid var(--line);
+  border-radius: 0.9rem;
+  padding: 0.9rem 0.95rem;
+  background: var(--surface);
+  margin-bottom: 0.85rem;
+  transition: transform 160ms ease, box-shadow 160ms ease;
+}
+
+.quarto-listing .quarto-post:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 12px 26px rgba(17, 46, 48, 0.09);
+}
+
+.quarto-listing .listing-title a {
+  color: var(--teal-700);
+}
+
+.quarto-listing .listing-date {
+  color: var(--text-muted);
+}
+
+#quarto-margin-sidebar,
+.sidebar.margin-sidebar,
+.sidebar.toc-left {
+  display: none !important;
+}
+
+.quarto-title-meta,
+.nav-footer {
+  color: var(--text-muted);
+}
+
+@keyframes rise-fade {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.hero-shell,
+.section-panel,
+.quarto-listing .quarto-post,
+.card {
+  animation: rise-fade 520ms ease both;
+}
+
+.post-share-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  align-items: center;
+  max-width: var(--content-max);
+  margin: 2.5rem auto 0;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--line);
+}
+
+.post-share-links[hidden] {
+  display: none !important;
+}
+
+.post-share-label {
+  color: var(--text-muted);
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.post-share-links a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 2.25rem;
+  padding: 0.35rem 0.85rem;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--surface) 90%, white 10%);
+  color: var(--teal-700);
+  font-weight: 600;
+  text-decoration: none;
+  transition: border-color 140ms ease, box-shadow 140ms ease, transform 140ms ease;
+}
+
+.post-share-links a:hover {
+  border-color: color-mix(in srgb, var(--teal-700) 50%, white 50%);
+  box-shadow: 0 8px 18px rgba(16, 43, 46, 0.1);
+  color: var(--teal-500);
+  transform: translateY(-1px);
+}
+
+@media (max-width: 575.98px) {
+  .post-share-links {
+    gap: 0.6rem;
+  }
+
+  .post-share-label {
+    width: 100%;
+  }
+}

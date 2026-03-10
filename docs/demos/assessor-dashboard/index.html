@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Assessor Dashboard Demo - Information</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="dashboard-shell">
+    <header class="dashboard-header">
+      <div class="header-topline">
+        <a class="back-link" href="../index.html">Back to Demos</a>
+        <span class="project-tag">Static Parcel Dashboard Demo</span>
+      </div>
+      <div class="hero-copy">
+        <h1>Assessor Parcels Demo</h1>
+        <p>
+          This is a static parcel dashboard built from local assessor CSV exports and county parcel geometry, with
+          separate dashboard pages for maps, graphs, and tables.
+        </p>
+      </div>
+      <nav class="dashboard-nav">
+        <a class="active" href="index.html">Information</a>
+        <a href="maps.html">Maps</a>
+        <a href="graphs.html">Graphs</a>
+        <a href="tables.html">Tables</a>
+      </nav>
+    </header>
+
+    <main class="page-grid">
+      <section class="panel">
+        <div class="panel-header">
+          <h2>Demo Scope</h2>
+          <p class="muted">Static files only. No live database connections.</p>
+        </div>
+        <div class="stat-grid" id="info-summary"></div>
+      </section>
+
+      <section class="panel info-list">
+        <article>
+          <h3>What This Demo Uses</h3>
+          <p>
+            Parcel polygons are derived from the county shapefile and converted into GeoJSON. Parcel attributes and
+            metrics come from the local CSV extracts in <code>assets/data/assessor_data</code>.
+          </p>
+        </article>
+        <article>
+          <h3><a href="maps.html">Maps</a></h3>
+          <p>Parcel polygons are colored by District, filtered by the shared District/GEO/AIN/PIN controls, and AIN/PIN matches stay highlighted in bright yellow.</p>
+          <p>The page also includes a map view dropdown so more map modules can be added later without changing the layout.</p>
+        </article>
+        <article>
+          <h3><a href="graphs.html">Graphs</a></h3>
+          <p>
+            Graphs use the same shared filter state as the map and table pages, and summarize parcel counts by District
+            and GEO from the full parcel frame.
+          </p>
+          <p>The graph view dropdown is where additional chart modules can be slotted in later.</p>
+        </article>
+        <article>
+          <h3><a href="tables.html">Tables</a></h3>
+          <p>
+            Tables show the parcel rows behind the current shared filter scope, with paging so the full dataset stays
+            readable instead of trying to render every row at once.
+          </p>
+          <p>The table view dropdown is ready for more table modules later.</p>
+        </article>
+        <article>
+          <h3>Shared Filters</h3>
+          <p>
+            All dashboard pages share the same filter state through browser storage. District stays as button chips,
+            GEO uses a multi-select control, and AIN/PIN partial searches move with you from page to page.
+          </p>
+        </article>
+        <article>
+          <h3>Full Dataset Scope</h3>
+          <p>
+            This dashboard now uses the full parcel CSV dataset. The map joins parcel geometry to the parcel records by
+            <code>lrsn</code>, while graphs and tables work directly from the full parcel frame.
+          </p>
+        </article>
+      </section>
+
+      <section class="panel">
+        <h2>Data Notes</h2>
+        <p class="muted">
+          The dashboard is static. It does not connect to a live database, and it reads only the locally prepared JSON
+          and GeoJSON files generated from your CSV and shapefile exports.
+        </p>
+        <p class="muted">
+          You can reach each viz type either from the top menu on every dashboard page or from the linked descriptions
+          here on the information page.
+        </p>
+      </section>
+    </main>
+  </div>
+
+  <script src="js/common.js"></script>
+  <script src="js/information.js"></script>
+</body>
+</html>

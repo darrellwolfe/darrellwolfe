@@ -46,6 +46,8 @@ Run the helper script directly (PowerShell):
 ./scripts/site.ps1 -Action check
 ```
 
+The helper build commands also sync shared CSS and standalone demo assets into `docs/` so the published site includes the dashboard pages and their supporting files.
+
 In VS Code:
 
 - Use `Ctrl+Shift+B` to run **Build All** (full clean render).

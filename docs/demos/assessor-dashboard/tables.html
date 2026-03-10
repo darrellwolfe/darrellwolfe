@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Assessor Dashboard Demo - Tables</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="dashboard-shell dashboard-shell-wide">
+    <header class="dashboard-header">
+      <div class="header-topline">
+        <a class="back-link" href="../index.html">Back to Demos</a>
+        <span class="project-tag">Assessor Dashboard Demo</span>
+      </div>
+      <div class="hero-copy">
+        <h1>Assessor Dashboard - Tables</h1>
+        <p>
+          The table page is its own dashboard view. Use the top menu to switch to maps or graphs, or use the table
+          view dropdown here when more table modules are added.
+        </p>
+      </div>
+      <nav class="dashboard-nav">
+        <a href="index.html">Information</a>
+        <a href="maps.html">Maps</a>
+        <a href="graphs.html">Graphs</a>
+        <a class="active" href="tables.html">Tables</a>
+      </nav>
+    </header>
+
+    <main class="workspace">
+      <aside class="panel sidebar-panel">
+        <div class="panel-header">
+          <h2>Controls</h2>
+          <p class="muted">Shared filter state carries across Maps, Graphs, and Tables.</p>
+        </div>
+
+        <form class="filter-stack" data-filter-form>
+          <div class="filter-block">
+            <h3>District</h3>
+            <div class="chip-list" data-filter-group="districts"></div>
+          </div>
+
+          <div class="filter-block">
+            <h3>GEO</h3>
+            <label class="field-stack">
+              <span>Select one or more GEOs</span>
+              <select class="multi-select-field" name="geos" multiple size="12"></select>
+            </label>
+            <p class="filter-note">Use Ctrl/Cmd-click on Windows or Command-click on Mac to select multiple GEOs.</p>
+          </div>
+
+          <div class="filter-block">
+            <h3>Search</h3>
+            <div class="search-grid">
+              <label>
+                <span>AIN contains</span>
+                <input name="ainQuery" type="search" placeholder="Example: 117">
+              </label>
+              <label>
+                <span>PIN contains</span>
+                <input name="pinQuery" type="search" placeholder="Example: 53N05">
+              </label>
+            </div>
+          </div>
+
+          <div class="button-row">
+            <button class="primary" type="button" data-reset-filters>Reset filters</button>
+          </div>
+        </form>
+
+        <section class="scope-panel">
+          <div class="panel-header">
+            <h3>Current Scope</h3>
+            <p class="muted">Live summary of the shared filter state.</p>
+          </div>
+          <div class="scope-list" id="scope-summary"></div>
+        </section>
+      </aside>
+
+      <section class="content-stack">
+        <article class="panel">
+          <div class="module-header">
+            <div>
+              <h2>Tables</h2>
+              <p class="muted">Choose which table module to render on this page.</p>
+            </div>
+            <label class="field-stack compact-field">
+              <span>Table view</span>
+              <select id="table-view-select"></select>
+            </label>
+          </div>
+          <p class="status-line" id="table-stats">Loading table...</p>
+          <div class="module-stage" id="table-view-host"></div>
+        </article>
+      </section>
+    </main>
+  </div>
+
+  <script src="js/common.js"></script>
+  <script src="js/dashboard.js"></script>
+</body>
+</html>

@@ -1,16 +1,15 @@
 project:
   type: website
   output-dir: docs
+  post-render:
+    - powershell -ExecutionPolicy Bypass -File scripts/sync-static-assets.ps1 -OutputDir docs
   render:
     - "**/*.qmd"
     - "!drafts/**"
   resources:
+    - assets/css/**
     - images/**
-    - demos/**/*.html
-    - demos/**/*.css
-    - demos/**/*.js
-    - demos/**/*.json
-    - demos/**/*.geojson
+    - demos/*/**
 
 website:
   title: "Darrell Wolfe, Storyteller"

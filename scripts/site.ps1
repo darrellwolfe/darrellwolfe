@@ -5,6 +5,10 @@ param(
 
 $ErrorActionPreference = "Stop"
 $OutputDir = "docs"
+$RequiredPublishedAssets = @(
+  (Join-Path $OutputDir "assets/css/site.css"),
+  (Join-Path $OutputDir "demos/assessor-dashboard/index.html")
+)
 
 $RepoRoot = Split-Path -Parent $PSScriptRoot
 Set-Location $RepoRoot
@@ -16,7 +20,18 @@ if (-not (Get-Command quarto -ErrorAction SilentlyContinue)) {
 function Invoke-FullBuild {
   Write-Host "Rendering full site into docs/ (clean)..." -ForegroundColor Cyan
   quarto render --clean --output-dir $OutputDir
+  powershell -ExecutionPolicy Bypass -File (Join-Path $PSScriptRoot "sync-static-assets.ps1") -OutputDir $OutputDir
   Write-Host "Full build complete." -ForegroundColor Green
+}
+
+function Test-RequiredPublishedAssets {
+  foreach ($path in $RequiredPublishedAssets) {
+    if (-not (Test-Path $path)) {
+      return $false
+    }
+  }
+
+  return $true
 }
 
 function Get-QuickRenderTargets {
@@ -96,6 +111,13 @@ function Get-QuickRenderTargets {
       }
   )
 
+  if (-not (Test-RequiredPublishedAssets)) {
+    return @{
+      Mode = "project"
+      Targets = @()
+    }
+  }
+
   if ($hasDeletedOrRenamedSourceQmd) {
     return @{
       Mode = "clean"
@@ -103,7 +125,17 @@ function Get-QuickRenderTargets {
     }
   }
 
-  if ($sourceChangedPaths -contains "_quarto.yml") {
+  $requiresProjectRender = @(
+    $sourceChangedPaths |
+      Where-Object {
+        $_ -eq "_quarto.yml" -or
+        $_.StartsWith("assets/css/") -or
+        $_.StartsWith("assets/includes/") -or
+        $_.StartsWith("demos/")
+      }
+  ).Count -gt 0
+
+  if ($requiresProjectRender) {
     return @{
       Mode = "project"
       Targets = @()
@@ -162,12 +194,14 @@ switch ($Action) {
       "project" {
         Write-Host "Quick mode running non-clean project render..." -ForegroundColor Cyan
         quarto render --no-clean --output-dir $OutputDir
+        powershell -ExecutionPolicy Bypass -File (Join-Path $PSScriptRoot "sync-static-assets.ps1") -OutputDir $OutputDir
         Write-Host "Quick project render complete." -ForegroundColor Green
       }
       "targets" {
         Write-Host "Quick mode rendering changed files and affected listing pages:" -ForegroundColor Cyan
         $quick.Targets | ForEach-Object { Write-Host "  - $_" }
         quarto render @($quick.Targets) --no-clean --output-dir $OutputDir
+        powershell -ExecutionPolicy Bypass -File (Join-Path $PSScriptRoot "sync-static-assets.ps1") -OutputDir $OutputDir
         Write-Host "Quick target render complete." -ForegroundColor Green
       }
       "none" {
