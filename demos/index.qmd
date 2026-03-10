@@ -6,4 +6,4 @@ Interactive demos live here as standalone static pages.
 
 - [Assessor Dashboard](assessor-dashboard/index.html)
 
-Note: demos using `fetch()` must run through a local server. Use `quarto preview` (or any local static server) during development.
+Note: demos using `fetch()` must run through a local server. Use `quarto preview` (or any local static server) during development instead of opening the HTML files directly from disk.

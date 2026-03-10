@@ -125,15 +125,15 @@ document.addEventListener("DOMContentLoaded", async () => {
     });
   } catch (error) {
     console.error(error);
-    elements.scopeSummary.innerHTML = `<div class="empty-state">Could not load dashboard data.</div>`;
+    elements.scopeSummary.innerHTML = `<div class="empty-state">${app.escapeHtml(app.getLoadErrorMessage("dashboard data"))}</div>`;
     if (elements.mapStats) {
-      elements.mapStats.textContent = "Could not load map data.";
+      elements.mapStats.textContent = app.getLoadErrorMessage("map data");
     }
     if (elements.graphStats) {
-      elements.graphStats.textContent = "Could not load graph data.";
+      elements.graphStats.textContent = app.getLoadErrorMessage("graph data");
     }
     if (elements.tableStats) {
-      elements.tableStats.textContent = "Could not load table data.";
+      elements.tableStats.textContent = app.getLoadErrorMessage("table data");
     }
   }
 
@@ -362,7 +362,7 @@ document.addEventListener("DOMContentLoaded", async () => {
       elements.mapStats.textContent = `Showing ${app.formatNumber(scopedRecords.length)} parcel record(s) in scope; ${geometryText}.${highlightedText}`;
     } catch (error) {
       console.error(error);
-      elements.mapStats.textContent = "Could not load map data.";
+      elements.mapStats.textContent = app.getLoadErrorMessage("map data");
     }
   }
 

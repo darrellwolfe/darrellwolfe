@@ -76,6 +76,13 @@
     return NUMBER.format(Number(value));
   }
 
+  function getLoadErrorMessage(subject) {
+    if (window.location.protocol === "file:") {
+      return `Could not load ${subject}. Open this demo with quarto preview or another local web server instead of opening the HTML file directly.`;
+    }
+    return `Could not load ${subject}.`;
+  }
+
   function loadDemoData() {
     if (dataCache) {
       return Promise.resolve(dataCache);
@@ -341,6 +348,7 @@
     loadDemoData,
     loadParcelGeoJson,
     matchesSearch,
-    prettyLabel
+    prettyLabel,
+    getLoadErrorMessage
   };
 })();

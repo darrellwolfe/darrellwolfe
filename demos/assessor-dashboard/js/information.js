@@ -30,6 +30,6 @@ document.addEventListener("DOMContentLoaded", async () => {
     `;
   } catch (error) {
     console.error(error);
-    summaryEl.innerHTML = `<div class="empty-state">Could not load demo summary data.</div>`;
+    summaryEl.innerHTML = `<div class="empty-state">${app.escapeHtml(app.getLoadErrorMessage("demo summary data"))}</div>`;
   }
 });
