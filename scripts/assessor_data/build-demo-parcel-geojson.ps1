@@ -23,4 +23,14 @@ npx -y mapshaper `
     -filter-fields lrsn,pin,geo,acres,loc_addr,loc_city `
     -o format=geojson precision=$Precision force $OutputPath
 
+$jsPath = [System.IO.Path]::ChangeExtension($OutputPath, ".js")
+$utf8NoBom = New-Object System.Text.UTF8Encoding($false)
+$geoJsonText = Get-Content $OutputPath -Raw
+[System.IO.File]::WriteAllText(
+    $jsPath,
+    "window.ASSESSOR_PARCEL_GEOJSON = $geoJsonText;`n",
+    $utf8NoBom
+)
+
 Write-Output "Wrote full parcel GeoJSON to $OutputPath"
+Write-Output "Wrote JavaScript parcel bundle to $jsPath"

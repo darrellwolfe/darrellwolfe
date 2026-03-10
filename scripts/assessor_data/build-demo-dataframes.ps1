@@ -233,8 +233,12 @@ finally {
 Move-Item -Path $tempJsonPath -Destination $jsonPath -Force
 
 $jsPath = Join-Path $OutputDir "demo-data.js"
-if (Test-Path $jsPath) {
-    Remove-Item $jsPath -Force
-}
+$jsonText = Get-Content $jsonPath -Raw
+[System.IO.File]::WriteAllText(
+    $jsPath,
+    "window.ASSESSOR_DEMO_DATA = $jsonText;`n",
+    $utf8NoBom
+)
 
 Write-Output "Wrote full parcel data bundle to $jsonPath"
+Write-Output "Wrote JavaScript data bundle to $jsPath"

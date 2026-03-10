@@ -108,6 +108,10 @@
     if (parcelCache) {
       return Promise.resolve(parcelCache);
     }
+    if (window.ASSESSOR_PARCEL_GEOJSON) {
+      parcelCache = window.ASSESSOR_PARCEL_GEOJSON;
+      return Promise.resolve(parcelCache);
+    }
     return fetch("data/parcels.geojson")
       .then((response) => {
         if (!response.ok) {
