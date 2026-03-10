@@ -46,7 +46,7 @@ Run the helper script directly (PowerShell):
 ./scripts/site.ps1 -Action check
 ```
 
-The helper build commands also sync shared CSS and standalone demo assets into `docs/` so the published site includes the dashboard pages and their supporting files. They also refresh the assessor dashboard's derived `demo-data.json` bundle when the source assessor CSV exports change.
+The helper build commands also sync shared CSS and standalone demo assets into `docs/` so the published site includes the dashboard pages and their supporting files. That keeps the prebuilt assessor demo bundle available when the repo is pulled into a new location.
 
 In VS Code:
 

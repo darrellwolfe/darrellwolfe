@@ -56,7 +56,11 @@ body.nav-fixed {
   margin: 0;
 }
 
-#quarto-header .navbar-brand {
+#quarto-header .navbar-brand-logo:empty {
+  display: none;
+}
+
+#quarto-header .navbar-brand:not(.navbar-brand-logo) {
   display: block;
   width: 100%;
   padding: 0.2rem 0.6rem 0.65rem;
@@ -78,7 +82,7 @@ body.nav-fixed {
   overflow-wrap: anywhere;
 }
 
-#quarto-header .navbar-brand::after {
+#quarto-header .navbar-brand:not(.navbar-brand-logo)::after {
   content: "Storyteller | Thinker | Data Viz Nerd | SQL Geek | INFP | AuDHD | Science Fantasy Fan";
   display: block;
   width: min(100%, 62rem);
@@ -169,7 +173,7 @@ body.nav-fixed {
     padding-bottom: 0.45rem;
   }
 
-  #quarto-header .navbar-brand {
+  #quarto-header .navbar-brand:not(.navbar-brand-logo) {
     padding-bottom: 0.55rem;
   }
 
@@ -178,7 +182,7 @@ body.nav-fixed {
     line-height: 1.1;
   }
 
-  #quarto-header .navbar-brand::after {
+  #quarto-header .navbar-brand:not(.navbar-brand-logo)::after {
     font-size: clamp(0.78rem, 3.4vw, 0.96rem);
   }
 
@@ -197,12 +201,12 @@ body.nav-fixed {
 }
 
 @media (max-width: 575.98px) {
-  #quarto-header .navbar-brand {
+  #quarto-header .navbar-brand:not(.navbar-brand-logo) {
     padding-left: 0.35rem;
     padding-right: 0.35rem;
   }
 
-  #quarto-header .navbar-brand::after {
+  #quarto-header .navbar-brand:not(.navbar-brand-logo)::after {
     margin-top: 0.55rem;
     padding-top: 0.45rem;
   }
