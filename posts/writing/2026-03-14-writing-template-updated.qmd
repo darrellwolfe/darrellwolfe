@@ -1,5 +1,5 @@
 ---
-title: 'MSB: Rufus Fangborn, a Half-Wolf, half-Mastiffarian'
+title: 'NEW Writing Template for 2026 MSB FAFO Project'
 date: '2026-03-14'
 draft: false
 categories:
@@ -7,205 +7,136 @@ categories:
   - 'Template'
 ---
 
-
----
-
-title: "Story Reference Template"
-format: gfm
------------
-
 # Character Voice (Markus)
 
 ## Danger Scenes
 
-```text
-Confusion -> sarcasm
-Fear -> sarcasm
-Panic -> sarcasm
-Real danger -> sarcasm fades to seriousness
-```
+| Trigger | Response |
+|---|---|
+| Confusion | Sarcasm |
+| Fear | Sarcasm |
+| Panic | Sarcasm |
+| Real danger | Sarcasm fades to seriousness |
 
 ## Social Scenes
 
-```text
-Confusion -> sarcasm
-Awkwardness -> self-defeatism
-Curiosity -> playful sarcasm
-Genuine kindness -> softening
-```
+| Trigger | Response |
+|---|---|
+| Confusion | Sarcasm |
+| Awkwardness | Self-defeatism |
+| Curiosity | Playful sarcasm |
+| Genuine kindness | Softening |
 
 ## Resource Danger
 
-```text
-Problem -> sarcasm
-Attempt -> sarcasm
-Failure -> frustration / self-defeatism
-Second attempt -> hesitant optimism
-Relief -> sarcasm
-Reflection -> softening
-```
+| Beat | Response |
+|---|---|
+| Problem | Sarcasm |
+| Attempt | Sarcasm |
+| Failure | Frustration / self-defeatism |
+| Second attempt | Hesitant optimism |
+| Relief | Sarcasm |
+| Reflection | Softening |
 
 # Story Beats
 
 ## World Beats
 
-* Casual magic
-* Misunderstanding
-* Cultural detail
-* Artifact message (phone)
-* Salem = humans + beast-folk
-* Magic is mundane to locals
+| Beat | Beat |
+|---|---|
+| Casual magic | Misunderstanding |
+| Cultural detail | Artifact message (phone) |
+| Salem = humans + beast-folk | Magic is mundane to locals |
 
 ## Character Beats
 
-* Grief memory
-* Sarcasm moment
-* Interaction with Whiskers
-* Ya’al observing
-* Translation magic moments
-* Burrito references
+| Beat | Beat |
+|---|---|
+| Grief memory | Sarcasm moment |
+| Interaction with Whiskers | Ya'al observing |
+| Translation magic moments | Burrito references |
 
 # This / Not That
 
-## Preferred structure
-
-```text
-observation -> implication -> doubt
-```
-
-## Avoid
-
-```text
-internal lecture -> conclusion
-```
-
-## Tone rhythm
-
-```text
-Magic revelation -> burrito joke -> grief reflection -> cosmic thought
-Humor -> Wonder -> Meaning
-```
-
-## Dialogue rule
-
-```text
-Question -> Short answer -> Example -> New question
-```
-
-Avoid long exposition blocks.
-
-## Story rule
-
-```text
-survival > power
-```
-
-Power must always have cost or effort.
-
-No free upgrades.
+| THIS | NOT THAT |
+|---|---|
+| observation -> implication -> doubt | internal lecture -> conclusion |
+| Magic revelation -> burrito joke -> grief reflection -> cosmic thought; Humor -> Wonder -> Meaning | |
+| Question -> Short answer -> Example -> New question | Avoid long exposition blocks |
+| survival > power; power must always have cost or effort | No free upgrades |
 
 # Scene Structure
 
-## Momentum Rule
-
-```text
-Observation
-Observation
-Observation
-Interruption
-```
+| Element | Pattern |
+|---|---|
+| Momentum Rule | Observation -> Observation -> Observation -> Interruption |
+| Scene Engine | Goal -> Conflict -> Change -> New Goal |
+| Narrative Promise | Promise -> Progress -> Payoff |
 
 Something must happen.
 
-## Scene Engine
-
-```text
-Goal -> Conflict -> Change -> New Goal
-```
-
-## Narrative Promise
-
-```text
-Promise -> Progress -> Payoff
-```
-
 # Scene Beat Sheet
 
-## Goal
-
-```text
-Markus wants...
-```
+**Goal:** Markus wants...
 
 ## Beat 1
 
-```text
-Observation
-Reaction (often sarcasm)
+**Observation**
 
-Result:
-Yes, but -> partial success with complication
-No, and -> failure creating bigger problem
-```
+**Reaction:** often sarcasm
+
+**Result**
+
+- Yes, but -> partial success with complication
+- No, and -> failure creating a bigger problem
 
 ## Beat 2
 
-```text
-Observation
-Reaction
+**Observation**
 
-Interruption / escalation
+**Reaction**
 
-Result:
-Yes, but
-No, and
-```
+**Interruption / escalation**
+
+**Result**
+
+- Yes, but -> partial success with complication
+- No, and -> failure creating a bigger problem
 
 ## Beat 3
 
-```text
-Escalation / conflict
-Action taken
+**Escalation / conflict**
 
-Result:
-Yes, but
-No, and
-```
+**Action taken**
+
+**Result**
+
+- Yes, but -> partial success with complication
+- No, and -> failure creating a bigger problem
 
 # Sequel (Reaction -> Dilemma -> Decision)
 
 ## Reaction
 
-Emotional response
-
-Examples:
-
-* sarcasm
-* confusion
-* quiet grief
-* curiosity
+Emotional response: sarcasm, confusion, quiet grief, curiosity
 
 ## Reflection
 
-```text
 What does this mean?
-```
 
 ## Dilemma
 
-```text
 If Markus does X...
+
 But if he does Y...
-```
 
 Both options have consequences.
 
 ## Decision
 
-```text
 Markus chooses to...
-Next Goal: ...
-```
+
+Next goal: ...
 
 # End Hook
 
@@ -213,94 +144,60 @@ Leave unresolved tension.
 
 Examples:
 
-* new danger
-* new mystery
-* unexpected appearance
-* strange phone message
+- new danger
+- new mystery
+- unexpected appearance
+- strange phone message
 
-```text
-Hook: ...
-```
+**Hook:** ...
 
 # 25-Chapter Arc Tracker
 
 ## Arc Purpose
 
-```text
 What is this arc really doing?
+
 - Introduce world?
 - Build belonging?
 - Train Markus?
 - Defeat a contained threat?
 - Reveal a bigger threat?
-```
 
 ## Arc Spine
 
-```text
 Arc Goal:
+
 Arc Threat:
+
 Arc Emotional Change:
+
 Arc Final Payoff:
+
 Arc New Question:
-```
 
 ## Five-Part Arc Map
 
-### Chapters 1-5 — Disruption / Survival
-
-```text
-What throws Markus off balance?
-What immediate problem must he survive?
-What makes the world feel strange?
-```
-
-### Chapters 6-10 — Orientation
-
-```text
-Who explains the world badly?
-What does Markus start to want?
-What first rules become visible?
-```
-
-### Chapters 11-15 — Belonging / Training
-
-```text
-Who begins to matter to Markus?
-What skill or knowledge begins to grow?
-What small victory proves progress?
-```
-
-### Chapters 16-20 — Rising Threat
-
-```text
-How does the contained threat escalate?
-What misunderstanding or cost complicates things?
-What pressure forces Markus to act?
-```
-
-### Chapters 21-25 — Confrontation / Payoff
-
-```text
-How does Markus face the threat?
-What does he win, lose, or change?
-What larger danger or mystery remains?
-```
+| Chapters | Focus | Guiding Questions |
+|---|---|---|
+| 1-5 | Disruption / Survival | What throws Markus off balance? What immediate problem must he survive? What makes the world feel strange? |
+| 6-10 | Orientation | Who explains the world badly? What does Markus start to want? What first rules become visible? |
+| 11-15 | Belonging / Training | Who begins to matter to Markus? What skill or knowledge begins to grow? What small victory proves progress? |
+| 16-20 | Rising Threat | How does the contained threat escalate? What misunderstanding or cost complicates things? What pressure forces Markus to act? |
+| 21-25 | Confrontation / Payoff | How does Markus face the threat? What does he win, lose, or change? What larger danger or mystery remains? |
 
 ## Arc Checkpoints
 
-* Chapter 1 hook is clear
-* Chapter 5 gives a reason to stay
-* Chapter 10 reveals a stronger goal
-* Chapter 15 shows real progress
-* Chapter 20 raises true stakes
-* Chapter 25 pays off the arc and opens the next one
+- Chapter 1 hook is clear
+- Chapter 5 gives a reason to stay
+- Chapter 10 reveals a stronger goal
+- Chapter 15 shows real progress
+- Chapter 20 raises true stakes
+- Chapter 25 pays off the arc and opens the next one
 
 ## Arc Reminder
 
-```text
 Contained problem solved.
+
 Bigger problem revealed.
-```
 
 That keeps the serial moving without closing the world.
