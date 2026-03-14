@@ -5,6 +5,12 @@ param(
 
 $ErrorActionPreference = "Stop"
 
+$nodeScript = Join-Path $PSScriptRoot "build-demo-dataframes.cjs"
+if ((Get-Command node -ErrorAction SilentlyContinue) -and (Test-Path $nodeScript)) {
+    & node $nodeScript --source-dir $SourceDir --output-dir $OutputDir
+    exit $LASTEXITCODE
+}
+
 function Trim-Value {
     param([object]$Value)
     if ($null -eq $Value) { return $null }
@@ -152,6 +158,7 @@ function Close-BundleWriter {
     )
 
     try {
+        $Bundle.Writer.Write(']')
         $Bundle.Writer.Write($Suffix)
         $Bundle.Writer.Write(";`n")
     }
