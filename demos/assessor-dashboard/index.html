@@ -47,24 +47,24 @@
         </article>
         <article>
           <h3><a href="maps.html">Maps</a></h3>
-          <p>Parcel polygons are colored by District, filtered by the shared District/GEO/AIN/PIN controls, and AIN/PIN matches stay highlighted in bright yellow.</p>
-          <p>The page also includes a map view dropdown so more map modules can be added later without changing the layout.</p>
+          <p>Maps now include parcel district fills, assessed ten-year GEO bubbles, assessed-by-category GEO bubbles, an assessed-vs-net-tax parcel comparison, and a land rates GEO view.</p>
+          <p>The map dropdown switches those static modules without needing to rebuild geometry or reconnect to any live data source.</p>
         </article>
         <article>
           <h3><a href="graphs.html">Graphs</a></h3>
           <p>
-            Graphs use the same shared filter state as the map and table pages, and summarize parcel counts by District
-            and GEO from the full parcel frame.
+            Graphs use the same shared filter state as the map and table pages, and now cover parcel counts, assessed
+            ten-year trends, assessed-by-category summaries, assessed-vs-net-tax comparisons, and land rate patterns.
           </p>
-          <p>The graph view dropdown is where additional chart modules can be slotted in later.</p>
+          <p>The graph view dropdown mirrors the static demo modules available on the map and table pages.</p>
         </article>
         <article>
           <h3><a href="tables.html">Tables</a></h3>
           <p>
-            Tables show the parcel rows behind the current shared filter scope, with paging so the full dataset stays
-            readable instead of trying to render every row at once.
+            Tables show parcel rows plus summary tables for assessed ten-year, assessed-by-category, assessed-vs-net-tax,
+            and land rates, with paging so each static dataset stays readable.
           </p>
-          <p>The table view dropdown is ready for more table modules later.</p>
+          <p>The table view dropdown follows the same module list as the map and graph pages.</p>
         </article>
         <article>
           <h3>Shared Filters</h3>
@@ -76,8 +76,8 @@
         <article>
           <h3>Full Dataset Scope</h3>
           <p>
-            This dashboard now uses the full parcel CSV dataset. The map joins parcel geometry to the parcel records by
-            <code>lrsn</code>, while graphs and tables work directly from the full parcel frame.
+            This dashboard now uses the full parcel CSV dataset plus separate static bundles for assessed ten-year,
+            assessed-by-category, assessed-vs-net-tax, and land rates. Parcel geometry still joins by <code>lrsn</code>.
           </p>
         </article>
       </section>
