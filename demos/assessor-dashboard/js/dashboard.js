@@ -14,10 +14,10 @@ document.addEventListener("DOMContentLoaded", async () => {
     "#4f7c6f"
   ];
   const TEN_YEAR_METRICS = {
-    averageValue: {
-      label: "Average Assessed",
+    medianValue: {
+      label: "Median Assessed",
       format: (value) => app.formatCurrency(value),
-      value: (row) => row.averageValue
+      value: (row) => row.medianValue
     },
     totalValue: {
       label: "Total Assessed",
@@ -36,10 +36,10 @@ document.addEventListener("DOMContentLoaded", async () => {
       format: (value) => app.formatCurrency(value),
       value: (row) => row.totalValue
     },
-    averageValue: {
-      label: "Average Category Value",
+    medianValue: {
+      label: "Median Category Value",
       format: (value) => app.formatCurrency(value),
-      value: (row) => row.averageValue
+      value: (row) => row.medianValue
     },
     parcelCount: {
       label: "Parcel Rows",
@@ -64,31 +64,31 @@ document.addEventListener("DOMContentLoaded", async () => {
       value: (row) => row.gapTotal
     },
     ratio: {
-      label: "Taxable Ratio",
+      label: "Net / Assessed Ratio",
       format: (value) => app.formatPercent(value, 1),
       value: (row) => row.taxableRatio
     }
   };
   const LAND_RATE_METRICS = {
-    avgBaseRate: {
-      label: "Average Base Rate",
+    medianBaseRate: {
+      label: "Median Base Rate",
       format: (value) => app.formatCurrency(value),
-      value: (row) => row.avgBaseRate
+      value: (row) => row.medianBaseRate
     },
-    avgAcres: {
-      label: "Average Acres",
+    medianAcres: {
+      label: "Median Acres",
       format: (value) => app.formatDecimal(value, 2),
-      value: (row) => row.avgAcres
+      value: (row) => row.medianAcres
     },
-    avgFrontage: {
-      label: "Average Frontage",
+    medianFrontage: {
+      label: "Median Frontage",
       format: (value) => app.formatDecimal(value, 1),
-      value: (row) => row.avgFrontage
+      value: (row) => row.medianFrontage
     },
-    avgMarketValue: {
-      label: "Average Market Value",
+    medianMarketValue: {
+      label: "Median Market Value",
       format: (value) => app.formatCurrency(value),
-      value: (row) => row.avgMarketValue
+      value: (row) => row.medianMarketValue
     },
     rowCount: {
       label: "Land Rate Rows",
@@ -124,18 +124,18 @@ document.addEventListener("DOMContentLoaded", async () => {
   const viewState = {
     tenYear: {
       year: null,
-      metric: "averageValue"
+      metric: "medianValue"
     },
     category: {
-      code: null,
+      codes: null,
       metric: "totalValue"
     },
     comparison: {
       metric: "gap"
     },
     landRates: {
-      method: "ALL",
-      metric: "avgBaseRate"
+      methods: [],
+      metric: "medianBaseRate"
     }
   };
 
@@ -429,8 +429,8 @@ document.addEventListener("DOMContentLoaded", async () => {
       )
     };
 
-    if (viewState.category.code === null && categories.length) {
-      viewState.category.code = String(categories[0].code);
+    if (viewState.category.codes === null && categories.length) {
+      viewState.category.codes = [String(categories[0].code)];
     }
 
     return bundleState.category;
@@ -593,8 +593,14 @@ document.addEventListener("DOMContentLoaded", async () => {
     };
   }
 
-  function mountMapShell(viewId) {
-    if (elements.mapHost.dataset.view === viewId && mapState.map) {
+  function mountMapShell(viewId, options = {}) {
+    const legendPosition = options.legendPosition === "below" ? "below" : "above";
+
+    if (
+      elements.mapHost.dataset.view === viewId &&
+      elements.mapHost.dataset.legendPosition === legendPosition &&
+      mapState.map
+    ) {
       return {
         toolbar: document.getElementById("map-view-toolbar"),
         legend: document.getElementById("map-view-legend")
@@ -602,11 +608,19 @@ document.addEventListener("DOMContentLoaded", async () => {
     }
 
     elements.mapHost.dataset.view = viewId;
-    elements.mapHost.innerHTML = `
-      <div class="view-toolbar" id="map-view-toolbar"></div>
-      <div id="parcel-map" class="map-canvas" aria-label="Dashboard map"></div>
-      <div id="map-view-legend"></div>
-    `;
+    elements.mapHost.dataset.legendPosition = legendPosition;
+    elements.mapHost.innerHTML =
+      legendPosition === "above"
+        ? `
+            <div class="view-toolbar" id="map-view-toolbar"></div>
+            <div id="map-view-legend"></div>
+            <div id="parcel-map" class="map-canvas" aria-label="Dashboard map"></div>
+          `
+        : `
+            <div class="view-toolbar" id="map-view-toolbar"></div>
+            <div id="parcel-map" class="map-canvas" aria-label="Dashboard map"></div>
+            <div id="map-view-legend"></div>
+          `;
 
     if (mapState.map) {
       mapState.map.remove();
@@ -691,12 +705,21 @@ document.addEventListener("DOMContentLoaded", async () => {
             (field) => `
               <label class="field-stack toolbar-field">
                 <span>${app.escapeHtml(field.label)}</span>
-                <select data-toolbar-field="${app.escapeHtml(field.id)}">
+                <select
+                  data-toolbar-field="${app.escapeHtml(field.id)}"
+                  ${field.multiple ? "multiple" : ""}
+                  ${field.size ? `size="${app.escapeHtml(String(field.size))}"` : ""}
+                  class="${field.multiple ? "toolbar-multi-select multi-select-field" : ""}"
+                >
                   ${field.options
                     .map(
                       (option) => `
                         <option value="${app.escapeHtml(option.value)}" ${
-                          option.value === field.value ? "selected" : ""
+                          (field.multiple
+                            ? Array.isArray(field.value) && field.value.includes(option.value)
+                            : option.value === field.value)
+                            ? "selected"
+                            : ""
                         }>
                           ${app.escapeHtml(option.label)}
                         </option>
@@ -704,6 +727,11 @@ document.addEventListener("DOMContentLoaded", async () => {
                     )
                     .join("")}
                 </select>
+                ${
+                  field.note
+                    ? `<p class="filter-note toolbar-note">${app.escapeHtml(field.note)}</p>`
+                    : ""
+                }
               </label>
             `
           )
@@ -718,9 +746,26 @@ document.addEventListener("DOMContentLoaded", async () => {
       }
 
       select.addEventListener("change", (event) => {
+        if (field.multiple) {
+          field.onChange(Array.from(event.target.selectedOptions).map((option) => option.value));
+          return;
+        }
+
         field.onChange(event.target.value);
       });
     });
+  }
+
+  function getMedian(values) {
+    if (!values.length) {
+      return null;
+    }
+
+    const sorted = [...values].sort((left, right) => left - right);
+    const midpoint = Math.floor(sorted.length / 2);
+    return sorted.length % 2
+      ? sorted[midpoint]
+      : (sorted[midpoint - 1] + sorted[midpoint]) / 2;
   }
 
   function createSequentialScale(values, palette, formatter) {
@@ -836,19 +881,25 @@ document.addEventListener("DOMContentLoaded", async () => {
     const current = map.get(key) || {
       ...base,
       totalValue: 0,
-      parcelCount: 0
+      parcelCount: 0,
+      values: []
     };
 
     current.totalValue += numericValue;
     current.parcelCount += 1;
+    current.values.push(numericValue);
     map.set(key, current);
   }
 
   function finalizeValueSummary(map) {
-    return Array.from(map.values()).map((entry) => ({
-      ...entry,
-      averageValue: entry.parcelCount ? entry.totalValue / entry.parcelCount : null
-    }));
+    return Array.from(map.values()).map((entry) => {
+      const medianValue = getMedian(entry.values);
+      const { values, ...summary } = entry;
+      return {
+        ...summary,
+        medianValue
+      };
+    });
   }
 
   function summarizeTenYearRows(rows, activeLrsn) {
@@ -903,11 +954,18 @@ document.addEventListener("DOMContentLoaded", async () => {
     };
   }
 
-  function summarizeCategoryRows(rows, activeLrsn) {
+  function summarizeCategoryRows(rows, activeLrsn, selectedCodes) {
     const overall = new Map();
-    const district = new Map();
-    const geo = new Map();
+    const districtByCode = new Map();
+    const geoByCode = new Map();
+    const selectedDistrict = new Map();
+    const selectedGeo = new Map();
+    const selectedCodeSet =
+      Array.isArray(selectedCodes) && selectedCodes.length
+        ? new Set(selectedCodes.map(String))
+        : null;
     let matchedRowCount = 0;
+    let selectedMatchedRowCount = 0;
 
     rows.forEach((row) => {
       const lrsn = Number(row[0]);
@@ -926,34 +984,51 @@ document.addEventListener("DOMContentLoaded", async () => {
       matchedRowCount += 1;
       accumulateValueSummary(overall, code, { code }, value);
       accumulateValueSummary(
-        district,
+        districtByCode,
         `${parcel.district}|${code}`,
         { district: parcel.district, code },
         value
       );
       accumulateValueSummary(
-        geo,
+        geoByCode,
         `${parcel.geo}|${code}`,
         { district: parcel.district, geo: parcel.geo, geoName: parcel.geoName, code },
+        value
+      );
+
+      if (selectedCodeSet && !selectedCodeSet.has(code)) {
+        return;
+      }
+
+      selectedMatchedRowCount += 1;
+      accumulateValueSummary(selectedDistrict, parcel.district, { district: parcel.district }, value);
+      accumulateValueSummary(
+        selectedGeo,
+        String(parcel.geo),
+        { district: parcel.district, geo: parcel.geo, geoName: parcel.geoName },
         value
       );
     });
 
     return {
       matchedRowCount,
+      selectedMatchedRowCount,
       overallRows: finalizeValueSummary(overall),
-      districtRows: finalizeValueSummary(district),
-      geoRows: finalizeValueSummary(geo)
+      districtRowsByCode: finalizeValueSummary(districtByCode),
+      geoRowsByCode: finalizeValueSummary(geoByCode),
+      selectedDistrictRows: finalizeValueSummary(selectedDistrict),
+      selectedGeoRows: finalizeValueSummary(selectedGeo)
     };
   }
 
-  function accumulateComparisonSummary(map, key, base, assessed, netTax) {
+  function accumulateComparisonSummary(map, key, base, assessed, netTax, assessedToNetRatio) {
     const current = map.get(key) || {
       ...base,
       assessedTotal: 0,
       netTaxTotal: 0,
       gapTotal: 0,
-      parcelCount: 0
+      parcelCount: 0,
+      assessedToNetRatios: []
     };
 
     const assessedValue = Number.isFinite(Number(assessed)) ? Number(assessed) : 0;
@@ -963,14 +1038,22 @@ document.addEventListener("DOMContentLoaded", async () => {
     current.netTaxTotal += netTaxValue;
     current.gapTotal += Math.max(assessedValue - netTaxValue, 0);
     current.parcelCount += 1;
+    if (Number.isFinite(assessedToNetRatio)) {
+      current.assessedToNetRatios.push(assessedToNetRatio);
+    }
     map.set(key, current);
   }
 
   function finalizeComparisonSummary(map) {
-    return Array.from(map.values()).map((entry) => ({
-      ...entry,
-      taxableRatio: entry.assessedTotal ? entry.netTaxTotal / entry.assessedTotal : null
-    }));
+    return Array.from(map.values()).map((entry) => {
+      const medianAssessedToNetRatio = getMedian(entry.assessedToNetRatios);
+      const { assessedToNetRatios, ...summary } = entry;
+      return {
+        ...summary,
+        taxableRatio: entry.assessedTotal ? entry.netTaxTotal / entry.assessedTotal : null,
+        medianAssessedToNetRatio
+      };
+    });
   }
 
   function summarizeComparisonRows(rows, activeLrsn) {
@@ -1001,13 +1084,15 @@ document.addEventListener("DOMContentLoaded", async () => {
       const safeNetTax = netTaxTotal ?? 0;
       const gapTotal = Math.max(safeAssessed - safeNetTax, 0);
       const taxableRatio = safeAssessed ? safeNetTax / safeAssessed : null;
+      const assessedToNetRatio = safeNetTax ? safeAssessed / safeNetTax : null;
 
       parcelRows.push({
         ...parcel,
         assessedTotal,
         netTaxTotal,
         gapTotal,
-        taxableRatio
+        taxableRatio,
+        assessedToNetRatio
       });
 
       accumulateComparisonSummary(
@@ -1015,14 +1100,16 @@ document.addEventListener("DOMContentLoaded", async () => {
         parcel.district,
         { district: parcel.district },
         assessedTotal,
-        netTaxTotal
+        netTaxTotal,
+        assessedToNetRatio
       );
       accumulateComparisonSummary(
         geo,
         String(parcel.geo),
         { district: parcel.district, geo: parcel.geo, geoName: parcel.geoName },
         assessedTotal,
-        netTaxTotal
+        netTaxTotal,
+        assessedToNetRatio
       );
 
       totals.assessedTotal += safeAssessed;
@@ -1047,12 +1134,16 @@ document.addEventListener("DOMContentLoaded", async () => {
       rowCount: 0,
       totalBaseRate: 0,
       baseRateCount: 0,
+      baseRateValues: [],
       totalAcres: 0,
       acreCount: 0,
+      acreValues: [],
       totalFrontage: 0,
       frontageCount: 0,
+      frontageValues: [],
       totalMarketValue: 0,
       marketValueCount: 0,
+      marketValueValues: [],
       methodCounts: new Map()
     };
   }
@@ -1063,21 +1154,25 @@ document.addEventListener("DOMContentLoaded", async () => {
     if (Number.isFinite(baseRate)) {
       entry.totalBaseRate += baseRate;
       entry.baseRateCount += 1;
+      entry.baseRateValues.push(baseRate);
     }
 
     if (Number.isFinite(acres)) {
       entry.totalAcres += acres;
       entry.acreCount += 1;
+      entry.acreValues.push(acres);
     }
 
     if (Number.isFinite(frontage)) {
       entry.totalFrontage += frontage;
       entry.frontageCount += 1;
+      entry.frontageValues.push(frontage);
     }
 
     if (Number.isFinite(marketValue)) {
       entry.totalMarketValue += marketValue;
       entry.marketValueCount += 1;
+      entry.marketValueValues.push(marketValue);
     }
 
     const methodKey = method || "Unknown";
@@ -1090,24 +1185,40 @@ document.addEventListener("DOMContentLoaded", async () => {
         (left, right) => right[1] - left[1] || left[0].localeCompare(right[0])
       );
 
+      const medianBaseRate = getMedian(entry.baseRateValues);
+      const medianAcres = getMedian(entry.acreValues);
+      const medianFrontage = getMedian(entry.frontageValues);
+      const medianMarketValue = getMedian(entry.marketValueValues);
+      const {
+        baseRateValues,
+        acreValues,
+        frontageValues,
+        marketValueValues,
+        ...summary
+      } = entry;
+
       return {
-        ...entry,
+        ...summary,
         dominantMethod: sortedMethods.length ? sortedMethods[0][0] : entry.method || "Unknown",
-        avgBaseRate: entry.baseRateCount ? entry.totalBaseRate / entry.baseRateCount : null,
-        avgAcres: entry.acreCount ? entry.totalAcres / entry.acreCount : null,
-        avgFrontage: entry.frontageCount ? entry.totalFrontage / entry.frontageCount : null,
-        avgMarketValue: entry.marketValueCount
-          ? entry.totalMarketValue / entry.marketValueCount
-          : null
+        medianBaseRate,
+        medianAcres,
+        medianFrontage,
+        medianMarketValue
       };
     });
   }
 
-  function summarizeLandRateRows(rows, activeLrsn, selectedMethod) {
+  function summarizeLandRateRows(rows, activeLrsn, selectedMethods) {
     const methodRows = new Map();
-    const districtRows = new Map();
-    const geoRows = new Map();
+    const districtRowsByMethod = new Map();
+    const selectedDistrictRows = new Map();
+    const selectedGeoRows = new Map();
+    const selectedMethodSet =
+      Array.isArray(selectedMethods) && selectedMethods.length
+        ? new Set(selectedMethods.map(String))
+        : null;
     let matchedRowCount = 0;
+    let selectedMatchedRowCount = 0;
 
     rows.forEach((row) => {
       const lrsn = Number(row[0]);
@@ -1136,37 +1247,48 @@ document.addEventListener("DOMContentLoaded", async () => {
       accumulateLandSummary(methodEntry, method, baseRate, acres, frontage, marketValue);
       methodRows.set(method, methodEntry);
 
-      if (selectedMethod !== "ALL" && method !== selectedMethod) {
+      const districtMethodEntry =
+        districtRowsByMethod.get(`${parcel.district}|${method}`) ||
+        createLandSummaryEntry({
+          district: parcel.district,
+          method
+        });
+      accumulateLandSummary(districtMethodEntry, method, baseRate, acres, frontage, marketValue);
+      districtRowsByMethod.set(`${parcel.district}|${method}`, districtMethodEntry);
+
+      if (selectedMethodSet && !selectedMethodSet.has(method)) {
         return;
       }
 
+      selectedMatchedRowCount += 1;
+
       const districtEntry =
-        districtRows.get(parcel.district) ||
+        selectedDistrictRows.get(parcel.district) ||
         createLandSummaryEntry({
-          district: parcel.district,
-          method: selectedMethod === "ALL" ? null : method
+          district: parcel.district
         });
       accumulateLandSummary(districtEntry, method, baseRate, acres, frontage, marketValue);
-      districtRows.set(parcel.district, districtEntry);
+      selectedDistrictRows.set(parcel.district, districtEntry);
 
       const geoKey = String(parcel.geo);
       const geoEntry =
-        geoRows.get(geoKey) ||
+        selectedGeoRows.get(geoKey) ||
         createLandSummaryEntry({
           district: parcel.district,
           geo: parcel.geo,
-          geoName: parcel.geoName,
-          method: selectedMethod === "ALL" ? null : method
+          geoName: parcel.geoName
         });
       accumulateLandSummary(geoEntry, method, baseRate, acres, frontage, marketValue);
-      geoRows.set(geoKey, geoEntry);
+      selectedGeoRows.set(geoKey, geoEntry);
     });
 
     return {
       matchedRowCount,
+      selectedMatchedRowCount,
       methodRows: finalizeLandSummary(methodRows),
-      districtRows: finalizeLandSummary(districtRows),
-      geoRows: finalizeLandSummary(geoRows)
+      districtRowsByMethod: finalizeLandSummary(districtRowsByMethod),
+      selectedDistrictRows: finalizeLandSummary(selectedDistrictRows),
+      selectedGeoRows: finalizeLandSummary(selectedGeoRows)
     };
   }
 
@@ -1288,7 +1410,7 @@ document.addEventListener("DOMContentLoaded", async () => {
   }
 
   function getTenYearMetric() {
-    return TEN_YEAR_METRICS[viewState.tenYear.metric] || TEN_YEAR_METRICS.averageValue;
+    return TEN_YEAR_METRICS[viewState.tenYear.metric] || TEN_YEAR_METRICS.medianValue;
   }
 
   function getCategoryMetric() {
@@ -1300,7 +1422,7 @@ document.addEventListener("DOMContentLoaded", async () => {
   }
 
   function getLandRateMetric() {
-    return LAND_RATE_METRICS[viewState.landRates.metric] || LAND_RATE_METRICS.avgBaseRate;
+    return LAND_RATE_METRICS[viewState.landRates.metric] || LAND_RATE_METRICS.medianBaseRate;
   }
 
   function getCategoryLabel(bundle, code) {
@@ -1309,6 +1431,63 @@ document.addEventListener("DOMContentLoaded", async () => {
 
   function getGeoCenter(context, geo) {
     return context.geoCenters.get(String(geo)) || null;
+  }
+
+  function formatSelectionLabel(items, emptyLabel, formatter, manyLabel) {
+    if (!items.length) {
+      return emptyLabel;
+    }
+
+    const labels = items.map((item) => formatter(item));
+    if (labels.length <= 3) {
+      return labels.join(", ");
+    }
+
+    return manyLabel(labels.length);
+  }
+
+  function getSelectedCategoryCodes(bundle) {
+    if (viewState.category.codes === null && bundle.categories.length) {
+      viewState.category.codes = [String(bundle.categories[0].code)];
+    }
+
+    return Array.isArray(viewState.category.codes) ? viewState.category.codes.map(String) : [];
+  }
+
+  function getSelectedCategoryLabel(bundle) {
+    return formatSelectionLabel(
+      getSelectedCategoryCodes(bundle),
+      "All categories",
+      (code) => getCategoryLabel(bundle, code),
+      (count) => `${count} categories`
+    );
+  }
+
+  function getSelectedLandMethods() {
+    return Array.isArray(viewState.landRates.methods)
+      ? viewState.landRates.methods.map(String)
+      : [];
+  }
+
+  function getSelectedLandMethodLabel() {
+    return formatSelectionLabel(
+      getSelectedLandMethods(),
+      "All methods",
+      (method) => method,
+      (count) => `${count} methods`
+    );
+  }
+
+  function getSeriesColor(index) {
+    return METHOD_PALETTE[index % METHOD_PALETTE.length];
+  }
+
+  function formatRatioValue(value) {
+    if (value === null || value === undefined || Number.isNaN(Number(value))) {
+      return "-";
+    }
+
+    return `${app.formatDecimal(value, 2)}x`;
   }
 
   function buildTenYearToolbar(onChange, years) {
@@ -1346,13 +1525,24 @@ document.addEventListener("DOMContentLoaded", async () => {
       {
         id: "category-code",
         label: "Category",
-        value: String(viewState.category.code),
-        options: bundle.categories.map((category) => ({
-          value: String(category.code),
-          label: category.label || String(category.code)
-        })),
-        onChange: (value) => {
-          viewState.category.code = value;
+        value: getSelectedCategoryCodes(bundle).length
+          ? getSelectedCategoryCodes(bundle)
+          : ["__ALL__"],
+        multiple: true,
+        size: 10,
+        note: "Use Ctrl/Cmd-click to compare multiple categories.",
+        options: [{ value: "__ALL__", label: "All categories" }].concat(
+          bundle.categories.map((category) => ({
+            value: String(category.code),
+            label: category.label || String(category.code)
+          }))
+        ),
+        onChange: (values) => {
+          const nextValues =
+            values.includes("__ALL__") && values.length > 1
+              ? values.filter((value) => value !== "__ALL__")
+              : values;
+          viewState.category.codes = nextValues.includes("__ALL__") ? [] : nextValues;
           tableState.currentPage = 1;
           onChange();
         }
@@ -1398,12 +1588,19 @@ document.addEventListener("DOMContentLoaded", async () => {
       {
         id: "land-rate-method",
         label: "Pricing method",
-        value: viewState.landRates.method,
-        options: [{ value: "ALL", label: "All methods" }].concat(
+        value: getSelectedLandMethods().length ? getSelectedLandMethods() : ["__ALL__"],
+        multiple: true,
+        size: 8,
+        note: "Use Ctrl/Cmd-click to compare multiple pricing methods.",
+        options: [{ value: "__ALL__", label: "All methods" }].concat(
           methods.map((method) => ({ value: method, label: method }))
         ),
-        onChange: (value) => {
-          viewState.landRates.method = value;
+        onChange: (values) => {
+          const nextValues =
+            values.includes("__ALL__") && values.length > 1
+              ? values.filter((value) => value !== "__ALL__")
+              : values;
+          viewState.landRates.methods = nextValues.includes("__ALL__") ? [] : nextValues;
           tableState.currentPage = 1;
           onChange();
         }
@@ -1436,6 +1633,11 @@ document.addEventListener("DOMContentLoaded", async () => {
       const scopedFeatures = filterContext.scopedRecords
         .map((record) => context.featureLookup.get(Number(record.lrsn)))
         .filter(Boolean);
+      const scale = createSequentialScale(
+        filterContext.scopedRecords.map((record) => Number(record.netTaxValue)),
+        WARM_PALETTE,
+        app.formatCurrency
+      );
 
       const layer = L.geoJSON(app.buildFeatureCollection(scopedFeatures), {
         renderer: mapState.renderer,
@@ -1447,7 +1649,7 @@ document.addEventListener("DOMContentLoaded", async () => {
             weight: isHighlighted ? 3 : 0.7,
             fillColor: isHighlighted
               ? "#ffeb3b"
-              : app.getDistrictColor(feature.properties.district),
+              : scale.getColor(feature.properties.netTaxValue),
             fillOpacity: isHighlighted ? 0.92 : 0.68
           };
         },
@@ -1468,11 +1670,8 @@ document.addEventListener("DOMContentLoaded", async () => {
       replaceMapLayer(layer);
       fitLayerToState(layer, state, "parcel-district");
 
-      const legendDistricts = [
-        ...new Set(filterContext.scopedRecords.map((record) => String(record.district)))
-      ].sort((left, right) => left.localeCompare(right));
-      if (legendDistricts.length) {
-        shell.legend.appendChild(app.createLegendMarkup(legendDistricts));
+      if (scale.items.length) {
+        shell.legend.appendChild(createLegendNode(scale.items));
       }
 
       if (!filterContext.scopedRecords.length) {
@@ -1499,7 +1698,7 @@ document.addEventListener("DOMContentLoaded", async () => {
 
   async function renderAssessedTenYearMap(state) {
     try {
-      const shell = mountMapShell("assessed-ten-year");
+      const shell = mountMapShell("assessed-ten-year", { legendPosition: "above" });
       const context = await ensureMapContext();
       const bundle = await loadTenYearBundle();
       renderToolbar(shell.toolbar, buildTenYearToolbar(() => renderSelectedMap(), bundle.years));
@@ -1533,7 +1732,7 @@ document.addEventListener("DOMContentLoaded", async () => {
           <strong>Year:</strong> ${app.escapeHtml(String(entry.year))}<br>
           <strong>Parcel rows:</strong> ${app.escapeHtml(app.formatNumber(entry.parcelCount))}<br>
           <strong>Total assessed:</strong> ${app.escapeHtml(app.formatCurrency(entry.totalValue))}<br>
-          <strong>Average assessed:</strong> ${app.escapeHtml(app.formatCurrency(entry.averageValue))}
+          <strong>Median assessed:</strong> ${app.escapeHtml(app.formatCurrency(entry.medianValue))}
         `
       });
 
@@ -1560,10 +1759,15 @@ document.addEventListener("DOMContentLoaded", async () => {
       const bundle = await loadCategoryBundle();
       renderToolbar(shell.toolbar, buildCategoryToolbar(() => renderSelectedMap(), bundle));
 
+      const selectedCodes = getSelectedCategoryCodes(bundle);
+      const selectedCategoryLabel = getSelectedCategoryLabel(bundle);
       const metric = getCategoryMetric();
-      const summary = summarizeCategoryRows(bundle.rows, getFilterContext(state).activeLrsn);
-      const entries = summary.geoRows
-        .filter((row) => row.code === viewState.category.code)
+      const summary = summarizeCategoryRows(
+        bundle.rows,
+        getFilterContext(state).activeLrsn,
+        selectedCodes
+      );
+      const entries = summary.selectedGeoRows
         .map((row) => ({
           ...row,
           value: metric.value(row),
@@ -1575,10 +1779,7 @@ document.addEventListener("DOMContentLoaded", async () => {
 
       if (!entries.length) {
         replaceMapLayer(null);
-        elements.mapStats.textContent = `No assessed-by-category rows match the current filters for ${getCategoryLabel(
-          bundle,
-          viewState.category.code
-        )}.`;
+        elements.mapStats.textContent = `No assessed-by-category rows match the current filters for ${selectedCategoryLabel}.`;
         return;
       }
 
@@ -1589,10 +1790,12 @@ document.addEventListener("DOMContentLoaded", async () => {
         popup: (entry) => `
           <strong>${app.escapeHtml(entry.geo)} | ${app.escapeHtml(entry.geoName)}</strong><br>
           <strong>District:</strong> ${app.escapeHtml(app.prettyLabel(entry.district))}<br>
-          <strong>Category:</strong> ${app.escapeHtml(getCategoryLabel(bundle, entry.code))}<br>
+          <strong>${selectedCodes.length === 1 ? "Category" : "Categories"}:</strong> ${app.escapeHtml(
+            selectedCategoryLabel
+          )}<br>
           <strong>Parcel rows:</strong> ${app.escapeHtml(app.formatNumber(entry.parcelCount))}<br>
           <strong>Total category value:</strong> ${app.escapeHtml(app.formatCurrency(entry.totalValue))}<br>
-          <strong>Average category value:</strong> ${app.escapeHtml(app.formatCurrency(entry.averageValue))}
+          <strong>Median category value:</strong> ${app.escapeHtml(app.formatCurrency(entry.medianValue))}
         `
       });
 
@@ -1602,7 +1805,7 @@ document.addEventListener("DOMContentLoaded", async () => {
 
       elements.mapStats.textContent = `Showing ${app.formatNumber(
         entries.length
-      )} GEO marker(s) for ${getCategoryLabel(bundle, viewState.category.code)}.`;
+      )} GEO marker(s) for ${selectedCategoryLabel}.`;
     } catch (error) {
       console.error(error);
       elements.mapStats.textContent = app.getLoadErrorMessage("assessed by category map data");
@@ -1621,7 +1824,7 @@ document.addEventListener("DOMContentLoaded", async () => {
         getFilterContext(state).activeLrsn
       );
       const values = summary.parcelRows.map((row) => metric.value(row)).filter((value) => value !== null);
-      const scale = createSequentialScale(values, VALUE_PALETTE, metric.format);
+      const scale = createSequentialScale(values, WARM_PALETTE, metric.format);
       const features = summary.parcelRows
         .map((row) => {
           const feature = context.featureLookup.get(Number(row.lrsn));
@@ -1669,7 +1872,7 @@ document.addEventListener("DOMContentLoaded", async () => {
             <strong>Assessed total:</strong> ${app.escapeHtml(app.formatCurrency(props.assessedTotal))}<br>
             <strong>Net tax total:</strong> ${app.escapeHtml(app.formatCurrency(props.netTaxTotal))}<br>
             <strong>Gap:</strong> ${app.escapeHtml(app.formatCurrency(props.gapTotal))}<br>
-            <strong>Taxable ratio:</strong> ${app.escapeHtml(app.formatPercent(props.taxableRatio, 1))}
+            <strong>Net / Assessed ratio:</strong> ${app.escapeHtml(app.formatPercent(props.taxableRatio, 1))}
           `);
         }
       });
@@ -1696,9 +1899,15 @@ document.addEventListener("DOMContentLoaded", async () => {
       const context = await ensureMapContext();
       renderToolbar(shell.toolbar, buildLandRateToolbar(() => renderSelectedMap(), bundle.methods));
 
+      const selectedMethods = getSelectedLandMethods();
+      const selectedMethodLabel = getSelectedLandMethodLabel();
       const metric = getLandRateMetric();
-      const summary = summarizeLandRateRows(bundle.rows, getFilterContext(state).activeLrsn, viewState.landRates.method);
-      const entries = summary.geoRows
+      const summary = summarizeLandRateRows(
+        bundle.rows,
+        getFilterContext(state).activeLrsn,
+        selectedMethods
+      );
+      const entries = summary.selectedGeoRows
         .map((row) => ({
           ...row,
           value: metric.value(row),
@@ -1715,7 +1924,7 @@ document.addEventListener("DOMContentLoaded", async () => {
       }
 
       let layer = null;
-      if (viewState.landRates.method === "ALL") {
+      if (!selectedMethods.length) {
         layer = buildBubbleMap(entries, {
           radius: (entry) => entry.value,
           fill: (entry) => bundle.methodColorMap.get(entry.dominantMethod) || METHOD_PALETTE[0],
@@ -1724,9 +1933,9 @@ document.addEventListener("DOMContentLoaded", async () => {
             <strong>District:</strong> ${app.escapeHtml(app.prettyLabel(entry.district))}<br>
             <strong>Dominant method:</strong> ${app.escapeHtml(entry.dominantMethod)}<br>
             <strong>Land rate rows:</strong> ${app.escapeHtml(app.formatNumber(entry.rowCount))}<br>
-            <strong>Average base rate:</strong> ${app.escapeHtml(app.formatCurrency(entry.avgBaseRate))}<br>
-            <strong>Average acres:</strong> ${app.escapeHtml(app.formatDecimal(entry.avgAcres, 2))}<br>
-            <strong>Average frontage:</strong> ${app.escapeHtml(app.formatDecimal(entry.avgFrontage, 1))}
+            <strong>Median base rate:</strong> ${app.escapeHtml(app.formatCurrency(entry.medianBaseRate))}<br>
+            <strong>Median acres:</strong> ${app.escapeHtml(app.formatDecimal(entry.medianAcres, 2))}<br>
+            <strong>Median frontage:</strong> ${app.escapeHtml(app.formatDecimal(entry.medianFrontage, 1))}
           `
         });
 
@@ -1746,11 +1955,13 @@ document.addEventListener("DOMContentLoaded", async () => {
           popup: (entry) => `
             <strong>${app.escapeHtml(entry.geo)} | ${app.escapeHtml(entry.geoName)}</strong><br>
             <strong>District:</strong> ${app.escapeHtml(app.prettyLabel(entry.district))}<br>
-            <strong>Method:</strong> ${app.escapeHtml(viewState.landRates.method)}<br>
+            <strong>${selectedMethods.length === 1 ? "Method" : "Methods"}:</strong> ${app.escapeHtml(
+              selectedMethodLabel
+            )}<br>
             <strong>Land rate rows:</strong> ${app.escapeHtml(app.formatNumber(entry.rowCount))}<br>
-            <strong>Average base rate:</strong> ${app.escapeHtml(app.formatCurrency(entry.avgBaseRate))}<br>
-            <strong>Average acres:</strong> ${app.escapeHtml(app.formatDecimal(entry.avgAcres, 2))}<br>
-            <strong>Average frontage:</strong> ${app.escapeHtml(app.formatDecimal(entry.avgFrontage, 1))}
+            <strong>Median base rate:</strong> ${app.escapeHtml(app.formatCurrency(entry.medianBaseRate))}<br>
+            <strong>Median acres:</strong> ${app.escapeHtml(app.formatDecimal(entry.medianAcres, 2))}<br>
+            <strong>Median frontage:</strong> ${app.escapeHtml(app.formatDecimal(entry.medianFrontage, 1))}
           `
         });
         shell.legend.appendChild(createLegendNode(scale.items));
@@ -1761,7 +1972,7 @@ document.addEventListener("DOMContentLoaded", async () => {
 
       elements.mapStats.textContent = `Showing ${app.formatNumber(
         entries.length
-      )} GEO marker(s) built from ${app.formatNumber(summary.matchedRowCount)} land rate row(s).`;
+      )} GEO marker(s) built from ${app.formatNumber(summary.selectedMatchedRowCount)} land rate row(s).`;
     } catch (error) {
       console.error(error);
       elements.mapStats.textContent = app.getLoadErrorMessage("land rates map data");
@@ -1980,14 +2191,18 @@ document.addEventListener("DOMContentLoaded", async () => {
       const bundle = await loadCategoryBundle();
       renderToolbar(shell.toolbar, buildCategoryToolbar(() => renderSelectedGraph(), bundle));
 
-      const summary = summarizeCategoryRows(bundle.rows, getFilterContext(state).activeLrsn);
+      const selectedCodes = getSelectedCategoryCodes(bundle);
+      const summary = summarizeCategoryRows(
+        bundle.rows,
+        getFilterContext(state).activeLrsn,
+        selectedCodes
+      );
       const metric = getCategoryMetric();
+      const selectedCodeSet = selectedCodes.length ? new Set(selectedCodes) : null;
       const topCategories = [...summary.overallRows]
+        .filter((row) => !selectedCodeSet || selectedCodeSet.has(String(row.code)))
         .sort((left, right) => metric.value(right) - metric.value(left))
         .slice(0, 12);
-      const districtRows = [...summary.districtRows]
-        .filter((row) => row.code === viewState.category.code)
-        .sort((left, right) => left.district.localeCompare(right.district));
 
       if (!topCategories.length) {
         shell.grid.innerHTML = `<div class="empty-state">No assessed-by-category rows match the current filters.</div>`;
@@ -1995,12 +2210,29 @@ document.addEventListener("DOMContentLoaded", async () => {
         return;
       }
 
+      const districtChartCodes = topCategories.slice(0, Math.min(6, topCategories.length)).map(
+        (row) => String(row.code)
+      );
+      const districtRows = summary.districtRowsByCode.filter((row) =>
+        districtChartCodes.includes(String(row.code))
+      );
+      const districtLabels = districtOrder.filter((district) =>
+        districtRows.some((row) => row.district === district)
+      );
+      const districtChartNote =
+        selectedCodes.length > districtChartCodes.length
+          ? `Showing the top ${districtChartCodes.length} selected categories by ${metric.label.toLowerCase()}.`
+          : !selectedCodes.length && topCategories.length > districtChartCodes.length
+            ? `Showing the top ${districtChartCodes.length} categories by ${metric.label.toLowerCase()}.`
+            : "";
+      const districtTitle =
+        districtChartCodes.length === 1
+          ? `${getCategoryLabel(bundle, districtChartCodes[0])} by District`
+          : "Selected Categories by District";
+
       shell.grid.innerHTML = `
         ${createChartCard("Top Categories", "category-top-chart")}
-        ${createChartCard(
-          `${getCategoryLabel(bundle, viewState.category.code)} by District`,
-          "category-district-chart"
-        )}
+        ${createChartCard(districtTitle, "category-district-chart", districtChartNote)}
       `;
 
       registerChart(
@@ -2040,21 +2272,29 @@ document.addEventListener("DOMContentLoaded", async () => {
         new Chart(document.getElementById("category-district-chart"), {
           type: "bar",
           data: {
-            labels: districtRows.map((row) => app.prettyLabel(row.district)),
-            datasets: [
-              {
-                label: metric.label,
-                data: districtRows.map((row) => metric.value(row)),
-                backgroundColor: districtRows.map((row) => app.getDistrictColor(row.district)),
-                borderRadius: 10
-              }
-            ]
+            labels: districtLabels.map((district) => app.prettyLabel(district)),
+            datasets: districtChartCodes.map((code, index) => {
+              const rowByDistrict = new Map(
+                districtRows
+                  .filter((row) => String(row.code) === code)
+                  .map((row) => [row.district, row])
+              );
+              return {
+                label: getCategoryLabel(bundle, code),
+                data: districtLabels.map((district) => metric.value(rowByDistrict.get(district) || {})),
+                backgroundColor:
+                  districtChartCodes.length === 1
+                    ? districtLabels.map((district) => app.getDistrictColor(district))
+                    : getSeriesColor(index),
+                borderRadius: districtChartCodes.length === 1 ? 10 : 6
+              };
+            })
           },
           options: {
             responsive: true,
             maintainAspectRatio: false,
             plugins: {
-              legend: { display: false },
+              legend: { display: districtChartCodes.length > 1 },
               tooltip: {
                 callbacks: {
                   label: (context) => metric.format(context.parsed.y)
@@ -2069,7 +2309,7 @@ document.addEventListener("DOMContentLoaded", async () => {
       );
 
       elements.graphStats.textContent = `Filtered assessed-by-category rows: ${app.formatNumber(
-        summary.matchedRowCount
+        summary.selectedMatchedRowCount
       )}.`;
     } catch (error) {
       console.error(error);
@@ -2080,18 +2320,21 @@ document.addEventListener("DOMContentLoaded", async () => {
   async function renderAssessedNetTaxGraphs(state) {
     try {
       const shell = mountGraphShell("assessed-vs-net-tax-graphs");
-      renderToolbar(shell.toolbar, buildComparisonToolbar(() => renderSelectedGraph()));
+      renderToolbar(shell.toolbar, []);
 
       const summary = summarizeComparisonRows(
         (await loadComparisonBundle()).rows,
         getFilterContext(state).activeLrsn
       );
-      const metric = getComparisonMetric();
+      const districtRows = [...summary.districtRows].sort((left, right) =>
+        left.district.localeCompare(right.district)
+      );
       const topGeoRows = [...summary.geoRows]
-        .sort((left, right) => metric.value(right) - metric.value(left))
+        .filter((row) => Number.isFinite(row.medianAssessedToNetRatio))
+        .sort((left, right) => right.medianAssessedToNetRatio - left.medianAssessedToNetRatio)
         .slice(0, 15);
 
-      if (!summary.districtRows.length) {
+      if (!districtRows.length) {
         shell.grid.innerHTML = `<div class="empty-state">No assessed-vs-net-tax rows match the current filters.</div>`;
         elements.graphStats.textContent = "Showing 0 assessed-vs-net-tax rows.";
         return;
@@ -2099,24 +2342,24 @@ document.addEventListener("DOMContentLoaded", async () => {
 
       shell.grid.innerHTML = `
         ${createChartCard("District Totals", "comparison-district-chart")}
-        ${createChartCard(`Top GEOs by ${metric.label}`, "comparison-geo-chart")}
+        ${createChartCard("Median Assessed / Net Ratio by GEO", "comparison-geo-chart")}
       `;
 
       registerChart(
         new Chart(document.getElementById("comparison-district-chart"), {
           type: "bar",
           data: {
-            labels: summary.districtRows.map((row) => app.prettyLabel(row.district)),
+            labels: districtRows.map((row) => app.prettyLabel(row.district)),
             datasets: [
               {
                 label: "Assessed Total",
-                data: summary.districtRows.map((row) => row.assessedTotal),
+                data: districtRows.map((row) => row.assessedTotal),
                 backgroundColor: "#44788f",
                 borderRadius: 8
               },
               {
                 label: "Net Tax Total",
-                data: summary.districtRows.map((row) => row.netTaxTotal),
+                data: districtRows.map((row) => row.netTaxTotal),
                 backgroundColor: "#cf6a32",
                 borderRadius: 8
               }
@@ -2139,8 +2382,8 @@ document.addEventListener("DOMContentLoaded", async () => {
             labels: topGeoRows.map((row) => geoLabels.get(String(row.geo)) || String(row.geo)),
             datasets: [
               {
-                label: metric.label,
-                data: topGeoRows.map((row) => metric.value(row)),
+                label: "Median Assessed / Net",
+                data: topGeoRows.map((row) => row.medianAssessedToNetRatio),
                 backgroundColor: topGeoRows.map((row) => app.getDistrictColor(row.district)),
                 borderRadius: 10
               }
@@ -2154,7 +2397,7 @@ document.addEventListener("DOMContentLoaded", async () => {
               legend: { display: false },
               tooltip: {
                 callbacks: {
-                  label: (context) => metric.format(context.parsed.x)
+                  label: (context) => formatRatioValue(context.parsed.x)
                 }
               }
             },
@@ -2180,28 +2423,55 @@ document.addEventListener("DOMContentLoaded", async () => {
       const bundle = await loadLandRatesBundle();
       renderToolbar(shell.toolbar, buildLandRateToolbar(() => renderSelectedGraph(), bundle.methods));
 
+      const selectedMethods = getSelectedLandMethods();
       const metric = getLandRateMetric();
-      const summary = summarizeLandRateRows(bundle.rows, getFilterContext(state).activeLrsn, viewState.landRates.method);
-      const primaryRows =
-        viewState.landRates.method === "ALL"
-          ? [...summary.methodRows].sort((left, right) => metric.value(right) - metric.value(left))
-          : [...summary.districtRows].sort((left, right) => left.district.localeCompare(right.district));
-      const topGeoRows = [...summary.geoRows]
+      const summary = summarizeLandRateRows(
+        bundle.rows,
+        getFilterContext(state).activeLrsn,
+        selectedMethods
+      );
+      const topGeoRows = [...summary.selectedGeoRows]
         .sort((left, right) => metric.value(right) - metric.value(left))
         .slice(0, 15);
 
-      if (!primaryRows.length) {
+      const primaryMethods = selectedMethods.length
+        ? [...summary.methodRows]
+            .filter((row) => selectedMethods.includes(String(row.method)))
+            .sort((left, right) => metric.value(right) - metric.value(left))
+            .slice(0, Math.min(6, selectedMethods.length))
+            .map((row) => String(row.method))
+        : [];
+      const primaryRows =
+        !selectedMethods.length
+          ? [...summary.methodRows].sort((left, right) => metric.value(right) - metric.value(left))
+          : selectedMethods.length === 1
+            ? [...summary.selectedDistrictRows].sort((left, right) =>
+                left.district.localeCompare(right.district)
+              )
+            : summary.districtRowsByMethod.filter((row) =>
+                primaryMethods.includes(String(row.method))
+              );
+
+      if ((!selectedMethods.length && !summary.methodRows.length) || (selectedMethods.length && !primaryRows.length)) {
         shell.grid.innerHTML = `<div class="empty-state">No land rate rows match the current filters.</div>`;
         elements.graphStats.textContent = "Showing 0 land rate rows.";
         return;
       }
 
+      const primaryNote =
+        selectedMethods.length > primaryMethods.length && primaryMethods.length
+          ? `Showing the top ${primaryMethods.length} selected methods by ${metric.label.toLowerCase()}.`
+          : "";
+
       shell.grid.innerHTML = `
         ${createChartCard(
-          viewState.landRates.method === "ALL"
+          !selectedMethods.length
             ? "Pricing Methods"
-            : `${viewState.landRates.method} by District`,
-          "land-rates-primary-chart"
+            : selectedMethods.length === 1
+              ? `${selectedMethods[0]} by District`
+              : "Selected Methods by District",
+          "land-rates-primary-chart",
+          primaryNote
         )}
         ${createChartCard("Top GEOs", "land-rates-geo-chart")}
       `;
@@ -2210,32 +2480,64 @@ document.addEventListener("DOMContentLoaded", async () => {
         new Chart(document.getElementById("land-rates-primary-chart"), {
           type: "bar",
           data: {
-            labels: primaryRows.map((row) =>
-              viewState.landRates.method === "ALL" ? row.method : app.prettyLabel(row.district)
-            ),
-            datasets: [
-              {
-                label: metric.label,
-                data: primaryRows.map((row) => metric.value(row)),
-                backgroundColor: primaryRows.map((row) =>
-                  viewState.landRates.method === "ALL"
-                    ? bundle.methodColorMap.get(row.method) || METHOD_PALETTE[0]
-                    : app.getDistrictColor(row.district)
-                ),
-                borderRadius: 10
-              }
-            ]
+            labels:
+              !selectedMethods.length
+                ? primaryRows.map((row) => row.method)
+                : selectedMethods.length === 1
+                  ? primaryRows.map((row) => app.prettyLabel(row.district))
+                  : districtOrder
+                      .filter((district) => primaryRows.some((row) => row.district === district))
+                      .map((district) => app.prettyLabel(district)),
+            datasets:
+              !selectedMethods.length
+                ? [
+                    {
+                      label: metric.label,
+                      data: primaryRows.map((row) => metric.value(row)),
+                      backgroundColor: primaryRows.map(
+                        (row) => bundle.methodColorMap.get(row.method) || METHOD_PALETTE[0]
+                      ),
+                      borderRadius: 10
+                    }
+                  ]
+                : selectedMethods.length === 1
+                  ? [
+                      {
+                        label: metric.label,
+                        data: primaryRows.map((row) => metric.value(row)),
+                        backgroundColor: primaryRows.map((row) => app.getDistrictColor(row.district)),
+                        borderRadius: 10
+                      }
+                    ]
+                  : primaryMethods.map((method) => {
+                      const rowByDistrict = new Map(
+                        primaryRows
+                          .filter((row) => String(row.method) === method)
+                          .map((row) => [row.district, row])
+                      );
+                      const districtLabels = districtOrder.filter((district) =>
+                        primaryRows.some((row) => row.district === district)
+                      );
+                      return {
+                        label: method,
+                        data: districtLabels.map((district) =>
+                          metric.value(rowByDistrict.get(district) || {})
+                        ),
+                        backgroundColor: bundle.methodColorMap.get(method) || METHOD_PALETTE[0],
+                        borderRadius: 6
+                      };
+                    })
           },
           options: {
-            indexAxis: viewState.landRates.method === "ALL" ? "y" : "x",
+            indexAxis: !selectedMethods.length ? "y" : "x",
             responsive: true,
             maintainAspectRatio: false,
             plugins: {
-              legend: { display: false },
+              legend: { display: selectedMethods.length > 1 },
               tooltip: {
                 callbacks: {
                   label: (context) =>
-                    metric.format(viewState.landRates.method === "ALL" ? context.parsed.x : context.parsed.y)
+                    metric.format(!selectedMethods.length ? context.parsed.x : context.parsed.y)
                 }
               }
             },
@@ -2283,7 +2585,7 @@ document.addEventListener("DOMContentLoaded", async () => {
       );
 
       elements.graphStats.textContent = `Filtered land rate rows: ${app.formatNumber(
-        summary.matchedRowCount
+        summary.selectedMatchedRowCount
       )}.`;
     } catch (error) {
       console.error(error);
@@ -2345,12 +2647,12 @@ document.addEventListener("DOMContentLoaded", async () => {
           String(row.year),
           app.formatNumber(row.parcelCount),
           app.formatCurrency(row.totalValue),
-          app.formatCurrency(row.averageValue)
+          app.formatCurrency(row.medianValue)
         ]);
 
       const shell = mountTableShell(
         "assessed-ten-year-table",
-        ["District", "GEO", "GEO Name", "Year", "Parcel Rows", "Total Assessed", "Average Assessed"],
+        ["District", "GEO", "GEO Name", "Year", "Parcel Rows", "Total Assessed", "Median Assessed"],
         "No assessed ten-year rows match the current filters."
       );
 
@@ -2371,23 +2673,28 @@ document.addEventListener("DOMContentLoaded", async () => {
   async function renderAssessedCategoryTable(state) {
     try {
       const bundle = await loadCategoryBundle();
+      const selectedCodes = getSelectedCategoryCodes(bundle);
+      const selectedCategoryLabel = getSelectedCategoryLabel(bundle);
       const metric = getCategoryMetric();
-      const rows = summarizeCategoryRows(bundle.rows, getFilterContext(state).activeLrsn).geoRows
-        .filter((row) => row.code === viewState.category.code)
+      const rows = summarizeCategoryRows(
+        bundle.rows,
+        getFilterContext(state).activeLrsn,
+        selectedCodes
+      ).selectedGeoRows
         .sort((left, right) => metric.value(right) - metric.value(left))
         .map((row) => [
           app.prettyLabel(row.district),
           String(row.geo),
           row.geoName,
-          getCategoryLabel(bundle, row.code),
+          selectedCategoryLabel,
           app.formatNumber(row.parcelCount),
           app.formatCurrency(row.totalValue),
-          app.formatCurrency(row.averageValue)
+          app.formatCurrency(row.medianValue)
         ]);
 
       const shell = mountTableShell(
         "assessed-category-table",
-        ["District", "GEO", "GEO Name", "Category", "Parcel Rows", "Total Category Value", "Average Category Value"],
+        ["District", "GEO", "GEO Name", "Category", "Parcel Rows", "Total Category Value", "Median Category Value"],
         "No assessed-by-category rows match the current filters."
       );
 
@@ -2427,7 +2734,7 @@ document.addEventListener("DOMContentLoaded", async () => {
 
       const shell = mountTableShell(
         "assessed-vs-net-tax-table",
-        ["District", "GEO", "GEO Name", "PIN", "AIN", "Assessed Total", "Net Tax Total", "Gap", "Taxable Ratio"],
+        ["District", "GEO", "GEO Name", "PIN", "AIN", "Assessed Total", "Net Tax Total", "Gap", "Net / Assessed Ratio"],
         "No assessed-vs-net-tax parcels match the current filters."
       );
 
@@ -2448,24 +2755,30 @@ document.addEventListener("DOMContentLoaded", async () => {
   async function renderLandRatesTable(state) {
     try {
       const bundle = await loadLandRatesBundle();
+      const selectedMethods = getSelectedLandMethods();
+      const selectedMethodLabel = getSelectedLandMethodLabel();
       const metric = getLandRateMetric();
-      const rows = summarizeLandRateRows(bundle.rows, getFilterContext(state).activeLrsn, viewState.landRates.method).geoRows
+      const rows = summarizeLandRateRows(
+        bundle.rows,
+        getFilterContext(state).activeLrsn,
+        selectedMethods
+      ).selectedGeoRows
         .sort((left, right) => metric.value(right) - metric.value(left))
         .map((row) => [
           app.prettyLabel(row.district),
           String(row.geo),
           row.geoName,
-          row.method || row.dominantMethod,
+          selectedMethods.length ? selectedMethodLabel : row.dominantMethod,
           app.formatNumber(row.rowCount),
-          app.formatCurrency(row.avgBaseRate),
-          app.formatDecimal(row.avgAcres, 2),
-          app.formatDecimal(row.avgFrontage, 1),
-          app.formatCurrency(row.avgMarketValue)
+          app.formatCurrency(row.medianBaseRate),
+          app.formatDecimal(row.medianAcres, 2),
+          app.formatDecimal(row.medianFrontage, 1),
+          app.formatCurrency(row.medianMarketValue)
         ]);
 
       const shell = mountTableShell(
         "land-rates-table",
-        ["District", "GEO", "GEO Name", "Method", "Land Rate Rows", "Average Base Rate", "Average Acres", "Average Frontage", "Average Market Value"],
+        ["District", "GEO", "GEO Name", "Method", "Land Rate Rows", "Median Base Rate", "Median Acres", "Median Frontage", "Median Market Value"],
         "No land rate rows match the current filters."
       );
 

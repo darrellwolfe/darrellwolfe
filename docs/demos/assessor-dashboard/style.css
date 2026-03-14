@@ -369,10 +369,26 @@ a {
   display: grid;
   gap: 0.85rem;
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  align-items: start;
+}
+
+.toolbar-field {
+  align-self: start;
+  align-content: start;
 }
 
 .toolbar-field select {
   min-height: 2.6rem;
+}
+
+.toolbar-multi-select {
+  min-height: 12rem !important;
+  padding-top: 0.55rem;
+  padding-bottom: 0.55rem;
+}
+
+.toolbar-note {
+  margin: 0;
 }
 
 .stat-grid {
