@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.24">
+<meta name="generator" content="quarto-1.8.27">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -39,7 +39,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dc55a5b9e770e841cd82e46aadbfb9b0.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../../site_libs/bootstrap/bootstrap-e31584831b205ffbb2d98406f31c2a5b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
@@ -93,8 +93,6 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
-    </a>
     <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Darrell Wolfe, Storyteller</span>
     </a>
@@ -224,227 +222,116 @@ What is the most important thing you’ve learned about grief?
 
 </main> <!-- /main -->
 <div class="post-share-links" data-share-widget="" hidden="">
-
   <span class="post-share-label">Share this post:</span>
-
   <a data-share="facebook" href="#" rel="noopener noreferrer" target="_blank">Facebook</a>
-
   <a data-share="linkedin" href="#" rel="noopener noreferrer" target="_blank">LinkedIn</a>
-
   <a data-share="bluesky" href="#" rel="noopener noreferrer" target="_blank">Bluesky</a>
-
   <a data-share="tumblr" href="#" rel="noopener noreferrer" target="_blank">Tumblr</a>
-
   <a data-share="reddit" href="#" rel="noopener noreferrer" target="_blank">Reddit</a>
-
   <a data-share="instagram" data-share-mode="copy-and-open" data-fallback-url="https://www.instagram.com/" href="https://www.instagram.com/" rel="noopener noreferrer" target="_blank">Instagram</a>
-
   <a data-share="xiaohongshu" data-share-mode="copy-and-open" data-fallback-url="https://www.xiaohongshu.com/explore" href="https://www.xiaohongshu.com/explore" rel="noopener noreferrer" target="_blank">Xiaohongshu</a>
-
 </div>
-
 <script>
-
 (() => {
-
   const shareWidget = document.querySelector("[data-share-widget]");
-
   if (!shareWidget) return;
 
-
-
   const pathname = window.location.pathname.replace(/\\/g, "/");
-
   const pathSegments = pathname.split("/").filter(Boolean);
-
   const postsIndex = pathSegments.indexOf("posts");
-
   const postSubpath = postsIndex >= 0 ? pathSegments.slice(postsIndex) : [];
-
   const lastSegment = postSubpath[postSubpath.length - 1] || "";
-
   const isPostPage =
-
     postSubpath.length >= 3 &&
-
     lastSegment !== "index.html" &&
-
     lastSegment !== "";
-
   if (!isPostPage) return;
 
-
-
   const canonicalUrl =
-
     document.querySelector('meta[property="og:url"]')?.getAttribute("content") ||
-
     document.querySelector('link[rel="canonical"]')?.getAttribute("href") ||
-
     window.location.href;
-
   const pageTitle =
-
     document.querySelector('meta[property="og:title"]')?.getAttribute("content") ||
-
     document.title;
-
   const pageDescription =
-
     document.querySelector('meta[property="og:description"]')?.getAttribute("content") ||
-
     document.querySelector('meta[name="description"]')?.getAttribute("content") ||
-
     "";
-
   const encodedUrl = encodeURIComponent(canonicalUrl);
-
   const encodedTitle = encodeURIComponent(pageTitle);
-
   const encodedDescription = encodeURIComponent(pageDescription);
-
   const blueskyText = `${pageTitle} ${canonicalUrl}`.trim();
-
   const truncatedBlueskyText =
-
     blueskyText.length <= 300
-
       ? blueskyText
-
       : `${pageTitle.slice(0, Math.max(0, 297 - canonicalUrl.length)).trim()} ${canonicalUrl}`.trim();
-
   const encodedBlueskyText = encodeURIComponent(truncatedBlueskyText);
-
   const shareTargets = {
-
     facebook: `https://www.facebook.com/sharer/sharer.php?u=${encodedUrl}`,
-
     linkedin: `https://www.linkedin.com/sharing/share-offsite/?url=${encodedUrl}`,
-
     bluesky: `https://bsky.app/intent/compose?text=${encodedBlueskyText}`,
-
     tumblr: `https://www.tumblr.com/widgets/share/tool?posttype=link&canonicalUrl=${encodedUrl}&title=${encodedTitle}&caption=${encodedDescription}`,
-
     reddit: `https://old.reddit.com/submit?url=${encodedUrl}&title=${encodedTitle}`
-
   };
-
   const copyAndOpenNetworks = new Set(["instagram", "xiaohongshu"]);
 
-
-
   async function copyShareText(text) {
-
     if (navigator.clipboard?.writeText) {
-
       await navigator.clipboard.writeText(text);
-
       return;
-
     }
-
-
 
     const textarea = document.createElement("textarea");
-
     textarea.value = text;
-
     textarea.setAttribute("readonly", "");
-
     textarea.style.position = "fixed";
-
     textarea.style.top = "-9999px";
-
     document.body.appendChild(textarea);
-
     textarea.select();
-
     document.execCommand("copy");
-
     textarea.remove();
-
   }
-
-
 
   function showCopyFeedback(link) {
-
     const originalLabel = link.dataset.originalLabel || link.textContent;
-
     link.dataset.originalLabel = originalLabel;
-
     link.textContent = "Copied link";
-
     window.setTimeout(() => {
-
       link.textContent = originalLabel;
-
     }, 1600);
-
   }
 
-
-
   shareWidget.querySelectorAll("[data-share]").forEach((link) => {
-
     const network = link.getAttribute("data-share");
-
     if (!network) return;
 
-
-
     if (shareTargets[network]) {
-
       link.setAttribute("href", shareTargets[network]);
-
     }
-
-
 
     if (!copyAndOpenNetworks.has(network)) return;
 
-
-
     link.addEventListener("click", async (event) => {
-
       event.preventDefault();
 
-
-
       try {
-
         await copyShareText(canonicalUrl);
-
         showCopyFeedback(link);
-
       } catch (_) {
-
         // Ignore clipboard failures and still open the destination.
-
       }
-
-
 
       const fallbackUrl = link.dataset.fallbackUrl || link.getAttribute("href");
-
       if (fallbackUrl) {
-
         window.open(fallbackUrl, "_blank", "noopener,noreferrer");
-
       }
-
     });
-
   });
 
-
-
   shareWidget.hidden = false;
-
 })();
-
 </script>
-
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
