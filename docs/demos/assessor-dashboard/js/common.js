@@ -8,6 +8,9 @@
   const NUMBER = new Intl.NumberFormat("en-US", {
     maximumFractionDigits: 0
   });
+  const DECIMAL = new Intl.NumberFormat("en-US", {
+    maximumFractionDigits: 2
+  });
   const DISTRICT_COLORS = {
     Commercial: "#7d4f50",
     District_1: "#2a9d8f",
@@ -23,6 +26,26 @@
 
   let dataCache = null;
   let parcelCache = null;
+  const bundleCache = {};
+  const bundlePromises = {};
+  const BUNDLE_MANIFEST = {
+    assessedTenYear: {
+      globalName: "ASSESSOR_DEMO_TEN_YEAR",
+      src: "data/assessed-ten-year.js"
+    },
+    assessedByCategory: {
+      globalName: "ASSESSOR_DEMO_ASSESSED_BY_CATEGORY",
+      src: "data/assessed-by-category.js"
+    },
+    assessedNetTax: {
+      globalName: "ASSESSOR_DEMO_ASSESSED_NET_TAX",
+      src: "data/assessed-net-tax.js"
+    },
+    landRates: {
+      globalName: "ASSESSOR_DEMO_LAND_RATES",
+      src: "data/land-rates.js"
+    }
+  };
 
   function normalizeText(value) {
     return String(value || "").trim().toLowerCase();
@@ -76,6 +99,26 @@
     return NUMBER.format(Number(value));
   }
 
+  function formatDecimal(value, maximumFractionDigits = 2) {
+    if (value === null || value === undefined || Number.isNaN(Number(value))) {
+      return "-";
+    }
+    if (maximumFractionDigits === 2) {
+      return DECIMAL.format(Number(value));
+    }
+    return new Intl.NumberFormat("en-US", {
+      maximumFractionDigits,
+      minimumFractionDigits: maximumFractionDigits
+    }).format(Number(value));
+  }
+
+  function formatPercent(value, maximumFractionDigits = 1) {
+    if (value === null || value === undefined || Number.isNaN(Number(value))) {
+      return "-";
+    }
+    return `${(Number(value) * 100).toFixed(maximumFractionDigits)}%`;
+  }
+
   function getLoadErrorMessage(subject) {
     if (window.location.protocol === "file:") {
       return `Could not load ${subject}. Open this demo with quarto preview or another local web server instead of opening the HTML file directly.`;
@@ -123,6 +166,67 @@
         parcelCache = data;
         return data;
       });
+  }
+
+  function loadScriptBundle(bundleId) {
+    const manifest = BUNDLE_MANIFEST[bundleId];
+    if (!manifest) {
+      return Promise.reject(new Error(`Unknown bundle '${bundleId}'`));
+    }
+
+    if (bundleCache[bundleId]) {
+      return Promise.resolve(bundleCache[bundleId]);
+    }
+
+    if (window[manifest.globalName]) {
+      bundleCache[bundleId] = window[manifest.globalName];
+      return Promise.resolve(bundleCache[bundleId]);
+    }
+
+    if (bundlePromises[bundleId]) {
+      return bundlePromises[bundleId];
+    }
+
+    bundlePromises[bundleId] = new Promise((resolve, reject) => {
+      const script = document.createElement("script");
+      script.src = manifest.src;
+      script.async = true;
+
+      script.onload = () => {
+        const payload = window[manifest.globalName];
+        if (!payload) {
+          reject(new Error(`Bundle '${bundleId}' loaded without payload.`));
+          return;
+        }
+
+        bundleCache[bundleId] = payload;
+        resolve(payload);
+      };
+
+      script.onerror = () => {
+        reject(new Error(`Failed to load ${manifest.src}`));
+      };
+
+      document.head.appendChild(script);
+    });
+
+    return bundlePromises[bundleId];
+  }
+
+  function loadAssessedTenYearData() {
+    return loadScriptBundle("assessedTenYear");
+  }
+
+  function loadAssessedByCategoryData() {
+    return loadScriptBundle("assessedByCategory");
+  }
+
+  function loadAssessedNetTaxData() {
+    return loadScriptBundle("assessedNetTax");
+  }
+
+  function loadLandRatesData() {
+    return loadScriptBundle("landRates");
   }
 
   function defaultState() {
@@ -342,14 +446,20 @@
     filterByScope,
     filterRecords,
     formatCurrency,
+    formatDecimal,
     formatNumber,
+    formatPercent,
     geoLabel,
     getDistrictColor,
     getFilterOptions,
     groupCount,
     hasSearchQuery,
     initFilters,
+    loadAssessedByCategoryData,
+    loadAssessedNetTaxData,
+    loadAssessedTenYearData,
     loadDemoData,
+    loadLandRatesData,
     loadParcelGeoJson,
     matchesSearch,
     prettyLabel,

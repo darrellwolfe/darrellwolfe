@@ -27,6 +27,18 @@ document.addEventListener("DOMContentLoaded", async () => {
         <strong>${app.formatNumber(meta.netTaxCount)}</strong>
         <span>Rows with net tax value</span>
       </div>
+      <div class="stat-card">
+        <strong>${app.formatNumber(meta.tenYearRowCount)}</strong>
+        <span>Assessed ten-year rows</span>
+      </div>
+      <div class="stat-card">
+        <strong>${app.formatNumber(meta.categoryRowCount)}</strong>
+        <span>Assessed-by-category rows</span>
+      </div>
+      <div class="stat-card">
+        <strong>${app.formatNumber(meta.landRateRowCount)}</strong>
+        <span>Land rate rows</span>
+      </div>
     `;
   } catch (error) {
     console.error(error);

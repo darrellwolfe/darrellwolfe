@@ -1621,7 +1621,7 @@
     "href": "demos/index.html",
     "title": "Demos",
     "section": "",
-    "text": "Interactive demos live here as standalone static pages.\n\nAssessor Dashboard\n\nNote: demos using fetch() must run through a local server. Use quarto preview (or any local static server) during development instead of opening the HTML files directly from disk."
+    "text": "Interactive demos live here as standalone static pages.\n\nAssessor Dashboard\n\nNote: some demos still use fetch() and must run through a local server. The Assessor Dashboard now ships with preloaded JS data bundles so it can open directly from disk as well as on the live site."
   },
   {
     "objectID": "author/index.html",

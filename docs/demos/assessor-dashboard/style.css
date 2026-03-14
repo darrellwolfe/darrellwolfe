@@ -359,6 +359,22 @@ a {
   gap: 1rem;
 }
 
+.view-toolbar {
+  display: grid;
+  gap: 0.85rem;
+  margin-bottom: 0.9rem;
+}
+
+.toolbar-grid {
+  display: grid;
+  gap: 0.85rem;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+}
+
+.toolbar-field select {
+  min-height: 2.6rem;
+}
+
 .stat-grid {
   display: grid;
   gap: 0.8rem;
