@@ -3,6 +3,12 @@
 URL: https://darrellwolfe.github.io/darrellwolfe/
 
 
+Requirements:
+Code Editor (I use VS Code)
+GitHub & GitHub Pages
+C:\Program Files\R\R-4.5.3
+C:\Users\darre\AppData\Local\Programs\Quarto\
+
 Tasks:
 
 Figure out how to do data projects when several are on systems I cannot access here, either screenshots, or maybe better test-data in csv for localized examples, or both. 
