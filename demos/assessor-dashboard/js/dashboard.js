@@ -756,7 +756,10 @@ document.addEventListener("DOMContentLoaded", async () => {
                 ${field.options
                   .map(
                     (option) => `
-                      <label class="toolbar-check-option">
+                      <label
+                        class="toolbar-check-option"
+                        title="${app.escapeHtml(option.label)}"
+                      >
                         <input
                           type="checkbox"
                           data-toolbar-check="${app.escapeHtml(field.id)}"
@@ -1355,6 +1358,8 @@ document.addEventListener("DOMContentLoaded", async () => {
   function summarizeLandRateRows(rows, activeLrsn, selectedMethods, selectedTypes = []) {
     const methodRows = new Map();
     const districtRowsByMethod = new Map();
+    const selectedMethodRows = new Map();
+    const selectedDistrictRowsByMethod = new Map();
     const selectedDistrictRows = new Map();
     const selectedGeoRows = new Map();
     const selectedParcelRows = new Map();
@@ -1434,6 +1439,44 @@ document.addEventListener("DOMContentLoaded", async () => {
       }
 
       selectedMatchedRowCount += 1;
+
+      const selectedMethodEntry =
+        selectedMethodRows.get(method) ||
+        createLandSummaryEntry({
+          method
+        });
+      accumulateLandSummary(
+        selectedMethodEntry,
+        method,
+        landType,
+        legend,
+        baseRate,
+        acres,
+        frontage,
+        marketValue
+      );
+      selectedMethodRows.set(method, selectedMethodEntry);
+
+      const selectedDistrictMethodEntry =
+        selectedDistrictRowsByMethod.get(`${parcel.district}|${method}`) ||
+        createLandSummaryEntry({
+          district: parcel.district,
+          method
+        });
+      accumulateLandSummary(
+        selectedDistrictMethodEntry,
+        method,
+        landType,
+        legend,
+        baseRate,
+        acres,
+        frontage,
+        marketValue
+      );
+      selectedDistrictRowsByMethod.set(
+        `${parcel.district}|${method}`,
+        selectedDistrictMethodEntry
+      );
 
       const districtEntry =
         selectedDistrictRows.get(parcel.district) ||
@@ -1518,6 +1561,8 @@ document.addEventListener("DOMContentLoaded", async () => {
       selectedMatchedRowCount,
       methodRows: finalizeLandSummary(methodRows),
       districtRowsByMethod: finalizeLandSummary(districtRowsByMethod),
+      selectedMethodRows: finalizeLandSummary(selectedMethodRows),
+      selectedDistrictRowsByMethod: finalizeLandSummary(selectedDistrictRowsByMethod),
       selectedDistrictRows: finalizeLandSummary(selectedDistrictRows),
       selectedGeoRows: finalizeLandSummary(selectedGeoRows),
       selectedParcelRows: finalizeLandSummary(selectedParcelRows),
@@ -1862,85 +1907,74 @@ document.addEventListener("DOMContentLoaded", async () => {
     ];
   }
 
-  function buildLandRateToolbar(onChange, methods) {
-    return [
-      {
-        id: "land-rate-method",
-        label: "Pricing method",
-        value: getSelectedLandMethods().length ? getSelectedLandMethods() : ["__ALL__"],
-        multiple: true,
-        size: 8,
-        note: "Use Ctrl/Cmd-click to compare multiple pricing methods.",
-        options: [{ value: "__ALL__", label: "All methods" }].concat(
-          methods.map((method) => ({ value: method, label: method }))
-        ),
-        onChange: (values) => {
-          const nextValues =
-            values.includes("__ALL__") && values.length > 1
-              ? values.filter((value) => value !== "__ALL__")
-              : values;
-          viewState.landRates.methods = nextValues.includes("__ALL__") ? [] : nextValues;
-          tableState.currentPage = 1;
-          onChange();
-        }
-      },
-      {
-        id: "land-rate-metric",
-        label: "Metric",
-        value: viewState.landRates.metric,
-        options: Object.entries(LAND_RATE_METRICS).map(([value, config]) => ({
-          value,
-          label: config.label
-        })),
-        onChange: (value) => {
-          viewState.landRates.metric = value;
-          tableState.currentPage = 1;
-          onChange();
-        }
+  function buildLandRateTypeField(onChange, bundle) {
+    return {
+      id: "land-rate-type",
+      label: "Land Type",
+      variant: "multi-dropdown",
+      value: getSelectedLandTypes().length ? getSelectedLandTypes() : ["__ALL__"],
+      summaryText: getSelectedLandTypeLabel(),
+      titleText: getSelectedLandTypeTitle(),
+      options: [{ value: "__ALL__", label: "All land types" }].concat(
+        bundle.types.map((type) => ({ value: type, label: type }))
+      ),
+      onChange: (values) => {
+        const nextValues =
+          values.includes("__ALL__") && values.length > 1
+            ? values.filter((value) => value !== "__ALL__")
+            : values;
+        viewState.landRates.types = nextValues.includes("__ALL__") ? [] : nextValues;
+        tableState.currentPage = 1;
+        onChange();
       }
-    ];
+    };
   }
 
-  function buildLandRateMapToolbar(onChange, bundle) {
-    return [
-      {
-        id: "land-rate-type-map",
-        label: "Land Type",
-        variant: "multi-dropdown",
-        value: getSelectedLandTypes().length ? getSelectedLandTypes() : ["__ALL__"],
-        summaryText: getSelectedLandTypeLabel(),
-        titleText: getSelectedLandTypeTitle(),
-        options: [{ value: "__ALL__", label: "All land types" }].concat(
-          bundle.types.map((type) => ({ value: type, label: type }))
-        ),
-        onChange: (values) => {
-          const nextValues =
-            values.includes("__ALL__") && values.length > 1
-              ? values.filter((value) => value !== "__ALL__")
-              : values;
-          viewState.landRates.types = nextValues.includes("__ALL__") ? [] : nextValues;
-          onChange();
-        }
-      },
-      {
-        id: "land-rate-method-map",
-        label: "Land Method",
-        variant: "multi-dropdown",
-        value: getSelectedLandMethods().length ? getSelectedLandMethods() : ["__ALL__"],
-        summaryText: getSelectedLandMethodLabel(),
-        titleText: getSelectedLandMethodTitle(),
-        options: [{ value: "__ALL__", label: "All land methods" }].concat(
-          bundle.methods.map((method) => ({ value: method, label: method }))
-        ),
-        onChange: (values) => {
-          const nextValues =
-            values.includes("__ALL__") && values.length > 1
-              ? values.filter((value) => value !== "__ALL__")
-              : values;
-          viewState.landRates.methods = nextValues.includes("__ALL__") ? [] : nextValues;
-          onChange();
-        }
+  function buildLandRateMethodField(onChange, bundle) {
+    return {
+      id: "land-rate-method",
+      label: "Land Method",
+      variant: "multi-dropdown",
+      value: getSelectedLandMethods().length ? getSelectedLandMethods() : ["__ALL__"],
+      summaryText: getSelectedLandMethodLabel(),
+      titleText: getSelectedLandMethodTitle(),
+      options: [{ value: "__ALL__", label: "All land methods" }].concat(
+        bundle.methods.map((method) => ({ value: method, label: method }))
+      ),
+      onChange: (values) => {
+        const nextValues =
+          values.includes("__ALL__") && values.length > 1
+            ? values.filter((value) => value !== "__ALL__")
+            : values;
+        viewState.landRates.methods = nextValues.includes("__ALL__") ? [] : nextValues;
+        tableState.currentPage = 1;
+        onChange();
       }
+    };
+  }
+
+  function buildLandRateMetricField(onChange) {
+    return {
+      id: "land-rate-metric",
+      label: "Metric",
+      value: viewState.landRates.metric,
+      options: Object.entries(LAND_RATE_METRICS).map(([value, config]) => ({
+        value,
+        label: config.label
+      })),
+      onChange: (value) => {
+        viewState.landRates.metric = value;
+        tableState.currentPage = 1;
+        onChange();
+      }
+    };
+  }
+
+  function buildLandRateToolbar(onChange, bundle) {
+    return [
+      buildLandRateTypeField(onChange, bundle),
+      buildLandRateMethodField(onChange, bundle),
+      buildLandRateMetricField(onChange)
     ];
   }
 
@@ -2219,13 +2253,14 @@ document.addEventListener("DOMContentLoaded", async () => {
       const shell = mountMapShell("land-rates");
       const bundle = await loadLandRatesBundle();
       const context = await ensureMapContext();
-      renderToolbar(shell.toolbar, buildLandRateMapToolbar(() => renderSelectedMap(), bundle));
+      renderToolbar(shell.toolbar, buildLandRateToolbar(() => renderSelectedMap(), bundle));
 
       const filterContext = getFilterContext(state);
       const selectedMethods = getSelectedLandMethods();
       const selectedTypes = getSelectedLandTypes();
       const selectedMethodLabel = getSelectedLandMethodLabel();
       const selectedTypeLabel = getSelectedLandTypeLabel();
+      const metric = getLandRateMetric();
       const summary = summarizeLandRateRows(
         bundle.rows,
         filterContext.activeLrsn,
@@ -2243,6 +2278,7 @@ document.addEventListener("DOMContentLoaded", async () => {
             ...feature,
             properties: {
               ...feature.properties,
+              rowCount: row.rowCount,
               landRowCount: row.rowCount,
               dominantMethod: row.dominantMethod,
               dominantType: row.dominantType,
@@ -2267,23 +2303,18 @@ document.addEventListener("DOMContentLoaded", async () => {
         return;
       }
 
-      const activeLegends = summary.selectedLegendRows
-        .map((row) => row.dominantLegend)
-        .filter(Boolean)
-        .sort((left, right) => left.localeCompare(right));
-
-      const legendItems = activeLegends.map((legend) => ({
-        color: bundle.legendColorMap.get(legend) || LAND_LEGEND_PALETTE[0],
-        label: legend
-      }));
+      const scale = createSequentialScale(
+        summary.selectedParcelRows.map((row) => metric.value(row)),
+        WARM_PALETTE,
+        metric.format
+      );
 
       const layer = L.geoJSON(app.buildFeatureCollection(features), {
         renderer: mapState.renderer,
         style: (feature) => {
           const lrsn = Number(feature.properties.lrsn);
           const isHighlighted = filterContext.hasSearch && filterContext.searchedLrsn.has(lrsn);
-          const fillColor =
-            bundle.legendColorMap.get(feature.properties.dominantLegend) || LAND_LEGEND_PALETTE[0];
+          const fillColor = scale.getColor(metric.value(feature.properties));
 
           return {
             color: isHighlighted ? "#ffeb3b" : "#17343d",
@@ -2303,6 +2334,9 @@ document.addEventListener("DOMContentLoaded", async () => {
             <strong>Dominant land type:</strong> ${app.escapeHtml(props.dominantType)}<br>
             <strong>Dominant land method:</strong> ${app.escapeHtml(props.dominantMethod)}<br>
             <strong>Matched land rows:</strong> ${app.escapeHtml(app.formatNumber(props.landRowCount))}<br>
+            <strong>${app.escapeHtml(metric.label)}:</strong> ${app.escapeHtml(
+              metric.format(metric.value(props))
+            )}<br>
             <strong>Median base rate:</strong> ${app.escapeHtml(app.formatCurrency(props.medianBaseRate))}<br>
             <strong>Median acres:</strong> ${app.escapeHtml(app.formatDecimal(props.medianAcres, 2))}<br>
             <strong>Median frontage:</strong> ${app.escapeHtml(app.formatDecimal(props.medianFrontage, 1))}<br>
@@ -2313,8 +2347,8 @@ document.addEventListener("DOMContentLoaded", async () => {
 
       replaceMapLayer(layer);
       fitLayerToState(layer, state, "land-rates");
-      if (legendItems.length) {
-        shell.legend.appendChild(createLegendNode(legendItems));
+      if (scale.items.length) {
+        shell.legend.appendChild(createLegendNode(scale.items));
       }
 
       const filterBits = [];
@@ -2336,7 +2370,7 @@ document.addEventListener("DOMContentLoaded", async () => {
         features.length
       )} parcel polygon(s) built from ${app.formatNumber(
         summary.selectedMatchedRowCount
-      )} land-rate row(s).${filterText}${highlightedText}`;
+      )} land-rate row(s), shaded by ${metric.label.toLowerCase()}.${filterText}${highlightedText}`;
     } catch (error) {
       console.error(error);
       elements.mapStats.textContent = app.getLoadErrorMessage("land rates map data");
@@ -2785,38 +2819,41 @@ document.addEventListener("DOMContentLoaded", async () => {
     try {
       const shell = mountGraphShell("land-rates-graphs");
       const bundle = await loadLandRatesBundle();
-      renderToolbar(shell.toolbar, buildLandRateToolbar(() => renderSelectedGraph(), bundle.methods));
+      renderToolbar(shell.toolbar, buildLandRateToolbar(() => renderSelectedGraph(), bundle));
 
       const selectedMethods = getSelectedLandMethods();
+      const selectedTypes = getSelectedLandTypes();
       const metric = getLandRateMetric();
       const summary = summarizeLandRateRows(
         bundle.rows,
         getFilterContext(state).activeLrsn,
-        selectedMethods
+        selectedMethods,
+        selectedTypes
       );
       const topGeoRows = [...summary.selectedGeoRows]
         .sort((left, right) => metric.value(right) - metric.value(left))
         .slice(0, 15);
+      const selectedMethodRows = [...summary.selectedMethodRows].sort(
+        (left, right) => metric.value(right) - metric.value(left)
+      );
 
       const primaryMethods = selectedMethods.length
-        ? [...summary.methodRows]
-            .filter((row) => selectedMethods.includes(String(row.method)))
-            .sort((left, right) => metric.value(right) - metric.value(left))
+        ? selectedMethodRows
             .slice(0, Math.min(6, selectedMethods.length))
             .map((row) => String(row.method))
         : [];
       const primaryRows =
         !selectedMethods.length
-          ? [...summary.methodRows].sort((left, right) => metric.value(right) - metric.value(left))
+          ? selectedMethodRows
           : selectedMethods.length === 1
             ? [...summary.selectedDistrictRows].sort((left, right) =>
                 left.district.localeCompare(right.district)
               )
-            : summary.districtRowsByMethod.filter((row) =>
+            : summary.selectedDistrictRowsByMethod.filter((row) =>
                 primaryMethods.includes(String(row.method))
               );
 
-      if ((!selectedMethods.length && !summary.methodRows.length) || (selectedMethods.length && !primaryRows.length)) {
+      if ((!selectedMethods.length && !summary.selectedMethodRows.length) || (selectedMethods.length && !primaryRows.length)) {
         shell.grid.innerHTML = `<div class="empty-state">No land rate rows match the current filters.</div>`;
         elements.graphStats.textContent = "Showing 0 land rate rows.";
         return;
@@ -3120,12 +3157,14 @@ document.addEventListener("DOMContentLoaded", async () => {
     try {
       const bundle = await loadLandRatesBundle();
       const selectedMethods = getSelectedLandMethods();
+      const selectedTypes = getSelectedLandTypes();
       const selectedMethodLabel = getSelectedLandMethodLabel();
       const metric = getLandRateMetric();
       const rows = summarizeLandRateRows(
         bundle.rows,
         getFilterContext(state).activeLrsn,
-        selectedMethods
+        selectedMethods,
+        selectedTypes
       ).selectedGeoRows
         .sort((left, right) => metric.value(right) - metric.value(left))
         .map((row) => [
@@ -3146,7 +3185,7 @@ document.addEventListener("DOMContentLoaded", async () => {
         "No land rate rows match the current filters."
       );
 
-      renderToolbar(shell.toolbar, buildLandRateToolbar(() => renderSelectedTable(), bundle.methods));
+      renderToolbar(shell.toolbar, buildLandRateToolbar(() => renderSelectedTable(), bundle));
       renderTableRows(
         shell,
         rows,

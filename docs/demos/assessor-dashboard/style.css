@@ -357,12 +357,15 @@ a {
 .module-stage {
   display: grid;
   gap: 1rem;
+  position: relative;
 }
 
 .view-toolbar {
   display: grid;
   gap: 0.85rem;
   margin-bottom: 0.9rem;
+  position: relative;
+  z-index: 1100;
 }
 
 .toolbar-grid {
@@ -388,6 +391,10 @@ a {
 
 .toolbar-dropdown {
   position: relative;
+}
+
+.toolbar-dropdown[open] {
+  z-index: 1200;
 }
 
 .toolbar-dropdown summary {
@@ -438,13 +445,13 @@ a {
   position: absolute;
   top: calc(100% + 0.45rem);
   left: 0;
-  z-index: 24;
+  z-index: 1250;
   display: grid;
-  gap: 0.4rem;
-  width: min(24rem, calc(100vw - 4rem));
+  gap: 0.25rem;
+  width: max(100%, min(26rem, calc(100vw - 2rem)));
   max-height: 14rem;
   overflow: auto;
-  padding: 0.65rem 0.75rem;
+  padding: 0.5rem 0.65rem;
   border: 1px solid var(--line);
   border-radius: 0.9rem;
   background: rgba(255, 253, 250, 0.98);
@@ -453,21 +460,29 @@ a {
 
 .toolbar-check-option {
   display: flex;
-  align-items: flex-start;
-  gap: 0.6rem;
-  padding: 0.15rem 0;
-  font-size: 0.92rem;
-  line-height: 1.3;
+  align-items: center;
+  gap: 0.5rem;
+  min-width: 0;
+  padding: 0.2rem 0.1rem;
+  font-size: 0.84rem;
+  line-height: 1.2;
   font-weight: 500;
+  cursor: pointer;
 }
 
 .toolbar-check-option input {
-  margin-top: 0.2rem;
+  flex: 0 0 auto;
+  width: 0.95rem;
+  height: 0.95rem;
+  margin: 0;
 }
 
 .toolbar-check-option span {
   color: var(--ink);
   min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .toolbar-multi-select {
@@ -508,6 +523,8 @@ a {
 }
 
 .map-canvas {
+  position: relative;
+  z-index: 1;
   width: 100%;
   min-height: 620px;
   border-radius: 1rem;
