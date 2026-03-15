@@ -74,44 +74,15 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 <style>html{ scroll-behavior: smooth; }</style>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="../../assets/css/site.css">
 <meta property="og:title" content="Using INDIRECT to obtain a VLookup with a variable array reference – Darrell Wolfe, Storyteller">
 <meta property="og:description" content="Darrell Wolfe’s central online home for creative writing, biblical studies, data storytelling, data analysis, and personal essays.">
-<meta property="og:image" content="https://darrellwolfe.github.io/darrellwolfe/images/imported/blogger-googleusercontent-com/table-formulas-b300be88b3ab.jpg">
+<meta property="og:image" content="https://darrellwolfe.github.io/darrellwolfe/images/imported/blogger-googleusercontent-com/variable-geos-9eaa565ed459.jpg">
 <meta property="og:site_name" content="Darrell Wolfe, Storyteller">
 <meta name="twitter:title" content="Using INDIRECT to obtain a VLookup with a variable array reference – Darrell Wolfe, Storyteller">
 <meta name="twitter:description" content="Darrell Wolfe’s central online home for creative writing, biblical studies, data storytelling, data analysis, and personal essays.">
-<meta name="twitter:image" content="https://darrellwolfe.github.io/darrellwolfe/images/imported/blogger-googleusercontent-com/table-formulas-b300be88b3ab.jpg">
+<meta name="twitter:image" content="https://darrellwolfe.github.io/darrellwolfe/images/imported/blogger-googleusercontent-com/variable-geos-9eaa565ed459.jpg">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -143,6 +114,10 @@ window.Quarto = {
   <li class="nav-item">
     <a class="nav-link" href="../../nypb/index.html"> 
 <span class="menu-text">NYPB</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../data-nerd/index.html"> 
+<span class="menu-text">Data Nerd</span></a>
   </li>  
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-portfolio" role="link" data-bs-toggle="dropdown" aria-expanded="false">
@@ -190,7 +165,7 @@ window.Quarto = {
   </li>  
         <li>
     <a class="dropdown-item" href="../../posts/data-nerd/index.html">
- <span class="dropdown-text">Data Nerd</span></a>
+ <span class="dropdown-text">Data Nerd Posts</span></a>
   </li>  
     </ul>
   </li>
@@ -241,89 +216,63 @@ window.Quarto = {
 </header>
 
 
-<h3 style="text-align: left;" class="anchored">
-Case Study for using INDIRECT to obtain a VLookup with a variable array reference
-</h3>
-<div>
-<br>
-</div>
-<div>
-<i><em>For reference: I did not build this workbook, it came this way and I’m stuck with it until I can rebuild it correctly next year.</em></i>
-</div>
-<div>
-<br>
-</div>
-<h4 style="text-align: left;" class="anchored">
-<b>The Problem:</b>
-</h4>
-<div>
-I have a legacy workbook that I have to rebuild for next year, but his year I’m stuck with.&nbsp;
-</div>
-<div>
-<br>
-</div>
-<div>
-This workbook has at or near 100 tabs that need to be referenced on a Totals and Subtotals set of pages. There are a thousand better ways to do that, especially using Power Query and Power Pivot, but here we are.
-</div>
-<div>
-<br>
-</div>
-<div>
-These sub-totals pages were for specific sub-sets of the data that could be found on any given page (Ex: One sub-totals page looks for all properties with a PC Code “548”).
-</div>
-<div>
-<br>
-</div>
-<div>
-On the sub-totals pages, the previous builder had simply linked the cells to the various pages; resulting in over a thousand rows of data that looked like this:
-</div>
-<div>
-<br>
-</div>
-<blockquote style="border: none; margin: 0px 0px 0px 40px; padding: 0px;" class="blockquote">
-<div style="text-align: left;">
-<span style="color: #134f5c;"><b>//=‘2001’!$A<span class="math inline">\(20//&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;div&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;However, when the end-user filtered the data on the origin pages, the data on the sub-totals pages would break because it was hard coded to a specific cell. The data in that cell changed every time a filter was applied. Many of the rows were now showing data for non-548s.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;Sub-Problem: I the end-user wants to be able to filter their data while doing analysis, as they should.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;h4 style="text-align: left;"&gt;Solution Attempt 1&lt;/h4&gt;&lt;div&gt;My first attempt to solve for this issue, was to rebuild the sub-totals with a VLookup formula.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;blockquote style="border: none; margin: 0px 0px 0px 40px; padding: 0px;"&gt;&lt;div style="text-align: left;"&gt;&lt;span style="color: #134f5c;"&gt;&lt;b&gt;//=VLOOKUP(B18,'2001'!B17:DD200,6,FALSE)//&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;While this was successful, it posed a new problem. Each row of data needs to reference a different Neighborhood (aka Geo). This resulted in my having to hard-code a new geo for each row every time that changed in the requested data set.&lt;/div&gt;&lt;div class="separator" style="clear: both; text-align: center;"&gt;&lt;a href="/images/imported/blogger-googleusercontent-com/variable-geos-69a651f19c10.jpg" style="margin-left: 1em; margin-right: 1em;"&gt;&lt;img border="0" data-original-height="234" data-original-width="736" height="195" src="/images/imported/blogger-googleusercontent-com/variable-geos-9eaa565ed459.jpg" width="612" /&gt;&lt;/a&gt;&lt;/div&gt;&lt;br /&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;h4&gt;Solution Attempt 2&lt;/h4&gt;&lt;/div&gt;&lt;div&gt;In order to allow the end-user to use Filters on the data sets, and not have to hard-code the variables into the formula, I had to have variable within the VLookup that could reference the over 100 sheet names.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;Each sheet name is identical to the geo/NBHD number. After a quick chat with ChatGPT and a review of the syntax for "INDIRECT", I found a solution.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;By using INDIRECT as the the array, I was able to feed the variable component into the VLookup formula. From that point, I only had to fix each column to reference the correct number of columns over in the array.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;
-&lt;h4 style="text-align: left;"&gt;Results:&lt;/h4&gt;
-&lt;span style="color: #134f5c;"&gt;&lt;b&gt;//&amp;nbsp;=VLOOKUP(\)</span>B18,INDIRECT(“‘“&amp;<span class="math inline">\(J18&amp;amp;"'!\)</span>B<span class="math inline">\(17:\)</span>DD<span class="math inline">\(500"),6,FALSE) //&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style="color: #134f5c;"&gt;&lt;b&gt;//&amp;nbsp;=VLOOKUP(\)</span>B18,INDIRECT(”’”&amp;<span class="math inline">\(J18&amp;amp;"'!\)</span>B<span class="math inline">\(17:\)</span>DD<span class="math inline">\(500"),7,FALSE) //&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style="color: #134f5c;"&gt;&lt;b&gt;//&amp;nbsp;=VLOOKUP(\)</span>B18,INDIRECT(“’”&amp;<span class="math inline">\(J18&amp;amp;"'!\)</span>B<span class="math inline">\(17:\)</span>DD<span class="math inline">\(500"),32,FALSE) //&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;
-In this way, the entire sub-totals page could be fed the data it needs to reference, and the end-user was still able to use their filter.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;h4 style="text-align: left;"&gt;PS -&amp;nbsp;&lt;/h4&gt;&lt;div&gt;The new version, for next year, will be built on Tables and the Sub-totals will use Table formulas which are inherently dynamic. Once a Table is created and named, it can be referred to by it's name and column.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;A table formula would look like:&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;blockquote style="border: none; margin: 0px 0px 0px 40px; padding: 0px;"&gt;&lt;div style="text-align: left;"&gt;&lt;b&gt;&lt;span style="color: #134f5c;"&gt;//=VLOOKUP(\)</span>C6,</b></span><b><span style="color: red;">G_2010</span><span style="color: #134f5c;">,2,FALSE)//</span></b>
-</div>
+<section id="case-study-for-using-indirect-to-obtain-a-vlookup-with-a-variable-array-reference" class="level3">
+<h3 class="anchored" data-anchor-id="case-study-for-using-indirect-to-obtain-a-vlookup-with-a-variable-array-reference">Case Study for using INDIRECT to obtain a VLookup with a variable array reference</h3>
+<p><strong>For reference: I did not build this workbook, it came this way and I’m stuck with it until I can rebuild it correctly next year.</strong></p>
+<section id="the-problem" class="level4">
+<h4 class="anchored" data-anchor-id="the-problem"><strong>The Problem:</strong></h4>
+<p>I have a legacy workbook that I have to rebuild for next year, but his year I’m stuck with.</p>
+<p>This workbook has at or near 100 tabs that need to be referenced on a Totals and Subtotals set of pages. There are a thousand better ways to do that, especially using Power Query and Power Pivot, but here we are.</p>
+<p>These sub-totals pages were for specific sub-sets of the data that could be found on any given page (Ex: One sub-totals page looks for all properties with a PC Code “548”).</p>
+<p>On the sub-totals pages, the previous builder had simply linked the cells to the various pages; resulting in over a thousand rows of data that looked like this:</p>
+<blockquote class="blockquote">
+<p><strong>//=‘2001’!$A$20//</strong></p>
 </blockquote>
-<p>
-or when by Table Name[Column Name]
-</p>
-<blockquote style="border: none; margin: 0px 0px 0px 40px; padding: 0px;" class="blockquote">
-<p style="text-align: left;">
-<b><span style="color: #134f5c;">&nbsp;//=COUNTA(</span><span style="color: red;">G_2010</span><span style="color: #38761d;">[LRSN]</span><span style="color: #134f5c;">)//</span></b>
-</p>
+<p>However, when the end-user filtered the data on the origin pages, the data on the sub-totals pages would break because it was hard coded to a specific cell. The data in that cell changed every time a filter was applied. Many of the rows were now showing data for non-548s.</p>
+<p>Sub-Problem: I the end-user wants to be able to filter their data while doing analysis, as they should.</p>
+</section>
+<section id="solution-attempt-1" class="level4">
+<h4 class="anchored" data-anchor-id="solution-attempt-1">Solution Attempt 1</h4>
+<p>My first attempt to solve for this issue, was to rebuild the sub-totals with a VLookup formula.</p>
+<blockquote class="blockquote">
+<p><strong>//=VLOOKUP(B18,‘2001’!B17:DD200,6,FALSE)//</strong></p>
 </blockquote>
-<div>
-<b><span style="color: #134f5c;"></span></b>
-</div>
-<div>
-<br>
-</div>
-<div class="separator" style="clear: both; text-align: center;">
-<a href="../../images/imported/blogger-googleusercontent-com/table-formulas-95f349f75704.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="412" data-original-width="1131" height="187" src="../../images/imported/blogger-googleusercontent-com/table-formulas-b300be88b3ab.jpg" width="512"></a>
-</div>
-<br>
-<div>
-<br>
-</div>
-<h4 style="text-align: left;" class="anchored">
-PSS-&nbsp;
-</h4>
-<div>
-In the end, we hope to move to a combination of (1) SQL and Tableau and (2) onboard software we already own but was never set up correctly to do these analysis. However, there are database restrictions outside of our control that require fixing before we can implement those options. We are working to Dev that project out for year three or beyond.<br> <br> <br> <br> <span style="font-family: &quot;tempus sans itc&quot;;">Shalom&nbsp;<span data-face="sans-serif" style="background-color: white; color: #202122; font-size: 14px;">×©Ö¸××œ×•Ö¹×</span>: Live Long and Prosper!</span><br>
-<div class="MsoNormal">
-<span style="font-family: &quot;tempus sans itc&quot;; font-size: 18pt;">Darrell Wolfe</span>
-</div>
-Storyteller | Writer | Thinker | Consultant | Freelancer
-<div>
-<br>
-</div>
-</div>
+<p>While this was successful, it posed a new problem. Each row of data needs to reference a different Neighborhood (aka Geo). This resulted in my having to hard-code a new geo for each row every time that changed in the requested data set.</p>
+<p><a href="../..\images/imported/blogger-googleusercontent-com/variable-geos-69a651f19c10.jpg"><img src="../..\images/imported/blogger-googleusercontent-com/variable-geos-9eaa565ed459.jpg" class="img-fluid"></a></p>
+</section>
+<section id="solution-attempt-2" class="level4">
+<h4 class="anchored" data-anchor-id="solution-attempt-2">Solution Attempt 2</h4>
+<p>In order to allow the end-user to use Filters on the data sets, and not have to hard-code the variables into the formula, I had to have variable within the VLookup that could reference the over 100 sheet names.</p>
+<p>Each sheet name is identical to the geo/NBHD number. After a quick chat with ChatGPT and a review of the syntax for “INDIRECT”, I found a solution.</p>
+<p>By using INDIRECT as the the array, I was able to feed the variable component into the VLookup formula. From that point, I only had to fix each column to reference the correct number of columns over in the array.</p>
+</section>
+<section id="results" class="level4">
+<h4 class="anchored" data-anchor-id="results">Results:</h4>
+<p><strong>// =VLOOKUP($B18,INDIRECT(“‘“&amp;$J18&amp;”’!$B$17:$DD$500”),6,FALSE) //</strong></p>
+<p><strong>// =VLOOKUP($B18,INDIRECT(“‘“&amp;$J18&amp;”’!$B$17:$DD$500”),7,FALSE) //</strong></p>
+<p><strong>// =VLOOKUP($B18,INDIRECT(“‘“&amp;$J18&amp;”’!$B$17:$DD$500”),32,FALSE) //</strong></p>
+<p>In this way, the entire sub-totals page could be fed the data it needs to reference, and the end-user was still able to use their filter.</p>
+</section>
+<section id="ps--" class="level4">
+<h4 class="anchored" data-anchor-id="ps--">PS -</h4>
+<p>The new version, for next year, will be built on Tables and the Sub-totals will use Table formulas which are inherently dynamic. Once a Table is created and named, it can be referred to by it’s name and column.</p>
+<p>A table formula would look like:</p>
+<blockquote class="blockquote">
+<p><strong>//=VLOOKUP($C6,G_2010,2,FALSE)//</strong></p>
+</blockquote>
+<p>or when by Table Name[Column Name]</p>
+<blockquote class="blockquote">
+<p>** //=COUNTA(G_2010[LRSN])//**</p>
+</blockquote>
+<p><a href="../..\images/imported/blogger-googleusercontent-com/table-formulas-95f349f75704.jpg"><img src="../..\images/imported/blogger-googleusercontent-com/table-formulas-b300be88b3ab.jpg" class="img-fluid"></a></p>
+</section>
+<section id="pss-" class="level4">
+<h4 class="anchored" data-anchor-id="pss-">PSS-</h4>
+<p>In the end, we hope to move to a combination of (1) SQL and Tableau and (2) onboard software we already own but was never set up correctly to do these analysis. However, there are database restrictions outside of our control that require fixing before we can implement those options. We are working to Dev that project out for year three or beyond.</p>
 
 
+</section>
+</section>
 
 </main> <!-- /main -->
 <div class="post-share-links" data-share-widget="" hidden="">
@@ -873,7 +822,7 @@ Storyteller | Writer | Thinker | Consultant | Freelancer
 
 <script src="../../site_libs/quarto-html/zenscroll-min.js"></script>
 <script id="site-tag-manifest" type="application/json">{
-    "generatedAt":  "2026-03-15T19:34:40.1839413Z",
+    "generatedAt":  "2026-03-15T22:20:13.1276660Z",
     "postCount":  422,
     "featured":  [
                      {

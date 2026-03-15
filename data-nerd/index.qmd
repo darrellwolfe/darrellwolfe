@@ -1,0 +1,185 @@
+---
+title: "Data Nerd"
+description: "Professional profile of Darrell Wolfe: analytics engineer, data visualization builder, and SQL-first systems designer."
+image: "../images/DarrellWolfe_Profile.jpg"
+---
+
+::: {.hero-shell}
+::: {.hero-kicker}
+Analytics Engineer | Data Visualization Builder
+:::
+
+## Darrell Wolfe {.hero-title}
+
+I build SQL-first reporting systems, reusable transformation layers, and offline-friendly analytics tools that turn messy operational work into reliable decision-support workflows.
+
+::: {.resume-meta}
+[DarrellGWolfe@Outlook.com](mailto:DarrellGWolfe@Outlook.com){.resume-meta-item}
+[LinkedIn](https://www.linkedin.com/in/darrellgwolfe/){.resume-meta-item target="_blank" rel="noopener noreferrer"}
+[Coeur d'Alene, Idaho]{.resume-meta-item}
+:::
+
+::: {.hero-actions}
+[View Data Portfolio](../portfolio/data/index.qmd){.btn .btn-primary}
+[Read Data Nerd Posts](../posts/data-nerd/index.qmd){.btn .btn-outline-primary}
+[Home](../index.qmd){.btn .btn-outline-secondary}
+:::
+:::
+
+::: {.section-panel}
+### Professional Summary
+
+I am an analytics-focused systems builder pivoting deeper into analytics engineering and data visualization roles. My strongest work sits at the intersection of SQL Server, data modeling, operational reporting, and workflow automation, especially when the job is to turn a messy legacy process into a reliable dataset, a reusable transformation layer, or a dashboard that non-technical teams can actually use.
+:::
+
+::: {.section-panel}
+### Core Strengths
+
+::: {.card-grid .resume-card-grid}
+::: {.card}
+#### SQL Server + Reporting Logic
+
+Strong in SQL Server querying, transformation logic, and performance-minded reporting design.
+:::
+
+::: {.card}
+#### Analytics Data Modeling
+
+Build semantic and reporting layers for Power BI, Tableau, Excel, and custom dashboards.
+:::
+
+::: {.card}
+#### Workflow Automation
+
+Use Python, Power Query, and configuration-driven pipelines to make recurring work repeatable.
+:::
+
+::: {.card}
+#### Requirements Translation
+
+Translate business questions between technical systems and non-technical stakeholders.
+:::
+
+::: {.card}
+#### Operational Reporting
+
+Focus on data quality review, documentation, and practical outputs teams can trust.
+:::
+
+::: {.card}
+#### Offline-First Visualization
+
+Design on-prem and offline-friendly analytics experiences for real-world business environments.
+:::
+:::
+:::
+
+::: {.section-panel}
+### Recent Projects
+
+::: {.role-block}
+#### DataDevToolkit
+
+::: {.role-subtitle}
+Automation Platform
+:::
+
+::: {.role-meta}
+2023-2026 | Iterative project
+:::
+
+- Modular Python automation platform used to orchestrate internal data workflows and reporting processes.
+- Centralized logging, configuration management, and execution for SQL-driven analytics tasks.
+- Shared core utilities, revision tracking, and reusable workflow patterns to help automation scale across a team.
+:::
+
+::: {.role-block}
+#### DataViz - Offline Analytics Platform
+
+::: {.role-subtitle}
+Custom Data Visualization
+:::
+
+::: {.role-meta}
+2026
+:::
+
+- Built an offline-first geospatial analytics dashboard combining SQL Server datasets, Excel inputs, and parcel geometry.
+- Generates maps, tables, and graph views through automated data-preparation pipelines.
+:::
+:::
+
+::: {.section-panel}
+### Current Work
+
+::: {.role-block}
+#### Business Intelligence Analyst / Data Visualization
+
+::: {.role-subtitle}
+Kootenai County Assessor's Office
+:::
+
+::: {.role-meta}
+August 2021 - Present | Coeur d'Alene, Idaho
+:::
+
+- Design SQL data models and reporting datasets for operational, valuation, and workflow analysis across county systems.
+- Rebuilt paper-heavy and Excel-heavy processes into repeatable pipelines using SQL Server, Power Query, Excel, and Python automation.
+- Reduced a sustained 70-hour-per-week reporting workload to a standard workweek by redesigning manual reporting and delivery processes.
+- Create transformation layers and curated outputs that feed Power BI, Tableau, Excel models, and custom on-prem dashboards.
+- Built offline-first geospatial analytics views that join parcel geometry with operational metrics so staff can explore data without depending on a server-first experience.
+- Develop internal tooling that standardizes logging, configuration, and execution for automation workflows used by the data team.
+:::
+:::
+
+::: {.section-panel}
+### Previous Experience
+
+::: {.role-block}
+#### Fraud Analyst
+
+::: {.role-subtitle}
+Bread Financial
+:::
+
+::: {.role-meta}
+October 2018 - August 2021 | Coeur d'Alene, Idaho
+:::
+:::
+
+::: {.role-block}
+#### Technical Writer & Complaints Analyst
+
+::: {.role-subtitle}
+Wells Fargo
+:::
+
+::: {.role-meta}
+January 2006 - January 2017 | Coeur d'Alene, Idaho
+:::
+:::
+:::
+
+::: {.section-panel}
+### Skills Summary
+
+::: {.resume-skill-group}
+**Data and BI:** SQL Server, Power BI, Tableau, Excel, Power Query, DAX, data modeling, and ETL-style transformations.
+:::
+
+::: {.resume-skill-group}
+**Development:** Python automation, GitHub, VS Code, RStudio, documentation, and configuration-driven workflow design.
+:::
+
+::: {.resume-skill-group}
+**Career Focus:** Analytics engineering, data visualization engineering, semantic and reporting layer design, and decision-support systems.
+:::
+:::
+
+::: {.section-panel}
+### Education and Credentials
+
+- B.A. in General Christian Studies, The King's University
+- Google Data Analytics Professional Certificate, Coursera
+- Certified Property Tax Appraiser, Idaho Tax Commission
+:::

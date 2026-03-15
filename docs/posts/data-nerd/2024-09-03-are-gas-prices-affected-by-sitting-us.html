@@ -74,35 +74,6 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 <style>html{ scroll-behavior: smooth; }</style>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="../../assets/css/site.css">
 <meta property="og:title" content="Are gas prices affected by the sitting US President (Under Construction, testing html view) – Darrell Wolfe, Storyteller">
@@ -147,6 +118,10 @@ window.Quarto = {
   <li class="nav-item">
     <a class="nav-link" href="../../nypb/index.html"> 
 <span class="menu-text">NYPB</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../data-nerd/index.html"> 
+<span class="menu-text">Data Nerd</span></a>
   </li>  
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-portfolio" role="link" data-bs-toggle="dropdown" aria-expanded="false">
@@ -194,7 +169,7 @@ window.Quarto = {
   </li>  
         <li>
     <a class="dropdown-item" href="../../posts/data-nerd/index.html">
- <span class="dropdown-text">Data Nerd</span></a>
+ <span class="dropdown-text">Data Nerd Posts</span></a>
   </li>  
     </ul>
   </li>
@@ -245,182 +220,156 @@ window.Quarto = {
 </header>
 
 
-<h1>
-<a name="gas-prices-in-usa-historical-analysis">Gas Prices in USA, historical analysis<o:p></o:p></a>
-</h1>
-<p class="FirstParagraph">
-This report is intended to review gas prices in the USA historically for comparison against various claims.<o:p></o:p>
-</p>
-<p class="MsoBodyText">
-One such claim is that the sitting US President has a direct affect on gas prices.<o:p></o:p>
-</p>
-<div class="MsoNormal" data-align="center" style="text-align: center;">
-<hr align="center" size="2" width="100%">
-</div>
-<h2 class="anchored">
-<a name="X31d71eb68e27fe22eef5b63fadb11d0b54b6017">Data from the EIA - US Energy Information Administration<o:p></o:p></a>
-</h2>
-<p class="FirstParagraph">
-This dataframe set <span class="VerbatimChar"><span style="font-size: 11pt;">GasPrices_eia_prices_1970_2022</span></span> comes from the EIA website as a downloadable CSV.<o:p></o:p>
-</p>
-<p class="MsoBodyText">
-The <a href="https://www.eia.gov/TOOLS/FAQS/faq.php?id=26&amp;t=10">EIA</a> provides an FAQ for using the data, which includes instructions to download the <a href="https://www.eia.gov/state/seds/seds-data-complete.php?sid=US#CompleteDataFile">CSV</a> and for a reference <a href="https://www.eia.gov/totalenergy/data/monthly/index.php#appendices">Excel</a> document that helps with conversion.<o:p></o:p>
-</p>
-<p class="MsoBlockText">
-“To obtain the historical prices from the SEDS data, use the CSV file for All States—Prices. In the file, the code for gasoline prices for the transportation sector, in <span class="VerbatimChar"><span style="font-size: 11pt;"><span class="math inline">\(/MMBtu&lt;/span&gt;&lt;/span&gt;, is: State
-Abbreviation (in column A) and &lt;span class="VerbatimChar"&gt;&lt;span style="font-size: 11pt;"&gt;MGACD&lt;/span&gt;&lt;/span&gt; (in column B). For
-example, the code for Alaska is &lt;span class="VerbatimChar"&gt;&lt;span style="font-size: 11pt;"&gt;AK—MGACD&lt;/span&gt;&lt;/span&gt;. Those prices, in\)</span>/MMBtu, can be converted to approximate dollars per gallon using the heat contents in Table A3 Petroleum consumption and fuel ethanol. There are 42 U.S. gallons in a barrel.”<o:p></o:p>
-</span></span></p>
-<p class="FirstParagraph">
-The CSV is downloaded from &gt; Section: Prices and expenditures &gt; Subsection: All price and expenditure estimates &gt; SubSubsection: Prices &gt; 1970-2022 &gt; XLSX CSV ZIP<o:p></o:p>
-</p>
-<p class="MsoBodyText">
-The following shows the barrel prices falling sharply well before 2016’s national election, and remaining relatively stable until after the pandemic crashes of 2020.<o:p></o:p>
-</p>
-<pre><code>
-<p class="SourceCode">```{python}</p><p class="SourceCode"><span class="ImportTok">import</span><span class="NormalTok"> pandas </span><span class="ImportTok">as</span><span class="NormalTok"> pd</span></p><p class="SourceCode">
-<span class="ImportTok">import</span><span class="NormalTok">
-matplotlib.pyplot </span><span class="ImportTok">as</span><span class="NormalTok">
-plt</span><br>
-<br>
-<span class="CommentTok"># Path to the CSV file</span><br>
-<span class="NormalTok">file_path </span><span class="OperatorTok">=</span><span class="NormalTok"> </span><span class="StringTok">'C:/Users/dwolfe/Documents/Demo_Skills_SampleCode/Projects/National_Market_Markers/_dataframes/GasPrices_eia_prices_1970_2022.csv'</span><br>
-<br>
-<span class="CommentTok"># Read the CSV file</span><br>
-<span class="NormalTok">df </span><span class="OperatorTok">=</span><span class="NormalTok"> pd.read_csv(file_path)</span><br>
-<br>
-<span class="CommentTok"># Filter rows where 'MSN' column contains 'MGACD'</span><br>
-<span class="NormalTok">filtered_df </span><span class="OperatorTok">=</span><span class="NormalTok"> df[df[</span><span class="StringTok">'MSN'</span><span class="NormalTok">].</span><span class="BuiltInTok">str</span><span class="NormalTok">.contains(</span><span class="StringTok">'MGACD'</span><span class="NormalTok">, case</span><span class="OperatorTok">=</span><span class="VariableTok">False</span><span class="NormalTok">, na</span><span class="OperatorTok">=</span><span class="VariableTok">False</span><span class="NormalTok">)]</span><br>
-<br>
-<span class="CommentTok"># Calculate the average for each year for the
-filtered data</span><br>
-<span class="NormalTok">average_prices </span><span class="OperatorTok">=</span><span class="NormalTok"> filtered_df.iloc[:, </span><span class="DecValTok">3</span><span class="NormalTok">:].mean()&nbsp; </span><span class="CommentTok"># Assumes year data starts at the 4th column</span><br>
-<br>
-<span class="CommentTok"># Create a line plot</span><br>
-<span class="NormalTok">plt.figure(figsize</span><span class="OperatorTok">=</span><span class="NormalTok">(</span><span class="DecValTok">10</span><span class="NormalTok">, </span><span class="DecValTok">5</span><span class="NormalTok">))&nbsp; </span><span class="CommentTok"># Set the
-figure size</span><br>
-<span class="NormalTok">plt.plot(average_prices.index,
-average_prices.values, marker</span><span class="OperatorTok">=</span><span class="StringTok">'o'</span><span class="NormalTok">)&nbsp; </span><span class="CommentTok"># Plot the
-average prices</span><br>
-<span class="NormalTok">plt.title(</span><span class="StringTok">'Average
-Gas Prices Over Years for MGACD'</span><span class="NormalTok">)&nbsp; </span><span class="CommentTok"># Add a title</span><br>
-<span class="NormalTok">plt.xlabel(</span><span class="StringTok">'Year'</span><span class="NormalTok">)&nbsp; </span><span class="CommentTok"># Add x-axis label</span><br>
-<span class="NormalTok">plt.ylabel(</span><span class="StringTok">'Average
-Price'</span><span class="NormalTok">)&nbsp; </span><span class="CommentTok"># Add y-axis label</span><br>
-<span class="NormalTok">plt.grid(</span><span class="VariableTok">True</span><span class="NormalTok">)&nbsp; </span><span class="CommentTok"># Add a grid</span><br>
-<span class="NormalTok">plt.xticks(rotation</span><span class="OperatorTok">=</span><span class="DecValTok">45</span><span class="NormalTok">)&nbsp; </span><span class="CommentTok"># Rotate x-axis
-labels for better readability</span><br>
-<span class="NormalTok">plt.tight_layout()&nbsp;
-</span><span class="CommentTok"># Adjust layout to make room for the
-rotated x-axis labels</span><br>
-<span class="NormalTok">plt.show()&nbsp; </span><span class="CommentTok"># Display the plot</span><o:p></o:p></p><p class="SourceCode"><span class="CommentTok">```</span></p>
-</code>
-</pre>
-<div class="separator" style="clear: both; text-align: center;">
-<a href="../../images/imported/blogger-googleusercontent-com/eia-a5ed64334671.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="277" data-original-width="560" height="316" src="../../images/imported/blogger-googleusercontent-com/eia-ff5c7ad9b739.png" width="640"></a>
-</div>
-<br>
-<p class="FirstParagraph">
-<br>
-</p>
-<div class="MsoNormal" data-align="center" style="text-align: center;">
-<hr align="center" size="2" width="100%">
-</div>
-<h2 class="anchored">
-<a name="data-from-our-world-in-data">Data from Our World in Data<o:p></o:p></a>
-</h2>
-<p class="FirstParagraph">
-Our World in Data provides an international dataset to review.<o:p></o:p>
-</p>
-<p class="MsoBodyText">
-This dataframe set <span class="VerbatimChar"><span style="font-size: 11pt;">GasePrices_OWD_crude-oil-prices.csv</span></span> comes from the Our World in Data website as a downloadable CSV.<o:p></o:p>
-</p>
-<p class="MsoBlockText">
-“Data Page: Oil price - Crude prices since 1861”, part of the following publication: Hannah Ritchie, Pablo Rosado and Max Roser (2023) - “Energy”. Data adapted from Energy Institute. Retrieved from https://ourworldindata.org/grapher/crude-oil-prices [online resource]<o:p></o:p>
-</p>
-<p class="FirstParagraph">
-These international crude oil prices show the same trends, clearly indicating that the US President is unrelated to gas prices.<o:p></o:p>
-</p>
-<p class="FirstParagraph">
-<br>
-</p>
-<pre><code>
+<section id="gas-prices-in-usa-historical-analysis" class="level1">
+<h1>Gas Prices in USA, historical analysis</h1>
+<p>This report is intended to review gas prices in the USA historically for comparison against various claims.</p>
+<p>One such claim is that the sitting US President has a direct affect on gas prices.</p>
+<hr>
+<section id="data-from-the-eia---us-energy-information-administration" class="level2">
+<h2 class="anchored" data-anchor-id="data-from-the-eia---us-energy-information-administration">Data from the EIA - US Energy Information Administration</h2>
+<p>This dataframe set GasPrices_eia_prices_1970_2022 comes from the EIA website as a downloadable CSV.</p>
+<p>The <a href="https://www.eia.gov/TOOLS/FAQS/faq.php?id=26&amp;t=10">EIA</a> provides an FAQ for using the data, which includes instructions to download the <a href="https://www.eia.gov/state/seds/seds-data-complete.php?sid=US#CompleteDataFile">CSV</a> and for a reference <a href="https://www.eia.gov/totalenergy/data/monthly/index.php#appendices">Excel</a> document that helps with conversion.</p>
+<p>“To obtain the historical prices from the SEDS data, use the CSV file for All States—Prices. In the file, the code for gasoline prices for the transportation sector, in $/MMBtu, is: State Abbreviation (in column A) and MGACD (in column B). For example, the code for Alaska is AK—MGACD. Those prices, in $/MMBtu, can be converted to approximate dollars per gallon using the heat contents in Table A3 Petroleum consumption and fuel ethanol. There are 42 U.S. gallons in a barrel.”</p>
+<p>The CSV is downloaded from &gt; Section: Prices and expenditures &gt; Subsection: All price and expenditure estimates &gt; SubSubsection: Prices &gt; 1970-2022 &gt; XLSX CSV ZIP</p>
+<p>The following shows the barrel prices falling sharply well before 2016’s national election, and remaining relatively stable until after the pandemic crashes of 2020.</p>
+<pre><code>```{python}import pandas as pd
+import
+matplotlib.pyplot as
+plt
 
-<p class="SourceCode">```{python}</p><div><span class="ImportTok">import</span><span class="NormalTok"> pandas </span><span class="ImportTok">as</span><span class="NormalTok"> pd</span></div><p class="SourceCode">
-<span class="ImportTok">import</span><span class="NormalTok">
-matplotlib.pyplot </span><span class="ImportTok">as</span><span class="NormalTok">
-plt</span><br>
-<br>
-<span class="CommentTok"># Path to the CSV file</span><br>
-<span class="NormalTok">file_path </span><span class="OperatorTok">=</span><span class="NormalTok"> </span><span class="StringTok">'C:/Users/dwolfe/Documents/Demo_Skills_SampleCode/Projects/National_Market_Markers/_dataframes/GasPrices_owd_intl_1861_2023.csv'</span><br>
-<br>
-<span class="CommentTok"># Read the CSV file</span><br>
-<span class="NormalTok">df </span><span class="OperatorTok">=</span><span class="NormalTok"> pd.read_csv(file_path)</span><br>
-<br>
-<span class="CommentTok"># Display the first few rows to verify the data</span><br>
-<span class="BuiltInTok">print</span><span class="NormalTok">(df.head())</span><br>
-<br>
-<span class="CommentTok"># Filter data for years 1970 to 2023</span><br>
-<span class="NormalTok">filtered_df </span><span class="OperatorTok">=</span><span class="NormalTok"> df[(df[</span><span class="StringTok">'Year'</span><span class="NormalTok">] </span><span class="OperatorTok">&gt;=</span><span class="NormalTok"> </span><span class="DecValTok">1970</span><span class="NormalTok">)
-</span><span class="OperatorTok">&amp;</span><span class="NormalTok"> (df[</span><span class="StringTok">'Year'</span><span class="NormalTok">] </span><span class="OperatorTok">&lt;=</span><span class="NormalTok"> </span><span class="DecValTok">2023</span><span class="NormalTok">)]</span><br>
-<br>
-<span class="CommentTok"># Plotting the filtered data</span><br>
-<span class="NormalTok">plt.figure(figsize</span><span class="OperatorTok">=</span><span class="NormalTok">(</span><span class="DecValTok">12</span><span class="NormalTok">, </span><span class="DecValTok">6</span><span class="NormalTok">))&nbsp; </span><span class="CommentTok"># Set figure
-size</span><br>
-<span class="NormalTok">plt.plot(filtered_df[</span><span class="StringTok">'Year'</span><span class="NormalTok">], filtered_df[</span><span class="StringTok">'Oil price - Crude
-prices since 1861 (current US$)'</span><span class="NormalTok">], marker</span><span class="OperatorTok">=</span><span class="StringTok">'o'</span><span class="NormalTok">, linestyle</span><span class="OperatorTok">=</span><span class="StringTok">'-'</span><span class="NormalTok">)</span><br>
-<span class="NormalTok">plt.title(</span><span class="StringTok">'International
-Crude Oil Prices from 1970 to 2023'</span><span class="NormalTok">)</span><br>
-<span class="NormalTok">plt.xlabel(</span><span class="StringTok">'Year'</span><span class="NormalTok">)</span><br>
-<span class="NormalTok">plt.ylabel(</span><span class="StringTok">'Oil Price
-(current US$)'</span><span class="NormalTok">)</span><br>
-<span class="NormalTok">plt.grid(</span><span class="VariableTok">True</span><span class="NormalTok">)</span><br>
-<span class="NormalTok">plt.xticks(rotation</span><span class="OperatorTok">=</span><span class="DecValTok">45</span><span class="NormalTok">)&nbsp; </span><span class="CommentTok"># Rotate x-axis
-labels for better readability</span><br>
-<span class="NormalTok">plt.tight_layout()&nbsp;
-</span><span class="CommentTok"># Adjust layout</span><br>
-<span class="NormalTok">plt.show()&nbsp; </span><span class="CommentTok"># Display the plot</span><o:p></o:p></p>
+# Path to the CSV file
 
+file_path = 'C:/Users/dwolfe/Documents/Demo_Skills_SampleCode/Projects/National_Market_Markers/_dataframes/GasPrices_eia_prices_1970_2022.csv'
 
-<p class="SourceCode"><span class="VerbatimChar">&nbsp;
-Entity&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Code&nbsp; Year&nbsp;
-Oil price - Crude prices since 1861 (current US$)</span><br>
-<span class="VerbatimChar">0&nbsp; World&nbsp; OWID_WRL&nbsp;
-1861&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-3.082002</span><br>
-<span class="VerbatimChar">1&nbsp; World&nbsp; OWID_WRL&nbsp;
-1862&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-6.604290</span><br>
-<span class="VerbatimChar">2&nbsp; World&nbsp; OWID_WRL&nbsp;
-1863&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-19.812870</span><br>
-<span class="VerbatimChar">3&nbsp; World&nbsp; OWID_WRL&nbsp;
-1864&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-50.695790</span><br>
-<span class="VerbatimChar">4&nbsp; World&nbsp; OWID_WRL&nbsp;
-1865&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-41.449783</span><o:p></o:p></p><p class="SourceCode"><span class="VerbatimChar">```</span></p>
+# Read the CSV file
 
-</code>
-</pre>
-<div class="separator" style="clear: both; text-align: center;">
-<a href="../../images/imported/blogger-googleusercontent-com/oqd-33a2ef9b7b62.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="278" data-original-width="560" height="318" src="../../images/imported/blogger-googleusercontent-com/oqd-ca5b67d68bcd.png" width="640"></a>
-</div>
-<br>
-<p class="FirstParagraph">
-<br>
-</p>
-<div class="MsoNormal" data-align="center" style="text-align: center;">
-<hr align="center" size="2" width="100%">
-</div>
-<h2 class="anchored">
-<a name="placeholder-tbc">Placeholder TBC…<o:p></o:p></a>
-</h2>
-<p class="FirstParagraph">
-Text<o:p></o:p>
-</p>
+df = pd.read_csv(file_path)
+
+# Filter rows where 'MSN' column contains 'MGACD'
+
+filtered_df = df[df['MSN'].str.contains('MGACD', case=False, na=False)]
+
+# Calculate the average for each year for the
+filtered data
+
+average_prices = filtered_df.iloc[:, 3:].mean()  # Assumes year data starts at the 4th column
+
+# Create a line plot
+
+plt.figure(figsize=(10, 5))  # Set the
+figure size
+
+plt.plot(average_prices.index,
+average_prices.values, marker='o')  # Plot the
+average prices
+
+plt.title('Average
+Gas Prices Over Years for MGACD')  # Add a title
+
+plt.xlabel('Year')  # Add x-axis label
+
+plt.ylabel('Average
+Price')  # Add y-axis label
+
+plt.grid(True)  # Add a grid
+
+plt.xticks(rotation=45)  # Rotate x-axis
+labels for better readability
+
+plt.tight_layout()
+# Adjust layout to make room for the
+rotated x-axis labels
+
+plt.show()  # Display the plot```</code></pre>
+<p><a href="../..\images/imported/blogger-googleusercontent-com/eia-a5ed64334671.png"><img src="../..\images/imported/blogger-googleusercontent-com/eia-ff5c7ad9b739.png" class="img-fluid"></a></p>
+<hr>
+</section>
+<section id="data-from-our-world-in-data" class="level2">
+<h2 class="anchored" data-anchor-id="data-from-our-world-in-data">Data from Our World in Data</h2>
+<p>Our World in Data provides an international dataset to review.</p>
+<p>This dataframe set GasePrices_OWD_crude-oil-prices.csv comes from the Our World in Data website as a downloadable CSV.</p>
+<p>“Data Page: Oil price - Crude prices since 1861”, part of the following publication: Hannah Ritchie, Pablo Rosado and Max Roser (2023) - “Energy”. Data adapted from Energy Institute. Retrieved from https://ourworldindata.org/grapher/crude-oil-prices [online resource]</p>
+<p>These international crude oil prices show the same trends, clearly indicating that the US President is unrelated to gas prices.</p>
+<pre><code>```{python}import pandas as pd
+import
+matplotlib.pyplot as
+plt
+
+# Path to the CSV file
+
+file_path = 'C:/Users/dwolfe/Documents/Demo_Skills_SampleCode/Projects/National_Market_Markers/_dataframes/GasPrices_owd_intl_1861_2023.csv'
+
+# Read the CSV file
+
+df = pd.read_csv(file_path)
+
+# Display the first few rows to verify the data
+
+print(df.head())
+
+# Filter data for years 1970 to 2023
+
+filtered_df = df[(df['Year'] &gt;= 1970)
+&amp; (df['Year'] &lt;= 2023)]
+
+# Plotting the filtered data
+
+plt.figure(figsize=(12, 6))  # Set figure
+size
+
+plt.plot(filtered_df['Year'], filtered_df['Oil price - Crude
+prices since 1861 (current US$)'], marker='o', linestyle='-')
+
+plt.title('International
+Crude Oil Prices from 1970 to 2023')
+
+plt.xlabel('Year')
+
+plt.ylabel('Oil Price
+(current US$)')
+
+plt.grid(True)
+
+plt.xticks(rotation=45)  # Rotate x-axis
+labels for better readability
+
+plt.tight_layout()
+# Adjust layout
+
+plt.show()  # Display the plot
+
+Entity      Code  Year
+Oil price - Crude prices since 1861 (current US$)
+
+0  World  OWID_WRL
+1861
+3.082002
+
+1  World  OWID_WRL
+1862
+6.604290
+
+2  World  OWID_WRL
+1863
+19.812870
+
+3  World  OWID_WRL
+1864
+50.695790
+
+4  World  OWID_WRL
+1865
+41.449783```</code></pre>
+<p><a href="../..\images/imported/blogger-googleusercontent-com/oqd-33a2ef9b7b62.png"><img src="../..\images/imported/blogger-googleusercontent-com/oqd-ca5b67d68bcd.png" class="img-fluid"></a></p>
+<hr>
+</section>
+<section id="placeholder-tbc" class="level2">
+<h2 class="anchored" data-anchor-id="placeholder-tbc">Placeholder TBC…</h2>
+<p>Text</p>
 
 
+</section>
+</section>
 
 </main> <!-- /main -->
 <div class="post-share-links" data-share-widget="" hidden="">
@@ -970,7 +919,7 @@ Text<o:p></o:p>
 
 <script src="../../site_libs/quarto-html/zenscroll-min.js"></script>
 <script id="site-tag-manifest" type="application/json">{
-    "generatedAt":  "2026-03-15T19:34:40.1839413Z",
+    "generatedAt":  "2026-03-15T22:20:13.1276660Z",
     "postCount":  422,
     "featured":  [
                      {

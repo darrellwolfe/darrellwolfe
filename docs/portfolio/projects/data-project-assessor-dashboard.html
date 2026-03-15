@@ -152,6 +152,10 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     <a class="nav-link" href="../../nypb/index.html"> 
 <span class="menu-text">NYPB</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../data-nerd/index.html"> 
+<span class="menu-text">Data Nerd</span></a>
+  </li>  
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-portfolio" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Portfolio</span>
@@ -198,7 +202,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   </li>  
         <li>
     <a class="dropdown-item" href="../../posts/data-nerd/index.html">
- <span class="dropdown-text">Data Nerd</span></a>
+ <span class="dropdown-text">Data Nerd Posts</span></a>
   </li>  
     </ul>
   </li>
@@ -253,7 +257,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 <section id="data-project-assessor-dashboard" class="level1 hero-title hero-shell">
 <h1 class="hero-title">Data Project: Assessor Dashboard</h1>
-<p>DataViz Assessor's Dashboard is the actual project. The public demo linked below is a sanitized re-presentation built from exported CSV and parcel geometry so outside viewers can explore the workflow without access to the live environment.</p>
+<p>The DataViz Assessor’s Dashboard was born of a frustration I had with traditional BI Tools. Power BI was unable to parse our Geometry files (Parcel Shapes) natively, so we moved to Tableau.</p>
+<p>DataViz Assessor’s Dashboard is the actual project. The public demo linked below is a sanitized re-presentation built from exported CSV and parcel geometry so outside viewers can explore the workflow without access to the live environment.</p>
 <div class="hero-actions">
 <p><a href="../../demos/assessor-dashboard/index.html" class="btn btn-primary" target="_blank" rel="noopener noreferrer">Open Public Demo</a> <a href="../../demos/assessor-dashboard/maps.html" class="btn btn-outline-primary" target="_blank" rel="noopener noreferrer">Maps</a> <a href="../../demos/assessor-dashboard/graphs.html" class="btn btn-outline-primary" target="_blank" rel="noopener noreferrer">Graphs</a> <a href="../../demos/assessor-dashboard/tables.html" class="btn btn-outline-secondary" target="_blank" rel="noopener noreferrer">Tables</a></p>
 </div>
@@ -275,7 +280,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <h2 class="anchored" data-anchor-id="project-vs-demo">Project vs Demo</h2>
 <p>The distinction matters here:</p>
 <ul>
-<li>The project is the DataViz Assessor's Dashboard work itself, including the SQL logic and the original dashboard workflow</li>
+<li>The project is the DataViz Assessor’s Dashboard work itself, including the SQL logic and the original dashboard workflow</li>
 <li>The demo is a public-facing interactive stand-in built from sanitized exports because site visitors cannot access the original environment</li>
 <li>The demo is meant to show interaction patterns, dashboard structure, and data storytelling approach without exposing restricted source systems</li>
 </ul>
@@ -476,7 +481,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </section>
 <section id="values_assessed.sql" class="level3">
 <h3 class="anchored" data-anchor-id="values_assessed.sql"><code>values_assessed.sql</code></h3>
-<p>This query rolls up last year's total assessed value by parcel. It is the simplest valuation measure in the set and gives the dashboard a single assessed-value figure per <code>lrsn</code>.</p>
+<p>This query rolls up last year’s total assessed value by parcel. It is the simplest valuation measure in the set and gives the dashboard a single assessed-value figure per <code>lrsn</code>.</p>
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb4"><pre class="sourceCode sql code-with-copy"><code class="sourceCode sql"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="kw">Select</span></span>
 <span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a>i.RevObjId <span class="kw">AS</span> lrsn,</span>
 <span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a><span class="fu">SUM</span>(c.ValueAmount) <span class="kw">AS</span> CadValue_TotalAssessed</span>
@@ -492,7 +497,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </section>
 <section id="values_assessed_by_category.sql" class="level3">
 <h3 class="anchored" data-anchor-id="values_assessed_by_category.sql"><code>values_assessed_by_category.sql</code></h3>
-<p>This is the category breakout query. It takes the prior year's assessed values and groups them by parcel plus <code>FullGroupCode</code>, which makes it possible to compare the composition of assessed value across land and improvement categories.</p>
+<p>This is the category breakout query. It takes the prior year’s assessed values and groups them by parcel plus <code>FullGroupCode</code>, which makes it possible to compare the composition of assessed value across land and improvement categories.</p>
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb5"><pre class="sourceCode sql code-with-copy"><code class="sourceCode sql"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="kw">Select</span></span>
 <span id="cb5-2"><a href="#cb5-2" aria-hidden="true" tabindex="-1"></a>i.RevObjId <span class="kw">AS</span> lrsn,</span>
 <span id="cb5-3"><a href="#cb5-3" aria-hidden="true" tabindex="-1"></a>c.FullGroupCode,</span>
@@ -651,7 +656,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </section>
 <section id="values_net_tax_value.sql" class="level3">
 <h3 class="anchored" data-anchor-id="values_net_tax_value.sql"><code>values_net_tax_value.sql</code></h3>
-<p>This query calculates last year's net taxable value by parcel. In the dashboard it supports the comparison between total assessed value and the portion that remains taxable after exemptions and other adjustments.</p>
+<p>This query calculates last year’s net taxable value by parcel. In the dashboard it supports the comparison between total assessed value and the portion that remains taxable after exemptions and other adjustments.</p>
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb7"><pre class="sourceCode sql code-with-copy"><code class="sourceCode sql"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a><span class="kw">Select</span></span>
 <span id="cb7-2"><a href="#cb7-2" aria-hidden="true" tabindex="-1"></a>i.RevObjId <span class="kw">AS</span> lrsn,</span>
 <span id="cb7-3"><a href="#cb7-3" aria-hidden="true" tabindex="-1"></a><span class="fu">SUM</span>(c.ValueAmount) <span class="kw">AS</span> CadValue_NetTax</span>
@@ -1234,7 +1239,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 <script src="../../site_libs/quarto-html/zenscroll-min.js"></script>
 <script id="site-tag-manifest" type="application/json">{
-    "generatedAt":  "2026-03-15T19:34:40.1839413Z",
+    "generatedAt":  "2026-03-15T22:20:13.1276660Z",
     "postCount":  422,
     "featured":  [
                      {

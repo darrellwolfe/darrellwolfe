@@ -13,7 +13,7 @@ Stories, systems, scripture, spreadsheets, and the strange overlap between them.
 ::: {.hero-actions}
 [Creative Writing](posts/writing/index.qmd){.btn .btn-primary}
 [Biblical Studies](posts/biblical/index.qmd){.btn .btn-outline-primary}
-[Data Nerd](posts/data-nerd/index.qmd){.btn .btn-outline-primary}
+[Data Nerd](data-nerd/index.qmd){.btn .btn-outline-primary}
 [Personal](posts/personal/index.qmd){.btn .btn-outline-secondary}
 :::
 :::
@@ -52,8 +52,8 @@ I am a biblical studies major and I write about the Bible by dragging it out of 
 :::
 
 ::: {.card}
-### [Data Nerd](posts/data-nerd/index.qmd)
-By day, I wrangle data for a living. This page is where I write about SQL, dashboards, automation, reporting, and the deeply satisfying work of forcing chaotic information to sit down, behave, and tell the truth.
+### [Data Nerd](data-nerd/index.qmd)
+This is the professional home for my analytics work: SQL-first reporting systems, automation, dashboards, offline-first visualization, and the practical work of turning chaotic operational data into something a team can actually use.
 :::
 
 ::: {.card}

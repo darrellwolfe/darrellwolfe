@@ -4,35 +4,40 @@ date: 2026-03-14
 categories: [portfolio, data, dashboard]
 ---
 
-::: {.hero-shell}
+:::: hero-shell
 # Data Project: Assessor Dashboard {.hero-title}
 
-DataViz Assessor&#39;s Dashboard is the actual project. The public demo linked below is a sanitized re-presentation built from exported CSV and parcel geometry so outside viewers can explore the workflow without access to the live environment.
+The DataViz Assessor's Dashboard was born of a frustration I had with traditional BI Tools. It was built as a custom on-prem dashboard driven by SQL live access to the database. Then it uses Python, JSON, JS, HTML, CSS, JavaScript and other tools to create a dashboard our non-technical staff can use. Below I describe the project, and the links here are to a sanitized demo version of the project. The demo derives its static data from csv exports for presentation purposes only, as nobody outside the organization can access our on-prem version.
 
-::: {.hero-actions}
-[Open Public Demo](../../demos/assessor-dashboard/index.html){.btn .btn-primary target="_blank" rel="noopener noreferrer"}
-[Maps](../../demos/assessor-dashboard/maps.html){.btn .btn-outline-primary target="_blank" rel="noopener noreferrer"}
-[Graphs](../../demos/assessor-dashboard/graphs.html){.btn .btn-outline-primary target="_blank" rel="noopener noreferrer"}
-[Tables](../../demos/assessor-dashboard/tables.html){.btn .btn-outline-secondary target="_blank" rel="noopener noreferrer"}
+::: hero-actions
+[Open Public Demo](../../demos/assessor-dashboard/index.html){.btn .btn-primary target="_blank" rel="noopener noreferrer"} [Maps](../../demos/assessor-dashboard/maps.html){.btn .btn-outline-primary target="_blank" rel="noopener noreferrer"} [Graphs](../../demos/assessor-dashboard/graphs.html){.btn .btn-outline-primary target="_blank" rel="noopener noreferrer"} [Tables](../../demos/assessor-dashboard/tables.html){.btn .btn-outline-secondary target="_blank" rel="noopener noreferrer"}
 :::
-:::
+::::
 
 ## Problem
 
-The core project is a real assessor analytics and visualization workflow, not the static demo itself. The work centers on preparing parcel, valuation, and tax-oriented views for dashboard use, then turning those outputs into clear map, graph, and table experiences for exploration and decision support.
+Power BI was unable to parse our Geometry files (Parcel Shapes) natively, so we moved to Tableau. While Tableau eats Parcel Shapes within seconds and became our go-to BI tool, I found it frustrating that we had to create multiple workbooks to make the joins and star schemas work for all the reporting we needed. Further, as a limited budget local government agency, we did not have the funds for a full Enterprise release. As a workaround, I had a creator license for Tableau Desktop which was then published but hidden to Tableau Public. Then those links were shared as bookmarks for non-technical staff to use. This required singing into Tableau Cloud (which was always a multi-step process) and then signing into Tableau Public to publish. This was for each separate report I wanted to update, all while having no deeper control over various visual aspects. I decided I wanted one tool with a simple rebuild \> republish interface when not creating new views.
 
 ## Data
 
-- The project SQL lives in `assets/data/assessor_data/*.sql`
-- Those queries shape parcel, valuation, category, and net-tax views from the assessor environment
-- The public demo uses sanitized CSV exports generated from those project-side queries
-- County parcel geometry is converted for browser mapping in the public demo
+JavaScript 60.8% \| TSQL 21.2% \| HTML 8.3% \| Python 6.7% \| CSS 2.0% \| PowerShell 1.0%
+
+- **Parcel Shapes** (Cadastral Parcels zip file) is located on the county website and re-accessed with each rebuild.
+  - [Land Records Zip File Gallery](https://www.kcgov.us/984/Zip-File-Gallery "Land Records Zip File Gallery")
+- **SQL** \> We have a large repository of SQL developed by the Data Dev team for all manner of reporting.
+- **BI SQL** \> I created custom views of data in SQL for the DataViz tool to use for creating views.
+- **Python** \> Is used for transforming and joining aspects of data and for computation analysis.
+- **JSON** \> Is used to parse the parcel shape files into various map views.
+- **HTML/CSS/JavaScript** \> Are then used to create an on-prem localized website accessed through a shared browser link by non-technical staff.
+- **PowerShell** \> Is used to host instructions for the build tools to run the SQL queries and rebuild the site.
+- **GitHub** \> A private GitHub repo holds this structured data.
+- **Visual Studio Code** \> Is used to access the repo and PowerShell uses Run Task to rebuild the site at the data teams request.
 
 ## Project vs Demo
 
 The distinction matters here:
 
-- The project is the DataViz Assessor&#39;s Dashboard work itself, including the SQL logic and the original dashboard workflow
+- The project is the DataViz Assessor's Dashboard work itself, including the SQL logic and the original dashboard workflow
 - The demo is a public-facing interactive stand-in built from sanitized exports because site visitors cannot access the original environment
 - The demo is meant to show interaction patterns, dashboard structure, and data storytelling approach without exposing restricted source systems
 
@@ -40,10 +45,10 @@ The distinction matters here:
 
 The project-side workflow starts with SQL and structured extracts, then the public demo repackages those results for static delivery:
 
-1. Use assessor SQL queries to assemble parcel, assessed value, category, and net-tax datasets.
-2. Export sanitized CSV outputs from the original dashboard workflow.
-3. Convert those exports into browser-ready static bundles for the public demo.
-4. Present the sanitized outputs through linked maps, graphs, and tables that share filter state.
+1.  Use assessor SQL queries to assemble parcel, assessed value, category, and net-tax datasets.
+2.  Export sanitized CSV outputs from the original dashboard workflow.
+3.  Convert those exports into browser-ready static bundles for the public demo.
+4.  Present the sanitized outputs through linked maps, graphs, and tables that share filter state.
 
 ## Project SQL
 
@@ -53,7 +58,7 @@ These are the working SQL files behind the assessor-side project. The public dem
 
 This is the category lookup table. It pulls active `impgroup` code records so the dashboard can translate category codes into readable labels when showing assessed values by category.
 
-```sql
+``` sql
 Select 
 c.tbl_element AS Cat_Group_Code,
 c.tbl_element_desc AS Cat_Description
@@ -67,7 +72,7 @@ Where c.code_status = 'A'
 
 This query builds the land-rate detail extract. It starts from land header and land detail records, adds parcel geography and district labels, then joins lookup tables for land method, land type, and site rating so the dashboard can map and compare land-rate behavior by parcel.
 
-```sql
+``` sql
 SELECT
 lh.RevObjId AS lrsn,
     CASE
@@ -174,7 +179,7 @@ WHERE lh.EffStatus= 'A'
 
 This is the base parcel extract for the dashboard. It produces the parcel identifiers, district grouping, neighborhood geography, city inference from PIN prefixes, and the active property-class fields that other dashboard outputs can join back to.
 
-```sql
+``` sql
 Select Distinct
 CASE
   WHEN pm.neighborhood >= 9000 THEN 'Manufactured_Homes'
@@ -241,9 +246,9 @@ Where pm.EffStatus = 'A'
 
 ### `values_assessed.sql`
 
-This query rolls up last year&#39;s total assessed value by parcel. It is the simplest valuation measure in the set and gives the dashboard a single assessed-value figure per `lrsn`.
+This query rolls up last year's total assessed value by parcel. It is the simplest valuation measure in the set and gives the dashboard a single assessed-value figure per `lrsn`.
 
-```sql
+``` sql
 Select
 i.RevObjId AS lrsn,
 SUM(c.ValueAmount) AS CadValue_TotalAssessed
@@ -260,9 +265,9 @@ GROUP BY i.RevObjId
 
 ### `values_assessed_by_category.sql`
 
-This is the category breakout query. It takes the prior year&#39;s assessed values and groups them by parcel plus `FullGroupCode`, which makes it possible to compare the composition of assessed value across land and improvement categories.
+This is the category breakout query. It takes the prior year's assessed values and groups them by parcel plus `FullGroupCode`, which makes it possible to compare the composition of assessed value across land and improvement categories.
 
-```sql
+``` sql
 Select
 i.RevObjId AS lrsn,
 c.FullGroupCode,
@@ -322,7 +327,7 @@ Declare @AssessedByCat INT = 470;
 
 This is the historical trend query. It produces a parcel-level assessed value time series across ten years, keeping the parcel geography and district context attached so the dashboard can compare long-range value movement by place and parcel.
 
-```sql
+``` sql
 SELECT DISTINCT
 i.RevObjId AS lrsn,
     CASE
@@ -425,9 +430,9 @@ Declare @AssessedByCat INT = 470;
 
 ### `values_net_tax_value.sql`
 
-This query calculates last year&#39;s net taxable value by parcel. In the dashboard it supports the comparison between total assessed value and the portion that remains taxable after exemptions and other adjustments.
+This query calculates last year's net taxable value by parcel. In the dashboard it supports the comparison between total assessed value and the portion that remains taxable after exemptions and other adjustments.
 
-```sql
+``` sql
 Select
 i.RevObjId AS lrsn,
 SUM(c.ValueAmount) AS CadValue_NetTax
@@ -446,27 +451,31 @@ GROUP BY i.RevObjId
 
 The public demo is split into focused pages so visitors can inspect the interaction model built on the sanitized exports:
 
-::: {.card-grid}
-::: {.card}
+::::::: card-grid
+::: card
 ### [Information](../../demos/assessor-dashboard/index.html)
+
 Overview page describing scope, data inputs, and what each dashboard section covers.
 :::
 
-::: {.card}
+::: card
 ### [Maps](../../demos/assessor-dashboard/maps.html)
+
 Includes parcel district fills, assessed ten-year GEO bubbles, assessed-by-category GEO bubbles, assessed-vs-net-tax parcel comparisons, and land-rates mapping.
 :::
 
-::: {.card}
+::: card
 ### [Graphs](../../demos/assessor-dashboard/graphs.html)
+
 Charts parcel counts, assessed trends, category summaries, assessed-vs-net-tax comparisons, and land-rate patterns using the same shared filters.
 :::
 
-::: {.card}
+::: card
 ### [Tables](../../demos/assessor-dashboard/tables.html)
+
 Provides parcel-level tables plus summary tables for the other metric bundles with paging and shared filter state.
 :::
-:::
+:::::::
 
 ## Results
 
@@ -474,10 +483,10 @@ This page now presents the assessor dashboard as the real project and the static
 
 ## Repro Steps
 
-1. Maintain the project SQL in `assets/data/assessor_data/`.
-2. Run the original assessor-side workflow and export sanitized CSV outputs for public use.
-3. Run `scripts/assessor_data/build-demo-dataframes.ps1` to convert those exports into demo data bundles.
-4. Keep the static demo files in `demos/assessor-dashboard/` and render/sync them into `docs/`.
+1.  Maintain the project SQL in `assets/data/assessor_data/`.
+2.  Run the original assessor-side workflow and export sanitized CSV outputs for public use.
+3.  Run `scripts/assessor_data/build-demo-dataframes.ps1` to convert those exports into demo data bundles.
+4.  Keep the static demo files in `demos/assessor-dashboard/` and render/sync them into `docs/`.
 
 ## Tech Used
 

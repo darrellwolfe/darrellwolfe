@@ -32,6 +32,8 @@ website:
         href: author/index.qmd
       - text: NYPB
         href: nypb/index.qmd
+      - text: Data Nerd
+        href: data-nerd/index.qmd
       - text: Portfolio
         menu:
           - text: Portfolio Home
@@ -52,7 +54,7 @@ website:
             href: posts/biblical/index.qmd
           - text: Creative Writing
             href: posts/writing/index.qmd
-          - text: Data Nerd
+          - text: Data Nerd Posts
             href: posts/data-nerd/index.qmd
       - text: Demos
         href: demos/index.qmd

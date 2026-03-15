@@ -395,6 +395,21 @@ h1.hero-title {
   margin-top: 0.7rem;
 }
 
+.resume-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem 1rem;
+  margin-top: 0.8rem;
+  color: var(--text-muted);
+  font-size: 0.98rem;
+  font-weight: 600;
+}
+
+.resume-meta-item {
+  display: inline-flex;
+  align-items: center;
+}
+
 .section-panel {
   border: 1px solid var(--line);
   background: var(--surface);
@@ -420,6 +435,10 @@ h1.hero-title {
   margin: 0.9rem 0 1.6rem;
 }
 
+.resume-card-grid {
+  margin-bottom: 0;
+}
+
 .card {
   border: 1px solid var(--line);
   background: var(--surface);
@@ -437,6 +456,41 @@ h1.hero-title {
 
 .card h3 {
   margin-top: 0;
+}
+
+.role-block {
+  margin: 1rem 0 1.35rem;
+  padding-left: 1rem;
+  border-left: 3px solid color-mix(in srgb, var(--teal-600) 70%, white 30%);
+}
+
+.role-block:last-child {
+  margin-bottom: 0;
+}
+
+.role-block h4 {
+  margin-bottom: 0.2rem;
+}
+
+.role-subtitle {
+  color: var(--teal-600);
+  font-size: 0.98rem;
+  font-weight: 700;
+}
+
+.role-meta {
+  margin: 0.2rem 0 0.55rem;
+  color: var(--text-muted);
+  font-size: 0.94rem;
+  font-weight: 600;
+}
+
+.role-block ul {
+  margin-bottom: 0;
+}
+
+.resume-skill-group:last-child {
+  margin-bottom: 0;
 }
 
 .btn {
@@ -623,5 +677,11 @@ main.content li a:not(.btn):hover {
 
   .post-share-label {
     width: 100%;
+  }
+}
+
+@media (min-width: 760px) {
+  .resume-card-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }

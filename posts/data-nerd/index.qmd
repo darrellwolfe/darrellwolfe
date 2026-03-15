@@ -1,5 +1,5 @@
 ---
-title: "Data Nerd"
+title: "Data Nerd Posts"
 comments: false
 listing:
   contents: "20*.qmd"
@@ -8,4 +8,6 @@ listing:
   fields: [title, date, categories]
 ---
 
-By day, I wrangle data for a living. This page is where I write about SQL, dashboards, automation, reporting, and the deeply satisfying work of forcing chaotic information to sit down, behave, and tell the truth.
+This is the writing and project-notes side of my data work: posts about SQL, dashboards, automation, reporting, and the deeply satisfying work of forcing chaotic information to sit down, behave, and tell the truth.
+
+For the professional overview version, start with the [Data Nerd](../../data-nerd/index.qmd) page.
