@@ -359,6 +359,8 @@ Write-Output "Wrote assessed by category bundle to $categoryPath"
 
 $landRateRowCount = 0
 $landMethods = [System.Collections.Generic.HashSet[string]]::new()
+$landTypes = [System.Collections.Generic.HashSet[string]]::new()
+$landLegends = [System.Collections.Generic.HashSet[string]]::new()
 $landRatePath = Join-Path $OutputDir "land-rates.js"
 $landRateWriter = New-BundleWriter -Path $landRatePath -GlobalName "ASSESSOR_DEMO_LAND_RATES"
 
@@ -367,15 +369,23 @@ try {
         $lrsnText = Trim-Value $_.lrsn
         if ($null -ne $lrsnText -and $lrsnSet.Contains($lrsnText)) {
             $landMethod = Trim-Value $_.LandMethod
+            $landType = Trim-Value $_.LandType
+            $landLegend = Trim-Value $_.Legend
             if ($null -ne $landMethod) {
                 [void]$landMethods.Add($landMethod)
+            }
+            if ($null -ne $landType) {
+                [void]$landTypes.Add($landType)
+            }
+            if ($null -ne $landLegend) {
+                [void]$landLegends.Add($landLegend)
             }
 
             Write-BundleRow -Bundle $landRateWriter -Values @(
                 [int64]$lrsnText,
                 (To-Int32OrNull $_.lcm),
                 $landMethod,
-                (Trim-Value $_.LandType),
+                $landType,
                 (Trim-Value $_.LandDetailType),
                 (Trim-Value $_.SiteRating),
                 (Compact-Number (To-DoubleOrNull $_.BaseRate)),
@@ -385,7 +395,8 @@ try {
                 (Compact-Number (To-DoubleOrNull $_.DepthFactor)),
                 (Compact-Number (To-DoubleOrNull $_.SoilProdFactor)),
                 (Compact-Number (To-DoubleOrNull $_.SmallAcreFactor)),
-                (Compact-Number (To-DoubleOrNull $_.TotalMktValue))
+                (Compact-Number (To-DoubleOrNull $_.TotalMktValue)),
+                $landLegend
             )
 
             $landRateRowCount += 1
@@ -396,6 +407,8 @@ finally {
     $landRateMetaJson = ([ordered]@{
         rowCount = $landRateRowCount
         methodCount = $landMethods.Count
+        landTypeCount = $landTypes.Count
+        legendCount = $landLegends.Count
     } | ConvertTo-Json -Compress)
 
     Close-BundleWriter -Bundle $landRateWriter -Suffix (",`"meta`":$landRateMetaJson}")
@@ -436,6 +449,8 @@ $meta = [ordered]@{
     categoryCount = $categoryCodes.Count
     landRateRowCount = $landRateRowCount
     landMethodCount = $landMethods.Count
+    landTypeCount = $landTypes.Count
+    landLegendCount = $landLegends.Count
     generatedAt = (Get-Date).ToString("s")
 }
 

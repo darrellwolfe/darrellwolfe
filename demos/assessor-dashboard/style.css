@@ -377,8 +377,97 @@ a {
   align-content: start;
 }
 
+.toolbar-field-dropdown {
+  justify-self: start;
+  width: min(100%, 19rem);
+}
+
 .toolbar-field select {
   min-height: 2.6rem;
+}
+
+.toolbar-dropdown {
+  position: relative;
+}
+
+.toolbar-dropdown summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  width: 100%;
+  min-height: 2.6rem;
+  padding: 0.6rem 0.75rem;
+  border: 1px solid var(--line);
+  border-radius: 0.8rem;
+  background: #fff;
+  color: var(--ink);
+  cursor: pointer;
+  list-style: none;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.toolbar-dropdown summary::-webkit-details-marker {
+  display: none;
+}
+
+.toolbar-dropdown summary::after {
+  content: "v";
+  flex: 0 0 auto;
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+
+.toolbar-dropdown-text {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.toolbar-dropdown[open] summary {
+  border-color: rgba(15, 94, 99, 0.45);
+  box-shadow: 0 10px 22px rgba(15, 94, 99, 0.12);
+}
+
+.toolbar-dropdown[open] summary::after {
+  content: "^";
+}
+
+.toolbar-dropdown-panel {
+  position: absolute;
+  top: calc(100% + 0.45rem);
+  left: 0;
+  z-index: 24;
+  display: grid;
+  gap: 0.4rem;
+  width: min(24rem, calc(100vw - 4rem));
+  max-height: 14rem;
+  overflow: auto;
+  padding: 0.65rem 0.75rem;
+  border: 1px solid var(--line);
+  border-radius: 0.9rem;
+  background: rgba(255, 253, 250, 0.98);
+  box-shadow: 0 18px 30px rgba(17, 39, 42, 0.14);
+}
+
+.toolbar-check-option {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.6rem;
+  padding: 0.15rem 0;
+  font-size: 0.92rem;
+  line-height: 1.3;
+  font-weight: 500;
+}
+
+.toolbar-check-option input {
+  margin-top: 0.2rem;
+}
+
+.toolbar-check-option span {
+  color: var(--ink);
+  min-width: 0;
 }
 
 .toolbar-multi-select {

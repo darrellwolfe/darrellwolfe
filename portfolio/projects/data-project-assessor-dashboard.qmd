@@ -1,0 +1,489 @@
+---
+title: "Data Project: Assessor Dashboard"
+date: 2026-03-14
+categories: [portfolio, data, dashboard]
+---
+
+::: {.hero-shell}
+# Data Project: Assessor Dashboard {.hero-title}
+
+DataViz Assessor&#39;s Dashboard is the actual project. The public demo linked below is a sanitized re-presentation built from exported CSV and parcel geometry so outside viewers can explore the workflow without access to the live environment.
+
+::: {.hero-actions}
+[Open Public Demo](../../demos/assessor-dashboard/index.html){.btn .btn-primary target="_blank" rel="noopener noreferrer"}
+[Maps](../../demos/assessor-dashboard/maps.html){.btn .btn-outline-primary target="_blank" rel="noopener noreferrer"}
+[Graphs](../../demos/assessor-dashboard/graphs.html){.btn .btn-outline-primary target="_blank" rel="noopener noreferrer"}
+[Tables](../../demos/assessor-dashboard/tables.html){.btn .btn-outline-secondary target="_blank" rel="noopener noreferrer"}
+:::
+:::
+
+## Problem
+
+The core project is a real assessor analytics and visualization workflow, not the static demo itself. The work centers on preparing parcel, valuation, and tax-oriented views for dashboard use, then turning those outputs into clear map, graph, and table experiences for exploration and decision support.
+
+## Data
+
+- The project SQL lives in `assets/data/assessor_data/*.sql`
+- Those queries shape parcel, valuation, category, and net-tax views from the assessor environment
+- The public demo uses sanitized CSV exports generated from those project-side queries
+- County parcel geometry is converted for browser mapping in the public demo
+
+## Project vs Demo
+
+The distinction matters here:
+
+- The project is the DataViz Assessor&#39;s Dashboard work itself, including the SQL logic and the original dashboard workflow
+- The demo is a public-facing interactive stand-in built from sanitized exports because site visitors cannot access the original environment
+- The demo is meant to show interaction patterns, dashboard structure, and data storytelling approach without exposing restricted source systems
+
+## Approach
+
+The project-side workflow starts with SQL and structured extracts, then the public demo repackages those results for static delivery:
+
+1. Use assessor SQL queries to assemble parcel, assessed value, category, and net-tax datasets.
+2. Export sanitized CSV outputs from the original dashboard workflow.
+3. Convert those exports into browser-ready static bundles for the public demo.
+4. Present the sanitized outputs through linked maps, graphs, and tables that share filter state.
+
+## Project SQL
+
+These are the working SQL files behind the assessor-side project. The public demo does not connect to the original source system. It only re-presents sanitized exports produced from the results of these queries.
+
+### `key_cat_group_codes.sql`
+
+This is the category lookup table. It pulls active `impgroup` code records so the dashboard can translate category codes into readable labels when showing assessed values by category.
+
+```sql
+Select 
+c.tbl_element AS Cat_Group_Code,
+c.tbl_element_desc AS Cat_Description
+From codes_table AS c
+    --On a.group_code = c.tbl_element
+Where c.code_status = 'A' 
+  And tbl_type_code= 'impgroup'
+```
+
+### `land_rates.sql`
+
+This query builds the land-rate detail extract. It starts from land header and land detail records, adds parcel geography and district labels, then joins lookup tables for land method, land type, and site rating so the dashboard can map and compare land-rate behavior by parcel.
+
+```sql
+SELECT
+lh.RevObjId AS lrsn,
+    CASE
+        WHEN pmd.neighborhood >= 9000 THEN 'Manufactured Homes'
+        WHEN pmd.neighborhood >= 6003 THEN 'District 6'
+        WHEN pmd.neighborhood = 6002 THEN 'Manufactured Homes'
+        WHEN pmd.neighborhood = 6001 THEN 'District 6'
+        WHEN pmd.neighborhood = 6000 THEN 'Manufactured Homes'
+        WHEN pmd.neighborhood >= 5003 THEN 'District 5'
+        WHEN pmd.neighborhood = 5002 THEN 'Manufactured Homes'
+        WHEN pmd.neighborhood = 5001 THEN 'District 5'
+        WHEN pmd.neighborhood = 5000 THEN 'Manufactured Homes'
+        WHEN pmd.neighborhood >= 4000 THEN 'District 4'
+        WHEN pmd.neighborhood >= 3000 THEN 'District 3'
+        WHEN pmd.neighborhood >= 2000 THEN 'District 2'
+        WHEN pmd.neighborhood >= 1021 THEN 'District 1'
+        WHEN pmd.neighborhood = 1020 THEN 'Manufactured Homes'
+        WHEN pmd.neighborhood >= 1001 THEN 'District 1'
+        WHEN pmd.neighborhood = 1000 THEN 'Manufactured Homes'
+        WHEN pmd.neighborhood >= 451 THEN 'Commercial'
+        WHEN pmd.neighborhood = 450 THEN 'Personal Property'
+        WHEN pmd.neighborhood >= 1 THEN 'Commercial'
+        WHEN pmd.neighborhood = 0 THEN 'PP_N/A or Error'
+        ELSE NULL
+    END AS District,
+pmd.neighborhood AS GEO,
+TRIM(pmd.NeighborHoodName) AS GEO_Name,
+Case
+    When pmd.pin Like 'A%' Then 'Athol'         -- Athol
+    When pmd.pin Like 'C%' Then 'CoeurdAlene'          -- Coeur d'Alene
+    When pmd.pin Like 'D%' Then 'Dalton_Gardens'         -- Dalton Gardens
+    When pmd.pin Like 'H%' Then 'Hayden'         -- Hayden
+    When pmd.pin Like 'V%' Then 'Hayden_Lake'         -- Hayden Lake
+    When pmd.pin Like 'P%' Then 'Post_Falls'           -- Post Falls
+    When pmd.pin Like 'R%' Then 'Rathdrum'         -- Rathdrum
+    When pmd.pin Like 'S%' Then 'Spirit_Lake'         -- Spirit Lake
+    When pmd.pin Like 'X%' Then 'Hauser'       -- Hauser
+    When pmd.pin Like 'F%' Then 'Fernan Lake Village'
+    When pmd.pin Like 'B%' Then 'Bayview'
+    When pmd.pin Like 'T%' Then 'Stateline'
+    When pmd.pin Like 'U%' Then 'Huetter'
+    When pmd.pin Like 'W%' Then 'Worley'
+    When pmd.pin Like 'Y%' Then 'Harrison'
+    When pmd.pin Like 'E%' Then 'Business Personal Property'
+    When pmd.pin Like 'G%' Then 'Cable TV'
+    When pmd.pin Like 'KC-%' Then 'Test Parcels'
+    When pmd.pin Like 'M%' Then 'Mobile Homes'
+    When pmd.pin Like '0%' Then 'Kootenai County'
+    When pmd.pin Like '5%' Then 'Kootenai County'
+    When pmd.pin Like '4%' Then 'Kootenai County'
+    When pmd.pin Like 'UP%' Then 'Operating Property'
+    When pmd.pin Like 'L%' Then 'Float Homes'
+    Else 'UNKNOWN'
+End As PIN_City,
+
+TRIM(pmd.pin) AS PIN,
+TRIM(pmd.AIN) AS AIN,
+lh.TotalMktValue,
+ld.lcm,
+TRIM(lcm.tbl_element_desc) AS LandMethod,
+ld.LandType AS LandTypeNum,
+lt.land_type_desc AS LandType,
+--STRING_AGG(lt.land_type_desc, ', ') AS AggregatedLandTypes,
+ld.LandDetailType,
+ld.SiteRating,
+sr.tbl_element_desc AS Legend,
+ld.BaseRate,
+ld.SoilIdent,
+ld.LDAcres,
+ld.ActualFrontage,
+ld.DepthFactor,
+ld.SoilProdFactor,
+ld.SmallAcreFactor
+
+--Land Header
+FROM LandHeader AS lh
+--Land Detail
+JOIN LandDetail AS ld ON lh.id=ld.LandHeaderId 
+  AND ld.EffStatus='A' 
+  AND lh.PostingSource=ld.PostingSource
+--Land Types
+LEFT JOIN land_types AS lt ON ld.LandType=lt.land_type
+
+LEFT JOIN codes_table AS lcm ON CAST(lcm.tbl_element AS INT) = ld.lcm
+  AND lcm.code_status= 'A' 
+  AND lcm.tbl_type_code= 'lcmshortdesc'
+  --'lcmshortdesc' (aka Land Types)
+
+LEFT JOIN codes_table AS sr ON sr.tbl_element = ld.SiteRating
+  AND sr.code_status= 'A' 
+  AND sr.tbl_type_code= 'siterating'
+  --'siterating' (aka Legends)
+
+JOIN parceltableview AS pmd ON lh.RevObjId=pmd.lrsn
+  AND pmd.EffStatus = 'A'
+  AND pmd.neighborhood <> 0
+
+WHERE lh.EffStatus= 'A' 
+  AND lh.PostingSource='A'
+  AND ld.PostingSource='A'
+```
+
+### `parcels.sql`
+
+This is the base parcel extract for the dashboard. It produces the parcel identifiers, district grouping, neighborhood geography, city inference from PIN prefixes, and the active property-class fields that other dashboard outputs can join back to.
+
+```sql
+Select Distinct
+CASE
+  WHEN pm.neighborhood >= 9000 THEN 'Manufactured_Homes'
+  WHEN pm.neighborhood >= 6003 THEN 'District_6'
+  WHEN pm.neighborhood = 6002 THEN 'Manufactured_Homes'
+  WHEN pm.neighborhood = 6001 THEN 'District_6'
+  WHEN pm.neighborhood = 6000 THEN 'Manufactured_Homes'
+  WHEN pm.neighborhood >= 5003 THEN 'District_5'
+  WHEN pm.neighborhood = 5002 THEN 'Manufactured_Homes'
+  WHEN pm.neighborhood = 5001 THEN 'District_5'
+  WHEN pm.neighborhood = 5000 THEN 'Manufactured_Homes'
+  WHEN pm.neighborhood >= 4000 THEN 'District_4'
+  WHEN pm.neighborhood >= 3000 THEN 'District_3'
+  WHEN pm.neighborhood >= 2000 THEN 'District_2'
+  WHEN pm.neighborhood >= 1021 THEN 'District_1'
+  WHEN pm.neighborhood = 1020 THEN 'Manufactured_Homes'
+  WHEN pm.neighborhood >= 1001 THEN 'District_1'
+  WHEN pm.neighborhood = 1000 THEN 'Manufactured_Homes'
+  WHEN pm.neighborhood >= 451 THEN 'Commercial'
+  WHEN pm.neighborhood = 450 THEN 'Specialized_Cell_Towers'
+  WHEN pm.neighborhood >= 1 THEN 'Commercial'
+  WHEN pm.neighborhood = 0 THEN 'Other (PP, OP, NA, Error)'
+  ELSE NULL
+END AS District
+,pm.neighborhood AS GEO
+,TRIM(pm.NeighborHoodName) AS GEO_Name
+,pm.lrsn
+,TRIM(pm.pin) AS PIN
+,TRIM(pm.AIN) AS AIN
+,Case
+    When pm.pin Like 'A%' Then 'Athol'         -- Athol
+    When pm.pin Like 'C%' Then 'CoeurdAlene'          -- Coeur d'Alene
+    When pm.pin Like 'D%' Then 'Dalton_Gardens'         -- Dalton Gardens
+    When pm.pin Like 'H%' Then 'Hayden'         -- Hayden
+    When pm.pin Like 'V%' Then 'Hayden_Lake'         -- Hayden Lake
+    When pm.pin Like 'P%' Then 'Post_Falls'           -- Post Falls
+    When pm.pin Like 'R%' Then 'Rathdrum'         -- Rathdrum
+    When pm.pin Like 'S%' Then 'Spirit_Lake'         -- Spirit Lake
+    When pm.pin Like 'X%' Then 'Hauser'       -- Hauser
+    When pm.pin Like 'F%' Then 'Fernan Lake Village'
+    When pm.pin Like 'B%' Then 'Bayview'
+    When pm.pin Like 'T%' Then 'Stateline'
+    When pm.pin Like 'U%' Then 'Huetter'
+    When pm.pin Like 'W%' Then 'Worley'
+    When pm.pin Like 'Y%' Then 'Harrison'
+    When pm.pin Like 'E%' Then 'Business Personal Property'
+    When pm.pin Like 'G%' Then 'Cable TV'
+    When pm.pin Like 'KC-%' Then 'Test Parcels'
+    When pm.pin Like 'M%' Then 'Mobile Homes'
+    When pm.pin Like '0%' Then 'Kootenai County'
+    When pm.pin Like '5%' Then 'Kootenai County'
+    When pm.pin Like '4%' Then 'Kootenai County'
+    When pm.pin Like 'UP%' Then 'Operating Property'
+    When pm.pin Like 'L%' Then 'Float Homes'
+    Else 'UNKNOWN'
+End As PIN_City
+,pm.ClassCD
+,TRIM(pm.PropClassDescr) AS Property_Class_Description
+,pm.EffStatus
+
+From parceltableview AS pm
+Where pm.EffStatus = 'A'
+```
+
+### `values_assessed.sql`
+
+This query rolls up last year&#39;s total assessed value by parcel. It is the simplest valuation measure in the set and gives the dashboard a single assessed-value figure per `lrsn`.
+
+```sql
+Select
+i.RevObjId AS lrsn,
+SUM(c.ValueAmount) AS CadValue_TotalAssessed
+FROM CadRoll r
+JOIN CadLevel l ON r.Id = l.CadRollId
+JOIN CadInv i ON l.Id = i.CadLevelId
+JOIN tsbv_cadastre AS c 
+  On c.CadRollId = r.Id
+  And c.CadInvId = i.Id
+  And c.ValueType = 109 -- Variable
+WHERE r.AssessmentYear = Year(GetDate()) - 1
+GROUP BY i.RevObjId
+```
+
+### `values_assessed_by_category.sql`
+
+This is the category breakout query. It takes the prior year&#39;s assessed values and groups them by parcel plus `FullGroupCode`, which makes it possible to compare the composition of assessed value across land and improvement categories.
+
+```sql
+Select
+i.RevObjId AS lrsn,
+c.FullGroupCode,
+SUM(c.ValueAmount) AS CadValue_ByCat
+FROM CadRoll r
+JOIN CadLevel l ON r.Id = l.CadRollId
+JOIN CadInv i ON l.Id = i.CadLevelId
+JOIN tsbv_cadastre AS c 
+  On c.CadRollId = r.Id
+  And c.CadInvId = i.Id
+  And c.ValueType = 470 -- Variable
+WHERE r.AssessmentYear = Year(GetDate()) - 1
+GROUP BY i.RevObjId, c.FullGroupCode
+
+
+-- By Cat Options
+ 
+ 
+  /*
+  -- Improvement
+  AND c.FullGroupCode IN (
+      '25', '26', '26H', '27', '30', '31H', '32', '33', '34H', '35', '36', '37H', '38', '39', '41H', '42', '43', '45', 
+      '46H', '47H', '48H', '49H', '50H', '51', '51P', '55H', '56P', '56Q', '56Q2', '56Q3', '57P', '58P', '58Q', '58Q2', 
+      '58Q3', '58Q4', '59P', '59Q', '59Q2', '59Q3', '59Q4', '63P', '63Q', '63Q2', '63Q3', '63Q4', '65H', '66P', '67', 
+      '67L', '67P', '68P', '68Q', '68Q2', '68Q3', '68Q4', '69P', '69Q', '69Q2', '69Q3', '69Q4', '70P', '71P', '71Q', 
+      '71Q2', '71Q3', '71Q4', '72P', '72Q', '72Q2', '72Q3', '72Q4', '75P', '81', '81P')
+*/
+
+  /*
+  -- Land
+  AND c.FullGroupCode IN (
+      '01', '03', '04', '05', '06', '07', '09', '10', '10H', '11', '12', '12H', '13', '14', '15', '15H', '16', '17', 
+      '18', '19', '20', '20H', '21', '22', '25L', '26LH', '27L', '81L')
+*/
+
+/*
+Declare @ValueTypehoex INT = 305;
+--    305 HOEX_Exemption Homeowner Exemption
+Declare @ValueTypeimp INT = 103;
+--    103 Imp Assessed Improvement Assessed
+Declare @ValueTypeland INT = 102;
+--    102 Land Assessed Land Assessed
+Declare @ValueTypetotal INT = 109;
+--    109 Total Value Total Value
+Declare @NetTaxableValueImpOnly INT = 458;
+--    458 Net Imp Only Net Taxable Value Imp Only
+Declare @NetTaxableValueTotal INT = 455;
+--    455 Net Tax Value Net Taxable Value
+Declare @NewConstruction INT = 651;
+--    651 NewConstByCat New Construction
+Declare @AssessedByCat INT = 470;
+--    470 AssessedByCat Assessed Value
+*/
+```
+
+### `values_assessed_ten_year.sql`
+
+This is the historical trend query. It produces a parcel-level assessed value time series across ten years, keeping the parcel geography and district context attached so the dashboard can compare long-range value movement by place and parcel.
+
+```sql
+SELECT DISTINCT
+i.RevObjId AS lrsn,
+    CASE
+        WHEN pmd.neighborhood >= 9000 THEN 'Manufactured Homes'
+        WHEN pmd.neighborhood >= 6003 THEN 'District 6'
+        WHEN pmd.neighborhood = 6002 THEN 'Manufactured Homes'
+        WHEN pmd.neighborhood = 6001 THEN 'District 6'
+        WHEN pmd.neighborhood = 6000 THEN 'Manufactured Homes'
+        WHEN pmd.neighborhood >= 5003 THEN 'District 5'
+        WHEN pmd.neighborhood = 5002 THEN 'Manufactured Homes'
+        WHEN pmd.neighborhood = 5001 THEN 'District 5'
+        WHEN pmd.neighborhood = 5000 THEN 'Manufactured Homes'
+        WHEN pmd.neighborhood >= 4000 THEN 'District 4'
+        WHEN pmd.neighborhood >= 3000 THEN 'District 3'
+        WHEN pmd.neighborhood >= 2000 THEN 'District 2'
+        WHEN pmd.neighborhood >= 1021 THEN 'District 1'
+        WHEN pmd.neighborhood = 1020 THEN 'Manufactured Homes'
+        WHEN pmd.neighborhood >= 1001 THEN 'District 1'
+        WHEN pmd.neighborhood = 1000 THEN 'Manufactured Homes'
+        WHEN pmd.neighborhood >= 451 THEN 'Commercial'
+        WHEN pmd.neighborhood = 450 THEN 'Personal Property'
+        WHEN pmd.neighborhood >= 1 THEN 'Commercial'
+        WHEN pmd.neighborhood = 0 THEN 'PP_N/A or Error'
+        ELSE NULL
+    END AS District,
+pmd.neighborhood AS GEO,
+TRIM(pmd.NeighborHoodName) AS GEO_Name,
+Case
+    When pmd.pin Like 'A%' Then 'Athol'         -- Athol
+    When pmd.pin Like 'C%' Then 'CoeurdAlene'          -- Coeur d'Alene
+    When pmd.pin Like 'D%' Then 'Dalton_Gardens'         -- Dalton Gardens
+    When pmd.pin Like 'H%' Then 'Hayden'         -- Hayden
+    When pmd.pin Like 'V%' Then 'Hayden_Lake'         -- Hayden Lake
+    When pmd.pin Like 'P%' Then 'Post_Falls'           -- Post Falls
+    When pmd.pin Like 'R%' Then 'Rathdrum'         -- Rathdrum
+    When pmd.pin Like 'S%' Then 'Spirit_Lake'         -- Spirit Lake
+    When pmd.pin Like 'X%' Then 'Hauser'       -- Hauser
+    When pmd.pin Like 'F%' Then 'Fernan Lake Village'
+    When pmd.pin Like 'B%' Then 'Bayview'
+    When pmd.pin Like 'T%' Then 'Stateline'
+    When pmd.pin Like 'U%' Then 'Huetter'
+    When pmd.pin Like 'W%' Then 'Worley'
+    When pmd.pin Like 'Y%' Then 'Harrison'
+    When pmd.pin Like 'E%' Then 'Business Personal Property'
+    When pmd.pin Like 'G%' Then 'Cable TV'
+    When pmd.pin Like 'KC-%' Then 'Test Parcels'
+    When pmd.pin Like 'M%' Then 'Mobile Homes'
+    When pmd.pin Like '0%' Then 'Kootenai County'
+    When pmd.pin Like '5%' Then 'Kootenai County'
+    When pmd.pin Like '4%' Then 'Kootenai County'
+    When pmd.pin Like 'UP%' Then 'Operating Property'
+    When pmd.pin Like 'L%' Then 'Float Homes'
+    Else 'UNKNOWN'
+End As PIN_City,
+
+TRIM(pmd.pin) AS PIN,
+TRIM(pmd.AIN) AS AIN,
+r.AssessmentYear AS AssessmentYear_TenYear,
+CAST(CONCAT('01/01/',r.AssessmentYear) AS DATE) AS AppraisalDate,
+SUM(c.ValueAmount) AS AssessedValue
+
+FROM CadRoll r
+JOIN CadLevel l ON r.Id = l.CadRollId
+JOIN CadInv i ON l.Id = i.CadLevelId
+JOIN tsbv_cadastre AS c 
+  On c.CadRollId = r.Id
+  And c.CadInvId = i.Id
+  And c.ValueType = 109 -- 109 Total Value Total Value
+
+JOIN parceltableview AS pmd ON i.RevObjId=pmd.lrsn
+  AND pmd.EffStatus = 'A'
+  AND pmd.neighborhood <> 0
+
+WHERE r.AssessmentYear BETWEEN Year(GetDate()) - 10 AND Year(GetDate())
+Group By i.RevObjId, r.AssessmentYear,
+pmd.neighborhood, pmd.NeighborHoodName, pmd.pin, pmd.AIN
+
+/*
+Declare @ValueTypetotal INT = 109;
+-- 109 Total Value Total Value
+
+Declare @NetTaxableValueTotal INT = 455;
+-- 455 Net Tax Value Net Taxable Value
+
+Declare @ValueTypehoex INT = 305;
+
+Declare @ValueTypeimp INT = 103;
+-- 103 Imp Assessed Improvement Assessed
+Declare @ValueTypeland INT = 102;
+-- 102 Land Assessed Land Assessed
+Declare @NetTaxableValueImpOnly INT = 458;
+-- 458 Net Imp Only Net Taxable Value Imp Only
+
+Declare @NewConstruction INT = 651;
+-- 651 NewConstByCat New Construction
+Declare @AssessedByCat INT = 470;
+-- 470 AssessedByCat Assessed Value
+*/
+```
+
+### `values_net_tax_value.sql`
+
+This query calculates last year&#39;s net taxable value by parcel. In the dashboard it supports the comparison between total assessed value and the portion that remains taxable after exemptions and other adjustments.
+
+```sql
+Select
+i.RevObjId AS lrsn,
+SUM(c.ValueAmount) AS CadValue_NetTax
+FROM CadRoll r
+JOIN CadLevel l ON r.Id = l.CadRollId
+JOIN CadInv i ON l.Id = i.CadLevelId
+JOIN tsbv_cadastre AS c 
+  On c.CadRollId = r.Id
+  And c.CadInvId = i.Id
+  And c.ValueType = 455 -- Variable
+WHERE r.AssessmentYear = Year(GetDate()) - 1
+GROUP BY i.RevObjId
+```
+
+## Visuals
+
+The public demo is split into focused pages so visitors can inspect the interaction model built on the sanitized exports:
+
+::: {.card-grid}
+::: {.card}
+### [Information](../../demos/assessor-dashboard/index.html)
+Overview page describing scope, data inputs, and what each dashboard section covers.
+:::
+
+::: {.card}
+### [Maps](../../demos/assessor-dashboard/maps.html)
+Includes parcel district fills, assessed ten-year GEO bubbles, assessed-by-category GEO bubbles, assessed-vs-net-tax parcel comparisons, and land-rates mapping.
+:::
+
+::: {.card}
+### [Graphs](../../demos/assessor-dashboard/graphs.html)
+Charts parcel counts, assessed trends, category summaries, assessed-vs-net-tax comparisons, and land-rate patterns using the same shared filters.
+:::
+
+::: {.card}
+### [Tables](../../demos/assessor-dashboard/tables.html)
+Provides parcel-level tables plus summary tables for the other metric bundles with paging and shared filter state.
+:::
+:::
+
+## Results
+
+This page now presents the assessor dashboard as the real project and the static demo as the public, sanitized re-presentation of that work. The structure is in place for adding business context, screenshots, findings, and outcome notes later without changing that distinction.
+
+## Repro Steps
+
+1. Maintain the project SQL in `assets/data/assessor_data/`.
+2. Run the original assessor-side workflow and export sanitized CSV outputs for public use.
+3. Run `scripts/assessor_data/build-demo-dataframes.ps1` to convert those exports into demo data bundles.
+4. Keep the static demo files in `demos/assessor-dashboard/` and render/sync them into `docs/`.
+
+## Tech Used
+
+- SQL
+- PowerShell
+- JavaScript
+- GeoJSON
+- Quarto
+- Static HTML/CSS

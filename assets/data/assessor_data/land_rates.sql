@@ -27,7 +27,7 @@ pmd.neighborhood AS GEO,
 TRIM(pmd.NeighborHoodName) AS GEO_Name,
 Case
     When pmd.pin Like 'A%' Then 'Athol'         -- Athol
-    When pmd.pin Like 'C%' Then 'CoeurdAlene'          -- Coeur d’Alene
+    When pmd.pin Like 'C%' Then 'CoeurdAlene'          -- Coeur d'Alene
     When pmd.pin Like 'D%' Then 'Dalton_Gardens'         -- Dalton Gardens
     When pmd.pin Like 'H%' Then 'Hayden'         -- Hayden
     When pmd.pin Like 'V%' Then 'Hayden_Lake'         -- Hayden Lake

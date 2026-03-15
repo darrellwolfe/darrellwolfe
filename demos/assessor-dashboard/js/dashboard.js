@@ -13,6 +13,20 @@ document.addEventListener("DOMContentLoaded", async () => {
     "#92633e",
     "#4f7c6f"
   ];
+  const LAND_LEGEND_PALETTE = [
+    "#1f6f78",
+    "#d97706",
+    "#4d7c0f",
+    "#8b5cf6",
+    "#be123c",
+    "#0f766e",
+    "#b45309",
+    "#2563eb",
+    "#7c3aed",
+    "#15803d",
+    "#9f1239",
+    "#475569"
+  ];
   const TEN_YEAR_METRICS = {
     medianValue: {
       label: "Median Assessed",
@@ -135,6 +149,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     },
     landRates: {
       methods: [],
+      types: [],
       metric: "medianBaseRate"
     }
   };
@@ -451,13 +466,35 @@ document.addEventListener("DOMContentLoaded", async () => {
     return bundleState.comparison;
   }
 
+  function buildColorMap(values, palette) {
+    return new Map(values.map((value, index) => [value, palette[index % palette.length]]));
+  }
+
+  function getLandRowMethod(row) {
+    return String(row[2] || "Unknown");
+  }
+
+  function getLandRowType(row) {
+    return String(row[3] || "Unknown");
+  }
+
+  function getLandRowLegend(row) {
+    return String(row[14] || row[5] || "No legend");
+  }
+
   async function loadLandRatesBundle() {
     if (bundleState.landRates) {
       return bundleState.landRates;
     }
 
     const raw = await app.loadLandRatesData();
-    const methods = [...new Set((raw.rows || []).map((row) => String(row[2] || "Unknown")))]
+    const methods = [...new Set((raw.rows || []).map((row) => getLandRowMethod(row)))]
+      .filter(Boolean)
+      .sort((left, right) => left.localeCompare(right));
+    const types = [...new Set((raw.rows || []).map((row) => getLandRowType(row)))]
+      .filter(Boolean)
+      .sort((left, right) => left.localeCompare(right));
+    const legends = [...new Set((raw.rows || []).map((row) => getLandRowLegend(row)))]
       .filter(Boolean)
       .sort((left, right) => left.localeCompare(right));
 
@@ -465,9 +502,12 @@ document.addEventListener("DOMContentLoaded", async () => {
       meta: raw.meta || {},
       rows: raw.rows || [],
       methods,
+      types,
+      legends,
       methodColorMap: new Map(
         methods.map((method, index) => [method, METHOD_PALETTE[index % METHOD_PALETTE.length]])
-      )
+      ),
+      legendColorMap: buildColorMap(legends, LAND_LEGEND_PALETTE)
     };
 
     return bundleState.landRates;
@@ -698,48 +738,130 @@ document.addEventListener("DOMContentLoaded", async () => {
       return;
     }
 
+    const renderField = (field) => {
+      if (field.variant === "multi-dropdown") {
+        return `
+          <div class="field-stack toolbar-field toolbar-field-dropdown">
+            <span>${app.escapeHtml(field.label)}</span>
+            <details class="toolbar-dropdown">
+              <summary
+                class="toolbar-dropdown-summary"
+                title="${app.escapeHtml(field.titleText || field.summaryText || field.label)}"
+              >
+                <span class="toolbar-dropdown-text">${app.escapeHtml(
+                  field.summaryText || field.label
+                )}</span>
+              </summary>
+              <div class="toolbar-dropdown-panel">
+                ${field.options
+                  .map(
+                    (option) => `
+                      <label class="toolbar-check-option">
+                        <input
+                          type="checkbox"
+                          data-toolbar-check="${app.escapeHtml(field.id)}"
+                          value="${app.escapeHtml(option.value)}"
+                          ${
+                            Array.isArray(field.value) && field.value.includes(option.value)
+                              ? "checked"
+                              : ""
+                          }
+                        >
+                        <span>${app.escapeHtml(option.label)}</span>
+                      </label>
+                    `
+                  )
+                  .join("")}
+              </div>
+            </details>
+            ${
+              field.note
+                ? `<p class="filter-note toolbar-note">${app.escapeHtml(field.note)}</p>`
+                : ""
+            }
+          </div>
+        `;
+      }
+
+      return `
+        <label class="field-stack toolbar-field">
+          <span>${app.escapeHtml(field.label)}</span>
+          <select
+            data-toolbar-field="${app.escapeHtml(field.id)}"
+            ${field.multiple ? "multiple" : ""}
+            ${field.size ? `size="${app.escapeHtml(String(field.size))}"` : ""}
+            class="${field.multiple ? "toolbar-multi-select multi-select-field" : ""}"
+          >
+            ${field.options
+              .map(
+                (option) => `
+                  <option value="${app.escapeHtml(option.value)}" ${
+                    (field.multiple
+                      ? Array.isArray(field.value) && field.value.includes(option.value)
+                      : option.value === field.value)
+                      ? "selected"
+                      : ""
+                  }>
+                    ${app.escapeHtml(option.label)}
+                  </option>
+                `
+              )
+              .join("")}
+          </select>
+          ${
+            field.note
+              ? `<p class="filter-note toolbar-note">${app.escapeHtml(field.note)}</p>`
+              : ""
+          }
+        </label>
+      `;
+    };
+
     host.innerHTML = `
       <div class="toolbar-grid">
-        ${fields
-          .map(
-            (field) => `
-              <label class="field-stack toolbar-field">
-                <span>${app.escapeHtml(field.label)}</span>
-                <select
-                  data-toolbar-field="${app.escapeHtml(field.id)}"
-                  ${field.multiple ? "multiple" : ""}
-                  ${field.size ? `size="${app.escapeHtml(String(field.size))}"` : ""}
-                  class="${field.multiple ? "toolbar-multi-select multi-select-field" : ""}"
-                >
-                  ${field.options
-                    .map(
-                      (option) => `
-                        <option value="${app.escapeHtml(option.value)}" ${
-                          (field.multiple
-                            ? Array.isArray(field.value) && field.value.includes(option.value)
-                            : option.value === field.value)
-                            ? "selected"
-                            : ""
-                        }>
-                          ${app.escapeHtml(option.label)}
-                        </option>
-                      `
-                    )
-                    .join("")}
-                </select>
-                ${
-                  field.note
-                    ? `<p class="filter-note toolbar-note">${app.escapeHtml(field.note)}</p>`
-                    : ""
-                }
-              </label>
-            `
-          )
-          .join("")}
+        ${fields.map((field) => renderField(field)).join("")}
       </div>
     `;
 
     fields.forEach((field) => {
+      if (field.variant === "multi-dropdown") {
+        const checks = Array.from(
+          host.querySelectorAll(`[data-toolbar-check="${field.id}"]`)
+        );
+        if (!checks.length) {
+          return;
+        }
+
+        checks.forEach((check) => {
+          check.addEventListener("change", (event) => {
+            const changedValue = event.target.value;
+            let values = checks.filter((input) => input.checked).map((input) => input.value);
+
+            if (changedValue === "__ALL__" && event.target.checked) {
+              values = ["__ALL__"];
+              checks.forEach((input) => {
+                input.checked = input.value === "__ALL__";
+              });
+            } else {
+              const allInput = checks.find((input) => input.value === "__ALL__");
+              values = values.filter((value) => value !== "__ALL__");
+
+              if (!values.length) {
+                values = ["__ALL__"];
+                if (allInput) {
+                  allInput.checked = true;
+                }
+              } else if (allInput) {
+                allInput.checked = false;
+              }
+            }
+
+            field.onChange(values);
+          });
+        });
+        return;
+      }
+
       const select = host.querySelector(`[data-toolbar-field="${field.id}"]`);
       if (!select) {
         return;
@@ -1144,11 +1266,13 @@ document.addEventListener("DOMContentLoaded", async () => {
       totalMarketValue: 0,
       marketValueCount: 0,
       marketValueValues: [],
-      methodCounts: new Map()
+      methodCounts: new Map(),
+      typeCounts: new Map(),
+      legendCounts: new Map()
     };
   }
 
-  function accumulateLandSummary(entry, method, baseRate, acres, frontage, marketValue) {
+  function accumulateLandSummary(entry, method, landType, legend, baseRate, acres, frontage, marketValue) {
     entry.rowCount += 1;
 
     if (Number.isFinite(baseRate)) {
@@ -1177,11 +1301,23 @@ document.addEventListener("DOMContentLoaded", async () => {
 
     const methodKey = method || "Unknown";
     entry.methodCounts.set(methodKey, (entry.methodCounts.get(methodKey) || 0) + 1);
+
+    const typeKey = landType || "Unknown";
+    entry.typeCounts.set(typeKey, (entry.typeCounts.get(typeKey) || 0) + 1);
+
+    const legendKey = legend || "No legend";
+    entry.legendCounts.set(legendKey, (entry.legendCounts.get(legendKey) || 0) + 1);
   }
 
   function finalizeLandSummary(map) {
     return Array.from(map.values()).map((entry) => {
       const sortedMethods = [...entry.methodCounts.entries()].sort(
+        (left, right) => right[1] - left[1] || left[0].localeCompare(right[0])
+      );
+      const sortedTypes = [...entry.typeCounts.entries()].sort(
+        (left, right) => right[1] - left[1] || left[0].localeCompare(right[0])
+      );
+      const sortedLegends = [...entry.legendCounts.entries()].sort(
         (left, right) => right[1] - left[1] || left[0].localeCompare(right[0])
       );
 
@@ -1194,12 +1330,20 @@ document.addEventListener("DOMContentLoaded", async () => {
         acreValues,
         frontageValues,
         marketValueValues,
+        methodCounts,
+        typeCounts,
+        legendCounts,
         ...summary
       } = entry;
 
       return {
         ...summary,
         dominantMethod: sortedMethods.length ? sortedMethods[0][0] : entry.method || "Unknown",
+        dominantType: sortedTypes.length ? sortedTypes[0][0] : entry.landType || "Unknown",
+        dominantLegend: sortedLegends.length ? sortedLegends[0][0] : entry.legend || "No legend",
+        distinctMethodCount: sortedMethods.length,
+        distinctTypeCount: sortedTypes.length,
+        distinctLegendCount: sortedLegends.length,
         medianBaseRate,
         medianAcres,
         medianFrontage,
@@ -1208,14 +1352,20 @@ document.addEventListener("DOMContentLoaded", async () => {
     });
   }
 
-  function summarizeLandRateRows(rows, activeLrsn, selectedMethods) {
+  function summarizeLandRateRows(rows, activeLrsn, selectedMethods, selectedTypes = []) {
     const methodRows = new Map();
     const districtRowsByMethod = new Map();
     const selectedDistrictRows = new Map();
     const selectedGeoRows = new Map();
+    const selectedParcelRows = new Map();
+    const selectedLegendRows = new Map();
     const selectedMethodSet =
       Array.isArray(selectedMethods) && selectedMethods.length
         ? new Set(selectedMethods.map(String))
+        : null;
+    const selectedTypeSet =
+      Array.isArray(selectedTypes) && selectedTypes.length
+        ? new Set(selectedTypes.map(String))
         : null;
     let matchedRowCount = 0;
     let selectedMatchedRowCount = 0;
@@ -1231,7 +1381,9 @@ document.addEventListener("DOMContentLoaded", async () => {
         return;
       }
 
-      const method = String(row[2] || "Unknown");
+      const method = getLandRowMethod(row);
+      const landType = getLandRowType(row);
+      const legend = getLandRowLegend(row);
       const baseRate = Number(row[6]);
       const acres = Number(row[8]);
       const frontage = Number(row[9]);
@@ -1244,7 +1396,16 @@ document.addEventListener("DOMContentLoaded", async () => {
         createLandSummaryEntry({
           method
         });
-      accumulateLandSummary(methodEntry, method, baseRate, acres, frontage, marketValue);
+      accumulateLandSummary(
+        methodEntry,
+        method,
+        landType,
+        legend,
+        baseRate,
+        acres,
+        frontage,
+        marketValue
+      );
       methodRows.set(method, methodEntry);
 
       const districtMethodEntry =
@@ -1253,10 +1414,22 @@ document.addEventListener("DOMContentLoaded", async () => {
           district: parcel.district,
           method
         });
-      accumulateLandSummary(districtMethodEntry, method, baseRate, acres, frontage, marketValue);
+      accumulateLandSummary(
+        districtMethodEntry,
+        method,
+        landType,
+        legend,
+        baseRate,
+        acres,
+        frontage,
+        marketValue
+      );
       districtRowsByMethod.set(`${parcel.district}|${method}`, districtMethodEntry);
 
       if (selectedMethodSet && !selectedMethodSet.has(method)) {
+        return;
+      }
+      if (selectedTypeSet && !selectedTypeSet.has(landType)) {
         return;
       }
 
@@ -1267,7 +1440,16 @@ document.addEventListener("DOMContentLoaded", async () => {
         createLandSummaryEntry({
           district: parcel.district
         });
-      accumulateLandSummary(districtEntry, method, baseRate, acres, frontage, marketValue);
+      accumulateLandSummary(
+        districtEntry,
+        method,
+        landType,
+        legend,
+        baseRate,
+        acres,
+        frontage,
+        marketValue
+      );
       selectedDistrictRows.set(parcel.district, districtEntry);
 
       const geoKey = String(parcel.geo);
@@ -1278,8 +1460,57 @@ document.addEventListener("DOMContentLoaded", async () => {
           geo: parcel.geo,
           geoName: parcel.geoName
         });
-      accumulateLandSummary(geoEntry, method, baseRate, acres, frontage, marketValue);
+      accumulateLandSummary(
+        geoEntry,
+        method,
+        landType,
+        legend,
+        baseRate,
+        acres,
+        frontage,
+        marketValue
+      );
       selectedGeoRows.set(geoKey, geoEntry);
+
+      const parcelEntry =
+        selectedParcelRows.get(lrsn) ||
+        createLandSummaryEntry({
+          lrsn,
+          district: parcel.district,
+          geo: parcel.geo,
+          geoName: parcel.geoName,
+          pin: parcel.pin,
+          ain: parcel.ain,
+          propertyClassDescription: parcel.propertyClassDescription
+        });
+      accumulateLandSummary(
+        parcelEntry,
+        method,
+        landType,
+        legend,
+        baseRate,
+        acres,
+        frontage,
+        marketValue
+      );
+      selectedParcelRows.set(lrsn, parcelEntry);
+
+      const legendEntry =
+        selectedLegendRows.get(legend) ||
+        createLandSummaryEntry({
+          legend
+        });
+      accumulateLandSummary(
+        legendEntry,
+        method,
+        landType,
+        legend,
+        baseRate,
+        acres,
+        frontage,
+        marketValue
+      );
+      selectedLegendRows.set(legend, legendEntry);
     });
 
     return {
@@ -1288,7 +1519,9 @@ document.addEventListener("DOMContentLoaded", async () => {
       methodRows: finalizeLandSummary(methodRows),
       districtRowsByMethod: finalizeLandSummary(districtRowsByMethod),
       selectedDistrictRows: finalizeLandSummary(selectedDistrictRows),
-      selectedGeoRows: finalizeLandSummary(selectedGeoRows)
+      selectedGeoRows: finalizeLandSummary(selectedGeoRows),
+      selectedParcelRows: finalizeLandSummary(selectedParcelRows),
+      selectedLegendRows: finalizeLandSummary(selectedLegendRows)
     };
   }
 
@@ -1446,6 +1679,15 @@ document.addEventListener("DOMContentLoaded", async () => {
     return manyLabel(labels.length);
   }
 
+  function truncateToolbarLabel(value, maxLength = 28) {
+    const text = String(value || "").trim();
+    if (text.length <= maxLength) {
+      return text;
+    }
+
+    return `${text.slice(0, maxLength - 3)}...`;
+  }
+
   function getSelectedCategoryCodes(bundle) {
     if (viewState.category.codes === null && bundle.categories.length) {
       viewState.category.codes = [String(bundle.categories[0].code)];
@@ -1469,7 +1711,44 @@ document.addEventListener("DOMContentLoaded", async () => {
       : [];
   }
 
+  function getSelectedLandTypes() {
+    return Array.isArray(viewState.landRates.types) ? viewState.landRates.types.map(String) : [];
+  }
+
+  function getSelectedLandTypeLabel() {
+    const selectedTypes = getSelectedLandTypes();
+    if (!selectedTypes.length) {
+      return "All land types";
+    }
+    if (selectedTypes.length === 1) {
+      return truncateToolbarLabel(selectedTypes[0]);
+    }
+
+    return `${selectedTypes.length} types selected`;
+  }
+
+  function getSelectedLandTypeTitle() {
+    return formatSelectionLabel(
+      getSelectedLandTypes(),
+      "All land types",
+      (type) => type,
+      (count) => `${count} land types`
+    );
+  }
+
   function getSelectedLandMethodLabel() {
+    const selectedMethods = getSelectedLandMethods();
+    if (!selectedMethods.length) {
+      return "All land methods";
+    }
+    if (selectedMethods.length === 1) {
+      return truncateToolbarLabel(selectedMethods[0]);
+    }
+
+    return `${selectedMethods.length} methods selected`;
+  }
+
+  function getSelectedLandMethodTitle() {
     return formatSelectionLabel(
       getSelectedLandMethods(),
       "All methods",
@@ -1616,6 +1895,49 @@ document.addEventListener("DOMContentLoaded", async () => {
         onChange: (value) => {
           viewState.landRates.metric = value;
           tableState.currentPage = 1;
+          onChange();
+        }
+      }
+    ];
+  }
+
+  function buildLandRateMapToolbar(onChange, bundle) {
+    return [
+      {
+        id: "land-rate-type-map",
+        label: "Land Type",
+        variant: "multi-dropdown",
+        value: getSelectedLandTypes().length ? getSelectedLandTypes() : ["__ALL__"],
+        summaryText: getSelectedLandTypeLabel(),
+        titleText: getSelectedLandTypeTitle(),
+        options: [{ value: "__ALL__", label: "All land types" }].concat(
+          bundle.types.map((type) => ({ value: type, label: type }))
+        ),
+        onChange: (values) => {
+          const nextValues =
+            values.includes("__ALL__") && values.length > 1
+              ? values.filter((value) => value !== "__ALL__")
+              : values;
+          viewState.landRates.types = nextValues.includes("__ALL__") ? [] : nextValues;
+          onChange();
+        }
+      },
+      {
+        id: "land-rate-method-map",
+        label: "Land Method",
+        variant: "multi-dropdown",
+        value: getSelectedLandMethods().length ? getSelectedLandMethods() : ["__ALL__"],
+        summaryText: getSelectedLandMethodLabel(),
+        titleText: getSelectedLandMethodTitle(),
+        options: [{ value: "__ALL__", label: "All land methods" }].concat(
+          bundle.methods.map((method) => ({ value: method, label: method }))
+        ),
+        onChange: (values) => {
+          const nextValues =
+            values.includes("__ALL__") && values.length > 1
+              ? values.filter((value) => value !== "__ALL__")
+              : values;
+          viewState.landRates.methods = nextValues.includes("__ALL__") ? [] : nextValues;
           onChange();
         }
       }
@@ -1897,82 +2219,124 @@ document.addEventListener("DOMContentLoaded", async () => {
       const shell = mountMapShell("land-rates");
       const bundle = await loadLandRatesBundle();
       const context = await ensureMapContext();
-      renderToolbar(shell.toolbar, buildLandRateToolbar(() => renderSelectedMap(), bundle.methods));
+      renderToolbar(shell.toolbar, buildLandRateMapToolbar(() => renderSelectedMap(), bundle));
 
+      const filterContext = getFilterContext(state);
       const selectedMethods = getSelectedLandMethods();
+      const selectedTypes = getSelectedLandTypes();
       const selectedMethodLabel = getSelectedLandMethodLabel();
-      const metric = getLandRateMetric();
+      const selectedTypeLabel = getSelectedLandTypeLabel();
       const summary = summarizeLandRateRows(
         bundle.rows,
-        getFilterContext(state).activeLrsn,
-        selectedMethods
+        filterContext.activeLrsn,
+        selectedMethods,
+        selectedTypes
       );
-      const entries = summary.selectedGeoRows
-        .map((row) => ({
-          ...row,
-          value: metric.value(row),
-          center: getGeoCenter(context, row.geo)
-        }))
-        .filter((row) => Number.isFinite(row.value));
+      const features = summary.selectedParcelRows
+        .map((row) => {
+          const feature = context.featureLookup.get(Number(row.lrsn));
+          if (!feature) {
+            return null;
+          }
+
+          return {
+            ...feature,
+            properties: {
+              ...feature.properties,
+              landRowCount: row.rowCount,
+              dominantMethod: row.dominantMethod,
+              dominantType: row.dominantType,
+              dominantLegend: row.dominantLegend,
+              distinctMethodCount: row.distinctMethodCount,
+              distinctTypeCount: row.distinctTypeCount,
+              distinctLegendCount: row.distinctLegendCount,
+              medianBaseRate: row.medianBaseRate,
+              medianAcres: row.medianAcres,
+              medianFrontage: row.medianFrontage,
+              medianMarketValue: row.medianMarketValue
+            }
+          };
+        })
+        .filter(Boolean);
 
       shell.legend.innerHTML = "";
 
-      if (!entries.length) {
+      if (!features.length) {
         replaceMapLayer(null);
-        elements.mapStats.textContent = "No land rate rows match the current filters.";
+        elements.mapStats.textContent = "No land-rate parcels match the current filters.";
         return;
       }
 
-      let layer = null;
-      if (!selectedMethods.length) {
-        layer = buildBubbleMap(entries, {
-          radius: (entry) => entry.value,
-          fill: (entry) => bundle.methodColorMap.get(entry.dominantMethod) || METHOD_PALETTE[0],
-          popup: (entry) => `
-            <strong>${app.escapeHtml(entry.geo)} | ${app.escapeHtml(entry.geoName)}</strong><br>
-            <strong>District:</strong> ${app.escapeHtml(app.prettyLabel(entry.district))}<br>
-            <strong>Dominant method:</strong> ${app.escapeHtml(entry.dominantMethod)}<br>
-            <strong>Land rate rows:</strong> ${app.escapeHtml(app.formatNumber(entry.rowCount))}<br>
-            <strong>Median base rate:</strong> ${app.escapeHtml(app.formatCurrency(entry.medianBaseRate))}<br>
-            <strong>Median acres:</strong> ${app.escapeHtml(app.formatDecimal(entry.medianAcres, 2))}<br>
-            <strong>Median frontage:</strong> ${app.escapeHtml(app.formatDecimal(entry.medianFrontage, 1))}
-          `
-        });
+      const activeLegends = summary.selectedLegendRows
+        .map((row) => row.dominantLegend)
+        .filter(Boolean)
+        .sort((left, right) => left.localeCompare(right));
 
-        const legendItems = summary.methodRows
-          .sort((left, right) => right.rowCount - left.rowCount)
-          .slice(0, 8)
-          .map((row) => ({
-            color: bundle.methodColorMap.get(row.method) || METHOD_PALETTE[0],
-            label: `${row.method} (${app.formatNumber(row.rowCount)})`
-          }));
-        shell.legend.appendChild(createLegendNode(legendItems));
-      } else {
-        const scale = createSequentialScale(entries.map((entry) => entry.value), WARM_PALETTE, metric.format);
-        layer = buildBubbleMap(entries, {
-          radius: (entry) => entry.value,
-          fill: (entry) => scale.getColor(entry.value),
-          popup: (entry) => `
-            <strong>${app.escapeHtml(entry.geo)} | ${app.escapeHtml(entry.geoName)}</strong><br>
-            <strong>District:</strong> ${app.escapeHtml(app.prettyLabel(entry.district))}<br>
-            <strong>${selectedMethods.length === 1 ? "Method" : "Methods"}:</strong> ${app.escapeHtml(
-              selectedMethodLabel
-            )}<br>
-            <strong>Land rate rows:</strong> ${app.escapeHtml(app.formatNumber(entry.rowCount))}<br>
-            <strong>Median base rate:</strong> ${app.escapeHtml(app.formatCurrency(entry.medianBaseRate))}<br>
-            <strong>Median acres:</strong> ${app.escapeHtml(app.formatDecimal(entry.medianAcres, 2))}<br>
-            <strong>Median frontage:</strong> ${app.escapeHtml(app.formatDecimal(entry.medianFrontage, 1))}
-          `
-        });
-        shell.legend.appendChild(createLegendNode(scale.items));
-      }
+      const legendItems = activeLegends.map((legend) => ({
+        color: bundle.legendColorMap.get(legend) || LAND_LEGEND_PALETTE[0],
+        label: legend
+      }));
+
+      const layer = L.geoJSON(app.buildFeatureCollection(features), {
+        renderer: mapState.renderer,
+        style: (feature) => {
+          const lrsn = Number(feature.properties.lrsn);
+          const isHighlighted = filterContext.hasSearch && filterContext.searchedLrsn.has(lrsn);
+          const fillColor =
+            bundle.legendColorMap.get(feature.properties.dominantLegend) || LAND_LEGEND_PALETTE[0];
+
+          return {
+            color: isHighlighted ? "#ffeb3b" : "#17343d",
+            weight: isHighlighted ? 2.4 : 0.7,
+            fillColor,
+            fillOpacity: isHighlighted ? 0.9 : 0.74
+          };
+        },
+        onEachFeature: (feature, layerRef) => {
+          const props = feature.properties;
+          layerRef.bindPopup(`
+            <strong>PIN:</strong> ${app.escapeHtml(props.pin)}<br>
+            <strong>AIN:</strong> ${app.escapeHtml(props.ain)}<br>
+            <strong>District:</strong> ${app.escapeHtml(app.prettyLabel(props.district))}<br>
+            <strong>GEO:</strong> ${app.escapeHtml(props.geo)} | ${app.escapeHtml(props.geoName)}<br>
+            <strong>Legend:</strong> ${app.escapeHtml(props.dominantLegend)}<br>
+            <strong>Dominant land type:</strong> ${app.escapeHtml(props.dominantType)}<br>
+            <strong>Dominant land method:</strong> ${app.escapeHtml(props.dominantMethod)}<br>
+            <strong>Matched land rows:</strong> ${app.escapeHtml(app.formatNumber(props.landRowCount))}<br>
+            <strong>Median base rate:</strong> ${app.escapeHtml(app.formatCurrency(props.medianBaseRate))}<br>
+            <strong>Median acres:</strong> ${app.escapeHtml(app.formatDecimal(props.medianAcres, 2))}<br>
+            <strong>Median frontage:</strong> ${app.escapeHtml(app.formatDecimal(props.medianFrontage, 1))}<br>
+            <strong>Median market value:</strong> ${app.escapeHtml(app.formatCurrency(props.medianMarketValue))}
+          `);
+        }
+      });
 
       replaceMapLayer(layer);
       fitLayerToState(layer, state, "land-rates");
+      if (legendItems.length) {
+        shell.legend.appendChild(createLegendNode(legendItems));
+      }
+
+      const filterBits = [];
+      if (selectedTypes.length) {
+        filterBits.push(`land types: ${selectedTypeLabel}`);
+      }
+      if (selectedMethods.length) {
+        filterBits.push(`land methods: ${selectedMethodLabel}`);
+      }
+      const filterText = filterBits.length ? ` Filtered to ${filterBits.join("; ")}.` : "";
+      const highlightedCount = features.filter((feature) =>
+        filterContext.searchedLrsn.has(Number(feature.properties.lrsn))
+      ).length;
+      const highlightedText = filterContext.hasSearch
+        ? ` ${app.formatNumber(highlightedCount)} parcel polygon(s) match the AIN/PIN search.`
+        : "";
 
       elements.mapStats.textContent = `Showing ${app.formatNumber(
-        entries.length
-      )} GEO marker(s) built from ${app.formatNumber(summary.selectedMatchedRowCount)} land rate row(s).`;
+        features.length
+      )} parcel polygon(s) built from ${app.formatNumber(
+        summary.selectedMatchedRowCount
+      )} land-rate row(s).${filterText}${highlightedText}`;
     } catch (error) {
       console.error(error);
       elements.mapStats.textContent = app.getLoadErrorMessage("land rates map data");

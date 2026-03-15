@@ -430,6 +430,8 @@ async function main() {
   );
   let landRateRowCount = 0;
   const landMethods = new Set();
+  const landTypes = new Set();
+  const landLegends = new Set();
 
   console.log(`Building land-rates bundle from ${sourcePaths.landRates}...`);
   await processCsv(sourcePaths.landRates, async (values, indexes) => {
@@ -439,15 +441,23 @@ async function main() {
     }
 
     const landMethod = trimValue(getValue(values, indexes, "LandMethod"));
+    const landType = trimValue(getValue(values, indexes, "LandType"));
+    const landLegend = trimValue(getValue(values, indexes, "Legend"));
     if (landMethod !== null) {
       landMethods.add(landMethod);
+    }
+    if (landType !== null) {
+      landTypes.add(landType);
+    }
+    if (landLegend !== null) {
+      landLegends.add(landLegend);
     }
 
     landRateBundle.writeRow([
       Number(lrsnText),
       toIntOrNull(getValue(values, indexes, "lcm")),
       landMethod,
-      trimValue(getValue(values, indexes, "LandType")),
+      landType,
       trimValue(getValue(values, indexes, "LandDetailType")),
       trimValue(getValue(values, indexes, "SiteRating")),
       compactNumber(toNumberOrNull(getValue(values, indexes, "BaseRate"))),
@@ -457,7 +467,8 @@ async function main() {
       compactNumber(toNumberOrNull(getValue(values, indexes, "DepthFactor"))),
       compactNumber(toNumberOrNull(getValue(values, indexes, "SoilProdFactor"))),
       compactNumber(toNumberOrNull(getValue(values, indexes, "SmallAcreFactor"))),
-      compactNumber(toNumberOrNull(getValue(values, indexes, "TotalMktValue")))
+      compactNumber(toNumberOrNull(getValue(values, indexes, "TotalMktValue"))),
+      landLegend
     ]);
 
     landRateRowCount += 1;
@@ -466,7 +477,9 @@ async function main() {
   await landRateBundle.close(
     `,"meta":${JSON.stringify({
       rowCount: landRateRowCount,
-      methodCount: landMethods.size
+      methodCount: landMethods.size,
+      landTypeCount: landTypes.size,
+      legendCount: landLegends.size
     })}}`
   );
   console.log("Wrote land rates bundle.");
@@ -503,6 +516,8 @@ async function main() {
     categoryCount: categoryCodes.size,
     landRateRowCount,
     landMethodCount: landMethods.size,
+    landTypeCount: landTypes.size,
+    landLegendCount: landLegends.size,
     generatedAt: formatLocalTimestamp(new Date())
   };
 

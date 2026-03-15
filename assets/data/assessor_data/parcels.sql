@@ -29,7 +29,7 @@ END AS District
 ,TRIM(pm.AIN) AS AIN
 ,Case
     When pm.pin Like 'A%' Then 'Athol'         -- Athol
-    When pm.pin Like 'C%' Then 'CoeurdAlene'          -- Coeur d’Alene
+    When pm.pin Like 'C%' Then 'CoeurdAlene'          -- Coeur d'Alene
     When pm.pin Like 'D%' Then 'Dalton_Gardens'         -- Dalton Gardens
     When pm.pin Like 'H%' Then 'Hayden'         -- Hayden
     When pm.pin Like 'V%' Then 'Hayden_Lake'         -- Hayden Lake

@@ -5,11 +5,11 @@ title: "Data Development + Visualization Portfolio"
 This section focuses on analytics, BI, and technical implementation work.
 
 ::: {.section-panel}
-## Featured Writeup Format
+## Featured Project
 
-- [Project Template](../projects/project-template.qmd)
+- [Data Project: Assessor Dashboard](../projects/data-project-assessor-dashboard.qmd)
 
-Use this template for full project documentation from problem to reproducible results.
+Portfolio writeup for the real DataViz Assessor&#39;s Dashboard project, plus a public interactive demo built from sanitized exports.
 :::
 
 ::: {.section-panel}
