@@ -3,26 +3,24 @@ title: 'I can do...'
 date: '2019-06-20T21:22:00.0010000+00:00'
 draft: false
 ---
+### I can do\...
 
-<h3>
-I can do...&nbsp;</h3>
-<h4>
-<i>A Poem by Flavia Wolfe</i></h4>
-<br />
-I can jump<br />
-I can run<br />
-I can walk, but it's not as much Fun<br />
-<br />
-I can laugh<br />
-I can cry<br />
-I only wish that I could fly<br />
-<br />
-I can dance<br />
-I can play<br />
-I can sleep after such a great day, thank you for this day<br />
-<br />
-I can smile<br />
-I can listen<br />
-I can hear the sounds of the ocean, God's peace overwhelms me<br />
-<br />
-<i>* by Flavia Wolfe 1981-2018</i>
+#### *A Poem by Flavia Wolfe*
+
+I can jump
+I can run
+I can walk, but it's not as much Fun
+
+I can laugh
+I can cry
+I only wish that I could fly
+
+I can dance
+I can play
+I can sleep after such a great day, thank you for this day
+
+I can smile
+I can listen
+I can hear the sounds of the ocean, God's peace overwhelms me
+
+** by Flavia Wolfe 1981-2018*

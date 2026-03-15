@@ -6,74 +6,69 @@ categories:
   - 'Writing Practice'
   - 'White Noise'
 ---
+# Story Structure for 'White Noise'
 
+## Act 1: The Setup
 
-<h1>Story Structure for 'White Noise'</h1>
+- **Hook:** Ash's hallucination in the cafe, blending reality and the supernatural.
+- **Action:** Explore the town, Ash's daily life, his friends, and his workshop.
+- **Reaction:** Ash at home, showing his struggles with substance abuse and isolation.
+- **Action:** Confrontation between Ash and Hank.
+- **Reaction:** Ash processing the confrontation.
 
-    <h2>Act 1: The Setup</h2>
-    <ul>
-        <li><strong>Hook:</strong> Ash's hallucination in the cafe, blending reality and the supernatural.</li>
-        <li><strong>Action:</strong> Explore the town, Ash's daily life, his friends, and his workshop.</li>
-        <li><strong>Reaction:</strong> Ash at home, showing his struggles with substance abuse and isolation.</li>
-        <li><strong>Action:</strong> Confrontation between Ash and Hank.</li>
-        <li><strong>Reaction:</strong> Ash processing the confrontation.</li>
-    </ul>
+### Inciting Incident
 
-    <h3>Inciting Incident</h3>
-    <ul>
-        <li><strong>Action:</strong> Destiny enters, possibly in Ash's POV, introducing him to the experiments.</li>
-        <li><strong>Reaction:</strong> Ash processes this new information, struggles with the truth and lies.</li>
-        <li><strong>Action:</strong> A specific event that forces Ash to acknowledge the reality of his situation.</li>
-        <li><strong>Reaction:</strong> Ash's internal struggle with the choice he faces.</li>
-    </ul>
+- **Action:** Destiny enters, possibly in Ash's POV, introducing him to the experiments.
+- **Reaction:** Ash processes this new information, struggles with the truth and lies.
+- **Action:** A specific event that forces Ash to acknowledge the reality of his situation.
+- **Reaction:** Ash's internal struggle with the choice he faces.
 
-    <h3>First Plot Point</h3>
-    <ul>
-        <li><strong>Action:</strong> Develop the conflict, forcing Ash to choose his path.</li>
-        <li><strong>Reaction:</strong> Ash's emotional and mental response to this conflict.</li>
-        <li><strong>Action:</strong> Another event that intensifies the conflict.</li>
-        <li><strong>Reaction:</strong> Ash starts to realize the gravity of the situation.</li>
-        <li><strong>Action:</strong> A turning point that thrusts Ash fully into the adventure.</li>
-        <li><strong>Reaction:</strong> Ash comes to terms with his new reality.</li>
-    </ul>
+### First Plot Point
 
-    <h2>Act 2: The Confrontation</h2>
-    <h3>First Half</h3>
-    <ul>
-        <li><strong>1st Pinch Point:</strong> Showcase the antagonist's power.</li>
-        <li><strong>Reaction:</strong> Ash gathers clues about the nature of the conflict.</li>
-        <li><strong>Midpoint:</strong> A significant revelation about Ash's hallucinations.</li>
-    </ul>
+- **Action:** Develop the conflict, forcing Ash to choose his path.
+- **Reaction:** Ash's emotional and mental response to this conflict.
+- **Action:** Another event that intensifies the conflict.
+- **Reaction:** Ash starts to realize the gravity of the situation.
+- **Action:** A turning point that thrusts Ash fully into the adventure.
+- **Reaction:** Ash comes to terms with his new reality.
 
-    <h3>Second Half</h3>
-    <ul>
-        <li><strong>2nd Pinch Point:</strong> A reminder of what's at stake, foreshadowing the third plot point.</li>
-        <li><strong>Action:</strong> Ash begins to make headway against the antagonist.</li>
-        <li><strong>Reaction:</strong> The antagonist responds, increasing the stakes.</li>
-        <li><strong>Action:</strong> A seeming victory for Ash.</li>
-        <li><strong>Reaction:</strong> The aftermath of this victory.</li>
-    </ul>
+## Act 2: The Confrontation
 
-    <h2>Act 3: The Resolution</h2>
-    <h3>Third Plot Point</h3>
-    <ul>
-        <li><strong>Dark Night of the Soul:</strong> Ash faces a significant setback.</li>
-        <li><strong>Reaction:</strong> Emotional turmoil and decision to push forward.</li>
-    </ul>
+### First Half
 
-    <h3>Climax</h3>
-    <ul>
-        <li><strong>Build-Up:</strong> Ash prepares for the final confrontation.</li>
-        <li><strong>Climactic Moment:</strong> The ultimate showdown and Ash's final victory.</li>
-        <li><strong>Reaction:</strong> The immediate aftermath of the climax.</li>
-    </ul>
+- **1st Pinch Point:** Showcase the antagonist's power.
+- **Reaction:** Ash gathers clues about the nature of the conflict.
+- **Midpoint:** A significant revelation about Ash's hallucinations.
 
-    <h3>Resolution</h3>
-    <ul>
-        <li><strong>Action:</strong> Gradual easing out of the story, showcasing the new status quo.</li>
-        <li><strong>Reaction:</strong> Characters' responses to the new reality.</li>
-        <li><strong>Hint at Next Story:</strong> A teaser for future adventures or challenges for Ash.</li>
-    </ul>
+### Second Half
 
+- **2nd Pinch Point:** A reminder of what's at stake, foreshadowing the third plot point.
+- **Action:** Ash begins to make headway against the antagonist.
+- **Reaction:** The antagonist responds, increasing the stakes.
+- **Action:** A seeming victory for Ash.
+- **Reaction:** The aftermath of this victory.
 
-<div class="separator" style="clear: both; text-align: center;"><a href="/images/imported/blogger-googleusercontent-com/1-566ac79e6377.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1200" data-original-width="800" height="640" src="/images/imported/blogger-googleusercontent-com/1-db9c6c791deb.png" width="426" /></a></div><br /><div class="separator" style="clear: both; text-align: center;"><a href="/images/imported/blogger-googleusercontent-com/2-9461f643f771.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1200" data-original-width="800" height="640" src="/images/imported/blogger-googleusercontent-com/2-4d40ee90939a.png" width="426" /></a></div><br /><div class="separator" style="clear: both; text-align: center;"><a href="/images/imported/blogger-googleusercontent-com/3-5f53b78af03a.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1200" data-original-width="800" height="640" src="/images/imported/blogger-googleusercontent-com/3-4712c0941e83.png" width="426" /></a></div><br /><div class="separator" style="clear: both; text-align: center;"><br /></div><br /><br /><p></p>
+## Act 3: The Resolution
+
+### Third Plot Point
+
+- **Dark Night of the Soul:** Ash faces a significant setback.
+- **Reaction:** Emotional turmoil and decision to push forward.
+
+### Climax
+
+- **Build-Up:** Ash prepares for the final confrontation.
+- **Climactic Moment:** The ultimate showdown and Ash's final victory.
+- **Reaction:** The immediate aftermath of the climax.
+
+### Resolution
+
+- **Action:** Gradual easing out of the story, showcasing the new status quo.
+- **Reaction:** Characters' responses to the new reality.
+- **Hint at Next Story:** A teaser for future adventures or challenges for Ash.
+
+[![](/images/imported/blogger-googleusercontent-com/1-db9c6c791deb.png)](/images/imported/blogger-googleusercontent-com/1-566ac79e6377.png)
+
+[![](/images/imported/blogger-googleusercontent-com/2-4d40ee90939a.png)](/images/imported/blogger-googleusercontent-com/2-9461f643f771.png)
+
+[![](/images/imported/blogger-googleusercontent-com/3-4712c0941e83.png)](/images/imported/blogger-googleusercontent-com/3-5f53b78af03a.png)

@@ -5,262 +5,140 @@ draft: false
 categories:
   - 'Hebrew'
 ---
+**Answer Key: Inspired by C. L. Seow's A Grammar for Biblical Hebrew (Revised Edition) - Practice Test**
 
-<p class="MsoNormal"><b>Answer Key: Inspired by C. L. Seow's A Grammar for
-Biblical Hebrew (Revised Edition) - Practice Test</b><o:p></o:p></p>
+------------------------------------------------------------------------
 
-<div align="center" class="MsoNormal" style="text-align: center;">
+**Section 1: Vocabulary Recognition**
 
-<hr align="center" size="2" width="100%" />
+1.  God/gods
+2.  King
+3.  Woman/wife
+4.  Peace
+5.  Servant/slave
+6.  Book/scroll
+7.  Way/path
+8.  Land/earth
+9.  Hand
+10. House
+11. Judgment/justice
+12. Truth
+13. Prophet
+14. Blood
+15. Water
+16. Name
+17. Head/leader
+18. Voice/sound
+19. Eye/spring
+20. Gold
 
-</div>
+------------------------------------------------------------------------
 
-<p class="MsoNormal"><b>Section 1: Vocabulary Recognition<o:p></o:p></b></p>
+**Section 2: Parsing Nouns & Adjectives**
 
-<ol start="1" style="margin-top: 0in;" type="1">
- <li class="MsoNormal">God/gods<o:p></o:p></li>
- <li class="MsoNormal">King<o:p></o:p></li>
- <li class="MsoNormal">Woman/wife<o:p></o:p></li>
- <li class="MsoNormal">Peace<o:p></o:p></li>
- <li class="MsoNormal">Servant/slave<o:p></o:p></li>
- <li class="MsoNormal">Book/scroll<o:p></o:p></li>
- <li class="MsoNormal">Way/path<o:p></o:p></li>
- <li class="MsoNormal">Land/earth<o:p></o:p></li>
- <li class="MsoNormal">Hand<o:p></o:p></li>
- <li class="MsoNormal">House<o:p></o:p></li>
- <li class="MsoNormal">Judgment/justice<o:p></o:p></li>
- <li class="MsoNormal">Truth<o:p></o:p></li>
- <li class="MsoNormal">Prophet<o:p></o:p></li>
- <li class="MsoNormal">Blood<o:p></o:p></li>
- <li class="MsoNormal">Water<o:p></o:p></li>
- <li class="MsoNormal">Name<o:p></o:p></li>
- <li class="MsoNormal">Head/leader<o:p></o:p></li>
- <li class="MsoNormal">Voice/sound<o:p></o:p></li>
- <li class="MsoNormal">Eye/spring<o:p></o:p></li>
- <li class="MsoNormal">Gold<o:p></o:p></li>
-</ol>
+21. Masculine, singular, definite -- the king
+22. Masculine, plural, indefinite -- sons
+23. Feminine, singular, definite -- the woman
+24. Masculine, plural, indefinite -- prophets
+25. Feminine, dual, indefinite -- eyes
+26. Masculine, plural, indefinite -- books
+27. Masculine, singular, definite -- the book
+28. Feminine, singular, possessive -- my hand
+29. Masculine, plural, indefinite -- men
+30. Masculine, singular, definite -- the tree
+31. Masculine, singular, definite -- the name
+32. Masculine, plural, indefinite -- words/things
+33. Feminine, singular -- a good woman
+34. Masculine, singular -- an evil king
+35. Masculine, singular -- a small son
 
-<div align="center" class="MsoNormal" style="text-align: center;">
+------------------------------------------------------------------------
 
-<hr align="center" size="2" width="100%" />
+**Section 3: Parsing Verbs**
 
-</div>
+36. Qal, perfect, 3ms, root: כתב -- he wrote
+37. Qal, perfect, 1cs, root: שמע -- I heard
+38. Qal, perfect, 1cp, root: אהב -- we loved
+39. Qal, perfect, 3ms, root: ישב -- he sat
+40. Qal, perfect, 2ms, root: לקח -- you took
+41. Qal, perfect, 3ms, root: עמד -- he stood
+42. Qal, imperfect, 3ms, root: ישב -- he will sit
+43. Qal, perfect, 3ms, root: נתן -- he gave
+44. Qal, perfect, 3ms, root: שלח -- he sent
+45. Qal, perfect, 3ms, root: קרא -- he called/read
+46. Qal, perfect, 3ms, root: שפט -- he judged
+47. Qal, perfect, 2fs, root: ידע -- you (f) knew
+48. Qal, imperfect, 3mp, root: כתב -- they will write
+49. Qal, imperfect, 3mp, root: שמר -- they will keep
+50. Niphal, perfect, 3ms, root: שמע -- it was heard
+51. Qal, perfect, 3ms, root: נשא -- he lifted/bore
+52. Qal, imperfect, 3ms, root: ירד -- he will go down
+53. Hiphil, perfect, 3ms, root: בוא -- he brought
+54. Qal, perfect, 3ms, root: נפל -- he fell
+55. Qal, perfect, 1cs, root: הלך -- I walked
 
-<p class="MsoNormal"><b>Section 2: Parsing Nouns &amp; Adjectives<o:p></o:p></b></p>
+------------------------------------------------------------------------
 
-<ol start="21" style="margin-top: 0in;" type="1">
- <li class="MsoNormal">Masculine,
-     singular, definite – the king<o:p></o:p></li>
- <li class="MsoNormal">Masculine,
-     plural, indefinite – sons<o:p></o:p></li>
- <li class="MsoNormal">Feminine,
-     singular, definite – the woman<o:p></o:p></li>
- <li class="MsoNormal">Masculine,
-     plural, indefinite – prophets<o:p></o:p></li>
- <li class="MsoNormal">Feminine,
-     dual, indefinite – eyes<o:p></o:p></li>
- <li class="MsoNormal">Masculine,
-     plural, indefinite – books<o:p></o:p></li>
- <li class="MsoNormal">Masculine,
-     singular, definite – the book<o:p></o:p></li>
- <li class="MsoNormal">Feminine,
-     singular, possessive – my hand<o:p></o:p></li>
- <li class="MsoNormal">Masculine,
-     plural, indefinite – men<o:p></o:p></li>
- <li class="MsoNormal">Masculine,
-     singular, definite – the tree<o:p></o:p></li>
- <li class="MsoNormal">Masculine,
-     singular, definite – the name<o:p></o:p></li>
- <li class="MsoNormal">Masculine,
-     plural, indefinite – words/things<o:p></o:p></li>
- <li class="MsoNormal">Feminine,
-     singular – a good woman<o:p></o:p></li>
- <li class="MsoNormal">Masculine,
-     singular – an evil king<o:p></o:p></li>
- <li class="MsoNormal">Masculine,
-     singular – a small son<o:p></o:p></li>
-</ol>
+**Section 4: Sentence Translation**
 
-<div align="center" class="MsoNormal" style="text-align: center;">
+56. The king is in the house.
+57. David wrote a book.
+58. The woman sat in the city.
+59. A servant sent a word to the king.
+60. A prophet judged the people.
+61. A priest (is) in the house of the Lord.
+62. The words are not in the book.
+63. Peace to you, O king.
+64. We heard the voice of the Lord.
+65. We knew the truth.
+66. Who will dwell in the heavens?
+67. Moses gave the Torah to Israel.
+68. You went to the city.
+69. I wrote a small book.
+70. There is no king in this city.
+71. In the beginning God created.
+72. The warrior fell in the battle.
+73. I found a book in the house.
+74. Eyes saw a wonderful thing.
+75. The name of the prophet is great.
 
-<hr align="center" size="2" width="100%" />
+------------------------------------------------------------------------
 
-</div>
+**Section 5: Fill-in-the-Blank Conjugations**
 
-<p class="MsoNormal"><b>Section 3: Parsing Verbs<o:p></o:p></b></p>
+76. כָּתַב
+77. כָּתַבְנוּ
+78. יִשְׁמְרוּ
+79. אָכַלְתְּ
+80. נָתַתָּ
+81. אֵדַע
+82. לָקְחוּ
+83. רָאָה
+84. הָיָה
+85. תֵּלֵךְ
+86. שָׁפַטְתִּי
+87. נָפַלְנָה
+88. שָׁאֲלוּ
+89. בֵּרֵךְ
+90. יָצְאוּ
 
-<ol start="36" style="margin-top: 0in;" type="1">
- <li class="MsoNormal">Qal,
-     perfect, 3ms, root: <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">כתב</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>
-     – he wrote<o:p></o:p></li>
- <li class="MsoNormal">Qal,
-     perfect, 1cs, root: <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">שמע</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>
-     – I heard<o:p></o:p></li>
- <li class="MsoNormal">Qal,
-     perfect, 1cp, root: <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">אהב</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>
-     – we loved<o:p></o:p></li>
- <li class="MsoNormal">Qal,
-     perfect, 3ms, root: <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">ישב</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>
-     – he sat<o:p></o:p></li>
- <li class="MsoNormal">Qal,
-     perfect, 2ms, root: <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">לקח</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>
-     – you took<o:p></o:p></li>
- <li class="MsoNormal">Qal,
-     perfect, 3ms, root: <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">עמד</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>
-     – he stood<o:p></o:p></li>
- <li class="MsoNormal">Qal,
-     imperfect, 3ms, root: <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">ישב</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>
-     – he will sit<o:p></o:p></li>
- <li class="MsoNormal">Qal,
-     perfect, 3ms, root: <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">נתן</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>
-     – he gave<o:p></o:p></li>
- <li class="MsoNormal">Qal,
-     perfect, 3ms, root: <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">שלח</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>
-     – he sent<o:p></o:p></li>
- <li class="MsoNormal">Qal,
-     perfect, 3ms, root: <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">קרא</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>
-     – he called/read<o:p></o:p></li>
- <li class="MsoNormal">Qal,
-     perfect, 3ms, root: <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">שפט</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>
-     – he judged<o:p></o:p></li>
- <li class="MsoNormal">Qal,
-     perfect, 2fs, root: <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">ידע</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>
-     – you (f) knew<o:p></o:p></li>
- <li class="MsoNormal">Qal,
-     imperfect, 3mp, root: <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">כתב</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>
-     – they will write<o:p></o:p></li>
- <li class="MsoNormal">Qal,
-     imperfect, 3mp, root: <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">שמר</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>
-     – they will keep<o:p></o:p></li>
- <li class="MsoNormal">Niphal,
-     perfect, 3ms, root: <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">שמע</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>
-     – it was heard<o:p></o:p></li>
- <li class="MsoNormal">Qal,
-     perfect, 3ms, root: <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">נשא</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>
-     – he lifted/bore<o:p></o:p></li>
- <li class="MsoNormal">Qal,
-     imperfect, 3ms, root: <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">ירד</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>
-     – he will go down<o:p></o:p></li>
- <li class="MsoNormal">Hiphil,
-     perfect, 3ms, root: <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">בוא</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>
-     – he brought<o:p></o:p></li>
- <li class="MsoNormal">Qal,
-     perfect, 3ms, root: <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">נפל</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>
-     – he fell<o:p></o:p></li>
- <li class="MsoNormal">Qal,
-     perfect, 1cs, root: <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">הלך</span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span><span dir="LTR"></span>
-     – I walked<o:p></o:p></li>
-</ol>
+------------------------------------------------------------------------
 
-<div align="center" class="MsoNormal" style="text-align: center;">
+**Section 6: Multiple Choice**
 
-<hr align="center" size="2" width="100%" />
+91. B. הַ
+92. C. אִשָּׁה
+93. B. In/at/with
+94. C. Simple/active action
+95. B. שָׁלוֹם
+96. C. ־ִי
+97. C. אֵת
+98. B. אִישׁ
+99. C. ־ַיִם
+100. B. Ongoing or future action
 
-</div>
+Shalom שָׁלוֹם: Live Long and Prosper!
 
-<p class="MsoNormal"><b>Section 4: Sentence Translation<o:p></o:p></b></p>
+Darrell Wolfe
 
-<ol start="56" style="margin-top: 0in;" type="1">
- <li class="MsoNormal">The
-     king is in the house.<o:p></o:p></li>
- <li class="MsoNormal">David
-     wrote a book.<o:p></o:p></li>
- <li class="MsoNormal">The
-     woman sat in the city.<o:p></o:p></li>
- <li class="MsoNormal">A
-     servant sent a word to the king.<o:p></o:p></li>
- <li class="MsoNormal">A
-     prophet judged the people.<o:p></o:p></li>
- <li class="MsoNormal">A
-     priest (is) in the house of the Lord.<o:p></o:p></li>
- <li class="MsoNormal">The
-     words are not in the book.<o:p></o:p></li>
- <li class="MsoNormal">Peace
-     to you, O king.<o:p></o:p></li>
- <li class="MsoNormal">We
-     heard the voice of the Lord.<o:p></o:p></li>
- <li class="MsoNormal">We
-     knew the truth.<o:p></o:p></li>
- <li class="MsoNormal">Who
-     will dwell in the heavens?<o:p></o:p></li>
- <li class="MsoNormal">Moses
-     gave the Torah to Israel.<o:p></o:p></li>
- <li class="MsoNormal">You
-     went to the city.<o:p></o:p></li>
- <li class="MsoNormal">I
-     wrote a small book.<o:p></o:p></li>
- <li class="MsoNormal">There
-     is no king in this city.<o:p></o:p></li>
- <li class="MsoNormal">In the
-     beginning God created.<o:p></o:p></li>
- <li class="MsoNormal">The
-     warrior fell in the battle.<o:p></o:p></li>
- <li class="MsoNormal">I
-     found a book in the house.<o:p></o:p></li>
- <li class="MsoNormal">Eyes
-     saw a wonderful thing.<o:p></o:p></li>
- <li class="MsoNormal">The
-     name of the prophet is great.<o:p></o:p></li>
-</ol>
-
-<div align="center" class="MsoNormal" style="text-align: center;">
-
-<hr align="center" size="2" width="100%" />
-
-</div>
-
-<p class="MsoNormal"><b>Section 5: Fill-in-the-Blank Conjugations<o:p></o:p></b></p>
-
-<ol start="76" style="margin-top: 0in;" type="1">
- <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">כָּתַב</span><o:p></o:p></li>
- <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">כָּתַבְנוּ</span><o:p></o:p></li>
- <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">יִשְׁמְרוּ</span><o:p></o:p></li>
- <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">אָכַלְתְּ</span><o:p></o:p></li>
- <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">נָתַתָּ</span><o:p></o:p></li>
- <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">אֵדַע</span><o:p></o:p></li>
- <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">לָקְחוּ</span><o:p></o:p></li>
- <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">רָאָה</span><o:p></o:p></li>
- <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">הָיָה</span><o:p></o:p></li>
- <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">תֵּלֵךְ</span><o:p></o:p></li>
- <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">שָׁפַטְתִּי</span><o:p></o:p></li>
- <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">נָפַלְנָה</span><o:p></o:p></li>
- <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">שָׁאֲלוּ</span><o:p></o:p></li>
- <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">בֵּרֵךְ</span><o:p></o:p></li>
- <li class="MsoNormal"><span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">יָצְאוּ</span><o:p></o:p></li>
-</ol>
-
-<div align="center" class="MsoNormal" style="text-align: center;">
-
-<hr align="center" size="2" width="100%" />
-
-</div>
-
-<p class="MsoNormal"><b>Section 6: Multiple Choice<o:p></o:p></b></p>
-
-<ol start="91" style="margin-top: 0in;" type="1">
- <li class="MsoNormal">B. <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">הַ</span><o:p></o:p></li>
- <li class="MsoNormal">C. <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">אִשָּׁה</span><o:p></o:p></li>
- <li class="MsoNormal">B.
-     In/at/with<o:p></o:p></li>
- <li class="MsoNormal">C.
-     Simple/active action<o:p></o:p></li>
- <li class="MsoNormal">B. <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">שָׁלוֹם</span><o:p></o:p></li>
- <li class="MsoNormal">C. <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">־ִי</span><o:p></o:p></li>
- <li class="MsoNormal">C. <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">אֵת</span><o:p></o:p></li>
- <li class="MsoNormal">B. <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">אִישׁ</span><o:p></o:p></li>
- <li class="MsoNormal">C. <span dir="RTL" lang="HE" style="font-family: &quot;Arial&quot;,sans-serif; mso-ascii-font-family: Aptos; mso-ascii-theme-font: minor-latin; mso-bidi-theme-font: minor-bidi; mso-hansi-font-family: Aptos; mso-hansi-theme-font: minor-latin;">־ַיִם</span><o:p></o:p></li>
- <li class="MsoNormal">B.
-     Ongoing or future action<o:p></o:p></li>
-</ol>
-
-<p class="MsoNormal"><o:p>&nbsp;</o:p></p><br /><br />
-
-<span style="font-family: &quot;tempus sans itc&quot;;">Shalom&nbsp;<span face="sans-serif" style="background-color: white; color: #202122; font-size: 14px;">שָׁלוֹם</span>: Live Long and Prosper!</span>
-<br />
-
-<div class="MsoNormal"><span style="font-family: &quot;tempus sans itc&quot;; font-size: 18pt;">Darrell Wolfe</span>
-</div>
-
-Storyteller | Writer | Thinker | Consultant | Freelancer | Bible Nerd
-<i>*Written withs some editing and research assistance from ChatGPT-4o</i>
-<br /><br /><br />
+Storyteller \| Writer \| Thinker \| Consultant \| Freelancer \| Bible Nerd **Written withs some editing and research assistance from ChatGPT-4o*

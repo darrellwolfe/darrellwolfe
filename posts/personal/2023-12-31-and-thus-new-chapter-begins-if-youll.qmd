@@ -3,16 +3,10 @@ title: 'And thus, a new chapter begins, if you''ll pardon the pun...'
 date: '2023-12-31T08:26:00.0000000+00:00'
 draft: false
 ---
+As 12/31/2023 rolls into 01/01/2024, I'm rebuilding my home website at DarrellWolfe.com.
 
-<!-- wp:paragraph -->
-<p>As 12/31/2023 rolls into 01/01/2024, I'm rebuilding my home website at DarrellWolfe.com.</p>
-<!-- /wp:paragraph -->
+I tried to import all my content, and the file was too large. Maybe I'll just start over? I don't know. For now, let this be my Hello, World post.
 
-<!-- wp:paragraph -->
-<p>I tried to import all my content, and the file was too large. Maybe I'll just start over? I don't know. For now, let this be my Hello, World post. </p>
-<!-- /wp:paragraph -->
+After further review, 01/06/2024, I have decided to start over. My older posts can be found at [Start Here \~ Darrell Wolfe, Storyteller (darrellglenwolfe.blogspot.com)](https://darrellglenwolfe.blogspot.com/p/start-here.html). I may import old content at a later date, or bring forward individual articles. However, I have become an almost entirely new human in the last 5+ years, so I think I will just start over.  - 12/31/2023
 
-<!-- wp:paragraph -->
-<p>After further review, 01/06/2024, I have decided to start over. My older posts can be found at <a href="https://darrellglenwolfe.blogspot.com/p/start-here.html">Start Here ~ Darrell Wolfe, Storyteller (darrellglenwolfe.blogspot.com)</a>. I may import old content at a later date, or bring forward individual articles. However, I have become an almost entirely new human in the last 5+ years, so I think I will just start over.&nbsp; - 12/31/2023</p>
-<!-- /wp:paragraph -->
 **That didn't last long. I always think I'm going to like Word Press, I always end up hating it. Blogger.com for life! ***06/01/2024

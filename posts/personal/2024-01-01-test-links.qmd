@@ -3,14 +3,4 @@ title: 'Test Links'
 date: '2024-01-01T06:26:00.0000000+00:00'
 draft: false
 ---
-
-<br />
-<br />
-<a href="https://www.nohiding.faith/p/blog-page.html" target="_blank">NoHiding.Faith</a>
-
-<a href="http://DarrellWolfe.com" target="_blank">DarrellWolfe.com</a>
-
-<a href="https://www.toposcreative.com/p/start-here.html" target="_blank">Topos Creative LLC</a><br />
-
-
-<br />
+[NoHiding.Faith](https://www.nohiding.faith/p/blog-page.html) [DarrellWolfe.com](http://DarrellWolfe.com) [Topos Creative LLC](https://www.toposcreative.com/p/start-here.html)
