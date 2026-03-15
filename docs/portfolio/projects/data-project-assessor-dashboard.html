@@ -257,418 +257,392 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 <section id="data-project-assessor-dashboard" class="level1 hero-title hero-shell">
 <h1 class="hero-title">Data Project: Assessor Dashboard</h1>
-<p>The DataViz Assessor’s Dashboard was born of a frustration I had with traditional BI Tools. Power BI was unable to parse our Geometry files (Parcel Shapes) natively, so we moved to Tableau.</p>
-<p>DataViz Assessor’s Dashboard is the actual project. The public demo linked below is a sanitized re-presentation built from exported CSV and parcel geometry so outside viewers can explore the workflow without access to the live environment.</p>
+<p>The DataViz Assessor’s Dashboard was born of a frustration I had with traditional BI Tools. It was built as a custom on-prem dashboard driven by SQL live access to the database. Then it uses Python, JSON, JS, HTML, CSS, JavaScript and other tools to create a dashboard our non-technical staff can use. Below I describe the project, and the links here are to a sanitized demo version of the project. The demo derives its static data from csv exports for presentation purposes only, as nobody outside the organization can access our on-prem version.</p>
 <div class="hero-actions">
 <p><a href="../../demos/assessor-dashboard/index.html" class="btn btn-primary" target="_blank" rel="noopener noreferrer">Open Public Demo</a> <a href="../../demos/assessor-dashboard/maps.html" class="btn btn-outline-primary" target="_blank" rel="noopener noreferrer">Maps</a> <a href="../../demos/assessor-dashboard/graphs.html" class="btn btn-outline-primary" target="_blank" rel="noopener noreferrer">Graphs</a> <a href="../../demos/assessor-dashboard/tables.html" class="btn btn-outline-secondary" target="_blank" rel="noopener noreferrer">Tables</a></p>
 </div>
 </section>
 <section id="problem" class="level2">
 <h2 class="anchored" data-anchor-id="problem">Problem</h2>
-<p>The core project is a real assessor analytics and visualization workflow, not the static demo itself. The work centers on preparing parcel, valuation, and tax-oriented views for dashboard use, then turning those outputs into clear map, graph, and table experiences for exploration and decision support.</p>
+<p>Power BI was unable to parse our Geometry files (Parcel Shapes) natively, so we moved to Tableau. While Tableau eats Parcel Shapes within seconds and became our go-to BI tool, I found it frustrating that we had to create multiple workbooks to make the joins and star schemas work for all the reporting we needed. Further, as a limited budget local government agency, we did not have the funds for a full Enterprise release. As a workaround, I had a creator license for Tableau Desktop which was then published but hidden to Tableau Public. Then those links were shared as bookmarks for non-technical staff to use. This required singing into Tableau Cloud (which was always a multi-step process) and then signing into Tableau Public to publish. This was for each separate report I wanted to update, all while having no deeper control over various visual aspects. I decided I wanted one tool with a simple rebuild &gt; republish interface when not creating new views.</p>
 </section>
 <section id="data" class="level2">
 <h2 class="anchored" data-anchor-id="data">Data</h2>
+<p>JavaScript 60.8% | TSQL 21.2% | HTML 8.3% | Python 6.7% | CSS 2.0% | PowerShell 1.0%</p>
 <ul>
-<li>The project SQL lives in <code>assets/data/assessor_data/*.sql</code></li>
-<li>Those queries shape parcel, valuation, category, and net-tax views from the assessor environment</li>
-<li>The public demo uses sanitized CSV exports generated from those project-side queries</li>
-<li>County parcel geometry is converted for browser mapping in the public demo</li>
+<li><strong>Parcel Shapes</strong> (Cadastral Parcels zip file) is located on the county website and re-accessed with each rebuild.
+<ul>
+<li><a href="https://www.kcgov.us/984/Zip-File-Gallery" title="Land Records Zip File Gallery">Land Records Zip File Gallery</a></li>
+</ul></li>
+<li><strong>SQL</strong> &gt; We have a large repository of SQL developed by the Data Dev team for all manner of reporting.</li>
+<li><strong>BI SQL</strong> &gt; I created custom views of data in SQL for the DataViz tool to use for creating views.</li>
+<li><strong>Python</strong> &gt; Is used for transforming and joining aspects of data and for computation analysis.</li>
+<li><strong>JSON</strong> &gt; Is used to parse the parcel shape files into various map views.</li>
+<li><strong>HTML/CSS/JavaScript</strong> &gt; Are then used to create an on-prem localized website accessed through a shared browser link by non-technical staff.</li>
+<li><strong>PowerShell</strong> &gt; Is used to host instructions for the build tools to run the SQL queries and rebuild the site.</li>
+<li><strong>GitHub</strong> &gt; A private GitHub repo holds this structured data.</li>
+<li><strong>Visual Studio Code</strong> &gt; Is used to access the repo and PowerShell uses Run Task to rebuild the site at the data teams request.</li>
 </ul>
 </section>
 <section id="project-vs-demo" class="level2">
 <h2 class="anchored" data-anchor-id="project-vs-demo">Project vs Demo</h2>
 <p>The distinction matters here:</p>
 <ul>
-<li>The project is the DataViz Assessor’s Dashboard work itself, including the SQL logic and the original dashboard workflow</li>
-<li>The demo is a public-facing interactive stand-in built from sanitized exports because site visitors cannot access the original environment</li>
-<li>The demo is meant to show interaction patterns, dashboard structure, and data storytelling approach without exposing restricted source systems</li>
+<li>The project is the DataViz Assessor’s Dashboard work itself, including the SQL logic and the original dashboard workflow.</li>
+<li>The demo is a public-facing interactive stand-in built from sanitized exports because visitors cannot access the original environment.</li>
+<li>The demo is meant to show interaction patterns, dashboard structure, and data storytelling approach without exposing restricted source systems or confidential data.</li>
 </ul>
-</section>
-<section id="approach" class="level2">
-<h2 class="anchored" data-anchor-id="approach">Approach</h2>
-<p>The project-side workflow starts with SQL and structured extracts, then the public demo repackages those results for static delivery:</p>
-<ol type="1">
-<li>Use assessor SQL queries to assemble parcel, assessed value, category, and net-tax datasets.</li>
-<li>Export sanitized CSV outputs from the original dashboard workflow.</li>
-<li>Convert those exports into browser-ready static bundles for the public demo.</li>
-<li>Present the sanitized outputs through linked maps, graphs, and tables that share filter state.</li>
-</ol>
 </section>
 <section id="project-sql" class="level2">
 <h2 class="anchored" data-anchor-id="project-sql">Project SQL</h2>
-<p>These are the working SQL files behind the assessor-side project. The public demo does not connect to the original source system. It only re-presents sanitized exports produced from the results of these queries.</p>
+<p>At core, I am a SQL Developer and Data Nerd. SQL, Excel, Power Query/DAX are my strongest languages. However, I’ve picked up many other languages (above) as they served me well. These are the working SQL files behind the assessor-side project. The public demo does not connect to the original source system. It only re-presents sanitized exports produced from the results of these queries.</p>
+<p><em><strong>SQL Design Note</strong>: It’s worth noting that if I were to create these visuals in Power BI or Tableau, I would have created stand alone tables and keys for start schema configuration. These were built this way in the original project and never changed. Future iterations may adopt that form.</em></p>
 <section id="key_cat_group_codes.sql" class="level3">
 <h3 class="anchored" data-anchor-id="key_cat_group_codes.sql"><code>key_cat_group_codes.sql</code></h3>
 <p>This is the category lookup table. It pulls active <code>impgroup</code> code records so the dashboard can translate category codes into readable labels when showing assessed values by category.</p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode sql code-with-copy"><code class="sourceCode sql"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="kw">Select</span> </span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>c.tbl_element <span class="kw">AS</span> Cat_Group_Code,</span>
-<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>c.tbl_element_desc <span class="kw">AS</span> Cat_Description</span>
-<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="kw">From</span> codes_table <span class="kw">AS</span> c</span>
-<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>    <span class="co">--On a.group_code = c.tbl_element</span></span>
-<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="kw">Where</span> c.code_status <span class="op">=</span> <span class="st">'A'</span> </span>
-<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>  <span class="kw">And</span> tbl_type_code<span class="op">=</span> <span class="st">'impgroup'</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode sql code-with-copy"><code class="sourceCode sql"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="kw">Select</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>c.tbl_element <span class="kw">As</span> Cat_Group_Code,</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>c.tbl_element_desc <span class="kw">As</span> Cat_Description</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="kw">From</span> codes_table <span class="kw">As</span> c</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>  <span class="co">-- On a.group_code = c.tbl_element</span></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="kw">Where</span> c.code_status <span class="op">=</span> <span class="st">'A'</span></span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>  <span class="kw">And</span> tbl_type_code <span class="op">=</span> <span class="st">'impgroup'</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </section>
 <section id="land_rates.sql" class="level3">
 <h3 class="anchored" data-anchor-id="land_rates.sql"><code>land_rates.sql</code></h3>
 <p>This query builds the land-rate detail extract. It starts from land header and land detail records, adds parcel geography and district labels, then joins lookup tables for land method, land type, and site rating so the dashboard can map and compare land-rate behavior by parcel.</p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2"><pre class="sourceCode sql code-with-copy"><code class="sourceCode sql"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="kw">SELECT</span></span>
-<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>lh.RevObjId <span class="kw">AS</span> lrsn,</span>
-<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>    <span class="cf">CASE</span></span>
-<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a>        <span class="cf">WHEN</span> pmd.neighborhood <span class="op">&gt;=</span> <span class="dv">9000</span> <span class="cf">THEN</span> <span class="st">'Manufactured Homes'</span></span>
-<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a>        <span class="cf">WHEN</span> pmd.neighborhood <span class="op">&gt;=</span> <span class="dv">6003</span> <span class="cf">THEN</span> <span class="st">'District 6'</span></span>
-<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a>        <span class="cf">WHEN</span> pmd.neighborhood <span class="op">=</span> <span class="dv">6002</span> <span class="cf">THEN</span> <span class="st">'Manufactured Homes'</span></span>
-<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a>        <span class="cf">WHEN</span> pmd.neighborhood <span class="op">=</span> <span class="dv">6001</span> <span class="cf">THEN</span> <span class="st">'District 6'</span></span>
-<span id="cb2-8"><a href="#cb2-8" aria-hidden="true" tabindex="-1"></a>        <span class="cf">WHEN</span> pmd.neighborhood <span class="op">=</span> <span class="dv">6000</span> <span class="cf">THEN</span> <span class="st">'Manufactured Homes'</span></span>
-<span id="cb2-9"><a href="#cb2-9" aria-hidden="true" tabindex="-1"></a>        <span class="cf">WHEN</span> pmd.neighborhood <span class="op">&gt;=</span> <span class="dv">5003</span> <span class="cf">THEN</span> <span class="st">'District 5'</span></span>
-<span id="cb2-10"><a href="#cb2-10" aria-hidden="true" tabindex="-1"></a>        <span class="cf">WHEN</span> pmd.neighborhood <span class="op">=</span> <span class="dv">5002</span> <span class="cf">THEN</span> <span class="st">'Manufactured Homes'</span></span>
-<span id="cb2-11"><a href="#cb2-11" aria-hidden="true" tabindex="-1"></a>        <span class="cf">WHEN</span> pmd.neighborhood <span class="op">=</span> <span class="dv">5001</span> <span class="cf">THEN</span> <span class="st">'District 5'</span></span>
-<span id="cb2-12"><a href="#cb2-12" aria-hidden="true" tabindex="-1"></a>        <span class="cf">WHEN</span> pmd.neighborhood <span class="op">=</span> <span class="dv">5000</span> <span class="cf">THEN</span> <span class="st">'Manufactured Homes'</span></span>
-<span id="cb2-13"><a href="#cb2-13" aria-hidden="true" tabindex="-1"></a>        <span class="cf">WHEN</span> pmd.neighborhood <span class="op">&gt;=</span> <span class="dv">4000</span> <span class="cf">THEN</span> <span class="st">'District 4'</span></span>
-<span id="cb2-14"><a href="#cb2-14" aria-hidden="true" tabindex="-1"></a>        <span class="cf">WHEN</span> pmd.neighborhood <span class="op">&gt;=</span> <span class="dv">3000</span> <span class="cf">THEN</span> <span class="st">'District 3'</span></span>
-<span id="cb2-15"><a href="#cb2-15" aria-hidden="true" tabindex="-1"></a>        <span class="cf">WHEN</span> pmd.neighborhood <span class="op">&gt;=</span> <span class="dv">2000</span> <span class="cf">THEN</span> <span class="st">'District 2'</span></span>
-<span id="cb2-16"><a href="#cb2-16" aria-hidden="true" tabindex="-1"></a>        <span class="cf">WHEN</span> pmd.neighborhood <span class="op">&gt;=</span> <span class="dv">1021</span> <span class="cf">THEN</span> <span class="st">'District 1'</span></span>
-<span id="cb2-17"><a href="#cb2-17" aria-hidden="true" tabindex="-1"></a>        <span class="cf">WHEN</span> pmd.neighborhood <span class="op">=</span> <span class="dv">1020</span> <span class="cf">THEN</span> <span class="st">'Manufactured Homes'</span></span>
-<span id="cb2-18"><a href="#cb2-18" aria-hidden="true" tabindex="-1"></a>        <span class="cf">WHEN</span> pmd.neighborhood <span class="op">&gt;=</span> <span class="dv">1001</span> <span class="cf">THEN</span> <span class="st">'District 1'</span></span>
-<span id="cb2-19"><a href="#cb2-19" aria-hidden="true" tabindex="-1"></a>        <span class="cf">WHEN</span> pmd.neighborhood <span class="op">=</span> <span class="dv">1000</span> <span class="cf">THEN</span> <span class="st">'Manufactured Homes'</span></span>
-<span id="cb2-20"><a href="#cb2-20" aria-hidden="true" tabindex="-1"></a>        <span class="cf">WHEN</span> pmd.neighborhood <span class="op">&gt;=</span> <span class="dv">451</span> <span class="cf">THEN</span> <span class="st">'Commercial'</span></span>
-<span id="cb2-21"><a href="#cb2-21" aria-hidden="true" tabindex="-1"></a>        <span class="cf">WHEN</span> pmd.neighborhood <span class="op">=</span> <span class="dv">450</span> <span class="cf">THEN</span> <span class="st">'Personal Property'</span></span>
-<span id="cb2-22"><a href="#cb2-22" aria-hidden="true" tabindex="-1"></a>        <span class="cf">WHEN</span> pmd.neighborhood <span class="op">&gt;=</span> <span class="dv">1</span> <span class="cf">THEN</span> <span class="st">'Commercial'</span></span>
-<span id="cb2-23"><a href="#cb2-23" aria-hidden="true" tabindex="-1"></a>        <span class="cf">WHEN</span> pmd.neighborhood <span class="op">=</span> <span class="dv">0</span> <span class="cf">THEN</span> <span class="st">'PP_N/A or Error'</span></span>
-<span id="cb2-24"><a href="#cb2-24" aria-hidden="true" tabindex="-1"></a>        <span class="cf">ELSE</span> <span class="kw">NULL</span></span>
-<span id="cb2-25"><a href="#cb2-25" aria-hidden="true" tabindex="-1"></a>    <span class="cf">END</span> <span class="kw">AS</span> District,</span>
-<span id="cb2-26"><a href="#cb2-26" aria-hidden="true" tabindex="-1"></a>pmd.neighborhood <span class="kw">AS</span> GEO,</span>
-<span id="cb2-27"><a href="#cb2-27" aria-hidden="true" tabindex="-1"></a><span class="fu">TRIM</span>(pmd.NeighborHoodName) <span class="kw">AS</span> GEO_Name,</span>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2"><pre class="sourceCode sql code-with-copy"><code class="sourceCode sql"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="kw">Select</span></span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>lh.RevObjId <span class="kw">As</span> lrsn,</span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a><span class="cf">Case</span></span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.neighborhood <span class="op">&gt;=</span> <span class="dv">9000</span> <span class="cf">Then</span> <span class="st">'Manufactured Homes'</span></span>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.neighborhood <span class="op">&gt;=</span> <span class="dv">6003</span> <span class="cf">Then</span> <span class="st">'District 6'</span></span>
+<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.neighborhood <span class="op">=</span> <span class="dv">6002</span> <span class="cf">Then</span> <span class="st">'Manufactured Homes'</span></span>
+<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.neighborhood <span class="op">=</span> <span class="dv">6001</span> <span class="cf">Then</span> <span class="st">'District 6'</span></span>
+<span id="cb2-8"><a href="#cb2-8" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.neighborhood <span class="op">=</span> <span class="dv">6000</span> <span class="cf">Then</span> <span class="st">'Manufactured Homes'</span></span>
+<span id="cb2-9"><a href="#cb2-9" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.neighborhood <span class="op">&gt;=</span> <span class="dv">5003</span> <span class="cf">Then</span> <span class="st">'District 5'</span></span>
+<span id="cb2-10"><a href="#cb2-10" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.neighborhood <span class="op">=</span> <span class="dv">5002</span> <span class="cf">Then</span> <span class="st">'Manufactured Homes'</span></span>
+<span id="cb2-11"><a href="#cb2-11" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.neighborhood <span class="op">=</span> <span class="dv">5001</span> <span class="cf">Then</span> <span class="st">'District 5'</span></span>
+<span id="cb2-12"><a href="#cb2-12" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.neighborhood <span class="op">=</span> <span class="dv">5000</span> <span class="cf">Then</span> <span class="st">'Manufactured Homes'</span></span>
+<span id="cb2-13"><a href="#cb2-13" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.neighborhood <span class="op">&gt;=</span> <span class="dv">4000</span> <span class="cf">Then</span> <span class="st">'District 4'</span></span>
+<span id="cb2-14"><a href="#cb2-14" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.neighborhood <span class="op">&gt;=</span> <span class="dv">3000</span> <span class="cf">Then</span> <span class="st">'District 3'</span></span>
+<span id="cb2-15"><a href="#cb2-15" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.neighborhood <span class="op">&gt;=</span> <span class="dv">2000</span> <span class="cf">Then</span> <span class="st">'District 2'</span></span>
+<span id="cb2-16"><a href="#cb2-16" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.neighborhood <span class="op">&gt;=</span> <span class="dv">1021</span> <span class="cf">Then</span> <span class="st">'District 1'</span></span>
+<span id="cb2-17"><a href="#cb2-17" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.neighborhood <span class="op">=</span> <span class="dv">1020</span> <span class="cf">Then</span> <span class="st">'Manufactured Homes'</span></span>
+<span id="cb2-18"><a href="#cb2-18" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.neighborhood <span class="op">&gt;=</span> <span class="dv">1001</span> <span class="cf">Then</span> <span class="st">'District 1'</span></span>
+<span id="cb2-19"><a href="#cb2-19" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.neighborhood <span class="op">=</span> <span class="dv">1000</span> <span class="cf">Then</span> <span class="st">'Manufactured Homes'</span></span>
+<span id="cb2-20"><a href="#cb2-20" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.neighborhood <span class="op">&gt;=</span> <span class="dv">451</span> <span class="cf">Then</span> <span class="st">'Commercial'</span></span>
+<span id="cb2-21"><a href="#cb2-21" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.neighborhood <span class="op">=</span> <span class="dv">450</span> <span class="cf">Then</span> <span class="st">'Personal Property'</span></span>
+<span id="cb2-22"><a href="#cb2-22" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.neighborhood <span class="op">&gt;=</span> <span class="dv">1</span> <span class="cf">Then</span> <span class="st">'Commercial'</span></span>
+<span id="cb2-23"><a href="#cb2-23" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.neighborhood <span class="op">=</span> <span class="dv">0</span> <span class="cf">Then</span> <span class="st">'PP_N/A or Error'</span></span>
+<span id="cb2-24"><a href="#cb2-24" aria-hidden="true" tabindex="-1"></a>  <span class="cf">Else</span> <span class="kw">Null</span></span>
+<span id="cb2-25"><a href="#cb2-25" aria-hidden="true" tabindex="-1"></a><span class="cf">End</span> <span class="kw">As</span> District,</span>
+<span id="cb2-26"><a href="#cb2-26" aria-hidden="true" tabindex="-1"></a>pmd.neighborhood <span class="kw">As</span> GEO,</span>
+<span id="cb2-27"><a href="#cb2-27" aria-hidden="true" tabindex="-1"></a><span class="fu">Trim</span>(pmd.NeighborHoodName) <span class="kw">As</span> GEO_Name,</span>
 <span id="cb2-28"><a href="#cb2-28" aria-hidden="true" tabindex="-1"></a><span class="cf">Case</span></span>
-<span id="cb2-29"><a href="#cb2-29" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'A%'</span> <span class="cf">Then</span> <span class="st">'Athol'</span>         <span class="co">-- Athol</span></span>
-<span id="cb2-30"><a href="#cb2-30" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'C%'</span> <span class="cf">Then</span> <span class="st">'CoeurdAlene'</span>          <span class="co">-- Coeur d'Alene</span></span>
-<span id="cb2-31"><a href="#cb2-31" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'D%'</span> <span class="cf">Then</span> <span class="st">'Dalton_Gardens'</span>         <span class="co">-- Dalton Gardens</span></span>
-<span id="cb2-32"><a href="#cb2-32" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'H%'</span> <span class="cf">Then</span> <span class="st">'Hayden'</span>         <span class="co">-- Hayden</span></span>
-<span id="cb2-33"><a href="#cb2-33" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'V%'</span> <span class="cf">Then</span> <span class="st">'Hayden_Lake'</span>         <span class="co">-- Hayden Lake</span></span>
-<span id="cb2-34"><a href="#cb2-34" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'P%'</span> <span class="cf">Then</span> <span class="st">'Post_Falls'</span>           <span class="co">-- Post Falls</span></span>
-<span id="cb2-35"><a href="#cb2-35" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'R%'</span> <span class="cf">Then</span> <span class="st">'Rathdrum'</span>         <span class="co">-- Rathdrum</span></span>
-<span id="cb2-36"><a href="#cb2-36" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'S%'</span> <span class="cf">Then</span> <span class="st">'Spirit_Lake'</span>         <span class="co">-- Spirit Lake</span></span>
-<span id="cb2-37"><a href="#cb2-37" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'X%'</span> <span class="cf">Then</span> <span class="st">'Hauser'</span>       <span class="co">-- Hauser</span></span>
-<span id="cb2-38"><a href="#cb2-38" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'F%'</span> <span class="cf">Then</span> <span class="st">'Fernan Lake Village'</span></span>
-<span id="cb2-39"><a href="#cb2-39" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'B%'</span> <span class="cf">Then</span> <span class="st">'Bayview'</span></span>
-<span id="cb2-40"><a href="#cb2-40" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'T%'</span> <span class="cf">Then</span> <span class="st">'Stateline'</span></span>
-<span id="cb2-41"><a href="#cb2-41" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'U%'</span> <span class="cf">Then</span> <span class="st">'Huetter'</span></span>
-<span id="cb2-42"><a href="#cb2-42" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'W%'</span> <span class="cf">Then</span> <span class="st">'Worley'</span></span>
-<span id="cb2-43"><a href="#cb2-43" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'Y%'</span> <span class="cf">Then</span> <span class="st">'Harrison'</span></span>
-<span id="cb2-44"><a href="#cb2-44" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'E%'</span> <span class="cf">Then</span> <span class="st">'Business Personal Property'</span></span>
-<span id="cb2-45"><a href="#cb2-45" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'G%'</span> <span class="cf">Then</span> <span class="st">'Cable TV'</span></span>
-<span id="cb2-46"><a href="#cb2-46" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'KC-%'</span> <span class="cf">Then</span> <span class="st">'Test Parcels'</span></span>
-<span id="cb2-47"><a href="#cb2-47" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'M%'</span> <span class="cf">Then</span> <span class="st">'Mobile Homes'</span></span>
-<span id="cb2-48"><a href="#cb2-48" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'0%'</span> <span class="cf">Then</span> <span class="st">'Kootenai County'</span></span>
-<span id="cb2-49"><a href="#cb2-49" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'5%'</span> <span class="cf">Then</span> <span class="st">'Kootenai County'</span></span>
-<span id="cb2-50"><a href="#cb2-50" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'4%'</span> <span class="cf">Then</span> <span class="st">'Kootenai County'</span></span>
-<span id="cb2-51"><a href="#cb2-51" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'UP%'</span> <span class="cf">Then</span> <span class="st">'Operating Property'</span></span>
-<span id="cb2-52"><a href="#cb2-52" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'L%'</span> <span class="cf">Then</span> <span class="st">'Float Homes'</span></span>
-<span id="cb2-53"><a href="#cb2-53" aria-hidden="true" tabindex="-1"></a>    <span class="cf">Else</span> <span class="st">'UNKNOWN'</span></span>
+<span id="cb2-29"><a href="#cb2-29" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'A%'</span> <span class="cf">Then</span> <span class="st">'Athol'</span> <span class="co">-- Athol</span></span>
+<span id="cb2-30"><a href="#cb2-30" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'C%'</span> <span class="cf">Then</span> <span class="st">'CoeurdAlene'</span> <span class="co">-- Coeur d'Alene</span></span>
+<span id="cb2-31"><a href="#cb2-31" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'D%'</span> <span class="cf">Then</span> <span class="st">'Dalton_Gardens'</span> <span class="co">-- Dalton Gardens</span></span>
+<span id="cb2-32"><a href="#cb2-32" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'H%'</span> <span class="cf">Then</span> <span class="st">'Hayden'</span> <span class="co">-- Hayden</span></span>
+<span id="cb2-33"><a href="#cb2-33" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'V%'</span> <span class="cf">Then</span> <span class="st">'Hayden_Lake'</span> <span class="co">-- Hayden Lake</span></span>
+<span id="cb2-34"><a href="#cb2-34" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'P%'</span> <span class="cf">Then</span> <span class="st">'Post_Falls'</span> <span class="co">-- Post Falls</span></span>
+<span id="cb2-35"><a href="#cb2-35" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'R%'</span> <span class="cf">Then</span> <span class="st">'Rathdrum'</span> <span class="co">-- Rathdrum</span></span>
+<span id="cb2-36"><a href="#cb2-36" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'S%'</span> <span class="cf">Then</span> <span class="st">'Spirit_Lake'</span> <span class="co">-- Spirit Lake</span></span>
+<span id="cb2-37"><a href="#cb2-37" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'X%'</span> <span class="cf">Then</span> <span class="st">'Hauser'</span> <span class="co">-- Hauser</span></span>
+<span id="cb2-38"><a href="#cb2-38" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'F%'</span> <span class="cf">Then</span> <span class="st">'Fernan Lake Village'</span></span>
+<span id="cb2-39"><a href="#cb2-39" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'B%'</span> <span class="cf">Then</span> <span class="st">'Bayview'</span></span>
+<span id="cb2-40"><a href="#cb2-40" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'T%'</span> <span class="cf">Then</span> <span class="st">'Stateline'</span></span>
+<span id="cb2-41"><a href="#cb2-41" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'U%'</span> <span class="cf">Then</span> <span class="st">'Huetter'</span></span>
+<span id="cb2-42"><a href="#cb2-42" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'W%'</span> <span class="cf">Then</span> <span class="st">'Worley'</span></span>
+<span id="cb2-43"><a href="#cb2-43" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'Y%'</span> <span class="cf">Then</span> <span class="st">'Harrison'</span></span>
+<span id="cb2-44"><a href="#cb2-44" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'E%'</span> <span class="cf">Then</span> <span class="st">'Business Personal Property'</span></span>
+<span id="cb2-45"><a href="#cb2-45" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'G%'</span> <span class="cf">Then</span> <span class="st">'Cable TV'</span></span>
+<span id="cb2-46"><a href="#cb2-46" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'KC-%'</span> <span class="cf">Then</span> <span class="st">'Test Parcels'</span></span>
+<span id="cb2-47"><a href="#cb2-47" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'M%'</span> <span class="cf">Then</span> <span class="st">'Mobile Homes'</span></span>
+<span id="cb2-48"><a href="#cb2-48" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'0%'</span> <span class="cf">Then</span> <span class="st">'Kootenai County'</span></span>
+<span id="cb2-49"><a href="#cb2-49" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'5%'</span> <span class="cf">Then</span> <span class="st">'Kootenai County'</span></span>
+<span id="cb2-50"><a href="#cb2-50" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'4%'</span> <span class="cf">Then</span> <span class="st">'Kootenai County'</span></span>
+<span id="cb2-51"><a href="#cb2-51" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'UP%'</span> <span class="cf">Then</span> <span class="st">'Operating Property'</span></span>
+<span id="cb2-52"><a href="#cb2-52" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'L%'</span> <span class="cf">Then</span> <span class="st">'Float Homes'</span></span>
+<span id="cb2-53"><a href="#cb2-53" aria-hidden="true" tabindex="-1"></a>  <span class="cf">Else</span> <span class="st">'UNKNOWN'</span></span>
 <span id="cb2-54"><a href="#cb2-54" aria-hidden="true" tabindex="-1"></a><span class="cf">End</span> <span class="kw">As</span> PIN_City,</span>
-<span id="cb2-55"><a href="#cb2-55" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-56"><a href="#cb2-56" aria-hidden="true" tabindex="-1"></a><span class="fu">TRIM</span>(pmd.pin) <span class="kw">AS</span> PIN,</span>
-<span id="cb2-57"><a href="#cb2-57" aria-hidden="true" tabindex="-1"></a><span class="fu">TRIM</span>(pmd.AIN) <span class="kw">AS</span> AIN,</span>
-<span id="cb2-58"><a href="#cb2-58" aria-hidden="true" tabindex="-1"></a>lh.TotalMktValue,</span>
-<span id="cb2-59"><a href="#cb2-59" aria-hidden="true" tabindex="-1"></a>ld.lcm,</span>
-<span id="cb2-60"><a href="#cb2-60" aria-hidden="true" tabindex="-1"></a><span class="fu">TRIM</span>(lcm.tbl_element_desc) <span class="kw">AS</span> LandMethod,</span>
-<span id="cb2-61"><a href="#cb2-61" aria-hidden="true" tabindex="-1"></a>ld.LandType <span class="kw">AS</span> LandTypeNum,</span>
-<span id="cb2-62"><a href="#cb2-62" aria-hidden="true" tabindex="-1"></a>lt.land_type_desc <span class="kw">AS</span> LandType,</span>
-<span id="cb2-63"><a href="#cb2-63" aria-hidden="true" tabindex="-1"></a><span class="co">--STRING_AGG(lt.land_type_desc, ', ') AS AggregatedLandTypes,</span></span>
-<span id="cb2-64"><a href="#cb2-64" aria-hidden="true" tabindex="-1"></a>ld.LandDetailType,</span>
-<span id="cb2-65"><a href="#cb2-65" aria-hidden="true" tabindex="-1"></a>ld.SiteRating,</span>
-<span id="cb2-66"><a href="#cb2-66" aria-hidden="true" tabindex="-1"></a>sr.tbl_element_desc <span class="kw">AS</span> Legend,</span>
-<span id="cb2-67"><a href="#cb2-67" aria-hidden="true" tabindex="-1"></a>ld.BaseRate,</span>
-<span id="cb2-68"><a href="#cb2-68" aria-hidden="true" tabindex="-1"></a>ld.SoilIdent,</span>
-<span id="cb2-69"><a href="#cb2-69" aria-hidden="true" tabindex="-1"></a>ld.LDAcres,</span>
-<span id="cb2-70"><a href="#cb2-70" aria-hidden="true" tabindex="-1"></a>ld.ActualFrontage,</span>
-<span id="cb2-71"><a href="#cb2-71" aria-hidden="true" tabindex="-1"></a>ld.DepthFactor,</span>
-<span id="cb2-72"><a href="#cb2-72" aria-hidden="true" tabindex="-1"></a>ld.SoilProdFactor,</span>
-<span id="cb2-73"><a href="#cb2-73" aria-hidden="true" tabindex="-1"></a>ld.SmallAcreFactor</span>
-<span id="cb2-74"><a href="#cb2-74" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-75"><a href="#cb2-75" aria-hidden="true" tabindex="-1"></a><span class="co">--Land Header</span></span>
-<span id="cb2-76"><a href="#cb2-76" aria-hidden="true" tabindex="-1"></a><span class="kw">FROM</span> LandHeader <span class="kw">AS</span> lh</span>
-<span id="cb2-77"><a href="#cb2-77" aria-hidden="true" tabindex="-1"></a><span class="co">--Land Detail</span></span>
-<span id="cb2-78"><a href="#cb2-78" aria-hidden="true" tabindex="-1"></a><span class="kw">JOIN</span> LandDetail <span class="kw">AS</span> ld <span class="kw">ON</span> lh.<span class="kw">id</span><span class="op">=</span>ld.LandHeaderId </span>
-<span id="cb2-79"><a href="#cb2-79" aria-hidden="true" tabindex="-1"></a>  <span class="kw">AND</span> ld.EffStatus<span class="op">=</span><span class="st">'A'</span> </span>
-<span id="cb2-80"><a href="#cb2-80" aria-hidden="true" tabindex="-1"></a>  <span class="kw">AND</span> lh.PostingSource<span class="op">=</span>ld.PostingSource</span>
-<span id="cb2-81"><a href="#cb2-81" aria-hidden="true" tabindex="-1"></a><span class="co">--Land Types</span></span>
-<span id="cb2-82"><a href="#cb2-82" aria-hidden="true" tabindex="-1"></a><span class="kw">LEFT</span> <span class="kw">JOIN</span> land_types <span class="kw">AS</span> lt <span class="kw">ON</span> ld.LandType<span class="op">=</span>lt.land_type</span>
-<span id="cb2-83"><a href="#cb2-83" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-84"><a href="#cb2-84" aria-hidden="true" tabindex="-1"></a><span class="kw">LEFT</span> <span class="kw">JOIN</span> codes_table <span class="kw">AS</span> lcm <span class="kw">ON</span> <span class="fu">CAST</span>(lcm.tbl_element <span class="kw">AS</span> <span class="dt">INT</span>) <span class="op">=</span> ld.lcm</span>
-<span id="cb2-85"><a href="#cb2-85" aria-hidden="true" tabindex="-1"></a>  <span class="kw">AND</span> lcm.code_status<span class="op">=</span> <span class="st">'A'</span> </span>
-<span id="cb2-86"><a href="#cb2-86" aria-hidden="true" tabindex="-1"></a>  <span class="kw">AND</span> lcm.tbl_type_code<span class="op">=</span> <span class="st">'lcmshortdesc'</span></span>
-<span id="cb2-87"><a href="#cb2-87" aria-hidden="true" tabindex="-1"></a>  <span class="co">--'lcmshortdesc' (aka Land Types)</span></span>
-<span id="cb2-88"><a href="#cb2-88" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-89"><a href="#cb2-89" aria-hidden="true" tabindex="-1"></a><span class="kw">LEFT</span> <span class="kw">JOIN</span> codes_table <span class="kw">AS</span> sr <span class="kw">ON</span> sr.tbl_element <span class="op">=</span> ld.SiteRating</span>
-<span id="cb2-90"><a href="#cb2-90" aria-hidden="true" tabindex="-1"></a>  <span class="kw">AND</span> sr.code_status<span class="op">=</span> <span class="st">'A'</span> </span>
-<span id="cb2-91"><a href="#cb2-91" aria-hidden="true" tabindex="-1"></a>  <span class="kw">AND</span> sr.tbl_type_code<span class="op">=</span> <span class="st">'siterating'</span></span>
-<span id="cb2-92"><a href="#cb2-92" aria-hidden="true" tabindex="-1"></a>  <span class="co">--'siterating' (aka Legends)</span></span>
+<span id="cb2-55"><a href="#cb2-55" aria-hidden="true" tabindex="-1"></a><span class="fu">Trim</span>(pmd.pin) <span class="kw">As</span> PIN,</span>
+<span id="cb2-56"><a href="#cb2-56" aria-hidden="true" tabindex="-1"></a><span class="fu">Trim</span>(pmd.AIN) <span class="kw">As</span> AIN,</span>
+<span id="cb2-57"><a href="#cb2-57" aria-hidden="true" tabindex="-1"></a>lh.TotalMktValue,</span>
+<span id="cb2-58"><a href="#cb2-58" aria-hidden="true" tabindex="-1"></a>ld.lcm,</span>
+<span id="cb2-59"><a href="#cb2-59" aria-hidden="true" tabindex="-1"></a><span class="fu">Trim</span>(lcm.tbl_element_desc) <span class="kw">As</span> LandMethod,</span>
+<span id="cb2-60"><a href="#cb2-60" aria-hidden="true" tabindex="-1"></a>ld.LandType <span class="kw">As</span> LandTypeNum,</span>
+<span id="cb2-61"><a href="#cb2-61" aria-hidden="true" tabindex="-1"></a>lt.land_type_desc <span class="kw">As</span> LandType,</span>
+<span id="cb2-62"><a href="#cb2-62" aria-hidden="true" tabindex="-1"></a><span class="co">-- String_Agg(lt.land_type_desc, ', ') As AggregatedLandTypes,</span></span>
+<span id="cb2-63"><a href="#cb2-63" aria-hidden="true" tabindex="-1"></a>ld.LandDetailType,</span>
+<span id="cb2-64"><a href="#cb2-64" aria-hidden="true" tabindex="-1"></a>ld.SiteRating,</span>
+<span id="cb2-65"><a href="#cb2-65" aria-hidden="true" tabindex="-1"></a>sr.tbl_element_desc <span class="kw">As</span> Legend,</span>
+<span id="cb2-66"><a href="#cb2-66" aria-hidden="true" tabindex="-1"></a>ld.BaseRate,</span>
+<span id="cb2-67"><a href="#cb2-67" aria-hidden="true" tabindex="-1"></a>ld.SoilIdent,</span>
+<span id="cb2-68"><a href="#cb2-68" aria-hidden="true" tabindex="-1"></a>ld.LDAcres,</span>
+<span id="cb2-69"><a href="#cb2-69" aria-hidden="true" tabindex="-1"></a>ld.ActualFrontage,</span>
+<span id="cb2-70"><a href="#cb2-70" aria-hidden="true" tabindex="-1"></a>ld.DepthFactor,</span>
+<span id="cb2-71"><a href="#cb2-71" aria-hidden="true" tabindex="-1"></a>ld.SoilProdFactor,</span>
+<span id="cb2-72"><a href="#cb2-72" aria-hidden="true" tabindex="-1"></a>ld.SmallAcreFactor</span>
+<span id="cb2-73"><a href="#cb2-73" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-74"><a href="#cb2-74" aria-hidden="true" tabindex="-1"></a><span class="co">-- Land Header</span></span>
+<span id="cb2-75"><a href="#cb2-75" aria-hidden="true" tabindex="-1"></a><span class="kw">From</span> LandHeader <span class="kw">As</span> lh</span>
+<span id="cb2-76"><a href="#cb2-76" aria-hidden="true" tabindex="-1"></a><span class="co">-- Land Detail</span></span>
+<span id="cb2-77"><a href="#cb2-77" aria-hidden="true" tabindex="-1"></a><span class="kw">Join</span> LandDetail <span class="kw">As</span> ld <span class="kw">On</span> lh.<span class="kw">id</span> <span class="op">=</span> ld.LandHeaderId</span>
+<span id="cb2-78"><a href="#cb2-78" aria-hidden="true" tabindex="-1"></a>  <span class="kw">And</span> ld.EffStatus <span class="op">=</span> <span class="st">'A'</span></span>
+<span id="cb2-79"><a href="#cb2-79" aria-hidden="true" tabindex="-1"></a>  <span class="kw">And</span> lh.PostingSource <span class="op">=</span> ld.PostingSource</span>
+<span id="cb2-80"><a href="#cb2-80" aria-hidden="true" tabindex="-1"></a><span class="co">-- Land Types</span></span>
+<span id="cb2-81"><a href="#cb2-81" aria-hidden="true" tabindex="-1"></a><span class="kw">Left</span> <span class="kw">Join</span> land_types <span class="kw">As</span> lt <span class="kw">On</span> ld.LandType <span class="op">=</span> lt.land_type</span>
+<span id="cb2-82"><a href="#cb2-82" aria-hidden="true" tabindex="-1"></a><span class="kw">Left</span> <span class="kw">Join</span> codes_table <span class="kw">As</span> lcm <span class="kw">On</span> <span class="fu">Cast</span>(lcm.tbl_element <span class="kw">As</span> <span class="dt">Int</span>) <span class="op">=</span> ld.lcm</span>
+<span id="cb2-83"><a href="#cb2-83" aria-hidden="true" tabindex="-1"></a>  <span class="kw">And</span> lcm.code_status <span class="op">=</span> <span class="st">'A'</span></span>
+<span id="cb2-84"><a href="#cb2-84" aria-hidden="true" tabindex="-1"></a>  <span class="kw">And</span> lcm.tbl_type_code <span class="op">=</span> <span class="st">'lcmshortdesc'</span></span>
+<span id="cb2-85"><a href="#cb2-85" aria-hidden="true" tabindex="-1"></a>  <span class="co">-- 'lcmshortdesc' (aka Land Types)</span></span>
+<span id="cb2-86"><a href="#cb2-86" aria-hidden="true" tabindex="-1"></a><span class="kw">Left</span> <span class="kw">Join</span> codes_table <span class="kw">As</span> sr <span class="kw">On</span> sr.tbl_element <span class="op">=</span> ld.SiteRating</span>
+<span id="cb2-87"><a href="#cb2-87" aria-hidden="true" tabindex="-1"></a>  <span class="kw">And</span> sr.code_status <span class="op">=</span> <span class="st">'A'</span></span>
+<span id="cb2-88"><a href="#cb2-88" aria-hidden="true" tabindex="-1"></a>  <span class="kw">And</span> sr.tbl_type_code <span class="op">=</span> <span class="st">'siterating'</span></span>
+<span id="cb2-89"><a href="#cb2-89" aria-hidden="true" tabindex="-1"></a>  <span class="co">-- 'siterating' (aka Legends)</span></span>
+<span id="cb2-90"><a href="#cb2-90" aria-hidden="true" tabindex="-1"></a><span class="kw">Join</span> parceltableview <span class="kw">As</span> pmd <span class="kw">On</span> lh.RevObjId <span class="op">=</span> pmd.lrsn</span>
+<span id="cb2-91"><a href="#cb2-91" aria-hidden="true" tabindex="-1"></a>  <span class="kw">And</span> pmd.EffStatus <span class="op">=</span> <span class="st">'A'</span></span>
+<span id="cb2-92"><a href="#cb2-92" aria-hidden="true" tabindex="-1"></a>  <span class="kw">And</span> pmd.neighborhood <span class="op">&lt;&gt;</span> <span class="dv">0</span></span>
 <span id="cb2-93"><a href="#cb2-93" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-94"><a href="#cb2-94" aria-hidden="true" tabindex="-1"></a><span class="kw">JOIN</span> parceltableview <span class="kw">AS</span> pmd <span class="kw">ON</span> lh.RevObjId<span class="op">=</span>pmd.lrsn</span>
-<span id="cb2-95"><a href="#cb2-95" aria-hidden="true" tabindex="-1"></a>  <span class="kw">AND</span> pmd.EffStatus <span class="op">=</span> <span class="st">'A'</span></span>
-<span id="cb2-96"><a href="#cb2-96" aria-hidden="true" tabindex="-1"></a>  <span class="kw">AND</span> pmd.neighborhood <span class="op">&lt;&gt;</span> <span class="dv">0</span></span>
-<span id="cb2-97"><a href="#cb2-97" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb2-98"><a href="#cb2-98" aria-hidden="true" tabindex="-1"></a><span class="kw">WHERE</span> lh.EffStatus<span class="op">=</span> <span class="st">'A'</span> </span>
-<span id="cb2-99"><a href="#cb2-99" aria-hidden="true" tabindex="-1"></a>  <span class="kw">AND</span> lh.PostingSource<span class="op">=</span><span class="st">'A'</span></span>
-<span id="cb2-100"><a href="#cb2-100" aria-hidden="true" tabindex="-1"></a>  <span class="kw">AND</span> ld.PostingSource<span class="op">=</span><span class="st">'A'</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<span id="cb2-94"><a href="#cb2-94" aria-hidden="true" tabindex="-1"></a><span class="kw">Where</span> lh.EffStatus <span class="op">=</span> <span class="st">'A'</span></span>
+<span id="cb2-95"><a href="#cb2-95" aria-hidden="true" tabindex="-1"></a>  <span class="kw">And</span> lh.PostingSource <span class="op">=</span> <span class="st">'A'</span></span>
+<span id="cb2-96"><a href="#cb2-96" aria-hidden="true" tabindex="-1"></a>  <span class="kw">And</span> ld.PostingSource <span class="op">=</span> <span class="st">'A'</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </section>
 <section id="parcels.sql" class="level3">
 <h3 class="anchored" data-anchor-id="parcels.sql"><code>parcels.sql</code></h3>
 <p>This is the base parcel extract for the dashboard. It produces the parcel identifiers, district grouping, neighborhood geography, city inference from PIN prefixes, and the active property-class fields that other dashboard outputs can join back to.</p>
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb3"><pre class="sourceCode sql code-with-copy"><code class="sourceCode sql"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="kw">Select</span> <span class="kw">Distinct</span></span>
-<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a><span class="cf">CASE</span></span>
-<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a>  <span class="cf">WHEN</span> pm.neighborhood <span class="op">&gt;=</span> <span class="dv">9000</span> <span class="cf">THEN</span> <span class="st">'Manufactured_Homes'</span></span>
-<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a>  <span class="cf">WHEN</span> pm.neighborhood <span class="op">&gt;=</span> <span class="dv">6003</span> <span class="cf">THEN</span> <span class="st">'District_6'</span></span>
-<span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a>  <span class="cf">WHEN</span> pm.neighborhood <span class="op">=</span> <span class="dv">6002</span> <span class="cf">THEN</span> <span class="st">'Manufactured_Homes'</span></span>
-<span id="cb3-6"><a href="#cb3-6" aria-hidden="true" tabindex="-1"></a>  <span class="cf">WHEN</span> pm.neighborhood <span class="op">=</span> <span class="dv">6001</span> <span class="cf">THEN</span> <span class="st">'District_6'</span></span>
-<span id="cb3-7"><a href="#cb3-7" aria-hidden="true" tabindex="-1"></a>  <span class="cf">WHEN</span> pm.neighborhood <span class="op">=</span> <span class="dv">6000</span> <span class="cf">THEN</span> <span class="st">'Manufactured_Homes'</span></span>
-<span id="cb3-8"><a href="#cb3-8" aria-hidden="true" tabindex="-1"></a>  <span class="cf">WHEN</span> pm.neighborhood <span class="op">&gt;=</span> <span class="dv">5003</span> <span class="cf">THEN</span> <span class="st">'District_5'</span></span>
-<span id="cb3-9"><a href="#cb3-9" aria-hidden="true" tabindex="-1"></a>  <span class="cf">WHEN</span> pm.neighborhood <span class="op">=</span> <span class="dv">5002</span> <span class="cf">THEN</span> <span class="st">'Manufactured_Homes'</span></span>
-<span id="cb3-10"><a href="#cb3-10" aria-hidden="true" tabindex="-1"></a>  <span class="cf">WHEN</span> pm.neighborhood <span class="op">=</span> <span class="dv">5001</span> <span class="cf">THEN</span> <span class="st">'District_5'</span></span>
-<span id="cb3-11"><a href="#cb3-11" aria-hidden="true" tabindex="-1"></a>  <span class="cf">WHEN</span> pm.neighborhood <span class="op">=</span> <span class="dv">5000</span> <span class="cf">THEN</span> <span class="st">'Manufactured_Homes'</span></span>
-<span id="cb3-12"><a href="#cb3-12" aria-hidden="true" tabindex="-1"></a>  <span class="cf">WHEN</span> pm.neighborhood <span class="op">&gt;=</span> <span class="dv">4000</span> <span class="cf">THEN</span> <span class="st">'District_4'</span></span>
-<span id="cb3-13"><a href="#cb3-13" aria-hidden="true" tabindex="-1"></a>  <span class="cf">WHEN</span> pm.neighborhood <span class="op">&gt;=</span> <span class="dv">3000</span> <span class="cf">THEN</span> <span class="st">'District_3'</span></span>
-<span id="cb3-14"><a href="#cb3-14" aria-hidden="true" tabindex="-1"></a>  <span class="cf">WHEN</span> pm.neighborhood <span class="op">&gt;=</span> <span class="dv">2000</span> <span class="cf">THEN</span> <span class="st">'District_2'</span></span>
-<span id="cb3-15"><a href="#cb3-15" aria-hidden="true" tabindex="-1"></a>  <span class="cf">WHEN</span> pm.neighborhood <span class="op">&gt;=</span> <span class="dv">1021</span> <span class="cf">THEN</span> <span class="st">'District_1'</span></span>
-<span id="cb3-16"><a href="#cb3-16" aria-hidden="true" tabindex="-1"></a>  <span class="cf">WHEN</span> pm.neighborhood <span class="op">=</span> <span class="dv">1020</span> <span class="cf">THEN</span> <span class="st">'Manufactured_Homes'</span></span>
-<span id="cb3-17"><a href="#cb3-17" aria-hidden="true" tabindex="-1"></a>  <span class="cf">WHEN</span> pm.neighborhood <span class="op">&gt;=</span> <span class="dv">1001</span> <span class="cf">THEN</span> <span class="st">'District_1'</span></span>
-<span id="cb3-18"><a href="#cb3-18" aria-hidden="true" tabindex="-1"></a>  <span class="cf">WHEN</span> pm.neighborhood <span class="op">=</span> <span class="dv">1000</span> <span class="cf">THEN</span> <span class="st">'Manufactured_Homes'</span></span>
-<span id="cb3-19"><a href="#cb3-19" aria-hidden="true" tabindex="-1"></a>  <span class="cf">WHEN</span> pm.neighborhood <span class="op">&gt;=</span> <span class="dv">451</span> <span class="cf">THEN</span> <span class="st">'Commercial'</span></span>
-<span id="cb3-20"><a href="#cb3-20" aria-hidden="true" tabindex="-1"></a>  <span class="cf">WHEN</span> pm.neighborhood <span class="op">=</span> <span class="dv">450</span> <span class="cf">THEN</span> <span class="st">'Specialized_Cell_Towers'</span></span>
-<span id="cb3-21"><a href="#cb3-21" aria-hidden="true" tabindex="-1"></a>  <span class="cf">WHEN</span> pm.neighborhood <span class="op">&gt;=</span> <span class="dv">1</span> <span class="cf">THEN</span> <span class="st">'Commercial'</span></span>
-<span id="cb3-22"><a href="#cb3-22" aria-hidden="true" tabindex="-1"></a>  <span class="cf">WHEN</span> pm.neighborhood <span class="op">=</span> <span class="dv">0</span> <span class="cf">THEN</span> <span class="st">'Other (PP, OP, NA, Error)'</span></span>
-<span id="cb3-23"><a href="#cb3-23" aria-hidden="true" tabindex="-1"></a>  <span class="cf">ELSE</span> <span class="kw">NULL</span></span>
-<span id="cb3-24"><a href="#cb3-24" aria-hidden="true" tabindex="-1"></a><span class="cf">END</span> <span class="kw">AS</span> District</span>
-<span id="cb3-25"><a href="#cb3-25" aria-hidden="true" tabindex="-1"></a>,pm.neighborhood <span class="kw">AS</span> GEO</span>
-<span id="cb3-26"><a href="#cb3-26" aria-hidden="true" tabindex="-1"></a>,<span class="fu">TRIM</span>(pm.NeighborHoodName) <span class="kw">AS</span> GEO_Name</span>
-<span id="cb3-27"><a href="#cb3-27" aria-hidden="true" tabindex="-1"></a>,pm.lrsn</span>
-<span id="cb3-28"><a href="#cb3-28" aria-hidden="true" tabindex="-1"></a>,<span class="fu">TRIM</span>(pm.pin) <span class="kw">AS</span> PIN</span>
-<span id="cb3-29"><a href="#cb3-29" aria-hidden="true" tabindex="-1"></a>,<span class="fu">TRIM</span>(pm.AIN) <span class="kw">AS</span> AIN</span>
-<span id="cb3-30"><a href="#cb3-30" aria-hidden="true" tabindex="-1"></a>,<span class="cf">Case</span></span>
-<span id="cb3-31"><a href="#cb3-31" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pm.pin <span class="kw">Like</span> <span class="st">'A%'</span> <span class="cf">Then</span> <span class="st">'Athol'</span>         <span class="co">-- Athol</span></span>
-<span id="cb3-32"><a href="#cb3-32" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pm.pin <span class="kw">Like</span> <span class="st">'C%'</span> <span class="cf">Then</span> <span class="st">'CoeurdAlene'</span>          <span class="co">-- Coeur d'Alene</span></span>
-<span id="cb3-33"><a href="#cb3-33" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pm.pin <span class="kw">Like</span> <span class="st">'D%'</span> <span class="cf">Then</span> <span class="st">'Dalton_Gardens'</span>         <span class="co">-- Dalton Gardens</span></span>
-<span id="cb3-34"><a href="#cb3-34" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pm.pin <span class="kw">Like</span> <span class="st">'H%'</span> <span class="cf">Then</span> <span class="st">'Hayden'</span>         <span class="co">-- Hayden</span></span>
-<span id="cb3-35"><a href="#cb3-35" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pm.pin <span class="kw">Like</span> <span class="st">'V%'</span> <span class="cf">Then</span> <span class="st">'Hayden_Lake'</span>         <span class="co">-- Hayden Lake</span></span>
-<span id="cb3-36"><a href="#cb3-36" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pm.pin <span class="kw">Like</span> <span class="st">'P%'</span> <span class="cf">Then</span> <span class="st">'Post_Falls'</span>           <span class="co">-- Post Falls</span></span>
-<span id="cb3-37"><a href="#cb3-37" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pm.pin <span class="kw">Like</span> <span class="st">'R%'</span> <span class="cf">Then</span> <span class="st">'Rathdrum'</span>         <span class="co">-- Rathdrum</span></span>
-<span id="cb3-38"><a href="#cb3-38" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pm.pin <span class="kw">Like</span> <span class="st">'S%'</span> <span class="cf">Then</span> <span class="st">'Spirit_Lake'</span>         <span class="co">-- Spirit Lake</span></span>
-<span id="cb3-39"><a href="#cb3-39" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pm.pin <span class="kw">Like</span> <span class="st">'X%'</span> <span class="cf">Then</span> <span class="st">'Hauser'</span>       <span class="co">-- Hauser</span></span>
-<span id="cb3-40"><a href="#cb3-40" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pm.pin <span class="kw">Like</span> <span class="st">'F%'</span> <span class="cf">Then</span> <span class="st">'Fernan Lake Village'</span></span>
-<span id="cb3-41"><a href="#cb3-41" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pm.pin <span class="kw">Like</span> <span class="st">'B%'</span> <span class="cf">Then</span> <span class="st">'Bayview'</span></span>
-<span id="cb3-42"><a href="#cb3-42" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pm.pin <span class="kw">Like</span> <span class="st">'T%'</span> <span class="cf">Then</span> <span class="st">'Stateline'</span></span>
-<span id="cb3-43"><a href="#cb3-43" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pm.pin <span class="kw">Like</span> <span class="st">'U%'</span> <span class="cf">Then</span> <span class="st">'Huetter'</span></span>
-<span id="cb3-44"><a href="#cb3-44" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pm.pin <span class="kw">Like</span> <span class="st">'W%'</span> <span class="cf">Then</span> <span class="st">'Worley'</span></span>
-<span id="cb3-45"><a href="#cb3-45" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pm.pin <span class="kw">Like</span> <span class="st">'Y%'</span> <span class="cf">Then</span> <span class="st">'Harrison'</span></span>
-<span id="cb3-46"><a href="#cb3-46" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pm.pin <span class="kw">Like</span> <span class="st">'E%'</span> <span class="cf">Then</span> <span class="st">'Business Personal Property'</span></span>
-<span id="cb3-47"><a href="#cb3-47" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pm.pin <span class="kw">Like</span> <span class="st">'G%'</span> <span class="cf">Then</span> <span class="st">'Cable TV'</span></span>
-<span id="cb3-48"><a href="#cb3-48" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pm.pin <span class="kw">Like</span> <span class="st">'KC-%'</span> <span class="cf">Then</span> <span class="st">'Test Parcels'</span></span>
-<span id="cb3-49"><a href="#cb3-49" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pm.pin <span class="kw">Like</span> <span class="st">'M%'</span> <span class="cf">Then</span> <span class="st">'Mobile Homes'</span></span>
-<span id="cb3-50"><a href="#cb3-50" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pm.pin <span class="kw">Like</span> <span class="st">'0%'</span> <span class="cf">Then</span> <span class="st">'Kootenai County'</span></span>
-<span id="cb3-51"><a href="#cb3-51" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pm.pin <span class="kw">Like</span> <span class="st">'5%'</span> <span class="cf">Then</span> <span class="st">'Kootenai County'</span></span>
-<span id="cb3-52"><a href="#cb3-52" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pm.pin <span class="kw">Like</span> <span class="st">'4%'</span> <span class="cf">Then</span> <span class="st">'Kootenai County'</span></span>
-<span id="cb3-53"><a href="#cb3-53" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pm.pin <span class="kw">Like</span> <span class="st">'UP%'</span> <span class="cf">Then</span> <span class="st">'Operating Property'</span></span>
-<span id="cb3-54"><a href="#cb3-54" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pm.pin <span class="kw">Like</span> <span class="st">'L%'</span> <span class="cf">Then</span> <span class="st">'Float Homes'</span></span>
-<span id="cb3-55"><a href="#cb3-55" aria-hidden="true" tabindex="-1"></a>    <span class="cf">Else</span> <span class="st">'UNKNOWN'</span></span>
-<span id="cb3-56"><a href="#cb3-56" aria-hidden="true" tabindex="-1"></a><span class="cf">End</span> <span class="kw">As</span> PIN_City</span>
-<span id="cb3-57"><a href="#cb3-57" aria-hidden="true" tabindex="-1"></a>,pm.ClassCD</span>
-<span id="cb3-58"><a href="#cb3-58" aria-hidden="true" tabindex="-1"></a>,<span class="fu">TRIM</span>(pm.PropClassDescr) <span class="kw">AS</span> Property_Class_Description</span>
-<span id="cb3-59"><a href="#cb3-59" aria-hidden="true" tabindex="-1"></a>,pm.EffStatus</span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a><span class="cf">Case</span></span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pm.neighborhood <span class="op">&gt;=</span> <span class="dv">9000</span> <span class="cf">Then</span> <span class="st">'Manufactured_Homes'</span></span>
+<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pm.neighborhood <span class="op">&gt;=</span> <span class="dv">6003</span> <span class="cf">Then</span> <span class="st">'District_6'</span></span>
+<span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pm.neighborhood <span class="op">=</span> <span class="dv">6002</span> <span class="cf">Then</span> <span class="st">'Manufactured_Homes'</span></span>
+<span id="cb3-6"><a href="#cb3-6" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pm.neighborhood <span class="op">=</span> <span class="dv">6001</span> <span class="cf">Then</span> <span class="st">'District_6'</span></span>
+<span id="cb3-7"><a href="#cb3-7" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pm.neighborhood <span class="op">=</span> <span class="dv">6000</span> <span class="cf">Then</span> <span class="st">'Manufactured_Homes'</span></span>
+<span id="cb3-8"><a href="#cb3-8" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pm.neighborhood <span class="op">&gt;=</span> <span class="dv">5003</span> <span class="cf">Then</span> <span class="st">'District_5'</span></span>
+<span id="cb3-9"><a href="#cb3-9" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pm.neighborhood <span class="op">=</span> <span class="dv">5002</span> <span class="cf">Then</span> <span class="st">'Manufactured_Homes'</span></span>
+<span id="cb3-10"><a href="#cb3-10" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pm.neighborhood <span class="op">=</span> <span class="dv">5001</span> <span class="cf">Then</span> <span class="st">'District_5'</span></span>
+<span id="cb3-11"><a href="#cb3-11" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pm.neighborhood <span class="op">=</span> <span class="dv">5000</span> <span class="cf">Then</span> <span class="st">'Manufactured_Homes'</span></span>
+<span id="cb3-12"><a href="#cb3-12" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pm.neighborhood <span class="op">&gt;=</span> <span class="dv">4000</span> <span class="cf">Then</span> <span class="st">'District_4'</span></span>
+<span id="cb3-13"><a href="#cb3-13" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pm.neighborhood <span class="op">&gt;=</span> <span class="dv">3000</span> <span class="cf">Then</span> <span class="st">'District_3'</span></span>
+<span id="cb3-14"><a href="#cb3-14" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pm.neighborhood <span class="op">&gt;=</span> <span class="dv">2000</span> <span class="cf">Then</span> <span class="st">'District_2'</span></span>
+<span id="cb3-15"><a href="#cb3-15" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pm.neighborhood <span class="op">&gt;=</span> <span class="dv">1021</span> <span class="cf">Then</span> <span class="st">'District_1'</span></span>
+<span id="cb3-16"><a href="#cb3-16" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pm.neighborhood <span class="op">=</span> <span class="dv">1020</span> <span class="cf">Then</span> <span class="st">'Manufactured_Homes'</span></span>
+<span id="cb3-17"><a href="#cb3-17" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pm.neighborhood <span class="op">&gt;=</span> <span class="dv">1001</span> <span class="cf">Then</span> <span class="st">'District_1'</span></span>
+<span id="cb3-18"><a href="#cb3-18" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pm.neighborhood <span class="op">=</span> <span class="dv">1000</span> <span class="cf">Then</span> <span class="st">'Manufactured_Homes'</span></span>
+<span id="cb3-19"><a href="#cb3-19" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pm.neighborhood <span class="op">&gt;=</span> <span class="dv">451</span> <span class="cf">Then</span> <span class="st">'Commercial'</span></span>
+<span id="cb3-20"><a href="#cb3-20" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pm.neighborhood <span class="op">=</span> <span class="dv">450</span> <span class="cf">Then</span> <span class="st">'Specialized_Cell_Towers'</span></span>
+<span id="cb3-21"><a href="#cb3-21" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pm.neighborhood <span class="op">&gt;=</span> <span class="dv">1</span> <span class="cf">Then</span> <span class="st">'Commercial'</span></span>
+<span id="cb3-22"><a href="#cb3-22" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pm.neighborhood <span class="op">=</span> <span class="dv">0</span> <span class="cf">Then</span> <span class="st">'Other (PP, OP, NA, Error)'</span></span>
+<span id="cb3-23"><a href="#cb3-23" aria-hidden="true" tabindex="-1"></a>  <span class="cf">Else</span> <span class="kw">Null</span></span>
+<span id="cb3-24"><a href="#cb3-24" aria-hidden="true" tabindex="-1"></a><span class="cf">End</span> <span class="kw">As</span> District,</span>
+<span id="cb3-25"><a href="#cb3-25" aria-hidden="true" tabindex="-1"></a>pm.neighborhood <span class="kw">As</span> GEO,</span>
+<span id="cb3-26"><a href="#cb3-26" aria-hidden="true" tabindex="-1"></a><span class="fu">Trim</span>(pm.NeighborHoodName) <span class="kw">As</span> GEO_Name,</span>
+<span id="cb3-27"><a href="#cb3-27" aria-hidden="true" tabindex="-1"></a>pm.lrsn,</span>
+<span id="cb3-28"><a href="#cb3-28" aria-hidden="true" tabindex="-1"></a><span class="fu">Trim</span>(pm.pin) <span class="kw">As</span> PIN,</span>
+<span id="cb3-29"><a href="#cb3-29" aria-hidden="true" tabindex="-1"></a><span class="fu">Trim</span>(pm.AIN) <span class="kw">As</span> AIN,</span>
+<span id="cb3-30"><a href="#cb3-30" aria-hidden="true" tabindex="-1"></a><span class="cf">Case</span></span>
+<span id="cb3-31"><a href="#cb3-31" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pm.pin <span class="kw">Like</span> <span class="st">'A%'</span> <span class="cf">Then</span> <span class="st">'Athol'</span> <span class="co">-- Athol</span></span>
+<span id="cb3-32"><a href="#cb3-32" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pm.pin <span class="kw">Like</span> <span class="st">'C%'</span> <span class="cf">Then</span> <span class="st">'CoeurdAlene'</span> <span class="co">-- Coeur d'Alene</span></span>
+<span id="cb3-33"><a href="#cb3-33" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pm.pin <span class="kw">Like</span> <span class="st">'D%'</span> <span class="cf">Then</span> <span class="st">'Dalton_Gardens'</span> <span class="co">-- Dalton Gardens</span></span>
+<span id="cb3-34"><a href="#cb3-34" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pm.pin <span class="kw">Like</span> <span class="st">'H%'</span> <span class="cf">Then</span> <span class="st">'Hayden'</span> <span class="co">-- Hayden</span></span>
+<span id="cb3-35"><a href="#cb3-35" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pm.pin <span class="kw">Like</span> <span class="st">'V%'</span> <span class="cf">Then</span> <span class="st">'Hayden_Lake'</span> <span class="co">-- Hayden Lake</span></span>
+<span id="cb3-36"><a href="#cb3-36" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pm.pin <span class="kw">Like</span> <span class="st">'P%'</span> <span class="cf">Then</span> <span class="st">'Post_Falls'</span> <span class="co">-- Post Falls</span></span>
+<span id="cb3-37"><a href="#cb3-37" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pm.pin <span class="kw">Like</span> <span class="st">'R%'</span> <span class="cf">Then</span> <span class="st">'Rathdrum'</span> <span class="co">-- Rathdrum</span></span>
+<span id="cb3-38"><a href="#cb3-38" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pm.pin <span class="kw">Like</span> <span class="st">'S%'</span> <span class="cf">Then</span> <span class="st">'Spirit_Lake'</span> <span class="co">-- Spirit Lake</span></span>
+<span id="cb3-39"><a href="#cb3-39" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pm.pin <span class="kw">Like</span> <span class="st">'X%'</span> <span class="cf">Then</span> <span class="st">'Hauser'</span> <span class="co">-- Hauser</span></span>
+<span id="cb3-40"><a href="#cb3-40" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pm.pin <span class="kw">Like</span> <span class="st">'F%'</span> <span class="cf">Then</span> <span class="st">'Fernan Lake Village'</span></span>
+<span id="cb3-41"><a href="#cb3-41" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pm.pin <span class="kw">Like</span> <span class="st">'B%'</span> <span class="cf">Then</span> <span class="st">'Bayview'</span></span>
+<span id="cb3-42"><a href="#cb3-42" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pm.pin <span class="kw">Like</span> <span class="st">'T%'</span> <span class="cf">Then</span> <span class="st">'Stateline'</span></span>
+<span id="cb3-43"><a href="#cb3-43" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pm.pin <span class="kw">Like</span> <span class="st">'U%'</span> <span class="cf">Then</span> <span class="st">'Huetter'</span></span>
+<span id="cb3-44"><a href="#cb3-44" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pm.pin <span class="kw">Like</span> <span class="st">'W%'</span> <span class="cf">Then</span> <span class="st">'Worley'</span></span>
+<span id="cb3-45"><a href="#cb3-45" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pm.pin <span class="kw">Like</span> <span class="st">'Y%'</span> <span class="cf">Then</span> <span class="st">'Harrison'</span></span>
+<span id="cb3-46"><a href="#cb3-46" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pm.pin <span class="kw">Like</span> <span class="st">'E%'</span> <span class="cf">Then</span> <span class="st">'Business Personal Property'</span></span>
+<span id="cb3-47"><a href="#cb3-47" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pm.pin <span class="kw">Like</span> <span class="st">'G%'</span> <span class="cf">Then</span> <span class="st">'Cable TV'</span></span>
+<span id="cb3-48"><a href="#cb3-48" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pm.pin <span class="kw">Like</span> <span class="st">'KC-%'</span> <span class="cf">Then</span> <span class="st">'Test Parcels'</span></span>
+<span id="cb3-49"><a href="#cb3-49" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pm.pin <span class="kw">Like</span> <span class="st">'M%'</span> <span class="cf">Then</span> <span class="st">'Mobile Homes'</span></span>
+<span id="cb3-50"><a href="#cb3-50" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pm.pin <span class="kw">Like</span> <span class="st">'0%'</span> <span class="cf">Then</span> <span class="st">'Kootenai County'</span></span>
+<span id="cb3-51"><a href="#cb3-51" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pm.pin <span class="kw">Like</span> <span class="st">'5%'</span> <span class="cf">Then</span> <span class="st">'Kootenai County'</span></span>
+<span id="cb3-52"><a href="#cb3-52" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pm.pin <span class="kw">Like</span> <span class="st">'4%'</span> <span class="cf">Then</span> <span class="st">'Kootenai County'</span></span>
+<span id="cb3-53"><a href="#cb3-53" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pm.pin <span class="kw">Like</span> <span class="st">'UP%'</span> <span class="cf">Then</span> <span class="st">'Operating Property'</span></span>
+<span id="cb3-54"><a href="#cb3-54" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pm.pin <span class="kw">Like</span> <span class="st">'L%'</span> <span class="cf">Then</span> <span class="st">'Float Homes'</span></span>
+<span id="cb3-55"><a href="#cb3-55" aria-hidden="true" tabindex="-1"></a>  <span class="cf">Else</span> <span class="st">'UNKNOWN'</span></span>
+<span id="cb3-56"><a href="#cb3-56" aria-hidden="true" tabindex="-1"></a><span class="cf">End</span> <span class="kw">As</span> PIN_City,</span>
+<span id="cb3-57"><a href="#cb3-57" aria-hidden="true" tabindex="-1"></a>pm.ClassCD,</span>
+<span id="cb3-58"><a href="#cb3-58" aria-hidden="true" tabindex="-1"></a><span class="fu">Trim</span>(pm.PropClassDescr) <span class="kw">As</span> Property_Class_Description,</span>
+<span id="cb3-59"><a href="#cb3-59" aria-hidden="true" tabindex="-1"></a>pm.EffStatus</span>
 <span id="cb3-60"><a href="#cb3-60" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb3-61"><a href="#cb3-61" aria-hidden="true" tabindex="-1"></a><span class="kw">From</span> parceltableview <span class="kw">AS</span> pm</span>
-<span id="cb3-62"><a href="#cb3-62" aria-hidden="true" tabindex="-1"></a><span class="kw">Where</span> pm.EffStatus <span class="op">=</span> <span class="st">'A'</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<span id="cb3-61"><a href="#cb3-61" aria-hidden="true" tabindex="-1"></a><span class="kw">From</span> parceltableview <span class="kw">As</span> pm</span>
+<span id="cb3-62"><a href="#cb3-62" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-63"><a href="#cb3-63" aria-hidden="true" tabindex="-1"></a><span class="kw">Where</span> pm.EffStatus <span class="op">=</span> <span class="st">'A'</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </section>
 <section id="values_assessed.sql" class="level3">
 <h3 class="anchored" data-anchor-id="values_assessed.sql"><code>values_assessed.sql</code></h3>
 <p>This query rolls up last year’s total assessed value by parcel. It is the simplest valuation measure in the set and gives the dashboard a single assessed-value figure per <code>lrsn</code>.</p>
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb4"><pre class="sourceCode sql code-with-copy"><code class="sourceCode sql"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="kw">Select</span></span>
-<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a>i.RevObjId <span class="kw">AS</span> lrsn,</span>
-<span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a><span class="fu">SUM</span>(c.ValueAmount) <span class="kw">AS</span> CadValue_TotalAssessed</span>
-<span id="cb4-4"><a href="#cb4-4" aria-hidden="true" tabindex="-1"></a><span class="kw">FROM</span> CadRoll r</span>
-<span id="cb4-5"><a href="#cb4-5" aria-hidden="true" tabindex="-1"></a><span class="kw">JOIN</span> CadLevel l <span class="kw">ON</span> r.<span class="kw">Id</span> <span class="op">=</span> l.CadRollId</span>
-<span id="cb4-6"><a href="#cb4-6" aria-hidden="true" tabindex="-1"></a><span class="kw">JOIN</span> CadInv i <span class="kw">ON</span> l.<span class="kw">Id</span> <span class="op">=</span> i.CadLevelId</span>
-<span id="cb4-7"><a href="#cb4-7" aria-hidden="true" tabindex="-1"></a><span class="kw">JOIN</span> tsbv_cadastre <span class="kw">AS</span> c </span>
-<span id="cb4-8"><a href="#cb4-8" aria-hidden="true" tabindex="-1"></a>  <span class="kw">On</span> c.CadRollId <span class="op">=</span> r.<span class="kw">Id</span></span>
-<span id="cb4-9"><a href="#cb4-9" aria-hidden="true" tabindex="-1"></a>  <span class="kw">And</span> c.CadInvId <span class="op">=</span> i.<span class="kw">Id</span></span>
-<span id="cb4-10"><a href="#cb4-10" aria-hidden="true" tabindex="-1"></a>  <span class="kw">And</span> c.ValueType <span class="op">=</span> <span class="dv">109</span> <span class="co">-- Variable</span></span>
-<span id="cb4-11"><a href="#cb4-11" aria-hidden="true" tabindex="-1"></a><span class="kw">WHERE</span> r.AssessmentYear <span class="op">=</span> <span class="dt">Year</span>(GetDate()) <span class="op">-</span> <span class="dv">1</span></span>
-<span id="cb4-12"><a href="#cb4-12" aria-hidden="true" tabindex="-1"></a><span class="kw">GROUP</span> <span class="kw">BY</span> i.RevObjId</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a>i.RevObjId <span class="kw">As</span> lrsn,</span>
+<span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a><span class="fu">Sum</span>(c.ValueAmount) <span class="kw">As</span> CadValue_TotalAssessed</span>
+<span id="cb4-4"><a href="#cb4-4" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-5"><a href="#cb4-5" aria-hidden="true" tabindex="-1"></a><span class="kw">From</span> CadRoll r</span>
+<span id="cb4-6"><a href="#cb4-6" aria-hidden="true" tabindex="-1"></a><span class="kw">Join</span> CadLevel l <span class="kw">On</span> r.<span class="kw">Id</span> <span class="op">=</span> l.CadRollId</span>
+<span id="cb4-7"><a href="#cb4-7" aria-hidden="true" tabindex="-1"></a><span class="kw">Join</span> CadInv i <span class="kw">On</span> l.<span class="kw">Id</span> <span class="op">=</span> i.CadLevelId</span>
+<span id="cb4-8"><a href="#cb4-8" aria-hidden="true" tabindex="-1"></a><span class="kw">Join</span> tsbv_cadastre <span class="kw">As</span> c</span>
+<span id="cb4-9"><a href="#cb4-9" aria-hidden="true" tabindex="-1"></a>  <span class="kw">On</span> c.CadRollId <span class="op">=</span> r.<span class="kw">Id</span></span>
+<span id="cb4-10"><a href="#cb4-10" aria-hidden="true" tabindex="-1"></a>  <span class="kw">And</span> c.CadInvId <span class="op">=</span> i.<span class="kw">Id</span></span>
+<span id="cb4-11"><a href="#cb4-11" aria-hidden="true" tabindex="-1"></a>  <span class="kw">And</span> c.ValueType <span class="op">=</span> <span class="dv">109</span> <span class="co">-- Variable</span></span>
+<span id="cb4-12"><a href="#cb4-12" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-13"><a href="#cb4-13" aria-hidden="true" tabindex="-1"></a><span class="kw">Where</span> r.AssessmentYear <span class="op">=</span> <span class="dt">Year</span>(GetDate()) <span class="op">-</span> <span class="dv">1</span> <span class="co">-- Last year's data, as this year hasn't been created until June.</span></span>
+<span id="cb4-14"><a href="#cb4-14" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-15"><a href="#cb4-15" aria-hidden="true" tabindex="-1"></a><span class="kw">Group</span> <span class="kw">By</span></span>
+<span id="cb4-16"><a href="#cb4-16" aria-hidden="true" tabindex="-1"></a>i.RevObjId</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </section>
 <section id="values_assessed_by_category.sql" class="level3">
 <h3 class="anchored" data-anchor-id="values_assessed_by_category.sql"><code>values_assessed_by_category.sql</code></h3>
 <p>This is the category breakout query. It takes the prior year’s assessed values and groups them by parcel plus <code>FullGroupCode</code>, which makes it possible to compare the composition of assessed value across land and improvement categories.</p>
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb5"><pre class="sourceCode sql code-with-copy"><code class="sourceCode sql"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="kw">Select</span></span>
-<span id="cb5-2"><a href="#cb5-2" aria-hidden="true" tabindex="-1"></a>i.RevObjId <span class="kw">AS</span> lrsn,</span>
+<span id="cb5-2"><a href="#cb5-2" aria-hidden="true" tabindex="-1"></a>i.RevObjId <span class="kw">As</span> lrsn,</span>
 <span id="cb5-3"><a href="#cb5-3" aria-hidden="true" tabindex="-1"></a>c.FullGroupCode,</span>
-<span id="cb5-4"><a href="#cb5-4" aria-hidden="true" tabindex="-1"></a><span class="fu">SUM</span>(c.ValueAmount) <span class="kw">AS</span> CadValue_ByCat</span>
-<span id="cb5-5"><a href="#cb5-5" aria-hidden="true" tabindex="-1"></a><span class="kw">FROM</span> CadRoll r</span>
-<span id="cb5-6"><a href="#cb5-6" aria-hidden="true" tabindex="-1"></a><span class="kw">JOIN</span> CadLevel l <span class="kw">ON</span> r.<span class="kw">Id</span> <span class="op">=</span> l.CadRollId</span>
-<span id="cb5-7"><a href="#cb5-7" aria-hidden="true" tabindex="-1"></a><span class="kw">JOIN</span> CadInv i <span class="kw">ON</span> l.<span class="kw">Id</span> <span class="op">=</span> i.CadLevelId</span>
-<span id="cb5-8"><a href="#cb5-8" aria-hidden="true" tabindex="-1"></a><span class="kw">JOIN</span> tsbv_cadastre <span class="kw">AS</span> c </span>
-<span id="cb5-9"><a href="#cb5-9" aria-hidden="true" tabindex="-1"></a>  <span class="kw">On</span> c.CadRollId <span class="op">=</span> r.<span class="kw">Id</span></span>
-<span id="cb5-10"><a href="#cb5-10" aria-hidden="true" tabindex="-1"></a>  <span class="kw">And</span> c.CadInvId <span class="op">=</span> i.<span class="kw">Id</span></span>
-<span id="cb5-11"><a href="#cb5-11" aria-hidden="true" tabindex="-1"></a>  <span class="kw">And</span> c.ValueType <span class="op">=</span> <span class="dv">470</span> <span class="co">-- Variable</span></span>
-<span id="cb5-12"><a href="#cb5-12" aria-hidden="true" tabindex="-1"></a><span class="kw">WHERE</span> r.AssessmentYear <span class="op">=</span> <span class="dt">Year</span>(GetDate()) <span class="op">-</span> <span class="dv">1</span></span>
-<span id="cb5-13"><a href="#cb5-13" aria-hidden="true" tabindex="-1"></a><span class="kw">GROUP</span> <span class="kw">BY</span> i.RevObjId, c.FullGroupCode</span>
-<span id="cb5-14"><a href="#cb5-14" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb5-4"><a href="#cb5-4" aria-hidden="true" tabindex="-1"></a><span class="fu">Sum</span>(c.ValueAmount) <span class="kw">As</span> CadValue_ByCat</span>
+<span id="cb5-5"><a href="#cb5-5" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb5-6"><a href="#cb5-6" aria-hidden="true" tabindex="-1"></a><span class="kw">From</span> CadRoll r</span>
+<span id="cb5-7"><a href="#cb5-7" aria-hidden="true" tabindex="-1"></a><span class="kw">Join</span> CadLevel l <span class="kw">On</span> r.<span class="kw">Id</span> <span class="op">=</span> l.CadRollId</span>
+<span id="cb5-8"><a href="#cb5-8" aria-hidden="true" tabindex="-1"></a><span class="kw">Join</span> CadInv i <span class="kw">On</span> l.<span class="kw">Id</span> <span class="op">=</span> i.CadLevelId</span>
+<span id="cb5-9"><a href="#cb5-9" aria-hidden="true" tabindex="-1"></a><span class="kw">Join</span> tsbv_cadastre <span class="kw">As</span> c</span>
+<span id="cb5-10"><a href="#cb5-10" aria-hidden="true" tabindex="-1"></a>  <span class="kw">On</span> c.CadRollId <span class="op">=</span> r.<span class="kw">Id</span></span>
+<span id="cb5-11"><a href="#cb5-11" aria-hidden="true" tabindex="-1"></a>  <span class="kw">And</span> c.CadInvId <span class="op">=</span> i.<span class="kw">Id</span></span>
+<span id="cb5-12"><a href="#cb5-12" aria-hidden="true" tabindex="-1"></a>  <span class="kw">And</span> c.ValueType <span class="op">=</span> <span class="dv">470</span> <span class="co">-- 470 AssessedByCat Assessed Value</span></span>
+<span id="cb5-13"><a href="#cb5-13" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb5-14"><a href="#cb5-14" aria-hidden="true" tabindex="-1"></a><span class="kw">Where</span> r.AssessmentYear <span class="op">=</span> <span class="dt">Year</span>(GetDate()) <span class="op">-</span> <span class="dv">1</span> <span class="co">-- Last year's data, as this year hasn't been created until June.</span></span>
 <span id="cb5-15"><a href="#cb5-15" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb5-16"><a href="#cb5-16" aria-hidden="true" tabindex="-1"></a><span class="co">-- By Cat Options</span></span>
-<span id="cb5-17"><a href="#cb5-17" aria-hidden="true" tabindex="-1"></a> </span>
-<span id="cb5-18"><a href="#cb5-18" aria-hidden="true" tabindex="-1"></a> </span>
-<span id="cb5-19"><a href="#cb5-19" aria-hidden="true" tabindex="-1"></a>  <span class="co">/*</span></span>
-<span id="cb5-20"><a href="#cb5-20" aria-hidden="true" tabindex="-1"></a><span class="co">  -- Improvement</span></span>
-<span id="cb5-21"><a href="#cb5-21" aria-hidden="true" tabindex="-1"></a><span class="co">  AND c.FullGroupCode IN (</span></span>
-<span id="cb5-22"><a href="#cb5-22" aria-hidden="true" tabindex="-1"></a><span class="co">      '25', '26', '26H', '27', '30', '31H', '32', '33', '34H', '35', '36', '37H', '38', '39', '41H', '42', '43', '45', </span></span>
-<span id="cb5-23"><a href="#cb5-23" aria-hidden="true" tabindex="-1"></a><span class="co">      '46H', '47H', '48H', '49H', '50H', '51', '51P', '55H', '56P', '56Q', '56Q2', '56Q3', '57P', '58P', '58Q', '58Q2', </span></span>
-<span id="cb5-24"><a href="#cb5-24" aria-hidden="true" tabindex="-1"></a><span class="co">      '58Q3', '58Q4', '59P', '59Q', '59Q2', '59Q3', '59Q4', '63P', '63Q', '63Q2', '63Q3', '63Q4', '65H', '66P', '67', </span></span>
-<span id="cb5-25"><a href="#cb5-25" aria-hidden="true" tabindex="-1"></a><span class="co">      '67L', '67P', '68P', '68Q', '68Q2', '68Q3', '68Q4', '69P', '69Q', '69Q2', '69Q3', '69Q4', '70P', '71P', '71Q', </span></span>
-<span id="cb5-26"><a href="#cb5-26" aria-hidden="true" tabindex="-1"></a><span class="co">      '71Q2', '71Q3', '71Q4', '72P', '72Q', '72Q2', '72Q3', '72Q4', '75P', '81', '81P')</span></span>
-<span id="cb5-27"><a href="#cb5-27" aria-hidden="true" tabindex="-1"></a><span class="co">*/</span></span>
-<span id="cb5-28"><a href="#cb5-28" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb5-29"><a href="#cb5-29" aria-hidden="true" tabindex="-1"></a>  <span class="co">/*</span></span>
-<span id="cb5-30"><a href="#cb5-30" aria-hidden="true" tabindex="-1"></a><span class="co">  -- Land</span></span>
-<span id="cb5-31"><a href="#cb5-31" aria-hidden="true" tabindex="-1"></a><span class="co">  AND c.FullGroupCode IN (</span></span>
-<span id="cb5-32"><a href="#cb5-32" aria-hidden="true" tabindex="-1"></a><span class="co">      '01', '03', '04', '05', '06', '07', '09', '10', '10H', '11', '12', '12H', '13', '14', '15', '15H', '16', '17', </span></span>
-<span id="cb5-33"><a href="#cb5-33" aria-hidden="true" tabindex="-1"></a><span class="co">      '18', '19', '20', '20H', '21', '22', '25L', '26LH', '27L', '81L')</span></span>
-<span id="cb5-34"><a href="#cb5-34" aria-hidden="true" tabindex="-1"></a><span class="co">*/</span></span>
-<span id="cb5-35"><a href="#cb5-35" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb5-36"><a href="#cb5-36" aria-hidden="true" tabindex="-1"></a><span class="co">/*</span></span>
-<span id="cb5-37"><a href="#cb5-37" aria-hidden="true" tabindex="-1"></a><span class="co">Declare @ValueTypehoex INT = 305;</span></span>
-<span id="cb5-38"><a href="#cb5-38" aria-hidden="true" tabindex="-1"></a><span class="co">--    305 HOEX_Exemption Homeowner Exemption</span></span>
-<span id="cb5-39"><a href="#cb5-39" aria-hidden="true" tabindex="-1"></a><span class="co">Declare @ValueTypeimp INT = 103;</span></span>
-<span id="cb5-40"><a href="#cb5-40" aria-hidden="true" tabindex="-1"></a><span class="co">--    103 Imp Assessed Improvement Assessed</span></span>
-<span id="cb5-41"><a href="#cb5-41" aria-hidden="true" tabindex="-1"></a><span class="co">Declare @ValueTypeland INT = 102;</span></span>
-<span id="cb5-42"><a href="#cb5-42" aria-hidden="true" tabindex="-1"></a><span class="co">--    102 Land Assessed Land Assessed</span></span>
-<span id="cb5-43"><a href="#cb5-43" aria-hidden="true" tabindex="-1"></a><span class="co">Declare @ValueTypetotal INT = 109;</span></span>
-<span id="cb5-44"><a href="#cb5-44" aria-hidden="true" tabindex="-1"></a><span class="co">--    109 Total Value Total Value</span></span>
-<span id="cb5-45"><a href="#cb5-45" aria-hidden="true" tabindex="-1"></a><span class="co">Declare @NetTaxableValueImpOnly INT = 458;</span></span>
-<span id="cb5-46"><a href="#cb5-46" aria-hidden="true" tabindex="-1"></a><span class="co">--    458 Net Imp Only Net Taxable Value Imp Only</span></span>
-<span id="cb5-47"><a href="#cb5-47" aria-hidden="true" tabindex="-1"></a><span class="co">Declare @NetTaxableValueTotal INT = 455;</span></span>
-<span id="cb5-48"><a href="#cb5-48" aria-hidden="true" tabindex="-1"></a><span class="co">--    455 Net Tax Value Net Taxable Value</span></span>
-<span id="cb5-49"><a href="#cb5-49" aria-hidden="true" tabindex="-1"></a><span class="co">Declare @NewConstruction INT = 651;</span></span>
-<span id="cb5-50"><a href="#cb5-50" aria-hidden="true" tabindex="-1"></a><span class="co">--    651 NewConstByCat New Construction</span></span>
-<span id="cb5-51"><a href="#cb5-51" aria-hidden="true" tabindex="-1"></a><span class="co">Declare @AssessedByCat INT = 470;</span></span>
-<span id="cb5-52"><a href="#cb5-52" aria-hidden="true" tabindex="-1"></a><span class="co">--    470 AssessedByCat Assessed Value</span></span>
-<span id="cb5-53"><a href="#cb5-53" aria-hidden="true" tabindex="-1"></a><span class="co">*/</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<span id="cb5-16"><a href="#cb5-16" aria-hidden="true" tabindex="-1"></a><span class="kw">Group</span> <span class="kw">By</span></span>
+<span id="cb5-17"><a href="#cb5-17" aria-hidden="true" tabindex="-1"></a>i.RevObjId,</span>
+<span id="cb5-18"><a href="#cb5-18" aria-hidden="true" tabindex="-1"></a>c.FullGroupCode</span>
+<span id="cb5-19"><a href="#cb5-19" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb5-20"><a href="#cb5-20" aria-hidden="true" tabindex="-1"></a><span class="co">-- By Cat Optional views</span></span>
+<span id="cb5-21"><a href="#cb5-21" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb5-22"><a href="#cb5-22" aria-hidden="true" tabindex="-1"></a><span class="co">/*</span></span>
+<span id="cb5-23"><a href="#cb5-23" aria-hidden="true" tabindex="-1"></a><span class="co">-- Improvement</span></span>
+<span id="cb5-24"><a href="#cb5-24" aria-hidden="true" tabindex="-1"></a><span class="co">And c.FullGroupCode In (</span></span>
+<span id="cb5-25"><a href="#cb5-25" aria-hidden="true" tabindex="-1"></a><span class="co">    '25', '26', '26H', '27', '30', '31H', '32', '33', '34H', '35', '36', '37H', '38', '39', '41H', '42', '43', '45',</span></span>
+<span id="cb5-26"><a href="#cb5-26" aria-hidden="true" tabindex="-1"></a><span class="co">    '46H', '47H', '48H', '49H', '50H', '51', '51P', '55H', '56P', '56Q', '56Q2', '56Q3', '57P', '58P', '58Q', '58Q2',</span></span>
+<span id="cb5-27"><a href="#cb5-27" aria-hidden="true" tabindex="-1"></a><span class="co">    '58Q3', '58Q4', '59P', '59Q', '59Q2', '59Q3', '59Q4', '63P', '63Q', '63Q2', '63Q3', '63Q4', '65H', '66P', '67',</span></span>
+<span id="cb5-28"><a href="#cb5-28" aria-hidden="true" tabindex="-1"></a><span class="co">    '67L', '67P', '68P', '68Q', '68Q2', '68Q3', '68Q4', '69P', '69Q', '69Q2', '69Q3', '69Q4', '70P', '71P', '71Q',</span></span>
+<span id="cb5-29"><a href="#cb5-29" aria-hidden="true" tabindex="-1"></a><span class="co">    '71Q2', '71Q3', '71Q4', '72P', '72Q', '72Q2', '72Q3', '72Q4', '75P', '81', '81P'</span></span>
+<span id="cb5-30"><a href="#cb5-30" aria-hidden="true" tabindex="-1"></a><span class="co">)</span></span>
+<span id="cb5-31"><a href="#cb5-31" aria-hidden="true" tabindex="-1"></a><span class="co">*/</span></span>
+<span id="cb5-32"><a href="#cb5-32" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb5-33"><a href="#cb5-33" aria-hidden="true" tabindex="-1"></a><span class="co">/*</span></span>
+<span id="cb5-34"><a href="#cb5-34" aria-hidden="true" tabindex="-1"></a><span class="co">-- Land</span></span>
+<span id="cb5-35"><a href="#cb5-35" aria-hidden="true" tabindex="-1"></a><span class="co">And c.FullGroupCode In (</span></span>
+<span id="cb5-36"><a href="#cb5-36" aria-hidden="true" tabindex="-1"></a><span class="co">    '01', '03', '04', '05', '06', '07', '09', '10', '10H', '11', '12', '12H', '13', '14', '15', '15H', '16', '17',</span></span>
+<span id="cb5-37"><a href="#cb5-37" aria-hidden="true" tabindex="-1"></a><span class="co">    '18', '19', '20', '20H', '21', '22', '25L', '26LH', '27L', '81L'</span></span>
+<span id="cb5-38"><a href="#cb5-38" aria-hidden="true" tabindex="-1"></a><span class="co">)</span></span>
+<span id="cb5-39"><a href="#cb5-39" aria-hidden="true" tabindex="-1"></a><span class="co">*/</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </section>
 <section id="values_assessed_ten_year.sql" class="level3">
 <h3 class="anchored" data-anchor-id="values_assessed_ten_year.sql"><code>values_assessed_ten_year.sql</code></h3>
 <p>This is the historical trend query. It produces a parcel-level assessed value time series across ten years, keeping the parcel geography and district context attached so the dashboard can compare long-range value movement by place and parcel.</p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb6"><pre class="sourceCode sql code-with-copy"><code class="sourceCode sql"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a><span class="kw">SELECT</span> <span class="kw">DISTINCT</span></span>
-<span id="cb6-2"><a href="#cb6-2" aria-hidden="true" tabindex="-1"></a>i.RevObjId <span class="kw">AS</span> lrsn,</span>
-<span id="cb6-3"><a href="#cb6-3" aria-hidden="true" tabindex="-1"></a>    <span class="cf">CASE</span></span>
-<span id="cb6-4"><a href="#cb6-4" aria-hidden="true" tabindex="-1"></a>        <span class="cf">WHEN</span> pmd.neighborhood <span class="op">&gt;=</span> <span class="dv">9000</span> <span class="cf">THEN</span> <span class="st">'Manufactured Homes'</span></span>
-<span id="cb6-5"><a href="#cb6-5" aria-hidden="true" tabindex="-1"></a>        <span class="cf">WHEN</span> pmd.neighborhood <span class="op">&gt;=</span> <span class="dv">6003</span> <span class="cf">THEN</span> <span class="st">'District 6'</span></span>
-<span id="cb6-6"><a href="#cb6-6" aria-hidden="true" tabindex="-1"></a>        <span class="cf">WHEN</span> pmd.neighborhood <span class="op">=</span> <span class="dv">6002</span> <span class="cf">THEN</span> <span class="st">'Manufactured Homes'</span></span>
-<span id="cb6-7"><a href="#cb6-7" aria-hidden="true" tabindex="-1"></a>        <span class="cf">WHEN</span> pmd.neighborhood <span class="op">=</span> <span class="dv">6001</span> <span class="cf">THEN</span> <span class="st">'District 6'</span></span>
-<span id="cb6-8"><a href="#cb6-8" aria-hidden="true" tabindex="-1"></a>        <span class="cf">WHEN</span> pmd.neighborhood <span class="op">=</span> <span class="dv">6000</span> <span class="cf">THEN</span> <span class="st">'Manufactured Homes'</span></span>
-<span id="cb6-9"><a href="#cb6-9" aria-hidden="true" tabindex="-1"></a>        <span class="cf">WHEN</span> pmd.neighborhood <span class="op">&gt;=</span> <span class="dv">5003</span> <span class="cf">THEN</span> <span class="st">'District 5'</span></span>
-<span id="cb6-10"><a href="#cb6-10" aria-hidden="true" tabindex="-1"></a>        <span class="cf">WHEN</span> pmd.neighborhood <span class="op">=</span> <span class="dv">5002</span> <span class="cf">THEN</span> <span class="st">'Manufactured Homes'</span></span>
-<span id="cb6-11"><a href="#cb6-11" aria-hidden="true" tabindex="-1"></a>        <span class="cf">WHEN</span> pmd.neighborhood <span class="op">=</span> <span class="dv">5001</span> <span class="cf">THEN</span> <span class="st">'District 5'</span></span>
-<span id="cb6-12"><a href="#cb6-12" aria-hidden="true" tabindex="-1"></a>        <span class="cf">WHEN</span> pmd.neighborhood <span class="op">=</span> <span class="dv">5000</span> <span class="cf">THEN</span> <span class="st">'Manufactured Homes'</span></span>
-<span id="cb6-13"><a href="#cb6-13" aria-hidden="true" tabindex="-1"></a>        <span class="cf">WHEN</span> pmd.neighborhood <span class="op">&gt;=</span> <span class="dv">4000</span> <span class="cf">THEN</span> <span class="st">'District 4'</span></span>
-<span id="cb6-14"><a href="#cb6-14" aria-hidden="true" tabindex="-1"></a>        <span class="cf">WHEN</span> pmd.neighborhood <span class="op">&gt;=</span> <span class="dv">3000</span> <span class="cf">THEN</span> <span class="st">'District 3'</span></span>
-<span id="cb6-15"><a href="#cb6-15" aria-hidden="true" tabindex="-1"></a>        <span class="cf">WHEN</span> pmd.neighborhood <span class="op">&gt;=</span> <span class="dv">2000</span> <span class="cf">THEN</span> <span class="st">'District 2'</span></span>
-<span id="cb6-16"><a href="#cb6-16" aria-hidden="true" tabindex="-1"></a>        <span class="cf">WHEN</span> pmd.neighborhood <span class="op">&gt;=</span> <span class="dv">1021</span> <span class="cf">THEN</span> <span class="st">'District 1'</span></span>
-<span id="cb6-17"><a href="#cb6-17" aria-hidden="true" tabindex="-1"></a>        <span class="cf">WHEN</span> pmd.neighborhood <span class="op">=</span> <span class="dv">1020</span> <span class="cf">THEN</span> <span class="st">'Manufactured Homes'</span></span>
-<span id="cb6-18"><a href="#cb6-18" aria-hidden="true" tabindex="-1"></a>        <span class="cf">WHEN</span> pmd.neighborhood <span class="op">&gt;=</span> <span class="dv">1001</span> <span class="cf">THEN</span> <span class="st">'District 1'</span></span>
-<span id="cb6-19"><a href="#cb6-19" aria-hidden="true" tabindex="-1"></a>        <span class="cf">WHEN</span> pmd.neighborhood <span class="op">=</span> <span class="dv">1000</span> <span class="cf">THEN</span> <span class="st">'Manufactured Homes'</span></span>
-<span id="cb6-20"><a href="#cb6-20" aria-hidden="true" tabindex="-1"></a>        <span class="cf">WHEN</span> pmd.neighborhood <span class="op">&gt;=</span> <span class="dv">451</span> <span class="cf">THEN</span> <span class="st">'Commercial'</span></span>
-<span id="cb6-21"><a href="#cb6-21" aria-hidden="true" tabindex="-1"></a>        <span class="cf">WHEN</span> pmd.neighborhood <span class="op">=</span> <span class="dv">450</span> <span class="cf">THEN</span> <span class="st">'Personal Property'</span></span>
-<span id="cb6-22"><a href="#cb6-22" aria-hidden="true" tabindex="-1"></a>        <span class="cf">WHEN</span> pmd.neighborhood <span class="op">&gt;=</span> <span class="dv">1</span> <span class="cf">THEN</span> <span class="st">'Commercial'</span></span>
-<span id="cb6-23"><a href="#cb6-23" aria-hidden="true" tabindex="-1"></a>        <span class="cf">WHEN</span> pmd.neighborhood <span class="op">=</span> <span class="dv">0</span> <span class="cf">THEN</span> <span class="st">'PP_N/A or Error'</span></span>
-<span id="cb6-24"><a href="#cb6-24" aria-hidden="true" tabindex="-1"></a>        <span class="cf">ELSE</span> <span class="kw">NULL</span></span>
-<span id="cb6-25"><a href="#cb6-25" aria-hidden="true" tabindex="-1"></a>    <span class="cf">END</span> <span class="kw">AS</span> District,</span>
-<span id="cb6-26"><a href="#cb6-26" aria-hidden="true" tabindex="-1"></a>pmd.neighborhood <span class="kw">AS</span> GEO,</span>
-<span id="cb6-27"><a href="#cb6-27" aria-hidden="true" tabindex="-1"></a><span class="fu">TRIM</span>(pmd.NeighborHoodName) <span class="kw">AS</span> GEO_Name,</span>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb6"><pre class="sourceCode sql code-with-copy"><code class="sourceCode sql"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a><span class="kw">Select</span> <span class="kw">Distinct</span></span>
+<span id="cb6-2"><a href="#cb6-2" aria-hidden="true" tabindex="-1"></a>i.RevObjId <span class="kw">As</span> lrsn,</span>
+<span id="cb6-3"><a href="#cb6-3" aria-hidden="true" tabindex="-1"></a><span class="cf">Case</span></span>
+<span id="cb6-4"><a href="#cb6-4" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.neighborhood <span class="op">&gt;=</span> <span class="dv">9000</span> <span class="cf">Then</span> <span class="st">'Manufactured Homes'</span></span>
+<span id="cb6-5"><a href="#cb6-5" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.neighborhood <span class="op">&gt;=</span> <span class="dv">6003</span> <span class="cf">Then</span> <span class="st">'District 6'</span></span>
+<span id="cb6-6"><a href="#cb6-6" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.neighborhood <span class="op">=</span> <span class="dv">6002</span> <span class="cf">Then</span> <span class="st">'Manufactured Homes'</span></span>
+<span id="cb6-7"><a href="#cb6-7" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.neighborhood <span class="op">=</span> <span class="dv">6001</span> <span class="cf">Then</span> <span class="st">'District 6'</span></span>
+<span id="cb6-8"><a href="#cb6-8" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.neighborhood <span class="op">=</span> <span class="dv">6000</span> <span class="cf">Then</span> <span class="st">'Manufactured Homes'</span></span>
+<span id="cb6-9"><a href="#cb6-9" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.neighborhood <span class="op">&gt;=</span> <span class="dv">5003</span> <span class="cf">Then</span> <span class="st">'District 5'</span></span>
+<span id="cb6-10"><a href="#cb6-10" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.neighborhood <span class="op">=</span> <span class="dv">5002</span> <span class="cf">Then</span> <span class="st">'Manufactured Homes'</span></span>
+<span id="cb6-11"><a href="#cb6-11" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.neighborhood <span class="op">=</span> <span class="dv">5001</span> <span class="cf">Then</span> <span class="st">'District 5'</span></span>
+<span id="cb6-12"><a href="#cb6-12" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.neighborhood <span class="op">=</span> <span class="dv">5000</span> <span class="cf">Then</span> <span class="st">'Manufactured Homes'</span></span>
+<span id="cb6-13"><a href="#cb6-13" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.neighborhood <span class="op">&gt;=</span> <span class="dv">4000</span> <span class="cf">Then</span> <span class="st">'District 4'</span></span>
+<span id="cb6-14"><a href="#cb6-14" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.neighborhood <span class="op">&gt;=</span> <span class="dv">3000</span> <span class="cf">Then</span> <span class="st">'District 3'</span></span>
+<span id="cb6-15"><a href="#cb6-15" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.neighborhood <span class="op">&gt;=</span> <span class="dv">2000</span> <span class="cf">Then</span> <span class="st">'District 2'</span></span>
+<span id="cb6-16"><a href="#cb6-16" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.neighborhood <span class="op">&gt;=</span> <span class="dv">1021</span> <span class="cf">Then</span> <span class="st">'District 1'</span></span>
+<span id="cb6-17"><a href="#cb6-17" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.neighborhood <span class="op">=</span> <span class="dv">1020</span> <span class="cf">Then</span> <span class="st">'Manufactured Homes'</span></span>
+<span id="cb6-18"><a href="#cb6-18" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.neighborhood <span class="op">&gt;=</span> <span class="dv">1001</span> <span class="cf">Then</span> <span class="st">'District 1'</span></span>
+<span id="cb6-19"><a href="#cb6-19" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.neighborhood <span class="op">=</span> <span class="dv">1000</span> <span class="cf">Then</span> <span class="st">'Manufactured Homes'</span></span>
+<span id="cb6-20"><a href="#cb6-20" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.neighborhood <span class="op">&gt;=</span> <span class="dv">451</span> <span class="cf">Then</span> <span class="st">'Commercial'</span></span>
+<span id="cb6-21"><a href="#cb6-21" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.neighborhood <span class="op">=</span> <span class="dv">450</span> <span class="cf">Then</span> <span class="st">'Personal Property'</span></span>
+<span id="cb6-22"><a href="#cb6-22" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.neighborhood <span class="op">&gt;=</span> <span class="dv">1</span> <span class="cf">Then</span> <span class="st">'Commercial'</span></span>
+<span id="cb6-23"><a href="#cb6-23" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.neighborhood <span class="op">=</span> <span class="dv">0</span> <span class="cf">Then</span> <span class="st">'PP_N/A or Error'</span></span>
+<span id="cb6-24"><a href="#cb6-24" aria-hidden="true" tabindex="-1"></a>  <span class="cf">Else</span> <span class="kw">Null</span></span>
+<span id="cb6-25"><a href="#cb6-25" aria-hidden="true" tabindex="-1"></a><span class="cf">End</span> <span class="kw">As</span> District,</span>
+<span id="cb6-26"><a href="#cb6-26" aria-hidden="true" tabindex="-1"></a>pmd.neighborhood <span class="kw">As</span> GEO,</span>
+<span id="cb6-27"><a href="#cb6-27" aria-hidden="true" tabindex="-1"></a><span class="fu">Trim</span>(pmd.NeighborHoodName) <span class="kw">As</span> GEO_Name,</span>
 <span id="cb6-28"><a href="#cb6-28" aria-hidden="true" tabindex="-1"></a><span class="cf">Case</span></span>
-<span id="cb6-29"><a href="#cb6-29" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'A%'</span> <span class="cf">Then</span> <span class="st">'Athol'</span>         <span class="co">-- Athol</span></span>
-<span id="cb6-30"><a href="#cb6-30" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'C%'</span> <span class="cf">Then</span> <span class="st">'CoeurdAlene'</span>          <span class="co">-- Coeur d'Alene</span></span>
-<span id="cb6-31"><a href="#cb6-31" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'D%'</span> <span class="cf">Then</span> <span class="st">'Dalton_Gardens'</span>         <span class="co">-- Dalton Gardens</span></span>
-<span id="cb6-32"><a href="#cb6-32" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'H%'</span> <span class="cf">Then</span> <span class="st">'Hayden'</span>         <span class="co">-- Hayden</span></span>
-<span id="cb6-33"><a href="#cb6-33" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'V%'</span> <span class="cf">Then</span> <span class="st">'Hayden_Lake'</span>         <span class="co">-- Hayden Lake</span></span>
-<span id="cb6-34"><a href="#cb6-34" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'P%'</span> <span class="cf">Then</span> <span class="st">'Post_Falls'</span>           <span class="co">-- Post Falls</span></span>
-<span id="cb6-35"><a href="#cb6-35" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'R%'</span> <span class="cf">Then</span> <span class="st">'Rathdrum'</span>         <span class="co">-- Rathdrum</span></span>
-<span id="cb6-36"><a href="#cb6-36" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'S%'</span> <span class="cf">Then</span> <span class="st">'Spirit_Lake'</span>         <span class="co">-- Spirit Lake</span></span>
-<span id="cb6-37"><a href="#cb6-37" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'X%'</span> <span class="cf">Then</span> <span class="st">'Hauser'</span>       <span class="co">-- Hauser</span></span>
-<span id="cb6-38"><a href="#cb6-38" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'F%'</span> <span class="cf">Then</span> <span class="st">'Fernan Lake Village'</span></span>
-<span id="cb6-39"><a href="#cb6-39" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'B%'</span> <span class="cf">Then</span> <span class="st">'Bayview'</span></span>
-<span id="cb6-40"><a href="#cb6-40" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'T%'</span> <span class="cf">Then</span> <span class="st">'Stateline'</span></span>
-<span id="cb6-41"><a href="#cb6-41" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'U%'</span> <span class="cf">Then</span> <span class="st">'Huetter'</span></span>
-<span id="cb6-42"><a href="#cb6-42" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'W%'</span> <span class="cf">Then</span> <span class="st">'Worley'</span></span>
-<span id="cb6-43"><a href="#cb6-43" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'Y%'</span> <span class="cf">Then</span> <span class="st">'Harrison'</span></span>
-<span id="cb6-44"><a href="#cb6-44" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'E%'</span> <span class="cf">Then</span> <span class="st">'Business Personal Property'</span></span>
-<span id="cb6-45"><a href="#cb6-45" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'G%'</span> <span class="cf">Then</span> <span class="st">'Cable TV'</span></span>
-<span id="cb6-46"><a href="#cb6-46" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'KC-%'</span> <span class="cf">Then</span> <span class="st">'Test Parcels'</span></span>
-<span id="cb6-47"><a href="#cb6-47" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'M%'</span> <span class="cf">Then</span> <span class="st">'Mobile Homes'</span></span>
-<span id="cb6-48"><a href="#cb6-48" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'0%'</span> <span class="cf">Then</span> <span class="st">'Kootenai County'</span></span>
-<span id="cb6-49"><a href="#cb6-49" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'5%'</span> <span class="cf">Then</span> <span class="st">'Kootenai County'</span></span>
-<span id="cb6-50"><a href="#cb6-50" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'4%'</span> <span class="cf">Then</span> <span class="st">'Kootenai County'</span></span>
-<span id="cb6-51"><a href="#cb6-51" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'UP%'</span> <span class="cf">Then</span> <span class="st">'Operating Property'</span></span>
-<span id="cb6-52"><a href="#cb6-52" aria-hidden="true" tabindex="-1"></a>    <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'L%'</span> <span class="cf">Then</span> <span class="st">'Float Homes'</span></span>
-<span id="cb6-53"><a href="#cb6-53" aria-hidden="true" tabindex="-1"></a>    <span class="cf">Else</span> <span class="st">'UNKNOWN'</span></span>
+<span id="cb6-29"><a href="#cb6-29" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'A%'</span> <span class="cf">Then</span> <span class="st">'Athol'</span> <span class="co">-- Athol</span></span>
+<span id="cb6-30"><a href="#cb6-30" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'C%'</span> <span class="cf">Then</span> <span class="st">'CoeurdAlene'</span> <span class="co">-- Coeur d'Alene</span></span>
+<span id="cb6-31"><a href="#cb6-31" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'D%'</span> <span class="cf">Then</span> <span class="st">'Dalton_Gardens'</span> <span class="co">-- Dalton Gardens</span></span>
+<span id="cb6-32"><a href="#cb6-32" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'H%'</span> <span class="cf">Then</span> <span class="st">'Hayden'</span> <span class="co">-- Hayden</span></span>
+<span id="cb6-33"><a href="#cb6-33" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'V%'</span> <span class="cf">Then</span> <span class="st">'Hayden_Lake'</span> <span class="co">-- Hayden Lake</span></span>
+<span id="cb6-34"><a href="#cb6-34" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'P%'</span> <span class="cf">Then</span> <span class="st">'Post_Falls'</span> <span class="co">-- Post Falls</span></span>
+<span id="cb6-35"><a href="#cb6-35" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'R%'</span> <span class="cf">Then</span> <span class="st">'Rathdrum'</span> <span class="co">-- Rathdrum</span></span>
+<span id="cb6-36"><a href="#cb6-36" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'S%'</span> <span class="cf">Then</span> <span class="st">'Spirit_Lake'</span> <span class="co">-- Spirit Lake</span></span>
+<span id="cb6-37"><a href="#cb6-37" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'X%'</span> <span class="cf">Then</span> <span class="st">'Hauser'</span> <span class="co">-- Hauser</span></span>
+<span id="cb6-38"><a href="#cb6-38" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'F%'</span> <span class="cf">Then</span> <span class="st">'Fernan Lake Village'</span></span>
+<span id="cb6-39"><a href="#cb6-39" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'B%'</span> <span class="cf">Then</span> <span class="st">'Bayview'</span></span>
+<span id="cb6-40"><a href="#cb6-40" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'T%'</span> <span class="cf">Then</span> <span class="st">'Stateline'</span></span>
+<span id="cb6-41"><a href="#cb6-41" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'U%'</span> <span class="cf">Then</span> <span class="st">'Huetter'</span></span>
+<span id="cb6-42"><a href="#cb6-42" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'W%'</span> <span class="cf">Then</span> <span class="st">'Worley'</span></span>
+<span id="cb6-43"><a href="#cb6-43" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'Y%'</span> <span class="cf">Then</span> <span class="st">'Harrison'</span></span>
+<span id="cb6-44"><a href="#cb6-44" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'E%'</span> <span class="cf">Then</span> <span class="st">'Business Personal Property'</span></span>
+<span id="cb6-45"><a href="#cb6-45" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'G%'</span> <span class="cf">Then</span> <span class="st">'Cable TV'</span></span>
+<span id="cb6-46"><a href="#cb6-46" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'KC-%'</span> <span class="cf">Then</span> <span class="st">'Test Parcels'</span></span>
+<span id="cb6-47"><a href="#cb6-47" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'M%'</span> <span class="cf">Then</span> <span class="st">'Mobile Homes'</span></span>
+<span id="cb6-48"><a href="#cb6-48" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'0%'</span> <span class="cf">Then</span> <span class="st">'Kootenai County'</span></span>
+<span id="cb6-49"><a href="#cb6-49" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'5%'</span> <span class="cf">Then</span> <span class="st">'Kootenai County'</span></span>
+<span id="cb6-50"><a href="#cb6-50" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'4%'</span> <span class="cf">Then</span> <span class="st">'Kootenai County'</span></span>
+<span id="cb6-51"><a href="#cb6-51" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'UP%'</span> <span class="cf">Then</span> <span class="st">'Operating Property'</span></span>
+<span id="cb6-52"><a href="#cb6-52" aria-hidden="true" tabindex="-1"></a>  <span class="cf">When</span> pmd.pin <span class="kw">Like</span> <span class="st">'L%'</span> <span class="cf">Then</span> <span class="st">'Float Homes'</span></span>
+<span id="cb6-53"><a href="#cb6-53" aria-hidden="true" tabindex="-1"></a>  <span class="cf">Else</span> <span class="st">'UNKNOWN'</span></span>
 <span id="cb6-54"><a href="#cb6-54" aria-hidden="true" tabindex="-1"></a><span class="cf">End</span> <span class="kw">As</span> PIN_City,</span>
-<span id="cb6-55"><a href="#cb6-55" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb6-56"><a href="#cb6-56" aria-hidden="true" tabindex="-1"></a><span class="fu">TRIM</span>(pmd.pin) <span class="kw">AS</span> PIN,</span>
-<span id="cb6-57"><a href="#cb6-57" aria-hidden="true" tabindex="-1"></a><span class="fu">TRIM</span>(pmd.AIN) <span class="kw">AS</span> AIN,</span>
-<span id="cb6-58"><a href="#cb6-58" aria-hidden="true" tabindex="-1"></a>r.AssessmentYear <span class="kw">AS</span> AssessmentYear_TenYear,</span>
-<span id="cb6-59"><a href="#cb6-59" aria-hidden="true" tabindex="-1"></a><span class="fu">CAST</span>(<span class="fu">CONCAT</span>(<span class="st">'01/01/'</span>,r.AssessmentYear) <span class="kw">AS</span> <span class="dt">DATE</span>) <span class="kw">AS</span> AppraisalDate,</span>
-<span id="cb6-60"><a href="#cb6-60" aria-hidden="true" tabindex="-1"></a><span class="fu">SUM</span>(c.ValueAmount) <span class="kw">AS</span> AssessedValue</span>
-<span id="cb6-61"><a href="#cb6-61" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb6-62"><a href="#cb6-62" aria-hidden="true" tabindex="-1"></a><span class="kw">FROM</span> CadRoll r</span>
-<span id="cb6-63"><a href="#cb6-63" aria-hidden="true" tabindex="-1"></a><span class="kw">JOIN</span> CadLevel l <span class="kw">ON</span> r.<span class="kw">Id</span> <span class="op">=</span> l.CadRollId</span>
-<span id="cb6-64"><a href="#cb6-64" aria-hidden="true" tabindex="-1"></a><span class="kw">JOIN</span> CadInv i <span class="kw">ON</span> l.<span class="kw">Id</span> <span class="op">=</span> i.CadLevelId</span>
-<span id="cb6-65"><a href="#cb6-65" aria-hidden="true" tabindex="-1"></a><span class="kw">JOIN</span> tsbv_cadastre <span class="kw">AS</span> c </span>
-<span id="cb6-66"><a href="#cb6-66" aria-hidden="true" tabindex="-1"></a>  <span class="kw">On</span> c.CadRollId <span class="op">=</span> r.<span class="kw">Id</span></span>
-<span id="cb6-67"><a href="#cb6-67" aria-hidden="true" tabindex="-1"></a>  <span class="kw">And</span> c.CadInvId <span class="op">=</span> i.<span class="kw">Id</span></span>
-<span id="cb6-68"><a href="#cb6-68" aria-hidden="true" tabindex="-1"></a>  <span class="kw">And</span> c.ValueType <span class="op">=</span> <span class="dv">109</span> <span class="co">-- 109 Total Value Total Value</span></span>
-<span id="cb6-69"><a href="#cb6-69" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb6-70"><a href="#cb6-70" aria-hidden="true" tabindex="-1"></a><span class="kw">JOIN</span> parceltableview <span class="kw">AS</span> pmd <span class="kw">ON</span> i.RevObjId<span class="op">=</span>pmd.lrsn</span>
-<span id="cb6-71"><a href="#cb6-71" aria-hidden="true" tabindex="-1"></a>  <span class="kw">AND</span> pmd.EffStatus <span class="op">=</span> <span class="st">'A'</span></span>
-<span id="cb6-72"><a href="#cb6-72" aria-hidden="true" tabindex="-1"></a>  <span class="kw">AND</span> pmd.neighborhood <span class="op">&lt;&gt;</span> <span class="dv">0</span></span>
+<span id="cb6-55"><a href="#cb6-55" aria-hidden="true" tabindex="-1"></a><span class="fu">Trim</span>(pmd.pin) <span class="kw">As</span> PIN,</span>
+<span id="cb6-56"><a href="#cb6-56" aria-hidden="true" tabindex="-1"></a><span class="fu">Trim</span>(pmd.AIN) <span class="kw">As</span> AIN,</span>
+<span id="cb6-57"><a href="#cb6-57" aria-hidden="true" tabindex="-1"></a>r.AssessmentYear <span class="kw">As</span> AssessmentYear_TenYear,</span>
+<span id="cb6-58"><a href="#cb6-58" aria-hidden="true" tabindex="-1"></a><span class="fu">Cast</span>(<span class="fu">Concat</span>(<span class="st">'01/01/'</span>, r.AssessmentYear) <span class="kw">As</span> <span class="dt">Date</span>) <span class="kw">As</span> AppraisalDate,</span>
+<span id="cb6-59"><a href="#cb6-59" aria-hidden="true" tabindex="-1"></a><span class="fu">Sum</span>(c.ValueAmount) <span class="kw">As</span> AssessedValue</span>
+<span id="cb6-60"><a href="#cb6-60" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb6-61"><a href="#cb6-61" aria-hidden="true" tabindex="-1"></a><span class="kw">From</span> CadRoll r</span>
+<span id="cb6-62"><a href="#cb6-62" aria-hidden="true" tabindex="-1"></a><span class="kw">Join</span> CadLevel l <span class="kw">On</span> r.<span class="kw">Id</span> <span class="op">=</span> l.CadRollId</span>
+<span id="cb6-63"><a href="#cb6-63" aria-hidden="true" tabindex="-1"></a><span class="kw">Join</span> CadInv i <span class="kw">On</span> l.<span class="kw">Id</span> <span class="op">=</span> i.CadLevelId</span>
+<span id="cb6-64"><a href="#cb6-64" aria-hidden="true" tabindex="-1"></a><span class="kw">Join</span> tsbv_cadastre <span class="kw">As</span> c</span>
+<span id="cb6-65"><a href="#cb6-65" aria-hidden="true" tabindex="-1"></a>  <span class="kw">On</span> c.CadRollId <span class="op">=</span> r.<span class="kw">Id</span></span>
+<span id="cb6-66"><a href="#cb6-66" aria-hidden="true" tabindex="-1"></a>  <span class="kw">And</span> c.CadInvId <span class="op">=</span> i.<span class="kw">Id</span></span>
+<span id="cb6-67"><a href="#cb6-67" aria-hidden="true" tabindex="-1"></a>  <span class="kw">And</span> c.ValueType <span class="op">=</span> <span class="dv">109</span> <span class="co">-- 109 Total Assessed Value</span></span>
+<span id="cb6-68"><a href="#cb6-68" aria-hidden="true" tabindex="-1"></a><span class="kw">Join</span> parceltableview <span class="kw">As</span> pmd <span class="kw">On</span> i.RevObjId <span class="op">=</span> pmd.lrsn</span>
+<span id="cb6-69"><a href="#cb6-69" aria-hidden="true" tabindex="-1"></a>  <span class="kw">And</span> pmd.EffStatus <span class="op">=</span> <span class="st">'A'</span></span>
+<span id="cb6-70"><a href="#cb6-70" aria-hidden="true" tabindex="-1"></a>  <span class="kw">And</span> pmd.neighborhood <span class="op">&lt;&gt;</span> <span class="dv">0</span></span>
+<span id="cb6-71"><a href="#cb6-71" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb6-72"><a href="#cb6-72" aria-hidden="true" tabindex="-1"></a><span class="kw">Where</span> r.AssessmentYear <span class="kw">Between</span> <span class="dt">Year</span>(GetDate()) <span class="op">-</span> <span class="dv">10</span> <span class="kw">And</span> <span class="dt">Year</span>(GetDate())</span>
 <span id="cb6-73"><a href="#cb6-73" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb6-74"><a href="#cb6-74" aria-hidden="true" tabindex="-1"></a><span class="kw">WHERE</span> r.AssessmentYear <span class="kw">BETWEEN</span> <span class="dt">Year</span>(GetDate()) <span class="op">-</span> <span class="dv">10</span> <span class="kw">AND</span> <span class="dt">Year</span>(GetDate())</span>
-<span id="cb6-75"><a href="#cb6-75" aria-hidden="true" tabindex="-1"></a><span class="kw">Group</span> <span class="kw">By</span> i.RevObjId, r.AssessmentYear,</span>
-<span id="cb6-76"><a href="#cb6-76" aria-hidden="true" tabindex="-1"></a>pmd.neighborhood, pmd.NeighborHoodName, pmd.pin, pmd.AIN</span>
-<span id="cb6-77"><a href="#cb6-77" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb6-78"><a href="#cb6-78" aria-hidden="true" tabindex="-1"></a><span class="co">/*</span></span>
-<span id="cb6-79"><a href="#cb6-79" aria-hidden="true" tabindex="-1"></a><span class="co">Declare @ValueTypetotal INT = 109;</span></span>
-<span id="cb6-80"><a href="#cb6-80" aria-hidden="true" tabindex="-1"></a><span class="co">-- 109 Total Value Total Value</span></span>
-<span id="cb6-81"><a href="#cb6-81" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb6-82"><a href="#cb6-82" aria-hidden="true" tabindex="-1"></a><span class="co">Declare @NetTaxableValueTotal INT = 455;</span></span>
-<span id="cb6-83"><a href="#cb6-83" aria-hidden="true" tabindex="-1"></a><span class="co">-- 455 Net Tax Value Net Taxable Value</span></span>
-<span id="cb6-84"><a href="#cb6-84" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb6-85"><a href="#cb6-85" aria-hidden="true" tabindex="-1"></a><span class="co">Declare @ValueTypehoex INT = 305;</span></span>
-<span id="cb6-86"><a href="#cb6-86" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb6-87"><a href="#cb6-87" aria-hidden="true" tabindex="-1"></a><span class="co">Declare @ValueTypeimp INT = 103;</span></span>
-<span id="cb6-88"><a href="#cb6-88" aria-hidden="true" tabindex="-1"></a><span class="co">-- 103 Imp Assessed Improvement Assessed</span></span>
-<span id="cb6-89"><a href="#cb6-89" aria-hidden="true" tabindex="-1"></a><span class="co">Declare @ValueTypeland INT = 102;</span></span>
-<span id="cb6-90"><a href="#cb6-90" aria-hidden="true" tabindex="-1"></a><span class="co">-- 102 Land Assessed Land Assessed</span></span>
-<span id="cb6-91"><a href="#cb6-91" aria-hidden="true" tabindex="-1"></a><span class="co">Declare @NetTaxableValueImpOnly INT = 458;</span></span>
-<span id="cb6-92"><a href="#cb6-92" aria-hidden="true" tabindex="-1"></a><span class="co">-- 458 Net Imp Only Net Taxable Value Imp Only</span></span>
-<span id="cb6-93"><a href="#cb6-93" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb6-94"><a href="#cb6-94" aria-hidden="true" tabindex="-1"></a><span class="co">Declare @NewConstruction INT = 651;</span></span>
-<span id="cb6-95"><a href="#cb6-95" aria-hidden="true" tabindex="-1"></a><span class="co">-- 651 NewConstByCat New Construction</span></span>
-<span id="cb6-96"><a href="#cb6-96" aria-hidden="true" tabindex="-1"></a><span class="co">Declare @AssessedByCat INT = 470;</span></span>
-<span id="cb6-97"><a href="#cb6-97" aria-hidden="true" tabindex="-1"></a><span class="co">-- 470 AssessedByCat Assessed Value</span></span>
-<span id="cb6-98"><a href="#cb6-98" aria-hidden="true" tabindex="-1"></a><span class="co">*/</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<span id="cb6-74"><a href="#cb6-74" aria-hidden="true" tabindex="-1"></a><span class="kw">Group</span> <span class="kw">By</span></span>
+<span id="cb6-75"><a href="#cb6-75" aria-hidden="true" tabindex="-1"></a>i.RevObjId,</span>
+<span id="cb6-76"><a href="#cb6-76" aria-hidden="true" tabindex="-1"></a>r.AssessmentYear,</span>
+<span id="cb6-77"><a href="#cb6-77" aria-hidden="true" tabindex="-1"></a>pmd.neighborhood,</span>
+<span id="cb6-78"><a href="#cb6-78" aria-hidden="true" tabindex="-1"></a>pmd.NeighborHoodName,</span>
+<span id="cb6-79"><a href="#cb6-79" aria-hidden="true" tabindex="-1"></a>pmd.pin,</span>
+<span id="cb6-80"><a href="#cb6-80" aria-hidden="true" tabindex="-1"></a>pmd.AIN</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </section>
 <section id="values_net_tax_value.sql" class="level3">
 <h3 class="anchored" data-anchor-id="values_net_tax_value.sql"><code>values_net_tax_value.sql</code></h3>
 <p>This query calculates last year’s net taxable value by parcel. In the dashboard it supports the comparison between total assessed value and the portion that remains taxable after exemptions and other adjustments.</p>
 <div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb7"><pre class="sourceCode sql code-with-copy"><code class="sourceCode sql"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a><span class="kw">Select</span></span>
-<span id="cb7-2"><a href="#cb7-2" aria-hidden="true" tabindex="-1"></a>i.RevObjId <span class="kw">AS</span> lrsn,</span>
-<span id="cb7-3"><a href="#cb7-3" aria-hidden="true" tabindex="-1"></a><span class="fu">SUM</span>(c.ValueAmount) <span class="kw">AS</span> CadValue_NetTax</span>
-<span id="cb7-4"><a href="#cb7-4" aria-hidden="true" tabindex="-1"></a><span class="kw">FROM</span> CadRoll r</span>
-<span id="cb7-5"><a href="#cb7-5" aria-hidden="true" tabindex="-1"></a><span class="kw">JOIN</span> CadLevel l <span class="kw">ON</span> r.<span class="kw">Id</span> <span class="op">=</span> l.CadRollId</span>
-<span id="cb7-6"><a href="#cb7-6" aria-hidden="true" tabindex="-1"></a><span class="kw">JOIN</span> CadInv i <span class="kw">ON</span> l.<span class="kw">Id</span> <span class="op">=</span> i.CadLevelId</span>
-<span id="cb7-7"><a href="#cb7-7" aria-hidden="true" tabindex="-1"></a><span class="kw">JOIN</span> tsbv_cadastre <span class="kw">AS</span> c </span>
-<span id="cb7-8"><a href="#cb7-8" aria-hidden="true" tabindex="-1"></a>  <span class="kw">On</span> c.CadRollId <span class="op">=</span> r.<span class="kw">Id</span></span>
-<span id="cb7-9"><a href="#cb7-9" aria-hidden="true" tabindex="-1"></a>  <span class="kw">And</span> c.CadInvId <span class="op">=</span> i.<span class="kw">Id</span></span>
-<span id="cb7-10"><a href="#cb7-10" aria-hidden="true" tabindex="-1"></a>  <span class="kw">And</span> c.ValueType <span class="op">=</span> <span class="dv">455</span> <span class="co">-- Variable</span></span>
-<span id="cb7-11"><a href="#cb7-11" aria-hidden="true" tabindex="-1"></a><span class="kw">WHERE</span> r.AssessmentYear <span class="op">=</span> <span class="dt">Year</span>(GetDate()) <span class="op">-</span> <span class="dv">1</span></span>
-<span id="cb7-12"><a href="#cb7-12" aria-hidden="true" tabindex="-1"></a><span class="kw">GROUP</span> <span class="kw">BY</span> i.RevObjId</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<span id="cb7-2"><a href="#cb7-2" aria-hidden="true" tabindex="-1"></a>i.RevObjId <span class="kw">As</span> lrsn,</span>
+<span id="cb7-3"><a href="#cb7-3" aria-hidden="true" tabindex="-1"></a><span class="fu">Sum</span>(c.ValueAmount) <span class="kw">As</span> CadValue_NetTax</span>
+<span id="cb7-4"><a href="#cb7-4" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb7-5"><a href="#cb7-5" aria-hidden="true" tabindex="-1"></a><span class="kw">From</span> CadRoll r</span>
+<span id="cb7-6"><a href="#cb7-6" aria-hidden="true" tabindex="-1"></a><span class="kw">Join</span> CadLevel l <span class="kw">On</span> r.<span class="kw">Id</span> <span class="op">=</span> l.CadRollId</span>
+<span id="cb7-7"><a href="#cb7-7" aria-hidden="true" tabindex="-1"></a><span class="kw">Join</span> CadInv i <span class="kw">On</span> l.<span class="kw">Id</span> <span class="op">=</span> i.CadLevelId</span>
+<span id="cb7-8"><a href="#cb7-8" aria-hidden="true" tabindex="-1"></a><span class="kw">Join</span> tsbv_cadastre <span class="kw">As</span> c</span>
+<span id="cb7-9"><a href="#cb7-9" aria-hidden="true" tabindex="-1"></a>  <span class="kw">On</span> c.CadRollId <span class="op">=</span> r.<span class="kw">Id</span></span>
+<span id="cb7-10"><a href="#cb7-10" aria-hidden="true" tabindex="-1"></a>  <span class="kw">And</span> c.CadInvId <span class="op">=</span> i.<span class="kw">Id</span></span>
+<span id="cb7-11"><a href="#cb7-11" aria-hidden="true" tabindex="-1"></a>  <span class="kw">And</span> c.ValueType <span class="op">=</span> <span class="dv">455</span> <span class="co">-- Net Taxable</span></span>
+<span id="cb7-12"><a href="#cb7-12" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb7-13"><a href="#cb7-13" aria-hidden="true" tabindex="-1"></a><span class="kw">Where</span> r.AssessmentYear <span class="op">=</span> <span class="dt">Year</span>(GetDate()) <span class="op">-</span> <span class="dv">1</span> <span class="co">-- Last year's data, as this year hasn't been created until June.</span></span>
+<span id="cb7-14"><a href="#cb7-14" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb7-15"><a href="#cb7-15" aria-hidden="true" tabindex="-1"></a><span class="kw">Group</span> <span class="kw">By</span></span>
+<span id="cb7-16"><a href="#cb7-16" aria-hidden="true" tabindex="-1"></a>i.RevObjId</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </section>
 </section>
 <section id="visuals" class="level2">
@@ -692,30 +666,6 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <p>Provides parcel-level tables plus summary tables for the other metric bundles with paging and shared filter state.</p>
 </section>
 </div>
-</section>
-<section id="results" class="level2">
-<h2 class="anchored" data-anchor-id="results">Results</h2>
-<p>This page now presents the assessor dashboard as the real project and the static demo as the public, sanitized re-presentation of that work. The structure is in place for adding business context, screenshots, findings, and outcome notes later without changing that distinction.</p>
-</section>
-<section id="repro-steps" class="level2">
-<h2 class="anchored" data-anchor-id="repro-steps">Repro Steps</h2>
-<ol type="1">
-<li>Maintain the project SQL in <code>assets/data/assessor_data/</code>.</li>
-<li>Run the original assessor-side workflow and export sanitized CSV outputs for public use.</li>
-<li>Run <code>scripts/assessor_data/build-demo-dataframes.ps1</code> to convert those exports into demo data bundles.</li>
-<li>Keep the static demo files in <code>demos/assessor-dashboard/</code> and render/sync them into <code>docs/</code>.</li>
-</ol>
-</section>
-<section id="tech-used" class="level2">
-<h2 class="anchored" data-anchor-id="tech-used">Tech Used</h2>
-<ul>
-<li>SQL</li>
-<li>PowerShell</li>
-<li>JavaScript</li>
-<li>GeoJSON</li>
-<li>Quarto</li>
-<li>Static HTML/CSS</li>
-</ul>
 
 
 </section>
@@ -1239,7 +1189,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 <script src="../../site_libs/quarto-html/zenscroll-min.js"></script>
 <script id="site-tag-manifest" type="application/json">{
-    "generatedAt":  "2026-03-15T22:20:13.1276660Z",
+    "generatedAt":  "2026-03-15T22:50:09.6495659Z",
     "postCount":  422,
     "featured":  [
                      {
@@ -1986,6 +1936,6 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   }
 })();
 </script>
-
 </body></html>
+
 
