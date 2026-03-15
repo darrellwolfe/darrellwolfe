@@ -19,6 +19,7 @@
     document.querySelector('meta[name="quarto:offset"]')?.getAttribute("content") || "./";
   const tagsPageUrl = `${quartoOffset}posts/tags/index.html`;
   const manifestUrl = `${quartoOffset}assets/data/tag-manifest.json`;
+  const inlineManifestEl = document.getElementById("site-tag-manifest");
   const tagLinks = [];
 
   function currentCategory() {
@@ -154,14 +155,26 @@
     });
   }
 
-  function init() {
-    fetch(manifestUrl)
+  function loadManifest() {
+    if (inlineManifestEl?.textContent?.trim()) {
+      try {
+        return Promise.resolve(JSON.parse(inlineManifestEl.textContent));
+      } catch (_) {
+        // Fall back to fetch if the inline payload is invalid.
+      }
+    }
+
+    return fetch(manifestUrl)
       .then((response) => {
         if (!response.ok) {
           throw new Error(`Failed to load ${manifestUrl}`);
         }
         return response.json();
-      })
+      });
+  }
+
+  function init() {
+    loadManifest()
       .then((manifest) => {
         renderRail(manifest.featured || []);
         renderPageBrowser(manifest);

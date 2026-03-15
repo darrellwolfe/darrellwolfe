@@ -87,14 +87,63 @@ function Add-IncludeToPublishedHtml {
     return
   }
 
+  $replacementMarkup = (($includeMarkup.TrimEnd()) + "`r`n</body>") -replace '\$', '$$'
+
   Get-ChildItem $HtmlRoot -Recurse -Filter *.html | ForEach-Object {
     $html = Get-Content $_.FullName -Raw
-    if ($html.Contains($Marker) -or -not $html.Contains("</body>")) {
+    if (-not $html.Contains("</body>")) {
+      return
+    }
+
+    if ($html.Contains($Marker)) {
+      $updatedHtml = $html -replace '(?s)<div class="site-tag-rail" data-site-tag-rail.*?</script>\s*</body>', $replacementMarkup
+      if ($updatedHtml -ne $html) {
+        Set-Content -Encoding UTF8 $_.FullName $updatedHtml
+      }
       return
     }
 
     $updatedHtml = $html -replace "</body>", "$includeMarkup`r`n</body>"
     Set-Content -Encoding UTF8 $_.FullName $updatedHtml
+  }
+}
+
+function Add-InlineJsonToPublishedHtml {
+  param(
+    [string]$HtmlRoot,
+    [string]$JsonPath,
+    [string]$ScriptId,
+    [string]$PreferredMarker
+  )
+
+  if (-not (Test-Path $HtmlRoot) -or -not (Test-Path $JsonPath)) {
+    return
+  }
+
+  $jsonPayload = (Get-Content $JsonPath -Raw).Trim()
+  if ([string]::IsNullOrWhiteSpace($jsonPayload)) {
+    return
+  }
+
+  $safeJsonPayload = $jsonPayload -replace "</script>", "<\/script>"
+  $scriptTag = "<script id=`"$ScriptId`" type=`"application/json`">$safeJsonPayload</script>`r`n"
+
+  Get-ChildItem $HtmlRoot -Recurse -Filter *.html | ForEach-Object {
+    $html = Get-Content $_.FullName -Raw
+    if ($html.Contains("id=""$ScriptId""")) {
+      return
+    }
+
+    if ($html.Contains($PreferredMarker)) {
+      $updatedHtml = $html -replace [regex]::Escape($PreferredMarker), "$scriptTag$PreferredMarker"
+      Set-Content -Encoding UTF8 $_.FullName $updatedHtml
+      return
+    }
+
+    if ($html.Contains("</body>")) {
+      $updatedHtml = $html -replace "</body>", "$scriptTag</body>"
+      Set-Content -Encoding UTF8 $_.FullName $updatedHtml
+    }
   }
 }
 
@@ -107,6 +156,7 @@ if (Test-Path $tagManifestScript) {
 }
 
 $publishedRoot = Join-Path $RepoRoot $OutputDir
+Add-InlineJsonToPublishedHtml -HtmlRoot $publishedRoot -JsonPath (Join-Path $publishedRoot "assets/data/tag-manifest.json") -ScriptId "site-tag-manifest" -PreferredMarker '<div class="site-tag-rail"'
 Add-IncludeToPublishedHtml -HtmlRoot $publishedRoot -IncludePath $tagRailIncludePath -Marker "data-site-tag-rail"
 
 Ensure-AssessorDashboardData
