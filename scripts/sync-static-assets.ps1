@@ -82,7 +82,7 @@ function Add-IncludeToPublishedHtml {
     return
   }
 
-  $includeMarkup = Get-Content $IncludePath -Raw
+  $includeMarkup = Get-Content $IncludePath -Raw -Encoding UTF8
   if ([string]::IsNullOrWhiteSpace($includeMarkup)) {
     return
   }
@@ -90,7 +90,7 @@ function Add-IncludeToPublishedHtml {
   $replacementMarkup = (($includeMarkup.TrimEnd()) + "`r`n</body>") -replace '\$', '$$'
 
   Get-ChildItem $HtmlRoot -Recurse -Filter *.html | ForEach-Object {
-    $html = Get-Content $_.FullName -Raw
+    $html = Get-Content $_.FullName -Raw -Encoding UTF8
     if (-not $html.Contains("</body>")) {
       return
     }
@@ -120,7 +120,7 @@ function Add-InlineJsonToPublishedHtml {
     return
   }
 
-  $jsonPayload = (Get-Content $JsonPath -Raw).Trim()
+  $jsonPayload = (Get-Content $JsonPath -Raw -Encoding UTF8).Trim()
   if ([string]::IsNullOrWhiteSpace($jsonPayload)) {
     return
   }
@@ -129,7 +129,7 @@ function Add-InlineJsonToPublishedHtml {
   $scriptTag = "<script id=`"$ScriptId`" type=`"application/json`">$safeJsonPayload</script>`r`n"
 
   Get-ChildItem $HtmlRoot -Recurse -Filter *.html | ForEach-Object {
-    $html = Get-Content $_.FullName -Raw
+    $html = Get-Content $_.FullName -Raw -Encoding UTF8
     if ($html.Contains("id=""$ScriptId""")) {
       return
     }
