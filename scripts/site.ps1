@@ -154,6 +154,7 @@ function Get-QuickRenderTargets {
   foreach ($path in @($qmdTargets)) {
     if ($path -match '^posts/(personal|biblical|writing|data-nerd)/20.*\.qmd$') {
       $qmdTargets += "posts/$($Matches[1])/index.qmd"
+      $qmdTargets += "posts/tags/index.qmd"
     }
   }
 

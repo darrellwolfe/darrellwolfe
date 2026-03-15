@@ -1,0 +1,23 @@
+---
+title: "Browse by Tag"
+comments: false
+listing:
+  contents:
+    - "../personal/20*.qmd"
+    - "../biblical/20*.qmd"
+    - "../writing/20*.qmd"
+    - "../data-nerd/20*.qmd"
+  sort: "date desc"
+  type: default
+  fields: [title, date, categories]
+---
+
+Use the tag browser below to filter posts across every writing section. This browser treats each post's `categories` as the site's clickable tags, so older and newer content stay in one archive.
+
+::: {.section-panel .tag-browser-panel}
+## Filter Posts
+
+Pick a tag to narrow the archive, or use **All Posts** to clear the filter.
+
+<div class="tag-browser" data-all-tags-browser></div>
+:::

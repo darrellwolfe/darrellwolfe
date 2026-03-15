@@ -5,6 +5,8 @@ param(
 $ErrorActionPreference = "Stop"
 
 $RepoRoot = Split-Path -Parent $PSScriptRoot
+$tagManifestScript = Join-Path $PSScriptRoot "build-tag-manifest.ps1"
+$tagRailIncludePath = Join-Path $RepoRoot "assets/includes/site-tag-rail.html"
 
 function Ensure-AssessorDashboardData {
   $sourceDir = Join-Path $RepoRoot "assets/data/assessor_data"
@@ -69,9 +71,43 @@ function Copy-DirectoryContents {
   Copy-Item (Join-Path $Source "*") $Destination -Recurse -Force
 }
 
+function Add-IncludeToPublishedHtml {
+  param(
+    [string]$HtmlRoot,
+    [string]$IncludePath,
+    [string]$Marker
+  )
+
+  if (-not (Test-Path $HtmlRoot) -or -not (Test-Path $IncludePath)) {
+    return
+  }
+
+  $includeMarkup = Get-Content $IncludePath -Raw
+  if ([string]::IsNullOrWhiteSpace($includeMarkup)) {
+    return
+  }
+
+  Get-ChildItem $HtmlRoot -Recurse -Filter *.html | ForEach-Object {
+    $html = Get-Content $_.FullName -Raw
+    if ($html.Contains($Marker) -or -not $html.Contains("</body>")) {
+      return
+    }
+
+    $updatedHtml = $html -replace "</body>", "$includeMarkup`r`n</body>"
+    Set-Content -Encoding UTF8 $_.FullName $updatedHtml
+  }
+}
+
 $cssSource = Join-Path $RepoRoot "assets/css"
 $cssDestination = Join-Path $RepoRoot (Join-Path $OutputDir "assets/css")
 Copy-DirectoryContents -Source $cssSource -Destination $cssDestination
+
+if (Test-Path $tagManifestScript) {
+  & $tagManifestScript -OutputDir $OutputDir
+}
+
+$publishedRoot = Join-Path $RepoRoot $OutputDir
+Add-IncludeToPublishedHtml -HtmlRoot $publishedRoot -IncludePath $tagRailIncludePath -Marker "data-site-tag-rail"
 
 Ensure-AssessorDashboardData
 

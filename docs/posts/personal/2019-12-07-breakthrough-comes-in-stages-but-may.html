@@ -387,6 +387,194 @@ That awkward, less than ideal breakthrough, may be forcing you to make a change 
   shareWidget.hidden = false;
 })();
 </script>
+
+<div class="site-tag-rail" data-site-tag-rail="" hidden="">
+  <div class="site-tag-rail-inner">
+    <span class="site-tag-rail-label">Browse Tags</span>
+    <div class="site-tag-rail-links" data-site-tag-rail-links=""></div>
+    <a class="site-tag-rail-all" data-site-tag-rail-all="" href="#">All Tags</a>
+  </div>
+</div>
+<script>
+(() => {
+  const rail = document.querySelector("[data-site-tag-rail]");
+  const railLinks = rail?.querySelector("[data-site-tag-rail-links]");
+  const railAllLink = rail?.querySelector("[data-site-tag-rail-all]");
+  const pageBrowser = document.querySelector("[data-all-tags-browser]");
+  if (!rail && !pageBrowser) return;
+
+  const normalizedPath = window.location.pathname.replace(/\\/g, "/");
+  const isTagPage = /\/posts\/tags\/(?:index\.html)?$/.test(normalizedPath);
+  const quartoOffset =
+    document.querySelector('meta[name="quarto:offset"]')?.getAttribute("content") || "./";
+  const tagsPageUrl = `${quartoOffset}posts/tags/index.html`;
+  const manifestUrl = `${quartoOffset}assets/data/tag-manifest.json`;
+  const tagLinks = [];
+
+  function currentCategory() {
+    return new URLSearchParams(window.location.hash.replace(/^#/, "")).get("category") || "";
+  }
+
+  function clearListings() {
+    const listings = window["quarto-listings"] || {};
+    Object.keys(listings).forEach((listingId) => {
+      const list = listings[listingId];
+      if (list) {
+        list.filter();
+      }
+    });
+  }
+
+  function syncActiveTags() {
+    const activeTag = currentCategory();
+    tagLinks.forEach((link) => {
+      const isActive = link.dataset.tagName === activeTag;
+      link.classList.toggle("is-active", isActive);
+      if (isActive) {
+        link.setAttribute("aria-current", "true");
+      } else {
+        link.removeAttribute("aria-current");
+      }
+    });
+  }
+
+  function applyTag(tagName) {
+    if (!isTagPage) {
+      window.location.href = tagName
+        ? `${tagsPageUrl}#category=${encodeURIComponent(tagName)}`
+        : tagsPageUrl;
+      return;
+    }
+
+    if (!tagName) {
+      const url = new URL(window.location.href);
+      url.hash = "";
+      window.history.pushState(null, "", url);
+      clearListings();
+      syncActiveTags();
+      return;
+    }
+
+    if (typeof window.quartoListingCategory === "function") {
+      window.quartoListingCategory(btoa(encodeURIComponent(tagName)));
+    } else {
+      window.location.hash = `category=${encodeURIComponent(tagName)}`;
+    }
+
+    syncActiveTags();
+  }
+
+  function buildTagLink(tag, options = {}) {
+    const link = document.createElement("a");
+    link.className = options.className || "tag-chip";
+    link.href = tag.name
+      ? `${tagsPageUrl}#category=${encodeURIComponent(tag.name)}`
+      : tagsPageUrl;
+    link.dataset.tagName = tag.name || "";
+
+    const label = document.createElement("span");
+    label.className = "tag-chip-label";
+    label.textContent = tag.name || "All Posts";
+    link.appendChild(label);
+
+    if (options.showCount && typeof tag.count === "number") {
+      const count = document.createElement("span");
+      count.className = "tag-chip-count";
+      count.textContent = tag.count;
+      link.appendChild(count);
+    }
+
+    if (tag.name) {
+      link.setAttribute("aria-label", `Browse posts tagged ${tag.name}`);
+    } else {
+      link.setAttribute("aria-label", "Show all posts");
+    }
+
+    link.addEventListener("click", (event) => {
+      if (!isTagPage) return;
+      event.preventDefault();
+      applyTag(tag.name || "");
+    });
+
+    tagLinks.push(link);
+    return link;
+  }
+
+  function renderRail(featuredTags) {
+    if (!rail || !railLinks || featuredTags.length === 0) return;
+
+    const header = document.querySelector("#quarto-header");
+    if (header && rail.previousElementSibling !== header) {
+      header.insertAdjacentElement("afterend", rail);
+    }
+
+    railLinks.replaceChildren();
+    featuredTags.forEach((tag) => {
+      railLinks.appendChild(buildTagLink(tag, { className: "tag-chip site-tag-chip" }));
+    });
+
+    if (railAllLink) {
+      railAllLink.setAttribute("href", tagsPageUrl);
+      railAllLink.addEventListener("click", (event) => {
+        if (!isTagPage) return;
+        event.preventDefault();
+        applyTag("");
+      });
+    }
+
+    rail.hidden = false;
+  }
+
+  function renderPageBrowser(manifest) {
+    if (!pageBrowser) return;
+
+    const allPostsTag = {
+      name: "",
+      count: manifest.postCount
+    };
+
+    pageBrowser.replaceChildren(
+      buildTagLink(allPostsTag, { showCount: true, className: "tag-chip tag-browser-chip" })
+    );
+
+    manifest.tags.forEach((tag) => {
+      pageBrowser.appendChild(
+        buildTagLink(tag, { showCount: true, className: "tag-chip tag-browser-chip" })
+      );
+    });
+  }
+
+  function init() {
+    fetch(manifestUrl)
+      .then((response) => {
+        if (!response.ok) {
+          throw new Error(`Failed to load ${manifestUrl}`);
+        }
+        return response.json();
+      })
+      .then((manifest) => {
+        renderRail(manifest.featured || []);
+        renderPageBrowser(manifest);
+        syncActiveTags();
+        window.addEventListener("hashchange", syncActiveTags);
+      })
+      .catch(() => {
+        if (rail) {
+          rail.remove();
+        }
+        if (pageBrowser) {
+          pageBrowser.innerHTML = "<p class=\"tag-browser-empty\">Tags are not available right now.</p>";
+        }
+      });
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", init, { once: true });
+  } else {
+    init();
+  }
+})();
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
