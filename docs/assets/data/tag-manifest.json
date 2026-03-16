@@ -1,6 +1,6 @@
 ﻿{
-    "generatedAt":  "2026-03-15T22:50:41.2513706Z",
-    "postCount":  422,
+    "generatedAt":  "2026-03-16T05:51:07.3251654Z",
+    "postCount":  423,
     "featured":  [
                      {
                          "name":  "Musings",
@@ -8,7 +8,7 @@
                      },
                      {
                          "name":  "Class Assignment",
-                         "count":  64
+                         "count":  65
                      },
                      {
                          "name":  "Studies",
@@ -20,7 +20,7 @@
                      },
                      {
                          "name":  "Biblical Studies",
-                         "count":  27
+                         "count":  28
                      },
                      {
                          "name":  "White Noise",
@@ -98,7 +98,7 @@
                  },
                  {
                      "name":  "Biblical Studies",
-                     "count":  27
+                     "count":  28
                  },
                  {
                      "name":  "biblical-studies",
@@ -146,7 +146,7 @@
                  },
                  {
                      "name":  "Class Assignment",
-                     "count":  64
+                     "count":  65
                  },
                  {
                      "name":  "Class Discussion Posts",
@@ -335,6 +335,10 @@
                  {
                      "name":  "NoHiding Manifesto",
                      "count":  2
+                 },
+                 {
+                     "name":  "Old Testament",
+                     "count":  1
                  },
                  {
                      "name":  "Online",
