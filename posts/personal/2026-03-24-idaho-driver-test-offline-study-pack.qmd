@@ -1,0 +1,192 @@
+---
+title: "Idaho Driver Test Offline Study Pack"
+date: 2026-03-24
+categories: [personal]
+tags: [idaho, drivers-test, study]
+---
+
+```{=html}
+<style>
+.page-break {
+  break-before: page;
+  page-break-before: always;
+}
+
+@media print {
+  a[href]:after {
+    content: "";
+  }
+
+  h2, h3 {
+    break-after: avoid;
+    page-break-after: avoid;
+  }
+
+  li {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+}
+</style>
+```
+
+This print-friendly packet is based on two Idaho practice tests I pulled on March 24, 2026:
+
+-   [DMV Written Test: Idaho Practice Test 1](https://www.dmv-written-test.com/idaho/practice-test-1.html)
+-   [Idaho Transportation Department Sample Class D Driver Written Test](https://apps.itd.idaho.gov/apps/dmv-practice-tests/sampletest.html)
+-   [Idaho Transportation Department Answer Sheet](https://apps.itd.idaho.gov/apps/dmv-practice-tests/SampleTestAnswers.html)
+
+I rewrote the online questions into short-answer study prompts so they are easier to print and use offline. Cover the answer key before you start.
+
+## Warm-Up Review
+
+1.  Before moving into another lane, what checks should you make?
+2.  If a crossing guard is directing traffic in a school zone, whose directions do you follow?
+3.  Name three common situations where you should slow down.
+4.  What three habits make nighttime driving safer?
+5.  Is signaling before a turn, lane change, or pullout optional or legally required?
+6.  Why is driving at night harder than driving during the day?
+7.  If sleet or snow begins while you are driving, what changes should you make right away?
+8.  At a steady green light, when should you still wait instead of just driving through?
+
+## Full Review Test
+
+1.  For a driver age 21 or older, what BAC level counts as driving under the influence in Idaho?
+2.  What three crash causes are highlighted in the sample test?
+3.  On a road with two lanes going your direction, what should you do when you approach a stopped emergency vehicle with flashing lights?
+4.  At a four-way stop, if two vehicles arrive together, which driver yields?
+5.  What should you always do about your blind spot before changing lanes?
+6.  Why do motorcycles require extra attention from other drivers?
+7.  What three habits make night driving safer?
+8.  How close to the curb or roadside edge must you be when parallel parking?
+9.  When can you legally pass another vehicle on the right without leaving the roadway?
+10. When is passing allowed inside an intersection?
+11. When must a motor vehicle yield to a pedestrian at an intersection?
+12. How should every railroad crossing be treated?
+13. When making a left turn, who gets the right-of-way if there is oncoming traffic and no special signal directing otherwise?
+14. What are the three best defenses against hydroplaning?
+15. A sign showing that a right turn is barred tells you what?
+16. What does a crossroad or intersection warning sign mean?
+17. When do you not have to stop for a school bus according to the sample test?
+18. What does Idaho's basic speed law require?
+19. What is the safest way to deal with a tailgater?
+20. After stopping at a steady red light, when may you turn right?
+21. How does alcohol affect driving ability?
+22. Before backing out of a driveway, what is the best safety check?
+23. What intersection rule from the sample test applies to bicyclists in Idaho?
+24. Before changing lanes, what quick head movement helps clear your blind spot?
+25. Why is cellphone use dangerous while driving?
+26. If you hit an unattended vehicle, what must you do?
+27. On a narrow curve with a blocked view, how should you proceed?
+28. What must you do when an emergency vehicle with flashing lights approaches from behind?
+29. What minimum following gap should you keep behind another vehicle?
+30. How should you match speed when merging onto a freeway?
+31. If you are in the right lane and vehicles are entering the freeway, what should you do when safe?
+32. At a stop sign with no stop line or crosswalk, when may you continue through the intersection?
+33. If a traffic signal is dark because of a power outage, how should you handle the intersection?
+34. What three steps should happen before any lane change?
+35. About half of motorcycle crashes involve what?
+36. Why is night driving more difficult?
+37. When parking uphill next to a curb, which way should your front wheels point?
+38. According to the sample test, how close may you park to a crosswalk?
+39. Name three situations where passing is prohibited.
+40. Before passing another vehicle, what should you check?
+41. Can you pass when the pavement is marked with a double yellow line?
+42. When may you cross dashed white lane lines?
+43. When must pedestrians yield to motor vehicles?
+44. What does a white cane or guide dog usually tell you about a pedestrian?
+45. What is the safe routine before crossing railroad tracks?
+46. If one train clears a crossing with multiple tracks, what should you do before proceeding?
+47. In what roadway area does this sample test specifically remind drivers to yield to others?
+48. When entering a street from a garage or alley, what is your duty to other traffic?
+49. Which headlights should you use in fog?
+50. Under what two roadway conditions can pavement become especially slick?
+51. What color are most warning signs?
+52. When must you stop for a school bus on a two-lane highway?
+53. How should you handle your speed in a school zone?
+54. Give two major safety benefits of seat belts for drivers.
+55. What do studies say seat belts do in a crash?
+56. Who may change speed limits by posting signs?
+57. When does driving below the speed limit become illegal?
+58. If a tire blows out, what is the best first response?
+59. Which traffic signal means stop completely, yield, and then proceed only when clear?
+60. Which traffic signal gives you protected right-of-way for a left turn?
+
+::: page-break
+:::
+
+## Answer Key
+
+### Warm-Up Review
+
+1.  Check your side mirror, rearview mirror, and blind spot.
+2.  Follow the crossing guard's directions.
+3.  Slow down on narrow or winding roads, at intersections or railroad crossings, and when the road is wet or slippery.
+4.  Increase following distance, avoid driving tired, and make sure your headlights work properly.
+5.  It is required by law and is also a good driving habit.
+6.  Visibility is reduced in the dark.
+7.  Keep the windshield and mirrors clear, leave extra following distance, and drive with extra caution.
+8.  Wait if vehicles or pedestrians are already in the intersection.
+
+### Full Review Test
+
+1.  A BAC of 0.08 or more.
+2.  Inattentive driving, excessive speed for conditions, and following too closely.
+3.  Slow down and safely move out of the lane closest to the emergency vehicle.
+4.  The driver on the left yields to the driver on the right.
+5.  Always check it before moving over.
+6.  Motorcycles are harder to see than cars.
+7.  Increase following distance, do not drive tired, and make sure your headlights are working properly.
+8.  Within 18 inches of the curb or edge of the roadway.
+9.  On a two-lane, two-way road when the vehicle ahead is turning left.
+10. When a dashed yellow line continues through the intersection.
+11. When the pedestrian is in a crosswalk at an intersection.
+12. As a dangerous place that requires care.
+13. Yield to oncoming traffic unless a signal directs otherwise.
+14. Keep tires in good condition, slow down on wet or slushy roads, and watch for standing water.
+15. No right turn is allowed.
+16. There is an intersection or crossroad ahead.
+17. When you are traveling in the opposite direction on a roadway with four or more lanes, with two lanes going each way.
+18. Drive at a speed that is reasonable and prudent for current conditions.
+19. Change lanes if possible or slow gradually to encourage the tailgater to pass.
+20. After a full stop and after yielding to cross traffic, unless a sign prohibits the turn.
+21. It slows reaction time, impairs thinking, and can create false confidence.
+22. Check behind the vehicle before getting in.
+23. Bicyclists must yield to vehicles already in or already at the intersection.
+24. Quickly turn your head and make sure the blind spot is clear.
+25. It can distract you and cause a crash.
+26. Make a reasonable effort to notify the owner.
+27. Sound the horn, stay close to the right edge, and proceed carefully.
+28. Pull to the nearest curb or road edge and stop.
+29. At least three seconds.
+30. Accelerate to the speed of freeway traffic.
+31. Move safely into the next lane to give merging traffic room.
+32. After coming to a complete stop and making sure it is safe.
+33. Treat it like a four-way stop.
+34. Signal ahead of time, check your blind spot, and make sure the lane is clear.
+35. Another motor vehicle.
+36. Your vision is reduced.
+37. Sharply away from the curb.
+38. Within 25 feet of a crosswalk.
+39. When behind a stopped school bus loading passengers, on hills with restricted vision, and when oncoming traffic is within 100 feet.
+40. Your mirrors and blind spots.
+41. No.
+42. When it is safe to change lanes.
+43. When they are crossing where there is no crosswalk or intersection.
+44. The person is likely blind.
+45. Listen and look both ways, then cross only if it is safe.
+46. Watch for another train on the other track.
+47. In construction zones.
+48. Yield to other traffic before entering.
+49. Low beams.
+50. Right after rain begins, and when moisture is present on a road at or below freezing temperatures.
+51. Yellow.
+52. When the bus's red lights are flashing on a two-lane highway.
+53. Obey the posted school-zone speed limit.
+54. They reduce injury or death risk and help keep the driver in better control of the vehicle.
+55. They reduce the chance of serious injury in a crash.
+56. State and local authorities.
+57. When driving too slowly disrupts the normal flow of traffic.
+58. Hold the vehicle straight and slow gradually while pulling off the road.
+59. A flashing red light.
+60. A green left-turn arrow.
