@@ -1,0 +1,55 @@
+---
+title: 'Manna, Sarcasm & Burritos — Magic System Summary'
+date: '2026-03-20'
+draft: false
+categories:
+  - 'MSB'
+  - 'Worldbuilding'
+---
+
+## What Manna Is
+
+Manna is inert energy - a battery, not a personality. It permeates the world and living things. It doesn't have intent or preference. It simply exists as a power source waiting to be drawn on and directed.
+
+## Two Separate Skills
+
+Using magic requires two distinct competencies that develop independently but interact:
+
+### 1. Manna Channeling
+
+The physical/somatic skill of drawing manna from a source, directing it through the body, and releasing it with control. Children in this world absorb this naturally before they can speak in full sentences - it's developmental, like walking. Markus never had this developmental window. He's starting from zero and will need to build capacity, control, and endurance. Overdraws are dangerous - pulling too much manna from your own body can cause weakness, collapse, or death.
+
+### 2. Sigil Grammar (the SQL layer)
+
+A structured interface for telling manna what to do. Sigils are syntax. The world has an underlying conceptual library - cognitive clusters where fire/heat/hot are one node, not three entries. A well-formed sigil set queries that library precisely. Malformed syntax either produces nothing or produces the wrong output at the wrong scale. The symbols themselves are set dressing - what matters is structure. You cannot execute an incomplete query.
+
+Most people in this world don't use sigils as their primary method. Sigils appear on doors, signs, and wards as background infrastructure. Markus will eventually develop an unusual affinity for them, making him odd rather than conventionally powerful.
+
+## Failure Modes
+
+- Channeling failures: underpowered output, physical drain, dangerous overdraw at higher levels.
+- Sigil failures: wrong output, embarrassing misfires, eventually dangerous misfires when he gets cocky and writes queries his body can't execute safely.
+
+## Markus's Progression Arc
+
+### Phase 1 (early chapters)
+
+Reads sigil grammar better than expected, can't channel reliably. Embarrassing misfires. His instincts are sound but his power is basically nothing. Failures come from incomplete information, not ignored warnings - he's calibrating, not being reckless.
+
+### Phase 2 (mid-arc)
+
+Channeling improves, sigil grammar tightens. Consistent small results build justified confidence. Developer brain starts telling him he understands the system - which is true for syntax, but not yet for capacity limits.
+
+### Phase 3 (reset point)
+
+Cockiness produces a dangerous failure. He writes a query his body can't run. Real cost - physical, relational, or both.
+
+## What We Don't Know Yet
+
+- The actual symbols/script. Runes, paleo-Hebrew, invented system, or hybrid - undecided. Tabled as set dressing for now.
+- Whether sigils can be spoken, written, carved, or all three - and whether medium affects result.
+- What manna sources exist beyond the caster's own body. Can you draw from the environment? From objects? From living things nearby? What are the ethical/mechanical implications of each?
+- Whether sigil grammar is universal across cultures or whether different peoples have different syntaxes that produce the same underlying query differently.
+- What "the conceptual library" actually is ontologically. Is it divine? Structural? A side effect of how reality is organized? This has theological implications your world hasn't resolved yet - and probably shouldn't resolve early.
+- How sigils interact with soul marks. Markus already has a soul mark ("Wolf Killer") that appeared without him understanding how. Is that a sigil? A different layer of the same system? Something older?
+- The ceiling. What's the most powerful thing this system can do in principle, and what prevents people from doing it?
